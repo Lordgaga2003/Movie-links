@@ -1,92 +1,92 @@
 𝑒𝓃𝒿𝑜𝓎 ♡
 
-#[📛 Adblock / Privacy / Antivirus](https://github.com/nbats/FMHY/wiki/%F0%9F%93%9B-Adblock---Privacy---Antivirus)
+# [📛 Adblock / Privacy / Antivirus](https://github.com/nbats/FMHY/wiki/%F0%9F%93%9B-Adblock---Privacy---Antivirus)
 
-->  **Adblocking Extensions, Privacy Extensions, Privacy Tools, VPN's, Proxies, Antivirus** <-
-
-***
-***
-
-#[📺 Movies / TV / Anime / Sports](https://github.com/nbats/FMHY/wiki/%F0%9F%93%BA-Movies---TV---Anime---Sports)
-
-->  **Streaming Apps, Streaming Sites, Download Sites, Torrent Apps, Torrent Sites** <- 
+**Adblocking Extensions, Privacy Extensions, Privacy Tools, VPN's, Proxies, Antivirus** 
 
 ***
 ***
 
-#[🎵 Music / Podcasts / Radio](https://github.com/nbats/FMHY/wiki/%F0%9F%8E%B5-Music---Podcasts---Radio)
+# [📺 Movies / TV / Anime / Sports](https://github.com/nbats/FMHY/wiki/%F0%9F%93%BA-Movies---TV---Anime---Sports)
 
-->  **Audio Streaming, Audio Downloading, Audio Torrenting** <-
-
-***
-***
-
-#[🎮 Gaming / Emulation](https://github.com/nbats/FMHY/wiki/%F0%9F%8E%AE-Gaming---Emulation)
-
-->  **Download Games, Torrent Games, Emulators, Roms** <-
+**Streaming Apps, Streaming Sites, Download Sites, Torrent Apps, Torrent Sites** 
 
 ***
 ***
 
-#[📗 Books / Comics / Manga](https://github.com/nbats/FMHY/wiki/%F0%9F%93%97-Books---Comics---Manga)
+# [🎵 Music / Podcasts / Radio](https://github.com/nbats/FMHY/wiki/%F0%9F%8E%B5-Music---Podcasts---Radio)
 
-->  **Calibre Libraries, Reading Sites, Comic Sites, Manga Sites** <-
-
-***
-***
-
-#[📱 Android / iOS](https://github.com/nbats/FMHY/wiki/%F0%9F%93%B1-Android---iOS)
-
-->  **Adblocking, Emulators, APKs, Apps, Torrenting, Streaming** <-
+**Audio Streaming, Audio Downloading, Audio Torrenting**
 
 ***
 ***
 
-#[💾 Downloading](https://github.com/nbats/FMHY/wiki/%F0%9F%92%BE-Downloading)
+# [🎮 Gaming / Emulation](https://github.com/nbats/FMHY/wiki/%F0%9F%8E%AE-Gaming---Emulation)
 
-->  **Download Forums, Download Directories, Download Sites** <-
-
-***
-***
-
-#[🌀 Torrenting](https://github.com/nbats/FMHY/wiki/%F0%9F%8C%80-Torrenting)
-
-->  **Torrent Clients, Torrent Sites, Tracker Invites** <-
+**Download Games, Torrent Games, Emulators, Roms**
 
 ***
 ***
 
-#[🔧 Tools](https://github.com/nbats/FMHY/wiki/%F0%9F%94%A7-Tools)
+# [📗 Books / Comics / Manga](https://github.com/nbats/FMHY/wiki/%F0%9F%93%97-Books---Comics---Manga)
 
-->  **General Tools, Internet Tools, System Tools, Educational Tools** <-
-
-***
-***
-
-#[📂 Miscellaneous](https://github.com/nbats/FMHY/wiki/%F0%9F%93%82-Miscellaneous)
-
--> **Extensions, Indexes, Fonts, Free Stuff, Fun Sites, Piracy Discussion** <-
+**Calibre Libraries, Reading Sites, Comic Sites, Manga Sites**
 
 ***
 ***
 
-#[🌏 Non-English](https://github.com/nbats/FMHY/wiki/%F0%9F%8C%8F-Non-English)
+# [📱 Android / iOS](https://github.com/nbats/FMHY/wiki/%F0%9F%93%B1-Android---iOS)
 
--> **International Piracy Sites** <-
-
-***
-***
-
-#[💬 Discord](https://discord.gg/vgnaeka)
-
--> **Chat Channels, Site Suggestion Channel, Help Channel, Free Stuff Channel** <-
+**Adblocking, Emulators, APKs, Apps, Torrenting, Streaming**
 
 ***
 ***
 
-#[🔒 Backups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups)
+# [💾 Downloading](https://github.com/nbats/FMHY/wiki/%F0%9F%92%BE-Downloading)
 
--> **Reddit & Discord Backups** <-
+**Download Forums, Download Directories, Download Sites**
+
+***
+***
+
+# [🌀 Torrenting](https://github.com/nbats/FMHY/wiki/%F0%9F%8C%80-Torrenting)
+
+**Torrent Clients, Torrent Sites, Tracker Invites**
+
+***
+***
+
+# [🔧 Tools](https://github.com/nbats/FMHY/wiki/%F0%9F%94%A7-Tools)
+
+**General Tools, Internet Tools, System Tools, Educational Tools**
+
+***
+***
+
+# [📂 Miscellaneous](https://github.com/nbats/FMHY/wiki/%F0%9F%93%82-Miscellaneous)
+
+**Extensions, Indexes, Fonts, Free Stuff, Fun Sites, Piracy Discussion**
+
+***
+***
+
+# [🌏 Non-English](https://github.com/nbats/FMHY/wiki/%F0%9F%8C%8F-Non-English)
+
+**International Piracy Sites**
+
+***
+***
+
+# [💬 Discord](https://discord.gg/vgnaeka)
+
+**Chat Channels, Site Suggestion Channel, Help Channel, Free Stuff Channel** 
+
+***
+***
+
+# [🔒 Backups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups)
+
+**Reddit & Discord Backups**
 
 ***
 ***

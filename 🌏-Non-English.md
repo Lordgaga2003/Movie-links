@@ -677,7 +677,7 @@
 
 # ► Portuguese 
 
-* [LegendaOfficial](http://legendaoficial.net/), [Legendas](https://legendas.co/), [Legendas.dev](https://legendas.dev/) or [Leganda-Zone](https://www.legendas-zone.org/) - *Portuguese Subtitles* 
+* [LegendaOfficial](http://legendaoficial.net/), [LegendasDivx](https://www.legendasdivx.pt/, [Legendas.tv](http://legendas.tv/), [Legendas](https://legendas.co/), [Legendas.dev](https://legendas.dev/) or [Leganda-Zone](https://www.legendas-zone.org/) - *Portuguese Subtitles* 
 
 ## ▷ Downloading
 
@@ -845,8 +845,7 @@
 
 # ► Spanish
 
-* [LegendasDivx](https://www.legendasdivx.pt/) - *Spanish / Subtitles* 
-* [Legendas.tv](http://legendas.tv/) - *Spanish / Subtitles* 
+* [Catflix](https://www.championcat.cl/catflix/) - *Cats!*
 
 ## ▷ Downloading
 

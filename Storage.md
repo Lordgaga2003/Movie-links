@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/4lW59A7.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/19MdqLs.png)** - *For mobile users*
 
 ***
 ***
@@ -395,6 +395,7 @@
 * https://ainiesta.com/
 * https://www3.f2movies.to/
 * https://myflixer.com/
+* https://www1.bemovies.to/
 * https://ev01.to/
 * https://flixhd.cc/
 * https://www.iwatchfreestreams.to/
@@ -567,6 +568,7 @@ Add the following commands to a search to manually scrape each site.
 ####Media Servers
 
 * **[Plex](https://www.plex.tv/)** + */r/plexshares / [Linux](https://knapsu.eu/plex/) / [Setup Guide](https://redd.it/ma1hlm)*
+* [Autodownload Tools](https://redd.it/hbwnb2) - *Companion Apps for Media Servers*
 * [Emby](https://emby.media/) + */r/EmbyShares*
 * [Jellyfin](https://jellyfin.org/) + */r/JellyfinShares*
 * [Universal Media Server](https://www.universalmediaserver.com/)
@@ -746,7 +748,7 @@ Add the following commands to a search to manually scrape each site.
 
 ####Multireddits 
 
-[Explore All Multireddits](https://www.reddit.com/r/multihub/top/?sort=top&t=all), [Piracy](https://www.reddit.com/user/nbatman/m/piracy/) / [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/), [Random](https://www.reddit.com/user/nbatman/m/random/), [Streaming](https://www.reddit.com/user/nbatman/m/streaming/), [News](https://www.reddit.com/user/nbatman/m/news/), [Left](https://www.reddit.com/user/nbatman/m/left/), [Conspiracy](https://www.reddit.com/user/nbatman/m/conspiracy/), [Aliens](https://www.reddit.com/user/nbatman/m/aliens/), [Paranormal](https://www.reddit.com/user/nbatman/m/paranormal/), [Metaphysics](https://www.reddit.com/user/nbatman/m/metaphysics/)
+[Explore All Multireddits](https://www.reddit.com/r/multihub/top/?sort=top&t=all), [Piracy](https://www.reddit.com/user/nbatman/m/piracy/) / [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/), [Random](https://www.reddit.com/user/nbatman/m/random/), [Streaming](https://www.reddit.com/user/nbatman/m/streaming/), [News](https://www.reddit.com/user/nbatman/m/news/), [Left](https://www.reddit.com/user/nbatman/m/left/), [Conspiracy](https://www.reddit.com/user/nbatman/m/conspiracy/), [Aliens](https://www.reddit.com/user/nbatman/m/aliens/), [Paranormal](https://www.reddit.com/user/nbatman/m/paranormal/), [Metaphysics](https://www.reddit.com/user/nbatman/m/metaphysics/), [Countries](https://www.reddit.com/user/sneaky5erpent/m/countries/) / [2](https://www.reddit.com/user/sneaky5erpent/m/countries2/), [International AskARedditor](https://www.reddit.com/user/sneaky5erpent/m/ask_people_nationality/)
 
 ***
 
@@ -1102,12 +1104,6 @@ Add the following commands to a search to manually scrape each site.
 ####Privacy Tools
 
 **[Privacy Tools](https://www.privacytools.io/)**, **[Privacy Tools List](https://privacytoolslist.com/)**, **[Prism-Break](https://prism-break.org/)**, [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting), [Awesome Privacy](https://github.com/pluja/awesome-privacy), [online-tools-for-the-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic), [Snopyta](https://snopyta.org/), [Hostux](https://hostux.network/), [Security List](https://security-list.js.org/), [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy), [Thunix](https://thunix.net/), [Zero Data App](https://0data.app/), [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/), [Alternative Internet](https://github.com/redecentralize/alternative-internet), [silkky.cloud](https://silkky.cloud/)
-
-***
-
-####Purple AdBlock 
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/) / [Chrome](https://chrome.google.com/webstore/detail/purple-adblock/lkgcfobnmghhbhgekffaadadhmeoindg)
 
 ***
 

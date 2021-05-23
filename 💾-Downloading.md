@@ -241,7 +241,7 @@
 * [MacDrop](https://macdrop.net/) 
 * [MacBed](https://www.macbed.com/) 
 * [AppDB](https://appdb.to/) 
-* [NXMac](https://nxmac.com/) - **
+* [NXMac](https://nxmac.com/) 
 * [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) - *Index* 
 
 ***

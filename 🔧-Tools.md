@@ -912,7 +912,7 @@ General Reading Sites*
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [BetterBG](https://github.com/Flashc0rd/BetterBG) - *Discord Custom Profile Backgrounds / [Discord](https://discord.gg/xBwunSDzPg)* 
 * [Disgradient](https://disgradient.vanished.rocks/) - *Gradients for Discord Folders, Roles ect.*
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - *Adds Custom CSS Support* 
-* [PronounDB](https://pronoundb.org/) - *Pronoun Bot / [Powercord Plugin](https://github.com/cyyynthia/pronoundb-powercord)*
+* [PronounDB](https://pronoundb.org/) - *Pronoun Extension / [Powercord Plugin](https://github.com/cyyynthia/pronoundb-powercord)*
 * [Discord Status](https://discordstatus.com/) - *Check Discord Status* 
 * [Guild Counter](https://rauf.wtf/guildcount) - *Check how many servers you're in* 
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - *Preview Role Colors Role*

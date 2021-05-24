@@ -9,7 +9,7 @@
 ***
 ***
 
-#► Audiobook Sites
+# ► Audiobook Sites
 
 * **[Audiobook Sites Search](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)**
 * **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
@@ -35,7 +35,7 @@
 
 ***
 
-#► Calibre Libraries
+# ► Calibre Libraries
 
 * **[calibre](https://calibre-ebook.com/)** - *eBook manager / downloader*
 *  **[Calibre Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries)**
@@ -47,7 +47,7 @@
 
 *** 
 
-#► Reading Sites
+# ► Reading Sites
 
 * **[Reading Sites Search](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** + *[Reading Sites Search 2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu)*
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "Books / Comics / Magazines"*
@@ -97,7 +97,7 @@
 
 ***
 
-##▷ Classic Sites
+## ▷ Classic Sites
 
 * [Classic Bookshelf](http://www.classicbookshelf.com/library/)
 * [Page by Page Books](https://www.pagebypagebooks.com/) 
@@ -111,7 +111,7 @@
 
 ***
 
-##▷ Children's Sites
+## ▷ Children's Sites
 
 * [Children's Library](http://en.childrenslibrary.org/)
 * [MagicKeys](http://www.magickeys.com/books/) 
@@ -119,7 +119,7 @@
 
 ***
 
-##▷ Comic Sites
+## ▷ Comic Sites
 
 * **[Comic Sites Search](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)**
 * **[ReadComicsOnline](https://readcomiconline.to/)**
@@ -149,7 +149,7 @@
 
 ***
 
-##▷ Manga Sites
+## ▷ Manga Sites
 
 * **[Manga Sites Search](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** + [Manga Sites Search 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0)
 * **Manga Apps - [Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_android_manga) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_manga)** - *Free manga apps / organizers*
@@ -223,7 +223,7 @@
 
 ***
 
-##▷ Light Novel Sites
+## ▷ Light Novel Sites
 
 * **[Kiss Light Novels](https://kisslightnovels.info/)**
 * **[ThatNovelCorner](https://thatnovelcorner.com/)** - *Premium Light-Novels*
@@ -259,7 +259,7 @@
 
 ***
 
-##▷ Magazine Sites
+## ▷ Magazine Sites
 
 * **[Mobilism Magazines](https://forum.mobilism.org/viewforum.php?f=123)**
 * **[PDFMagazines](https://pdfmagazines.club/)**
@@ -291,7 +291,7 @@
 
 ***
 
-##▷ Newspaper Sites
+## ▷ Newspaper Sites
 
 * **[Newspaper Paywall Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser)** or [Burlesco](https://burles.co/en/) - *Bypass the paywall on online newspapers*
 * **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)**
@@ -311,7 +311,7 @@
 
 ***
 
-##▷ Cooking Sites
+## ▷ Cooking Sites
 
 * [cookEbooks](http://cookebooks.info/) - *Cookbooks*
 * [The-Eye Food](https://the-eye.eu/public/Books/Food/) - *Cookbooks* 
@@ -376,7 +376,7 @@
 
 ***
 
-##▷ Religion / Esoterica
+## ▷ Religion / Esoterica
 
 * **[Sacred Text Archive](https://www.sacred-texts.com/index.htm)** - *Religion / Mythology / Folklore / Esoterica*
 * **[ARCHIVES](https://discord.com/invite/FqFp8Q4)** - *Occult / Witchcraft / Religion*
@@ -435,7 +435,7 @@
 
 ***
 
-##▷ Special Interest
+## ▷ Special Interest
 
 * [BestArtBooks ](https://t.me/BESTARTBOOKS) - *Media Artbooks / Soundtracks*
 * [FreeSFOnline](https://www.freesfonline.net/) - *Sci-Fi / Fantasy* 
@@ -466,7 +466,7 @@
 
 ***
 
-#► Educational Sites
+# ► Educational Sites
 
 * **[Math Resource Guide](https://free-math-resources.netlify.app/)** - *Curated list of math resources by /u/javacoder19*
 * **[IvyPanda](https://ivypanda.com/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/)** - *List of educational sites*
@@ -565,7 +565,7 @@
 
 ***
 
-##▷ History Sites
+## ▷ History Sites
 
 * **[Project Gutenberg](https://www.gutenberg.org/wiki/Main_Page)** - *Historical Fiction / Nonfiction + [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)*
 * [History](https://mega.nz/#F!dlZlDbqL!TXG5bGvWufONkrQAL7b7jA) - *Drive* 
@@ -586,7 +586,7 @@
 
 ***
 
-##▷ Programming Sites
+## ▷ Programming Sites
 
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / [Downloader](https://github.com/lorenzodifuccia/safaribooks) / Infinite trial by clearing cookies & making new account*
 * ***[ForCoder,](https://forcoder.su/)*** [ScanLibs](https://scanlibs.com/) or [CoderProg](https://coderprog.com/)
@@ -620,7 +620,7 @@
 
 ***
 
-##▷ Documents / Articles
+## ▷ Documents / Articles
 
 * **[TheFreeLibrary](https://www.thefreelibrary.com/)** - *Articles*
 * **[Sci-Hub](https://sci-hub.do/)**, [2](https://sci-hub.se/) - *Science article viewer*
@@ -690,7 +690,7 @@
 
 ***
 
-##▷ Manual Sites
+## ▷ Manual Sites
 
 * [iFixIt](https://www.ifixit.com/Guide) - *Repair Manuals* 
 * [manned.org](https://manned.org/) - *Index of operating system manuals*
@@ -702,7 +702,7 @@
 
 ***
 
-##▷ Reference Sites
+## ▷ Reference Sites
 
 * **[Dictionary Index](https://onelook.com/?d=all_gen)** 
 * **[OneLook](https://onelook.com/)** - *Multi Dictionary Search*
@@ -741,7 +741,7 @@
 
 ***
 
-#► Tracking / Discovery
+# ► Tracking / Discovery
 
 * **[GoodReads](https://www.goodreads.com/)** - *Books / Comics / Manga*
 * **[TasteDive](https://tastedive.com/)** - *Recommendations* 
@@ -754,7 +754,7 @@
 
 ***
 
-#► Request Books
+# ► Request Books
 
 * **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)** - *Books / Audiobooks* 
 * **[Mobilism](https://forum.mobilism.org/viewforum.php?f=20)** - *Books / Audiobooks / android*
@@ -779,7 +779,7 @@
 
 ***
 
-#► eBook Readers
+# ► eBook Readers
 
 * **[Kindle Comic Converter](https://kcc.iosphe.re/)** - *Convert book files to ePub*
 * **[Google Play Books](https://play.google.com/books)** - *Store Pirated Books / Get Meta Data Automatically*
@@ -819,7 +819,7 @@
 
 ***
 
-#► Helpful Sites / Apps
+# ► Helpful Sites / Apps
 
 * [BookCut](https://github.com/costis94/bookcut) - *eBook Download Tool* 
 * [ExtractBookz](https://hub.darcs.net/JasonJAyalaP/ExtractBookz) - *Extract & Rename Ebook Files / [GitHub](https://github.com/JasonJAyalaP/ExtractBookz)*

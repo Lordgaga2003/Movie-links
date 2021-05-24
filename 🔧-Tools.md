@@ -142,6 +142,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [SimpleWriter](https://xkcd.com/simplewriter/) - *Simple Words Writing Tool* 
 * [SVGBob Editor](https://ivanceras.github.io/svgbob-editor/) - *Convert ASCII Diagrams to SVG Images* 
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
+* [Image to Braille](https://505e06b2.github.io/Image-to-Braille/) - *Convert Images to Braille*
 
 ***
 
@@ -911,6 +912,7 @@ General Reading Sites*
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [BetterBG](https://github.com/Flashc0rd/BetterBG) - *Discord Custom Profile Backgrounds / [Discord](https://discord.gg/xBwunSDzPg)* 
 * [Disgradient](https://disgradient.vanished.rocks/) - *Gradients for Discord Folders, Roles ect.*
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - *Adds Custom CSS Support* 
+* [PronounDB](https://pronoundb.org/) - *Pronoun Bot / [Powercord Plugin](https://github.com/cyyynthia/pronoundb-powercord)*
 * [Discord Status](https://discordstatus.com/) - *Check Discord Status* 
 * [Guild Counter](https://rauf.wtf/guildcount) - *Check how many servers you're in* 
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - *Preview Role Colors Role*

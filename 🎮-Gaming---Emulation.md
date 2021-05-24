@@ -259,6 +259,7 @@
 * [Aleph One](https://alephone.lhowon.org/) - *Marathon Game Engine* 
 * [Powerslave EX](https://drive.google.com/file/d/1VFvOYKyjyFwH5sqSL5mz_jl3SdIUcAOY/view?usp=sharing) - *Powerslave PC Port* 
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - *Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)*
+* [frogg.ies mario ](https://froggi.es/mario/) - *Play Super Mario 64 in Browser* 
 * [sm64](https://github.com/n64decomp/sm64) - *Super Mario 64 Decompilation / [Discord](https://discord.gg/duyh3fh) / [Guide](https://youtu.be/rQVpfWYT0eg)* 
 * [GtkAtlantic](https://gtkatlantic.gradator.net/index.html) or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - *Open Source Monopoly*
 * [TETR.IO](https://tetr.io/) - *Online Multiplayer Tetris*
@@ -359,7 +360,6 @@
 * [WikiRacer](https://wikiracer.io/) - *Find the Shortest Path between Wiki Articles / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)*
 * [Classic Minecraft](https://classic.minecraft.net/) - *Play Classic Minecraft* 
 * [CS-ONLINE.CLUB](https://cs-online.club/), [2](https://game.cs-online.club/) - *Play Counter Strike in Browser* 
-* [frogg.ies mario ](https://froggi.es/mario/) - *Play Super Mario 64 in Browser* 
 * [Marble Blast Gold Web](https://marbleblast.vani.ga/) - *Marble Blast Gold in Browser*
 * [Flavour Machine](https://flavourmachine.com/) - *Twists to well known games*
 * [Kittens Game](https://bloodrizer.ru/games/kittens/) - *Make your own kitten civilization*

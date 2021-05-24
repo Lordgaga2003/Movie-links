@@ -276,14 +276,14 @@
 
 * **[OneHack](https://onehack.us/)**
 * [Biohazard](https://discord.gg/eyedBqG9w3) - *Guides / Courses / Extensions / Chat*
-* [/m/piracy](https://www.reddit.com/user/nbatman/m/piracy/), [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) - *Piracy Multireddit *
+* [/m/piracy](https://www.reddit.com/user/nbatman/m/piracy/), [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) - *Piracy Multireddit*
 * /r/piracy - *[Backup](https://github.com/nid666/PiracyArchive)*
 * /r/piratedgames - *[Discord](https://discord.gg/Da2akf2)*
 * /r/DataHoarder - *[Telegram](https://t.me/r_DataHoarder)*
 * /r/trackers 
 * /r/usenet 
 * [CS.RIN.RU](https://cs.rin.ru/forum)
-* [r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread), [2](https://github.com/taskylizard/piratedgames-megathread), [3](https://github.com/Rekulous/piratedgames-megathread) - *Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/dZWwhUy), [2](https://discord.gg/5AsChT2WCd)*
+* [r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread) - *Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/dZWwhUy), [2](https://discord.gg/5AsChT2WCd)*
 * [Ru.Board](http://forum.ru-board.com/)
 * [Piracy Forum](https://pirates-forum.org/) 
 * [Babiato](https://babiato.co/) 

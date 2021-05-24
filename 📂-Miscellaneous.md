@@ -89,6 +89,7 @@
 * [Gmail Labels as Tabs](https://tuladhar.github.io/gmail-labels-as-tabs/) - *Organize Labels as Gmail Tabs* 
 * [Native HLS](https://github.com/Palethorn/native-adaptive-streaming/) - *Allows HLS & MPEG-Dash native playback* 
 * [The Stream Detector](https://github.com/rowrawer/stream-detector/) - *Detects Playlists & Subtitles used by HLS/DASH/HDS/MSS Streams* 
+* [PronounDB](https://pronoundb.org/) - *Pronoun Extension*
 * [Happydia](https://github.com/Ademking/happydia) - *Clean Sad / Annoying Media from Social Sites* 
 * [NSFW-Filter](https://github.com/nsfw-filter/nsfw-filter) - *Block NSFW Images*
 * [Session Alive](https://github.com/arunelias/session-alive/) - *Keep Website Sessions Alive* 

@@ -54,7 +54,7 @@
 * [CrackHub](https://crackhub.site/) - *[Discord](https://discord.gg/T669D6weqt)*
 * [CyNiCAL Repacks](http://eatmyassplease.great-site.net/) - *[Discord](https://discord.gg/GjX9YeNWSe)*
 * [GOGUnlocked](https://gogunlocked.com/)
-* [Skidrow Reloaded](https://www.skidrowreloaded.com/) 
+* [SPiKY Repacks](https://discord.gg/ZHC6pffMz2) - *[GamesDrive Uploader](https://gamesdrive.co/)*
 * [pc_game_down](https://t.me/pc_game_down) - *Telegram*
 * [g4u](https://g4u.to/) - *Password: 404*
 * [LibreGameWiki](https://libregamewiki.org/List_of_games) - *Free Open-Source Games* 
@@ -105,7 +105,6 @@
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win/)
-* [Skidrow Reloaded](https://www.skidrowreloaded.com/) 
 * [stv](https://gitgud.io/Blank/stv) - *Encrypted Magnet Links*
 
 ***

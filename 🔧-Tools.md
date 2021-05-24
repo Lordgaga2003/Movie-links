@@ -1043,6 +1043,7 @@ General Reading Sites*
 * **[freeCodeCamp](https://www.freecodecamp.org/)** - *Programming / Courses / Interactive*
 * **[List.community](https://list.community/)** - *Programming / Development GitHub Lists* 
 * **[goormIDE](https://ide.goorm.io/)**, [Visual Studio](https://visualstudio.microsoft.com/), [Codeanywhere](https://codeanywhere.com/), [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [Anyfiddle](https://www.anyfiddle.com/) or [Glitch](https://glitch.com/) - *Cloud IDE / [Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) / [Themes](https://oslo-vsc.netlify.app/)* 
+* **[The Odin Project](https://www.theodinproject.com/)** - *Web Dev Tutorials / Courses*
 * [ReverseEagle](https://developers.reverseeagle.org/) or [free-for.dev](https://free-for.dev/) - *Developer Tools*
 * [WebdevHome](https://webdevhome.github.io/) or [Tiny Tools](https://tinytools.directory/) - *Programming / Developer Tools*
 * [Developer.Mozilla](https://developer.mozilla.org/) - *Developer Resources* 

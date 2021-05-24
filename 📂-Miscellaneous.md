@@ -283,7 +283,6 @@
 * /r/trackers 
 * /r/usenet 
 * [CS.RIN.RU](https://cs.rin.ru/forum)
-* [r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread) - *Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/dZWwhUy), [2](https://discord.gg/5AsChT2WCd)*
 * [Ru.Board](http://forum.ru-board.com/)
 * [Piracy Forum](https://pirates-forum.org/) 
 * [Babiato](https://babiato.co/) 

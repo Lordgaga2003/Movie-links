@@ -162,6 +162,7 @@
 * [FantasyAnime](https://fantasyanime.com/) - *Roms* 
 * [Emulanium](http://www.emulanium.com/roms.php) - *Roms*
 * [Ziperto](https://ziperto.com/) - *Roms*
+* [LegendaryRepacks](http://legendaryrepacks.simplesite.com/) - *Roms / [Discord](https://discord.gg/RUSNHSk) / Adblock & Universal Bypass Required*
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - *Roms / Torrent*
 * [Pleasuredome](http://www.pleasuredome.org.uk/) - *Roms / Torrent*
 * [RomsMania](https://romsmania.cc/) - *Click ["More Options"](https://i.imgur.com/gj0Ib6L.png) to DL / Emulators / Roms /* **Don't Use Exe**

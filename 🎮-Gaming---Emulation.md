@@ -12,7 +12,7 @@
 # ► Download Games
 
 * **[Game Download Sites Search](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)** - *Search multiple sites at once*
-* **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)**, [2](https://github.com/taskylizard/piratedgames-megathread), [3](https://github.com/Rekulous/PGames-Megathread-PLUS) - *Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/dZWwhUy), [2](https://discord.gg/5AsChT2WCd)*
+* **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/dZWwhUy), [2](https://discord.gg/5AsChT2WCd)*
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "games" or "roms"*
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)**
 * **[Masquerade Repacks](https://masquerade.site/)** - *[Discord](https://discord.gg/HP5sQ6c)*
@@ -84,7 +84,7 @@
 # ► Torrent Games
 
 * **[Game Torrent Sites Search](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** - *Search multiple sites at once*
-* **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)**, [2](https://github.com/taskylizard/piratedgames-megathread), [3](https://github.com/Rekulous/PGames-Megathread-PLUS) - *Trusted Game Download & Torrent Sites*
+* **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download & Torrent Sites*
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "games" or "roms"*
 * **[Bonnet Search](https://bonneteer.herokuapp.com/)** - *Trusted Repacker Search*
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)**

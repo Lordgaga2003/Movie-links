@@ -23,6 +23,7 @@
 * [CPG](https://cpgrepacks.site/) - *[Discord](https://discord.gg/dtBSZ9N)*
 * [ARTEMiS Repacks](https://artemis-repacks.site/)
 * [Darck Repacks](https://darckrepacks.com/) - *[Discord](https://discord.gg/5eRvDvy)*
+* [DODI](http://dodi-repacks.site/) - *[Discord](https://discord.gg/uE273qJ)*
 * [DLGames](https://dlgames.fun/)
 * [GoG Games](https://gog-games.com/)
 * [Torrminatorr](https://forum.torrminatorr.com/)
@@ -34,7 +35,6 @@
 * [ElAmigos Games](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
 * [Black Box Repack](http://www.blackboxrepack.com/) 
 * [Ova Games](http://www.ovagames.com/)
-* [DODI](http://dodi-repacks.site/) - *[Discord](https://discord.gg/uE273qJ)*
 * [Rekulous Repacks](https://discord.gg/zSXWwzav7R)
 * [GameTrex](https://gametrex.com/) 
 * [GamesDrive](https://gamesdrive.co/) - *[Discord](https://discord.gg/PKFAnduGtA)*
@@ -87,6 +87,7 @@
 * **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download & Torrent Sites*
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "games" or "roms"*
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)**
+* **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
 * **[R.G. Mechanics Games](https://s1.rg-mechanics.org/)** - *Trusted mirror of RG's repacks*
 * [ElAmigos Games](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
 * [Black Box Repack](http://www.blackboxrepack.com/)
@@ -99,7 +100,6 @@
 * [Tuttop](https://tuttop.com/) 
 * [Pleasuredome](http://www.pleasuredome.org.uk/)
 * [Dirty Games](https://www.dirtygames.xyz/)
-* [DODI](http://dodi-repacks.site/) - *[Discord](https://discord.gg/uE273qJ)*
 * [Igruha](https://s1.torrents-igruha.org/) 
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)

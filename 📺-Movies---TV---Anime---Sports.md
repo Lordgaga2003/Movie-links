@@ -177,7 +177,6 @@
 
 * **[TV Streaming Sites Search](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)**
 * **[GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search)** - *TV / Anime*
-* **[watchseries](https://www1.watch-series.la/)** - *TV / Anime*
 * **[Noxx](https://noxx.is)** - *TV*
 * **[CouchTuner](https://www.couchtuner.host/)** - *TV* 
 * [Best-Series](https://best-series.me/) - *TV / Anime* 

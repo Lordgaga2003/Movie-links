@@ -207,10 +207,10 @@
 * [Mangazuki](https://mangazuki.me/) 
 * [ReadMng](https://www.readmng.com/) or [MngDoom](https://www.mngdoom.com/)
 * [NineAnime](https://www.nineanime.com/category/)
-* [Dynasty Scans](https://dynasty-scans.com/)
 * [WuxiaWorld](https://wuxiaworld.site/ ) - *Manga / Novels* 
 * [MANGAen](https://t.me/MANGAen) - *Manga / Telegram* 
 * [BookDL Comic & Manga](http://booksdl.org/comics0/) - *Comics / Manga / Drive*
+* [Dynasty Scans](https://dynasty-scans.com/) - *Yuri*
 * [BoysLove](https://boyslove.me/) - *Yaoi* 
 * [WebToons](https://www.webtoons.com/en/) - *Manga Webtoons*  
 * [HakuNeko](https://github.com/manga-download/hakuneko), [Comics Downloader](https://github.com/Girbons/comics-downloader), [FMD](https://sourceforge.net/projects/fmd/), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [Free Manga Downloader](https://sourceforge.net/projects/newfmd/) or [mangadownloader](https://github.com/n1mo/manga) - *Manga Downloader*

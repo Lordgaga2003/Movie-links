@@ -207,6 +207,7 @@
 * [Mangazuki](https://mangazuki.me/) 
 * [ReadMng](https://www.readmng.com/) or [MngDoom](https://www.mngdoom.com/)
 * [NineAnime](https://www.nineanime.com/category/)
+* [Dynasty Scans](https://dynasty-scans.com/)
 * [WuxiaWorld](https://wuxiaworld.site/ ) - *Manga / Novels* 
 * [MANGAen](https://t.me/MANGAen) - *Manga / Telegram* 
 * [BookDL Comic & Manga](http://booksdl.org/comics0/) - *Comics / Manga / Drive*

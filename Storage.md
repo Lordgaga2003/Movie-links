@@ -1211,6 +1211,7 @@ Add the following commands to a search to manually scrape each site.
 * https://123hulu.com/
 * http://gomovies123.watch/
 * https://www1.moviesin.co/
+* https://watchseri.net/
 
 ***
 

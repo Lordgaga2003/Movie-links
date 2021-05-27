@@ -346,7 +346,7 @@
 * [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - *Pacman*
 * [AI Dungeon](https://play.aidungeon.io/main/landing) - *Infinite Adventure Game*
 * [Too Many Chefs](https://www.toomanychefs.party/) - *Text-Based Coop Cooking Game* 
-* [skribbl](https://skribbl.io/) - *Drawing / Guessing Game / Multiplayer*
+* [skribbl](https://skribbl.io/) or [Gartic](https://gartic.io/) - *Drawing / Guessing Game / Multiplayer*
 * [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - *Alchemy Game*
 * [Short Trip](https://alexanderperrin.com.au/paper/shorttrip/) - *Relaxing Cat Game* 
 * [Quick, Draw](https://quickdraw.withgoogle.com/) - *Doodle Game*

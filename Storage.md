@@ -242,7 +242,7 @@
 
 ####Encrypted Email Services
 
-**[ProtonMail](https://protonmail.com/)** / [Client](https://github.com/Steccas/ProtonClient) / [.onion](https://protonirockerxow.onion/) / [Account Creator](https://github.com/hendrikbgr/ProtonMail-Account-Creator), [Enigmail](https://www.enigmail.net/index.php/en/), [Private-Mail](https://privatemail.com/), [ShazzleMail](https://shazzlemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [secMail (tor)](http://secmailw453j7piv.onion/src/login.php), [TorBox (tor)](http://torbox3uiot6wchz.onion/), [sigaintevyh2rzvw](http://sigaintevyh2rzvw.onion/), [CTemplar](https://ctemplar.com/) / [Invite](https://i.imgur.com/0vODE91.png) / [Invite 2](https://redd.it/gycqbd), [Tilda](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [Tutanota](https://tutanota.com/), [GMX](https://www.gmx.com/), [NeoMailBox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [mailpile](https://www.mailpile.is/)
+**[ProtonMail](https://protonmail.com/)** / [Client](https://github.com/Steccas/ProtonClient) / [.onion](https://protonirockerxow.onion/) / [Account Creator](https://github.com/hendrikbgr/ProtonMail-Account-Creator), [Enigmail](https://www.enigmail.net/index.php/en/), [Private-Mail](https://privatemail.com/), [ShazzleMail](https://shazzlemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [secMail (tor)](http://secmailw453j7piv.onion/src/login.php), [TorBox (tor)](http://torbox3uiot6wchz.onion/), [sigaintevyh2rzvw](http://sigaintevyh2rzvw.onion/), [CTemplar](https://ctemplar.com/) / [Invite](https://i.imgur.com/0vODE91.png) / [Invite 2](https://redd.it/gycqbd), [Tilda](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [Tutanota](https://tutanota.com/), [GMX](https://www.gmx.com/), [NeoMailBox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [mailpile](https://www.mailpile.is/), [MSGSafe](https://www.msgsafe.io/)
 
 ***
 
@@ -1201,6 +1201,9 @@ Add the following commands to a search to manually scrape each site.
 
 ####SockShare Clones
 
+* https://sockshare.fm/
+* https://sockshare.mn/
+* https://sockshare1.com/
 * https://cafehulu.com/
 * https://sharemovies.net/
 * https://www4.123movies.net/
@@ -1210,8 +1213,31 @@ Add the following commands to a search to manually scrape each site.
 * https://wat32.com/
 * https://123hulu.com/
 * http://gomovies123.watch/
+* https://putlocker.vc
+* https://www2.putlockers.gs/
+* https://www1.putlockers.sh/
 * https://www1.moviesin.co/
+* https://www2.putlockers.tw/
 * https://watchseri.net/
+* https://seriesonline.bz/
+* https://www2.putlockers.gy/
+* https://www1.fmovies.gs/
+* https://www4.putlockerz.io/
+* https://www2.putlockers.ws/
+* https://primewire.mn/
+* https://movieload.net/
+* https://fmovie.ac/
+* https://www8.movies123.ac/ 
+* https://123movies.fm
+* https://5movies.fm/
+* https://123putlocker.io/
+* https://fmovies.gy/
+* https://fmovies.pm/
+* https://www1.e123movies.com/
+* https://www1.ezlive.tv/
+* https://www1.f123movies.com/
+* https://fmovies.wf/
+* https://www1.fmovies.yt/
 
 ***
 

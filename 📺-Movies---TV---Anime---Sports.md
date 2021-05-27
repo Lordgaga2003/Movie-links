@@ -193,7 +193,7 @@
 
 ## ▷ Anime Streaming
 
-* **[Anime Streaming Sites Search](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** + [Anime Streaming Sites 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
+* **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** + [Anime Streaming CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) - *Search multiple sites at once*
 * **[/r/AnimePiracy Index](https://piracy.moe/)** - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
 * **[9Anime](https://www12.9anime.to/)** or [9anime.ru](https://www12.9anime.ru/) - *Sub / Dub / Ads / Large Catalog / Adjustable Quality / [Mirrors](https://9anime.zone/)*
 * **[Anime Twist](https://twist.moe/)** - *Sub / Mobile friendly / Ad Free / Medium Catalog /  High Quality / [Discord](https://discord.gg/Ea3Mq9n)*

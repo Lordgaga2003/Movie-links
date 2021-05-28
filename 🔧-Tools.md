@@ -922,7 +922,7 @@ General Reading Sites*
 * [discord-logo](http://nntin.github.io/discord-logo) - *Discord Animated Logo Generator / [Discord](https://discord.gg/gDHs8AV)*
 * [Discord Branding](https://discord.com/branding) - *Discord Branding Information Page / [Archive](https://web.archive.org/web/20210513004910/https://discord.com/branding)*
 * [Discord Moderator Academy](https://discord.com/moderation) - *Discord Moderator Guide / [Exam](https://discord.com/moderation/exam)*
-* [SnowStamp](https://pixelatomy.com/snow-stamp/)  or [Snowflake Deconstructer](https://snowflake.bruhmomentlol.repl.co/) - *Convert Discord Snowflakes to Timestamps*
+* [SnowStamp](https://pixelatomy.com/snow-stamp/) - *Convert Discord Snowflakes to Timestamps*
 * [ddpe](https://ddpe.netlify.app/) - *Discord Data Package Explorer*
 * [Discord InfluxDB exporter](https://github.com/terorie/discord-influx) - *Export Discord Metrics to InfluxDB*
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - *Datamining Discord changes from the JS files*

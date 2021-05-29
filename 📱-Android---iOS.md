@@ -115,7 +115,7 @@
 * [Uploadgram App](https://github.com/pato05/uploadgram-app) - *Uploadgram Frontend*
 * [Instander](https://thedise.me/instander/) - *Modded Instagram Client*
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
-* [CutTheCord](https://gitdab.com/distok/cutthecord), [Treecord](https://github.com/Treecord/Treecord), [Aliucord](https://github.com/Aliucord/Aliucord) / [Discord](https://discord.gg/EsNDvBaHVU) or [Bluecord](https://bluesmods.com/bluecord.html) - *Modded Discord Client* 
+* [CutTheCord](https://gitdab.com/distok/cutthecord), [Treecord](https://github.com/Treecord/Treecord or [Aliucord](https://github.com/Aliucord/Aliucord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX) - *Telegram Client*
 * [FluffyChat](https://fluffychat.im/en/) - *Matrix Client*
 * [SubwayTooter](https://github.com/tateisu/SubwayTooter) or [Tusky](https://tusky.app/) - *Mastodon Client* 

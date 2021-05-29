@@ -1486,6 +1486,7 @@ http://squid.diladele.com/) / [Site Blocking](http://www.thedumbterminal.co.uk/p
 * [Online Math Tools](https://onlinemathtools.com/) - *Multiple Math Tools*
 * [fxSolver](https://www.fxsolver.com/), [PhotoMath](https://photomath.app/en/) or [Mathway](https://www.mathway.com/) - *Math Equation Solver / Help* 
 * [Get Unstuck](https://socratic.org/) - *Homework Answers / Help* 
+* [Quizlet](https://quizlet.com/) - *Quizes / Study Material*
 * [OpenSyllabus](https://opensyllabus.org/) - *Syllabus* 
 * [Edpuzz Ninja](https://edpuzz.ninja/) - *Educational Puzzle Solving Tool* 
 * [Cool Math Games](https://www.coolmathgames.com/) - *Math Games* 

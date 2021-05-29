@@ -16,6 +16,7 @@
 * **[Soap2Day](https://soapgate.org/)** - *Movies / TV*
 * **[LookMovie](https://lookmovie.io/)** - *Movies / TV*
 * **[HDBest](http://hdbest.net/)**, [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
+* **[Weboas.is](https://weboas.is/stream/)** - *Movies* 
 * **[M4uFree](https://ww1.m4ufree.com)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)*
 * **[OpenloadMovies](https://openloadmov.net/)** - *Movies / TV*
 * **[SockShare](http://sockshare.ac/)** - *Movies / TV / Anime / SD / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones)*

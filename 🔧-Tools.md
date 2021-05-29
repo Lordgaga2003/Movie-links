@@ -874,7 +874,7 @@ General Reading Sites*
 * [SmartCord](https://smartfrigde.github.io/smartcord/) - *Modifiable Discord Client*
 * [Quarrel](https://github.com/UWPCommunity/Quarrel) - *Universal Windows Platform Discord Client*
 * [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) or [WebCord](https://github.com/SpacingBat3/WebCord) - *Discord Web Client / [Discord](https://discord.gg/Vm4CwZx)*
-* [CutTheCord](https://gitdab.com/distok/cutthecord) or [Bluecord](https://bluesmods.com/bluecord.html) - *Modded Discord Client for Android* 
+* [CutTheCord](https://gitdab.com/distok/cutthecord) - *Modded Discord Client for Android* 
 * [Discord CLI](https://github.com/fourjr/discord-cli), [Discord Terminal](https://github.com/atlx/discord-term) or [crcophony](https://github.com/freyamade/crcophony) - *Discord Terminal Client*
 * [BetterDiscordLibrary](https://betterdiscordlibrary.com/themes) - *Themes for BandagedBD / BetterDiscord* 
 * [weechat-discord](https://github.com/terminal-discord/weechat-discord) - *WeeChat Discord Plugin*

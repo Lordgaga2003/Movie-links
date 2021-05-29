@@ -37,7 +37,7 @@
 * [Ova Games](http://www.ovagames.com/)
 * [Rekulous Repacks](https://discord.gg/zSXWwzav7R)
 * [GameTrex](https://gametrex.com/) 
-* [GamesDrive](https://gamesdrive.co/) - *[Discord](https://discord.gg/PKFAnduGtA)*
+* [GamesDrive](https://gamesdrive.net/) - *[Discord](https://discord.gg/PKFAnduGtA)*
 * [Rihno Games](https://rihnogames.com/)
 * [SEHS Gamess](https://www.sehsgames.com/)
 * [GameLoo](http://www.gameloo.info/)

@@ -344,7 +344,9 @@
 * [Blocks](https://theblocks.netlify.app/) - *Puzzle Game* 
 * [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) - *Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)*
 * [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - *Pacman*
-* [AI Dungeon](https://play.aidungeon.io/main/landing) - *Infinite Adventure Game*
+* [AI Dungeon](https://play.aidungeon.io/main/landing) - *Text Adventure*
+* [A Dark Room](http://adarkroom.doublespeakgames.com/) - *Text Adventure*
+* [Addventure](http://addventure.com/addventure/) - *Text Adventure*
 * [Too Many Chefs](https://www.toomanychefs.party/) - *Text-Based Coop Cooking Game* 
 * [skribbl](https://skribbl.io/) or [Gartic](https://gartic.io/) - *Drawing / Guessing Game / Multiplayer*
 * [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - *Alchemy Game*
@@ -370,12 +372,9 @@
 * [FSHistory](https://s-macke.github.io/FSHistory/) - *Play Classic Flight Simulator* 
 * [Magnetic Scripts](https://msmemorial.if-legends.org/msa2/msa2.html) - *Magnetic Scrolls* 
 * [Prosperity](http://www.playprosperity.ca/) - *Rebuild a civilization*
-* [A Dark Room](http://adarkroom.doublespeakgames.com/) - *Text Adventure*
-* [Addventure](http://addventure.com/addventure/) - *Text Adventure*
 * [Neopets ](http://www.neopets.com/) or [Marapets](https://www.marapets.com) - *Virtual Pet Game* 
 * [Gaia Online](https://www.gaiaonline.com/) - *Anime Virtual Pet* 
 * [Furvilla](http://www.furvilla.com/) - *Furry Virtual Pet Game* 
-* [AI Dungeon](https://play.aidungeon.io/) - *Text Adventure* 
 * [Forumwarz](http://www.forumwarz.com/) - *Browser RPG*  
 * [Kingdom of Loathing](https://www.kingdomofloathing.com/) - *Comedy RPG* 
 * [Super Mario Bros Crossover](https://explodingrabbit.com/games/super-mario-bros-crossover/) - *Play SMB as characters from other games*

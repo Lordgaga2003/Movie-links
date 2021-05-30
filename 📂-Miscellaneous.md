@@ -236,7 +236,6 @@
 * [Clone Wars](https://gourav.io/clone-wars) - *Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars)* 
 * [Appscope](https://appsco.pe/) or [Electron](https://www.electronjs.org/apps) - *Web App Index*
 * [State of the DApps](https://www.stateofthedapps.com/) - *Blockchain App Index* 
-* [SocialWiki](https://socialwiki.top/) - *Social Media / Community Index* 
 * [DeepWebLinks](https://deepweblinks.net/directories/) - *Deep Web Directories*
 * [dark.fail](https://dark.fail/)  - *Onion Directory / Tor Required*
 * [260+  Dark Web Links](https://ufile.io/pgvxf9jv)

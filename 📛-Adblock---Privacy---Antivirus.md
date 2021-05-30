@@ -28,7 +28,7 @@
 * [Redundant Rule Checker](https://abpvn.com/ruleChecker/redundantRuleChecker.html) - *Find Redundant AdBlock Rules*
 * [Universal Bypass](https://universal-bypass.org/), [Ad-Link Bypasser V2](https://thebypasser.com/versions/version2.html) or [AdsBypasser](https://adsbypasser.github.io/) - *Skips Link Shorteners*
 * [Skip Redirect](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect) - *Bypass Redirects*
-* [Linkvertise Bypass](https://greasyfork.org/en/scripts/409156-linkvertise-bypass) or [linkvertise-bypass](https://github.com/2Kernel/linkvertise-bypass) - *Bypass Linkvertise Redirects / [Discord](https://discord.gg/cRmb8PrFdS)* 
+* [Linkvertise Bypass](https://greasyfork.org/en/scripts/409156-linkvertise-bypass) or [linkvertise-bypass](https://github.com/gamb2t/linkvertise-bypass) - *Bypass Linkvertise Redirects / [Discord](https://discord.gg/cRmb8PrFdS)* 
 * [Twitch Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblocker), [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm), [VideoAdBlockForTwitch ](https://github.com/saucettv/VideoAdBlockForTwitch) or [Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/) - *Twitch Adblocker* 
 * [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - *Multiple Twitch Adblocking Methods*
 * [SponsorBlock](https://sponsor.ajay.app/) - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
@@ -45,7 +45,7 @@
 
 ## ▷ DNS Adblocking
 
-* [Adguard](https://adguard.com/en/adguard-dns/overview.html) - *[Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt) / [Filter](https://github.com/hl2guide/Filterlist-for-AdGuard)*
+* [Adguard](https://adguard.com/en/adguard-dns/overview.html) - *[Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt) / [Filter](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)*
 * [DNSCrypt](https://www.dnscrypt.org) - *[Manager](https://simplednscrypt.org/)*
 * [AlternateDNS](https://alternate-dns.com/index.php)
 * [Stubby](https://github.com/getdnsapi/stubby)
@@ -79,7 +79,7 @@
 
 ***
 
-# ► Antivirus
+#► Antivirus
 
 * **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - *Malware Analysis Tools / Resources*
 * **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - *Malware avoidance guide*

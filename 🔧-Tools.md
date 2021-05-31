@@ -879,7 +879,6 @@ General Reading Sites*
 * [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) or [WebCord](https://github.com/SpacingBat3/WebCord) - *Discord Web Client / [Discord](https://discord.gg/Vm4CwZx)*
 * [CutTheCord](https://gitdab.com/distok/cutthecord) - *Modded Discord Client for Android* 
 * [Discord CLI](https://github.com/fourjr/discord-cli), [Discord Terminal](https://github.com/atlx/discord-term) or [crcophony](https://github.com/freyamade/crcophony) - *Discord Terminal Client*
-* [BetterDiscordLibrary](https://betterdiscordlibrary.com/themes) - *Themes for BandagedBD / BetterDiscord* 
 * [weechat-discord](https://github.com/terminal-discord/weechat-discord) - *WeeChat Discord Plugin*
 * [litecord](https://gitlab.com/litecord/litecord) - *Reimplementation of Discord's Backend / [Clients](https://gitlab.com/litecord/litecord/-/blob/master/docs/clients.md)*
 * [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) - *Sandbox Discord Client*
@@ -1550,6 +1549,7 @@ https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.white
 * [iCivics](https://www.icivics.org/games) - *Browser Games about U.S. Laws*
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/) - *Learn about Logical Fallacies* 
 * [YourBiasIs](https://yourbias.is/) - *Learn about Biases* 
+* [GodChecker](https://www.godchecker.com/) - *Learn about Gods from different Religions*
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - *Learn to Tie Knots* 
 * [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
 * [Metabolic-Pathway](http://www.metabolic-pathway.com/fullMap.html) - *Interactive Metabolic Pathways Map* 

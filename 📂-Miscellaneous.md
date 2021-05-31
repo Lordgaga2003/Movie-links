@@ -459,7 +459,8 @@
 * [Fake Text Message](https://ifaketextmessage.com/) - *Make Fake Text Conversation* 
 * [FutureTimeline](https://www.futuretimeline.net/) - *Timeline of future predictions* 
 * [House creep](https://www.housecreep.com/) - *Homes With A Curious or Criminal History* 
-* [Six Triangles ](https://sixtriangles.github.io/) or [8 Values](https://8values.github.io/) - *Political Alignment Quiz*
+* [16 Personalities](https://www.16personalities.com/) - *Personality Tests*
+* [Six Triangles](https://sixtriangles.github.io/) or [8 Values](https://8values.github.io/) - *Political Alignment Test*
 * [Hypochondriapp](http://hypochondriapp.io/) - *Get a terrible diagnosis for your symptoms*
 * [Cube Rule](https://cuberule.com/) - *The Cube Rule of Food* 
 * [Death Date](http://deathdate.info/) - *Calculate your day of death* 

@@ -166,7 +166,6 @@
 * [Vudu](https://www.vudu.com/) - *Movies*
 * [IMDB TV](https://www.imdb.com/tv/) - *Movies / TV*
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - *Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / [Windscribes](https://windscribe.com/) free version works*
-* [#Free-Movies](https://discord.gg/rQyYASbJX3) - *Movies / TV / Shorts / Discord Channel*
 * [Free YouTube, Dailymotion & Archive Movies](https://bin.disroot.org/?12737f5d5ce404f2#3LhDYgPi7c1s3cfDsNZEHsZjKTNWpCm8ppxT7AH4JJYz) - *Big list of Free Movies*
 * [StreamDor](https://www.streamdor.com/), [FreeMovies](https://freemovies.ltd/) or [MoviesFoundOnline](https://moviesfoundonline.com/) - *Movies / YouTube*
 * [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - *Youtube streaming subreddits*

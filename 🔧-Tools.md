@@ -1466,7 +1466,7 @@ http://squid.diladele.com/) / [Site Blocking](http://www.thedumbterminal.co.uk/p
 * **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - *Sites with many Calculators* 
 * **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - *List of interactive math sites*
 * **[Awesome Research](https://github.com/emptymalei/awesome-research)** - *Research tools index* 
-* **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - *Curated list of educational games*
+* **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)**, [Starfall](https://www.starfall.com/) or [Funbrain](https://www.funbrain.com/games) - *Educational Games*
 * **[Cymath](https://www.cymath.com/)** or [Symbolab](https://www.symbolab.com/) - *Math Problem Solver with Steps / [Symbolab Pro](https://pastebin.com/wA3QQkCj)*
 * **[PhET](https://phet.colorado.edu/)** - *STEM / Interactive*
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Infinite trial by clearing cookies & making new account*

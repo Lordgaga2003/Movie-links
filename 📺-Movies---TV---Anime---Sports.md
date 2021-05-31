@@ -763,7 +763,6 @@
 * **[Movie-Forum](https://movie-forum.co/forums/23-Requests)** - *Movies*
 * **[TopNow](https://discord.gg/marBA97)** - *Movies / TV / Anime*
 * **[WorldsCinema](http://worldscinema.org/movie-request/)** - *Movies* 
-* [RareFilm](https://rarefilmnet.chatango.com/) - *Rare Movies / [Leech Required](https://proleech.org/)* 
 * [RareFilmm](http://rarefilmm.com/requests/) - *Rare Movies* 
 * [MoviesForFree](https://movieforfree.co/requests/) - *Movies / TV*
 * [Sanet.st](https://sanet.st/community/t/requests) - *Movies / TV* 

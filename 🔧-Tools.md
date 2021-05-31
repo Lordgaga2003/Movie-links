@@ -266,6 +266,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - *Find out what a font is from a image*
 * [Visual Recognition](https://visual-recognition-code-pattern.ng.bluemix.net/) - *Analyzes Images for Scenes, Objects, Text ect.* 
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - *Image Color Scatter Plot* 
+* [Paletton](https://paletton.com/) - *Colour Scheme Designer*
 * [Remove.bg](https://www.remove.bg/), [Rembg](https://github.com/danielgatis/rembg) or [Background Burner](https://burner.bonanza.com/) - *Remove background from a image / [Gimp Plugin](https://github.com/manu12121999/RemoveBG-GIMP) unlimited accounts w/ [Temp Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)*
 * [behind!](https://github.com/kubuzetto/behind) - *View Background Images*   
 * [Google Photos Plus](https://github.com/anamritraj/google-photos-plus) - *Download photos from Google Photos in better quality*
@@ -1117,6 +1118,7 @@ General Reading Sites*
 * [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
 * [Kaboomjs](https://kaboomjs.com/) - *Quickly Make Games with Javascript*
 * [Kodular](https://www.kodular.io/) - *Android App Creator*
+* [Godot](https://godotengine.org/) - *Game Engine / Open-Source / 2D / 3D*
 * [GDevelop](https://gdevelop-app.com/) - *HTML5 Game Creator*
 * [Phaser](https://phaser.io/) - *Mobile HTML5 Game Framework* 
 * [PlayCanvas](https://playcanvas.com/) - *Build HTML5 Visualizations / Games* 

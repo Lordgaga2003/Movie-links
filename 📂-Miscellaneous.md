@@ -500,6 +500,7 @@
 * [Purrli](https://purrli.com/) - *Cat Purr Generator* 
 * [BirdSounds](https://experiments.withgoogle.com/ai/bird-sounds/view/) - *Thousands of Bird Sounds Visualized* 
 * [BumpWorthy](https://www.bumpworthy.com/) - *Adult Swim Bumps* 
+* [Google Doodles](https://www.google.com/doodles?q=interactive) - *Interactive Google Doodles*
 * [Fact Directory](https://fact.directory/) - *Facts & Trivia For Every Topic* 
 * [theOtaku](http://theotaku.com/quizzes) - *Anime Personality Quizzes* 
 * [Three.js](https://threejs.org/) - *JavaScript 3D library* 

@@ -281,19 +281,27 @@
 * [Not Doppler](http://www.notdoppler.com/) 
 * [Nitrome](https://www.nitrome.com/) 
 * [Poki](https://poki.com/)
+* [Y8](https://www.y8.com/) 
+* [Arkadium](https://www.arkadium.com/)
 * [Crazy Games](https://www.crazygames.com/)
 * [Nicky Case](https://ncase.me/) 
 * [Gamepix](https://www.gamepix.com/)
 * [Game Top](https://www.gametop.com/online/index.html)
 * [Foddy](http://www.foddy.net/category/games/browser/)
+* [ALFY](https://www.alfy.com/)
 * [Flash by Night](http://flashbynight.com/) 
+* [Cartoon Network Games](https://www.cartoonnetwork.com/games/index.html)
+* [WBKidsGo](https://www.wbkidsgo.com/)
+* [Disney LOL](https://lol.disney.com/games/)
 * [Friv](https://friv.com/), [2](https://web.archive.org/web/*/Friv.com)
 * [Ninjakiwi](https://ninjakiwi.com/) - *Browser Games / Bloons / Multiplayer*
 * [Games on GitHub](https://github.com/leereilly/games) - *GitHub Hosted Games*
 * [Nekogames](http://nekogames.jp/) - *Japanese Games* 
 * [ArcadePrehacks](http://www.arcadeprehacks.com/) - *Hacked Games* 
 * [iogames.space](https://iogames.space/) - *.io Games* 
-* [Orisinal](http://www.ferryhalim.com/orisinal/) - *Simple Games / Works best with chrome* 
+* [Orisinal](http://www.ferryhalim.com/orisinal/), [BillsGames](http://www.billsgames.com/) or [pitStreet](http://www.pitstreet.com/) - *Simple Games* 
+* [GirlsGoGames](https://www.girlsgogames.com/) - *Games for Girls*
+* [Nick Jr. Games](http://www.nickjr.com/games/) or [PBS Kids Games](https://pbskids.org/games/) - *Games for Kids*
 * [Rek's Flash Game Collection](https://drive.google.com/drive/folders/1p_kDd9uJz72S3m9o7ka136fxCWPEBKEG?usp=sharing) - *100 Flash Games / Drive*
 * [SamsHackedGames](https://www.samshackedgames.com/) - *Hacked Flash Games*
 * [Software Library: Flash](https://archive.org/details/softwarelibrary_flash) - *Flash Game Archive* 
@@ -315,7 +323,7 @@
 * [Mexican Train](https://mexicantrain.online/) - *Domino Train Game*
 * [SlaveHack2](http://slavehack2.com/) - *Hacking Game*
 * [Chesses](https://pippinbarr.github.io/chesses/) - *Multiple Styles of Chess* 
-* [lichess](https://lichess.org/) or [Chess.com](https://www.chess.com/) - *Chess Platform* 
+* [lichess](https://lichess.org/), [WebChess](http://chess.delorie.com/) or [Chess.com](https://www.chess.com/) - *Chess Platform* 
 * [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - *1k Chess Game* 
 * [Kung Fu Chess](https://www.kfchess.com/) - *Real-Time Chess w/o Turns* 
 * [2020 Game](https://2020game.io/) - *Play through 2020* 
@@ -343,7 +351,9 @@
 * [Sokoban ](https://suppilulemur.neocities.org/) - *Box Moving Puzzle Game / Zelda-Themed*
 * [Blocks](https://theblocks.netlify.app/) - *Puzzle Game* 
 * [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) - *Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)*
-* [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - *Pacman*
+* [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - *Pac-man*
+* [iFiction](https://www.ifiction.org/) - *Text Adventure Index*
+* [Pac-Txt](http://www.pactxt.com/) - *Pac-Man Themed Text Adventure*
 * [AI Dungeon](https://play.aidungeon.io/main/landing) - *Text Adventure*
 * [A Dark Room](http://adarkroom.doublespeakgames.com/) - *Text Adventure*
 * [Addventure](http://addventure.com/addventure/) - *Text Adventure*
@@ -386,14 +396,15 @@
 * [Doodle Cricket](https://doodlecricket.github.io/index.html#/) - *Play simplified cricket as a cricket* 
 * [Impossible Rush](http://tanksw.com/impossible-rush/) - *Reflex Testing Game*
 * [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) - *Incremental Clicker*   
-* [Play Snake](https://playsnake.org/) - *Play Retro Snake* 
+* [Play Snake](https://playsnake.org/) - *Retro Snake* 
+* [Games 1729](https://www.games1729.com/serpentron/) - *Multiplayer Snake*
 * [First Person Tetris](https://firstpersontetris.com/) - *Play Tetris in First Person* 
 * [Piccolo](https://piccolo.click/web/) - *Othello AI* 
 * [PlayTicTacToe](https://playtictactoe.org/) - *Tic-Tac-Toe* 
 * [FindTwin](https://github.com/klimaleksus/FindTwin) - *Find the Twins* 
 * [Find the Invisible Cow](http://www.findtheinvisiblecow.com/) - *Find an Invisible Cow with Sound*
 * [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - *Solve a Rubix Cube* 
-* [Board Game Online](https://www.boardgame-online.com/) - *Play Board Games Online* 
+* [Board Game Online](https://www.boardgame-online.com/) or [FunNode](https://www.funnode.com/) - *Board Games* 
 * [Alternate History Simulator](http://abw.blue/) - *Write alternate history* 
 * [NationStates](https://www.nationstates.net/) - *Nation Simulation Game* 
 * [247 Free Poker](https://www.247freepoker.com/) - *Simple Poker Online* 

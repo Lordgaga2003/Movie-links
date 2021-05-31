@@ -429,13 +429,12 @@
 * **[pahe.ph](http://pahe.ph/)** - *Movies / TV / Anime / [Discord](https://discord.gg/33P8hpR)*
 * **[snahp.it](https://snahp.it/)** - *Movies / TV / Anime / Passwords: snahp.it or snahp*
 * **[MovieParadise](https://movieparadise.org/)** - *Movies / TV*
-* **[Worlds Cinema](http://worldscinema.org/)** - *Old / Classic / Cult Films / [Leech](https://proleech.org/)*
+* **[Worlds Cinema](http://worldscinema.org/)** - *Old / Classic / Cult Films*
 * **[TopNow](http://topnow.se/)** - *Movies / [Discord](https://discord.gg/WHYmgeB)*
-* **[RareFilm](https://rarefilm.net/)** - *Rare Movies / [Leech](https://proleech.org/)* 
 * **[50TB Mega Drive](https://mega.nz/folder/spMwmDTA#qYCZT7Wq0JqoJpkVsQv36A)**, [2](https://mega.nz/folder/bswnSACT#EeW3b_CV7Es3Rbqim__pQA) - *Movies* 
 * **[Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download)** - *Many of these sites have single click downloads*
 * [RareLust](https://rarelust.com/) - *Rare Movies / NSFW* 
-* [My Duck Is Dead](http://www.myduckisdead.org/) - *Rare Movies / NSFW / [Leech](https://proleech.org/)* 
+* [My Duck Is Dead](http://www.myduckisdead.org/) - *Rare Movies / NSFW* 
 * [Reviviendo Viejas Joyas](https://reviviendoviejasjoyas.blogspot.com/) - *Rare Movies / Stop Pages from Loading to use w/o Account* 
 * [PSARips](https://psarips.uk/) - *Movies / TV* 
 * [Crazy4tv](https://crazy4tv.com/) - *Movies / TV*

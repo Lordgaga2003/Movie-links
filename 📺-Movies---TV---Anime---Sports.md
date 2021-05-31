@@ -279,7 +279,7 @@
 * [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) - *Interactive player for Black Mirror: Bandersnatch*
 * [ListenToAMovie](http://listentoamovie.com/) - *Listen to Movies* 
 * [Descriptive Audio of Movies / Shows](http://www.cheeseheadhosting.us/downloads/Descriptive%20Videos%20For%20The%20Blind/), [2](http://www.cheeseheadhosting.us/downloads.php?link=discriptive%20videos%20for%20the%20blind%20vault%202), [3](http://www.cheeseheadhosting.us/downloads.php?link=discriptive%20movies%20for%20the%20blind%20vault%203%202013%20and%20newer) - *For blind users* 
-* [NSFW Streaming Sites](https://rentry.co/freemediafuckyeah#nsfw-streaming)
+* [NSFW Streaming Sites](https://saidit.net/s/freemediafuckyeah/wiki/index#wiki_nsfw_streaming)
 
 ***
 

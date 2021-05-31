@@ -527,7 +527,7 @@
 * [DarkLegends](https://darklegends60mb.org/)
 * [SSAnime](https://ssanime.ga/)
 * [Kayoanime](https://kayoanime.com/)
-* [Erai-Raws](https://www.erai-raws.info/)
+* [Erai-Raws](https://www.erai-raws.info/) - *[Discord](https://discord.gg/2PfWaar)*
 * [Anime Devil](https://animedevil.com/) - *[Telegram](https://groups.google.com/g/animedevil)*
 * [AnimeBatchDDL](https://animebatchddl.wordpress.com/) - *[Discord](https://discord.gg/h5pGByTZ9Z) / [Drive](https://animebatchddl.code-geass.workers.dev/0:/), [2](https://animebatchddl.lelouch-vi-britannia.workers.dev/0:/), [3](https://animebatchddl.seisei-ruten.workers.dev/0:/), [4](https://animebatchddl.lelouch-lamperouge.workers.dev/0:/)*
 * [NoobSubs](https://noobsubs.com/) - *[Drive](https://noobftp1.noobsubs.com/)*
@@ -674,7 +674,7 @@
 * [Chihiro](https://chihiro-subs.com/)
 * [SubsPlease](https://subsplease.org/)
 * [Some-Stuffs](http://some-stuffs.com/) - *[Discord](https://discord.gg/wYgXer2)*
-* [Erai-Raws](https://www.erai-raws.info/) - *raws*
+* [Erai-Raws](https://www.erai-raws.info/) - *[Discord](https://discord.gg/2PfWaar)*
 * [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - *[ZeroNet Required](https://zeronet.io/)*
 * [nyaamal](https://github.com/laxyapahuja/nyaamal) - *Add torrents DL's to MAL / Anilist*
 

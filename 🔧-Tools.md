@@ -673,6 +673,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Luakit](https://luakit.github.io/) - *Lightweight Linux Browser* 
 * [woob](https://woob.tech/) - *Use Sites Without a Browser*
 * [Lightspark](https://lightspark.github.io/) - *Open-Source Flash Player*
+* [StockBrowser](https://stackbrowser.com/) - *Multi Web App Browser*
 * [Tripgen](https://orph.link/tripgen) - *Image Board Trip Code Generator* 
 * [Slideshow-Deslidefier](http://deslide.clusterfake.net/) - *View Slideshows All At Once* 
 * [tumblr-crawler](https://github.com/ZenulAbidin/tumblr-crawler) - *Download tumblr photos/videos* 

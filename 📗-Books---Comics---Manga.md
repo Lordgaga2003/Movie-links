@@ -463,7 +463,7 @@
 * [SimplyScripts](https://www.simplyscripts.com/) or [Scripts.com](https://scripts.com/) - *Movie / TV Scripts* 
 * [Kialo]( https://www.kialo.com/) - *Popular Debates / Discussion* 
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
-* [NSFW Reading Sites](https://rentry.co/freemediafuckyeah#nsfw-images-reading)
+* [NSFW Reading Sites](https://saidit.net/s/freemediafuckyeah/wiki/index#wiki_nsfw_images_.2F_reading)
 
 ***
 

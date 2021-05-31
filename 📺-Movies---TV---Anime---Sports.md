@@ -166,7 +166,7 @@
 * [Vudu](https://www.vudu.com/) - *Movies*
 * [IMDB TV](https://www.imdb.com/tv/) - *Movies / TV*
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - *Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / [Windscribes](https://windscribe.com/) free version works*
-* [YouTube Discord Channel](https://discord.gg/vgnaeka) - *Discord channel that anyone can post YouTube content in*
+* [#Free-Movies](https://discord.gg/rQyYASbJX3) - *Movies / TV / Shorts / Discord Channel*
 * [StreamDor](https://www.streamdor.com/), [FreeMovies](https://freemovies.ltd/) or [MoviesFoundOnline](https://moviesfoundonline.com/) - *Movies / YouTube*
 * [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - *Youtube streaming subreddits*
 * [YouTube Streaming Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_streaming_channels) - *Channels that host movies or shows*

@@ -87,6 +87,7 @@
 * [Book Related Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist) - *Subreddits related to books*
 * [Short Stories](https://short-stories.co/) - *Short Stories* 
 * [Everything2](https://everything2.com/) - *Short Stories / Poetry / Writing Help*
+* [infinite story](https://infinite-story.com/) - *Interactive Fiction*
 * /r/opendirectories
 * /r/EBook_Resources/
 * /r/FreeEBOOKS

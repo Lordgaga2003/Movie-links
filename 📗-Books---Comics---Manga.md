@@ -818,6 +818,7 @@
 * [AnyfFip](https://anyflip.com/) - *Interactive Flipbook Reader* 
 * [All My Books](https://www.bolidesoft.com/allmybooks.html) - *Book Catalog* 
 * [Raven Reader](https://ravenreader.app/) - *Article Reader / Manager* 
+* [Cubari](https://cubari.moe/) - *Image Proxy / Reader*
 
 ***
 

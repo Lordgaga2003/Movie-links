@@ -17,7 +17,7 @@
 * **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - *Open-Source Extension Index*
 * **[Buster](https://github.com/dessant/buster)** or **[AntCpt](https://antcpt.com/eng/home.htm)** - *Auto Captcha Solver*
 * **[Privacy Pass](https://privacypass.github.io/)** - *Skip Captchas* 
-* **[Dark Reader](https://darkreader.org/)**, [ShadowFox](https://overdodactyl.github.io/ShadowFox/) or [222](https://github.com/x08d/222) - *Dark Mode* 
+* **[Dark Reader](https://darkreader.org/)** or [222](https://github.com/x08d/222) - *Dark Mode* 
 * [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [VimC](https://github.com/1995eaton/chromium-vim), [Web Search Navigator](https://github.com/infokiller/web-search-navigator) or [Vimium C](https://github.com/gdh1995/vimium-c) - *Keyboard Shortcuts* 
 * [Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/) or [Link Clump](https://github.com/benblack86/linkclump) - *Select & Open Multiple Links at Once* 
 * [Glitter Drag](https://github.com/harytfw/glitterdrag) - *Adds Actions on Dragging* 
@@ -124,6 +124,7 @@
 * [FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/) - *Multiple Tab Related Actions*
 * [Firefox Download Managers](https://addons.mozilla.org/en-US/firefox/search/?category=download-management&recommended=true&sort=recommended%2Cusers&type=extension) - *Download Managers for Firefox*
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - *Download Manager*
+* [ShadowFox](https://overdodactyl.github.io/ShadowFox/) - *Dark Mode*
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - *Pick Site that Opens in New Tabs* 
 * [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/)or [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - *Bookmark Manager* 
 * [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - *Keep Bookmark Folder Clean* 

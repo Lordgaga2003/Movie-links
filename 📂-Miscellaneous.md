@@ -306,8 +306,7 @@
 
 # ► Free Stuff
 
-* [#Free-Stuff](https://discord.gg/vgnaeka) - *Discord Channel*
-* [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), * /r/FreeGamesOnSteam or [SteamDB](https://steamdb.info/upcoming/free/)  - *Steam Games* 
+* [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), /r/FreeGamesOnSteam or [SteamDB](https://steamdb.info/upcoming/free/)  - *Steam Games* 
 * [Games Free Today](https://gamesfree.today/) - *Games*
 * [FreeGames.codes](https://freegames.codes/) - *Games / [Android](http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes)*
 * [IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0) - *Games* 

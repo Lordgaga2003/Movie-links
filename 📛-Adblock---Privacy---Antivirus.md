@@ -79,7 +79,7 @@
 
 ***
 
-#► Antivirus
+# ► Antivirus
 
 * **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - *Malware Analysis Tools / Resources*
 * **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - *Malware avoidance guide*

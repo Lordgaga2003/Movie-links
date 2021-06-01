@@ -126,7 +126,7 @@
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - *Download Manager*
 * [ShadowFox](https://overdodactyl.github.io/ShadowFox/) - *Dark Mode*
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - *Pick Site that Opens in New Tabs* 
-* [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/)or [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - *Bookmark Manager* 
+* [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/) or [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - *Bookmark Manager* 
 * [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - *Keep Bookmark Folder Clean* 
 * [SaveForReadLater](https://addons.mozilla.org/en-US/firefox/addon/saveforreadlater/) - *Save Pages to Read Later* 
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - *Multi Tab Word Search Search* 

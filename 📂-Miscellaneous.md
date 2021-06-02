@@ -292,7 +292,6 @@
 * [Pirate Haven](https://pirate-haven.github.io/) - *Guides / Discussion / [Discord](https://discord.gg/JWqrdfN9Y8)*
 * [The MegaDrive](https://discord.gg/FQ6EaprXyr) - *Piracy / DataHoarding Discussion*
 * [/r/AnimePiracy Discord](https://discord.gg/piracy)
-* [CrackSupport](https://discord.gg/SjFNVjGW3d) - *Pirated Games / Crack Support / Gaming Discussion*
 * [deep dive](https://deepdive.gg/) - *Piracy / Tech / Discussion / [Discord](https://discord.gg/ZDhQkxdDT4)*
 * [GenP](https://www.reddit.com/r/GenP) - *Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)*
 * [Torrent Community](https://t.me/TorrentCommunity) - *Telegram*

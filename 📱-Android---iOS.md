@@ -62,7 +62,7 @@
 * [CamWings](https://schiffer.tech/camwings-mobile.html) - *Camera Protection* 
 * [ScreenWings](https://schiffer.tech/screenwings-mobile.html) - *Screen Protection* 
 * [Stingle Photos](https://stingle.org/) - *Private Photo / Video Gallery* 
-* [Threema](https://mirrorace.com/m/3DIja), [Session](https://getsession.org/), [Status](https://status.im/), [Signal](https://github.com/mollyim/mollyim-android) / [2](https://langis.cloudfrancois.fr/) / [3](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms), [ChatSecure](https://ballinger.io/apps/chatsecure/), [surespot](https://www.surespot.me/) or [RetroShare](https://f-droid.org/en/packages/org.retroshare.android.qml_app/) - *Encrypted Messaging* 
+* [Threema](https://mirrorace.com/m/3DIja), [Session](https://getsession.org/), [Status](https://status.im/), [Signal](https://github.com/mollyim/mollyim-android) / [2](https://langis.cloudfrancois.fr/) / [3](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [ChatSecure](https://ballinger.io/apps/chatsecure/), [surespot](https://www.surespot.me/) or [RetroShare](https://f-droid.org/en/packages/org.retroshare.android.qml_app/) - *Encrypted Messaging* 
 * [Silence](https://silence.im/) - *Encrypt SMS/MMS Messages* 
 * [Wickr](https://play.google.com/store/apps/details?id=com.wickr.pro&amp;hl=en), [MySudo](https://mysudo.com/), [Jami](https://jami.net/) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - *Encrypted Messaging / Video Calls*
 * [OVERSEC](https://www.oversec.io/) - *Add Text / Image Encryption to any App* 
@@ -474,6 +474,7 @@ iOS
 * [iOS eBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *eBook / Audiobook readers* 
 * [iEmulators](https://iemulators.com/) - *Emulator Apps*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
+* [3uTools](http://www.3u.com/) - *All in one iOS manager for Windows*
 * [UTM](https://getutm.app/) - *Virtual machines on iOS* 
 * [QR Code Generator](https://www.the-qrcode-generator.com/) - *Create QR Codes / Messages* 
 * [iSkin](https://iskin.tooliphone.net/) - *No Jailbreak iOS Themes* 

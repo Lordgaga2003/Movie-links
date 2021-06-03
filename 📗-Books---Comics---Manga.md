@@ -16,7 +16,6 @@
 * **[Audiobook Bay](http://audiobookbay.net/)**, [2](http://audiobookbay.nl/), [3](http://www.audiobookbayabb.com/) - *Torrents / [Extension](https://addons.mozilla.org/en-US/firefox/addon/audiobookbay-magnet-assistant/)*
 * **[Tokybook](https://tokybook.com/)** - *Listen Online*
 * [Audiobooks](https://hotaudiobooks.com) - *Listen Online* 
-* [xAudioBooks](https://xaudiobooks.com/) 
 * [AudioBook Reviews](https://audiobookreviews.com/) 
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks) 
 * [Golden Audiobooks](https://goldenaudiobooks.com/)

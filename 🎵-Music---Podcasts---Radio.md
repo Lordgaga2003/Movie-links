@@ -159,9 +159,9 @@
 * [Soulseek](http://www.soulseekqt.net) or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - *FLAC / MP3 / Account Required*
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - *Music Download Tool* 
 * [RipMe](https://github.com/RipMeApp/ripme) - *Bulk Album Downloader*  
-* [smd](https://github.com/artyshko/smd) - *Download Spotify Songs*
 * [Spytify](https://jwallet.github.io/spy-spotify/overview.html) or [spy-spotify](https://github.com/jwallet/spy-spotify) - *Record / Download Spotify Songs*
 * [Savify](https://github.com/LaurenceRawlings/savify) or [spotDL](https://github.com/spotDL/spotify-downloader) - *Download Spotify Songs via YouTube* 
+* [smd](https://github.com/artyshko/smd) - *Download Spotify Songs / Linux*
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - *Bandcamp Downloader*
 * [SoundCloud Downloader](https://github.com/NotTobi/soundcloud-dl), [Klickaud](https://www.klickaud.co/), [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837-local-soundcloud-downloader) or [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/) - *Soundcloud Downloader*
 * [streamrip](https://github.com/nathom/streamrip) - *Qobuz, Tidal, Deezer & SoundCloud Downloader*

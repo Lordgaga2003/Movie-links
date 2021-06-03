@@ -241,6 +241,8 @@
 * [Neo Kobe Collection](https://archive.org/details/NeoKobe-NecPc-98012017-11-17), [2](https://archive.org/details/Neo_Kobe_NEC_PC-8801_2016-02-25) - *Roms / Neo Kobe*
 * [pc-98](https://mega.nz/folder/F59WkSqQ#quGKSFIswBgv0rxAAaF8Pg) - *PC-98 Games*
 * [eXoDOS](https://exodos.the-eye.eu/), [DOSGamesLibrary](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS Haven](http://www.doshaven.eu/), [The Software Library](https://archive.org/details/softwarelibrary_msdos) or [Best Old Games](http://www.bestoldgames.net/eng/) - *DOS Games*
+* [Abandonia](http://www.abandonia.com/) - *DOS Games / Classic / Abandonware*
+* [Remakes Reloaded](http://www.reloaded.org/) - *Remakes of Classics*
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - *Roms / Arcade / Retro / [Discord](https://discord.gg/rH9wRpu2vh)* 
 * [Wad Archive](https://wad-archive.com/) - *83k WAD Files*
 * [Old Game Finer](http://www.oldgamesfinder.com/?) - *Classic Game Search Engine*

@@ -628,11 +628,6 @@
 * [filmha](https://filmha.top/) - *Movies* 
 * [FarsiLand](https://farsiland.com/) - *Movies / TV* 
 * [LiveFarsi](https://www.livefarsi.com/live-tv.html) - *Movies / TV / Live*
-* [otakutales](https://otakutales.site/) - *Anime* 
-* [bia2anime20](http://bia2anime20.cf/) or [bia2anime99](http://bia2anime99.ml/) - *Anime* 
-* [anime-list8](https://anime-list8.gq/) or [old.anime-list8](https://old.anime-list8.gq/) - *Anime* 
-* [animesubtitle](https://animesubtitle.ir/) - *Anime* 
-* [filmgozar](https://filmgozar.com/category/anime/) - *Anime* 
 * [Anten.ir](https://www.anten.ir/) - *Live / TV / Sports* 
 * [PersianTVLive](http://www.persiantvlive.com/) - *Live / TV*
 

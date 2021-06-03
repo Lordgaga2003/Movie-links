@@ -307,6 +307,7 @@
 * [VK Serial Books & Magazines](https://vk.com/sebomag) - *Books / Magazines* 
 * [ebook-hell](https://ebook-hell.to/) - *Books / Fiction / Non Fiction / Magazines / NSFW / Use adblocker* 
 * [DownMagaz](https://de.downmagaz.net/) - *Magazines / NSFW* 
+* [Hoerbuch](https://hoerbuch.us/) - *Audiobooks*
 
 ***
 
@@ -666,9 +667,10 @@
 
 ## ▷ Reading
 
+* [wolnelektury](https://wolnelektury.pl/) - *Books / Fiction* 
+* [Audiobook PL](https://audiobookpl.tumblr.com/) - *Audiobooks*
 * [doci.pl](https://doci.pl/) - *Documents* 
 * [docer.pl](https://docer.pl/) - *Documents* 
-* [wolnelektury](https://wolnelektury.pl/) - *Books / Fiction* 
 
 ***
 
@@ -837,6 +839,7 @@
 * [militera](http://militera.org/) - *Military History* 
 * [Playing Soviet](https://commons.princeton.edu/soviet/) - *Children's Books*
 * [CyberLeninka](https://cyberleninka.ru/) - *Articles / Educational / Scientific / Legal*  
+* [Baza Knig](https://baza-knig.ru/), [Bibl](https://m.bibl.us/), [Knizhkin](https://knizhkin.net/), [Aknigi Online](https://aknigionline.ru/), [A Book Club](http://abook-club.ru/) - *Audiobooks*
 
 ***
 

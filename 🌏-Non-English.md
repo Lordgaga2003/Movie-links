@@ -72,6 +72,7 @@
 
 ## ▷ Downloading
 
+* [Ali213](https://ali213.net/) - *Games*
 * [3dmgame](https://www.3dmgame.com/) - *Games / Geolocked / Baidu Required* 
 * [okzyw](https://www.okzyw.com/) - *Movies* 
 * [zimuku](http://www.zimuku.la/) - *Movies* 
@@ -95,6 +96,7 @@
 * [gaoqing](https://gaoqing.fm/) - *Movies / TV / Anime*
 * [RARBT](http://www.rarbt.cc/) - *Movies* 
 * [ACG.rip](https://acg.rip/) - *Anime / Music* 
+* [Ali213](https://ali213.net/) - *Games*
 
 ## ▷ Streaming
 

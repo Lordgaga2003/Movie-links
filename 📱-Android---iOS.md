@@ -233,7 +233,6 @@ App Manager
 * [Pro App Share](https://t.me/proappshare) - *Modded / Telegram*   
 * [xdapiratesbot](https://t.me/joinchat/AAAAAEGvyb2EPtoW2_Yf-A) - *Modded / Telegram*  
 * [Software_Android_Apps_Games](https://t.me/Software_Android_Apps_Games) - *Modded / Telegram*   
-* Haxnode - [APKs](https://haxnode.com/category/android-apps/) / [Games](https://haxnode.com/category/android-games/) - *Cracked APKs &amp; Modded Game APKs*
 * [FossDroid](https://fossdroid.com/) - *Open source apps + /r/fossdroid*
 * [Moderse ](https://t.me/Moderse) - *Android Apk Telegram Channel by well know modder- Stabiron*
 * [APK Downloader ](https://apk.support/apk-downloader) - *Download Google Play apks*

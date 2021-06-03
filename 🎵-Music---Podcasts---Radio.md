@@ -152,7 +152,7 @@
 * **[YouTube to MP3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - *Telegram audio download channels*
 * [Freezer](https://freezer.life/) - *MP3 / FLAC* 
-* [SMLoadr](https://t.me/SMLoadrNews) - *FLAC / MP3 + [Desktop GUI](https://github.com/thelucifermorningstar/SMLoadr-AUX/releases)*
+* [SMLoadr](https://t.me/SMLoadrNews) - *FLAC / MP3 / [Desktop GUI](https://github.com/thelucifermorningstar/SMLoadr-AUX/releases)*
 * [d-fi](https://notabug.org/sayem314/d-fi), [freezer](https://github.com/frannyfx/freezer) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - *Deezer Music Download App*  
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *FLAC / MP3*
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots)

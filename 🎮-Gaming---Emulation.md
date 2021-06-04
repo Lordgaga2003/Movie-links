@@ -27,6 +27,7 @@
 * [DLGames](https://dlgames.fun/)
 * [GoG Games](https://gog-games.com/)
 * [Torrminatorr](https://forum.torrminatorr.com/)
+* [Rekulous Repacks](https://discord.gg/zSXWwzav7R)
 * [KaOsKrew](https://www.kaoskrew.org/)
 * [Crohasit](https://crohasit.net/)
 * [Le Fishe Repacks](https://lefishe.rf.gd/) - *[Discord](https://discord.gg/W3MfGDXhAS)*
@@ -36,7 +37,6 @@
 * [ElAmigos Games](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
 * [Black Box Repack](http://www.blackboxrepack.com/) 
 * [Ova Games](http://www.ovagames.com/)
-* [Rekulous Repacks](https://discord.gg/zSXWwzav7R)
 * [GameTrex](https://gametrex.com/) 
 * [GamesDrive](https://gamesdrive.net/) - *[Discord](https://discord.gg/PKFAnduGtA)*
 * [Rihno Games](https://rihnogames.com/)

@@ -182,7 +182,6 @@
 * [KickassCracks](https://kickasscracks.com/) 
 * [SoftHouse](http://softhouse.cc/)
 * [LRepacks](https://lrepacks.ru/)
-* [Repack.me](https://repack.me/) - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)* 
 * [VectorItalia](https://www.vectoritalia.com/)
 * [MySoftwareFree](https://mysoftwarefree.com/)
 * [Mutaz.net](https://www.mutaz.net/) - *PC / Mac / Android*

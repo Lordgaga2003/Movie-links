@@ -868,7 +868,7 @@ General Reading Sites*
 * [Discord Sticker Viewer](https://sticker-view.vercel.app/) - *View / Search Discord Stickers*
 * [Better Discord](http://betterdiscord.app/) - *Modifiable Discord Client / [Plugins](https://rauenzi.github.io/BetterDiscordAddons/), [2](https://mwittrien.github.io/) / [Themes](https://www.limeshark.dev/editor), [2](https://gibbu.me/editor) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd), [2](https://discord.gg/sbA3xCJ)*
 * [Ripcord](https://cancel.fm/ripcord/) - *Lighweight Discord & Slack Client / [Themes](https://web.archive.org/web/20210116022920/https://tmad40.blue/ripcord_color_schemes.html) / [Binary Patcher](https://github.com/geniiii/patcher) / [Better Notifications](https://github.com/efskap/discord-notify)*
-* [Powercord](https://powercord.dev/) - *Anti-Telemetry Discord Addon / [CSS](https://discord.gg/QfGXuvy6Qn) / [Plugins](https://github.com/topics/powercord-plugin) / [Embed Generator](https://github.com/TheShadowGamer/safe-embed-generator). [2](https://github.com/ThykeAdams/-PowerCord-Embedify) / [Theme Converter](https://cr3atable.github.io/Powerconvert) / [Premid](https://github.com/MulverineX/premid-powercord) / [Dark Theme](https://github.com/zespire/dark-theme) / [Pronouns](https://github.com/cyyynthia/pronoundb-powercord) / [Crash Test](https://github.com/1Lighty/discord-crasher-checker)*
+* [Powercord](https://powercord.dev/) - *Anti-Telemetry Discord Addon / [CSS](https://discord.gg/QfGXuvy6Qn) / [Plugins](https://github.com/topics/powercord-plugin) / [Embed Generator](https://github.com/TheShadowGamer/safe-embed-generator). [2](https://github.com/ThykeAdams/-PowerCord-Embedify) / [Theme Converter](https://cr3atable.github.io/Powerconvert) / [Premid](https://github.com/MulverineX/premid-powercord) / [Dark Theme](https://github.com/zespire/dark-theme) / [Pronouns](https://github.com/cyyynthia/pronoundb-powercord)*
 * [Powerconvert](https://convert.creatable.cafe/) - *Convert BetterDiscord themes to Powercord*
 * [bdCompat](https://github.com/Juby210/bdCompat) - *Use BD Plugins in Powercord*
 * [Revert Rebrand](https://betterdiscord.app/theme/Revert%20Rebrand) - *Revert Discord’s Rebrand on BetterDiscord / Powercord / [GitHub](https://github.com/Goose-Nest/GT-RevertRebrand)*
@@ -898,7 +898,7 @@ General Reading Sites*
 * [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot) - *1337x Discord Bot* 
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter), [Discord History Tracker](https://dht.chylex.com/), [discord-archiver](https://github.com/nektro/discord-archiver) or [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper) - *Archive / Export Discord Chats* 
 * [Discord Style](https://www.discord.style/) - *Discord Server Templates*
-* [Discohook](https://discohook.org/), [Rauf's Embed Generator](https://embed.rauf.wtf), [discord.club](https://discord.club/embedg/), [Embeds.ga](https://embeds.ga/), [0x71](https://em.0x71.cc/) or [PSDiscord](https://github.com/EvotecIT/PSDiscord) - *Embed Generator* 
+* [Discohook](https://discohook.org/), [Rauf's Embed Generator](https://embed.rauf.wtf), [discord.club](https://discord.club/embedg/), [Embeds.ga](https://embeds.ga/), [0x71](https://em.0x71.cc/), [Webhook Gold](https://webhook.discord.gold/) or [PSDiscord](https://github.com/EvotecIT/PSDiscord) - *Embed / Webhook Generator* 
 * [Embed Visualizer](https://embed.discord.website/) - *Embed Visualization Tool* 
 * [Chimera](https://github.com/CedArctic/Chimera) - *System Remote Control* 
 * [Discord IRC](https://github.com/reactiflux/discord-irc) - *Connect Discord & IRC Chats* 
@@ -1241,7 +1241,6 @@ General Reading Sites*
 * [Windows Config Guide](https://rentry.co/fwt#optimize-offline) - *Friendly Windows Thread* 
 * [Mayfrost Guides](https://github.com/mayfrost/guides) - *Linux / Computing Guides*
 * [BloatBox](https://github.com/builtbybel/bloatbox) - *Remove Unwanted Windows Apps* 
-* [Take Ownership](https://www.dropbox.com/s/j8yk084d4bf1ixy/TakeOwnership.zip) - *Take Ownership of System Files* 
 * [AATU](https://amdaputuningutility.com/) - *Ryzen Mobile Laptop Tuning Utility*
 * [CPUid](https://www.cpuid.com/softwares/cpu-z.html) - *System Information Tool* 
 * [Wox](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) or [Alfred (Mac)](https://www.alfredapp.com/) - *Keystroke Launcher* 

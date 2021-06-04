@@ -31,7 +31,8 @@
 * [Crohasit](https://crohasit.net/)
 * [Le Fishe Repacks](https://lefishe.rf.gd/) - *[Discord](https://discord.gg/W3MfGDXhAS)*
 * [AllGamesForYou](https://agfy.co/) - *[Discord](https://discord.gg/KHYuPABbnP)*
-* [Steam Cracked](https://steamcracked.co/) - *[Discord](https://discord.gg/mFSrMKjbQg) / AGFY Owners*
+* [FreeGamesHub](https://freegameshub.co/) - *[Discord](https://discord.gg/8YZTkmGPra) / AGFY Uploads*
+* [Steam Cracked](https://steamcracked.co/) - *[Discord](https://discord.gg/mFSrMKjbQg) / AGFY Uploads*
 * [ElAmigos Games](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
 * [Black Box Repack](http://www.blackboxrepack.com/) 
 * [Ova Games](http://www.ovagames.com/)

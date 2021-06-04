@@ -606,6 +606,13 @@
 * [A101](http://a101.ir/) - *Anime* 
 * [anidlencodes](https://anidlencodes.xyz/) - *Anime* 
 * [my2amidl](http://my2amidl.pw/) - *Anime* 
+* [otakutales](https://otakutales.site/) - *Anime*
+* [bia2anime99](http://bia2anime99.ml/) - *Anime*
+* [anime-list16](https://anime-list16.site/) - *Anime*
+* [bia2anime20](http://bia2anime20.cf/ ) - *Anime*
+* [old.anime-list8](https://old.anime-list8.gq/) - *Anime*
+* [animesubtitle](https://animesubtitle.ir/) - *Anime*
+* [filmgozar](https://filmgozar.com/category/anime/) - *Anime*
 * [raygans](https://raygans.top/) - *Movies* 
 * [filmha](https://filmha.top/) - *Movies* 
 * [HamtaMovie](https://hamtamovie.run/) - *Movies / TV / Anime* 

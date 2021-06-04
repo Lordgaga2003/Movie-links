@@ -31,14 +31,14 @@
 * [KaOsKrew](https://www.kaoskrew.org/)
 * [Crohasit](https://crohasit.net/)
 * [Le Fishe Repacks](https://lefishe.rf.gd/) - *[Discord](https://discord.gg/W3MfGDXhAS)*
-* [AllGamesForYou](https://agfy.co/) - *[Discord](https://discord.gg/KHYuPABbnP)*
-* [FreeGamesHub](https://freegameshub.co/) - *[Discord](https://discord.gg/8YZTkmGPra) / AGFY Uploads*
-* [Steam Cracked](https://steamcracked.co/) - *[Discord](https://discord.gg/mFSrMKjbQg) / AGFY Uploads*
 * [ElAmigos Games](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
 * [Black Box Repack](http://www.blackboxrepack.com/) 
 * [Ova Games](http://www.ovagames.com/)
 * [GameTrex](https://gametrex.com/) 
 * [GamesDrive](https://gamesdrive.net/) - *[Discord](https://discord.gg/PKFAnduGtA)*
+* [AllGamesForYou](https://agfy.co/) - *[Discord](https://discord.gg/KHYuPABbnP)*
+* [FreeGamesHub](https://freegameshub.co/) - *[Discord](https://discord.gg/8YZTkmGPra) / AGFY Uploads*
+* [Steam Cracked](https://steamcracked.co/) - *[Discord](https://discord.gg/mFSrMKjbQg) / AGFY Uploads*
 * [Rihno Games](https://rihnogames.com/)
 * [SEHS Gamess](https://www.sehsgames.com/)
 * [GameLoo](http://www.gameloo.info/)

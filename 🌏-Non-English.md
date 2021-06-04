@@ -747,7 +747,6 @@
 * [allmults](https://allmults.org/) - *Movies*  
 * [DIAKOV](https://diakov.net/) - *Software* 
 * [LRepacks](https://lrepacks.ru/) - *Software* 
-* [Repack.me](https://repack.me/) - *Software* 
 * [muzlishko](http://www.muzlishko.ru/) - *Music / MP3*
 * [pesnigoo](https://pesnigoo.ru/) - *Music / MP3*  
 * [Tancpol](https://tancpol.net/) - *Music / MP3*

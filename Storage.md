@@ -1139,7 +1139,7 @@ Add the following commands to a search to manually scrape each site.
 
 ####Reverse Image Search
 
-**[Search by Image](https://github.com/dessant/search-by-image)**, [TinEye](https://tineye.com/) / [Extension](https://tineye.com/extensions), [Duplichecker](https://www.duplichecker.com/reverse-image-search.php), [Image Raider](https://infringement.report/api/raider-reverse-image-search/), [ascii2d](https://ascii2d.net/), [iqdb](http://iqdb.org/), [Reverse Image Analyser](https://www.osintcombine.com/reverse-image-analyzer), [same.energy](https://same.energy/)
+**[Search by Image](https://github.com/dessant/search-by-image)**, [TinEye](https://tineye.com/) / [Extension](https://tineye.com/extensions), [Duplichecker](https://www.duplichecker.com/reverse-image-search.php), [Image Raider](https://infringement.report/api/raider-reverse-image-search/), [ascii2d](https://ascii2d.net/), [iqdb](http://iqdb.org/), [Reverse Image Analyser](https://www.osintcombine.com/reverse-image-analyzer), [same.energy](https://same.energy/), [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/)
 
 ***
 

@@ -222,7 +222,7 @@
 
 ## ▷ Arcade / Retro
 
-* **[My Abandonware](https://www.myabandonware.com/)** - *Browser Emulator*
+* **[My Abandonware](https://www.myabandonware.com/)** - *Browser Emulator / Downloads*
 * **[RetroGames](https://www.retrogames.cz/)** - *Browser Emulator*
 * [Console Living Room](https://archive.org/details/consolelivingroom) - *Browser Emulator* 
 * [ClassicReload](https://classicreload.com/) - *Browser Emulator*

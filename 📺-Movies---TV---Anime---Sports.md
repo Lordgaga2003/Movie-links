@@ -61,6 +61,7 @@
 * [Afdah](https://afdah.info/) - *Movies / TV*
 * [VStream](https://movie.directmoviedl.com/) - *Movies / TV*
 * [Goojara](https://www.goojara.to/) - *Movies / TV / Anime*
+* [DHAKA FTP](http://103.205.233.70/) - *Movies*
 * [iMovies](https://www.imovies.cc/) - *Movies / TV / Anime*
 * [OkFreeMovies](https://okfreemovies.com/home) - *Movies / TV* 
 * [AllMoviesForYou](https://allmoviesforyou.co/) - *Movies / TV* 
@@ -481,7 +482,7 @@
 * [Live Action Movies ](https://sites.google.com/view/live-action-movies/home), [2](https://live-action-raws.tumblr.com/) - *Movies* 
 * [Media](https://drive.google.com/drive/folders/1FEXQWN5szPBTau3EPFaC8PkOgp3v4cve) - *Movies / TV / Anime / Drive* 
 * [dl1.3rver](http://dl1.3rver.org/), [2](http://dl2.3rver.org/ ), [3](http://dl3.3rver.org/) - *Movies / TV / Drive*
-* [dlb3d.ir](http://dl5.dlb3d.ir/Films/), [2](http://dl5.dlb3d.ir/G/), [3](http://dl5.dlb3d.ir/M/), [4](http://dl5.dlb3d.ir/S/), [5](http://dl5.dlb3d.ir/Tv.Shows/), [6](http://dl10.dlb3d.ir/M/), [7](http://dl11.dlb3d.ir/G/), [8](http://dl12.dlb3d.ir/F/), [9](http://dl12.dlb3d.ir/J/), [10](http://dl12.dlb3d.ir/S/) - *Movies / TV / Drive* 
+* [dlb3d.ir](http://dl5.dlb3d.ir/Films/), [2](http://dl5.dlb3d.ir/G/), [3](http://dl5.dlb3d.ir/M/), [4](http://dl5.dlb3d.ir/S/), [5](http://dl5.dlb3d.ir/Tv.Shows/), [6](http://dl10.dlb3d.ir/M/), [7](http://dl11.dlb3d.ir/G/), [8](http://dl12.dlb3d.ir/F/), [9](http://dl12.dlb3d.ir/J/), [10](http://dl12.dlb3d.ir/S/) - *Movies / TV / Drive*
 * [103.222.20.150](http://103.222.20.150/ftpdata/) - *Movies / Drive* 
 * [188.165.227.112](http://188.165.227.112/portail/) - *Movies / TV / Drive* 
 * [103.145.10.110](http://103.145.10.110/Data/) - *Movies / TV / Drive*
@@ -490,6 +491,7 @@
 * [185.105.101.222](http://185.105.101.222/) - *Movies / Drive*
 * [a092devs](https://drive.a092devs.workers.dev/0:/) - *Movies / TV / Anime / Drive* 
 * [s27.BitDL.ir](http://s27.bitdl.ir/) - *Movies / TV / Drive*
+* [DHAKA FTP](http://103.205.233.70/) - *Movies / Drive* 
 * [Easy-Movie](https://easy-movie.com.au/cdn/) - *Movies / Drive* 
 * [sv.dcnm.ir](https://sv.dcnm.ir/Serial/Foreign/) - *TV / Drive* 
 * [Cartoons Raw](https://cartoons-raws.tumblr.com/master-list), [2](https://sites.google.com/view/cartoonraws-disney/home) - *Cartoons* 

@@ -205,6 +205,7 @@
 * **[AniMixPlay](https://animixplay.to/)** - *Sub / Dub / Ad Free  [Discord](https://discord.gg/YyQ9cpS)* 
 * **[AnimeTribes](https://animetribes.ru/)** - *Sub* 
 * [AnimeKisa](https://animekisa.tv/) - *Sub / Dub*
+* [Zoro](https://zoro.to/) - *Sub / Dub*
 * [Aninow](https://aninow.net/) - *Sub / Dub*
 * [AnimePahe](https://animepahe.com/) - *Sub*
 * [AnimehHub](https://animehub.ac/) - *Sub / Dub*

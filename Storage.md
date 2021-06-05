@@ -612,7 +612,6 @@ Add the following commands to a search to manually scrape each site.
 * [Soul-Anime](http://ww9.soul-anime.us/) - *Sub*
 * [NWAnime](https://nwanime.tv/) - *Sub* 
 * [AniOrb](https://aniorb.me/) - *Sub*
-* [Zoro.to](https://zoro.to/) - *Sub / Dub*
 * [WonderfulSubs](https://www.wonderfulsubs.com/) - *Sub / Dub / [Discord](https://discord.com/invite/AQkYAbb)*
 * [DarkAnime](https://darkanime.stream/) - *Sub*
 * [Kawaiifu](https://kawaiifu.com/) - *Sub / Dub*

@@ -197,15 +197,15 @@
 
 * **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** + [Anime Streaming CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) - *Search multiple sites at once*
 * **[/r/AnimePiracy Index](https://piracy.moe/)** - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
-* **[9Anime](https://www12.9anime.to/)** or [9anime.ru](https://www12.9anime.ru/) - *Sub / Dub / Ads / Large Catalog / Adjustable Quality / [Mirrors](https://9anime.zone/)*
+* **[9Anime](https://www12.9anime.to/)** or [9anime.ru](https://www12.9anime.ru/) - *Sub / Dub / Ads / Large Catalog / Adjustable Quality / [Mirrors](https://9anime.zone/) / [Use Filter](https://redd.it/c330dx)*
 * **[Anime Twist](https://twist.moe/)** - *Sub / Mobile friendly / Ad Free / Medium Catalog /  High Quality / [Discord](https://discord.gg/Ea3Mq9n)*
-* **[4Anime](https://4anime.to/)** - *Sub / Mobile friendly /  Ad Free / Medium Catalog / High quality / [Discord](https://discord.gg/TzuEpf8)*
 * **[Anime8](https://anime8.ru/)** - *Sub / Dub / Mobile friendly / Ads / Large catalog / Adjustable quality*
 * **[AnimeFlix](https://animeflix.io/)** - *Sub / Dub*
 * **[AniMixPlay](https://animixplay.to/)** - *Sub / Dub / Ad Free  [Discord](https://discord.gg/YyQ9cpS)* 
 * **[AnimeTribes](https://animetribes.ru/)** - *Sub* 
 * **[AnimeKisa](https://animekisa.tv/)** - *Sub / Dub*
 * **[Zoro](https://zoro.to/)** - *Sub / Dub*
+* [4Anime](https://4anime.to/) - *Sub / Mobile friendly /  Ad Free / Medium Catalog / High quality / [Discord](https://discord.gg/TzuEpf8)*
 * [Aninow](https://aninow.net/) - *Sub / Dub*
 * [AnimePahe](https://animepahe.com/) - *Sub*
 * [AnimehHub](https://animehub.ac/) - *Sub / Dub*

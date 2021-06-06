@@ -358,7 +358,7 @@
 * [SportsBay](https://sportsbay.org/live-streams) - *Sports* 
 * [First Row Sports](https://firstsrowsports.tv/) - *Sports*
 * [720pStream](http://720pstream.tv/) - *Sports*
-* [CrackStreams](https://crackstreams.io/), [2](https://crackstreams.me/), [3](http://crackstreams.is/) - *Sports*
+* [CrackStreams](https://crackstreams.io/), [2](https://crackstreams.me/), [3](http://crackstreams.is/) - *Sports / [Discord](https://discord.gg/UhNr5XDx5R)*
 * [StreamEast](http://www.streameast.live/) - *Sports*
 * [ATDHE](http://atdhe.pro/) - *Sports* 
 * [Cricfree](https://cricfree.sc/) - *Sports* 

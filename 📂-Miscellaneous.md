@@ -282,7 +282,7 @@
 * /r/DataHoarder - *[Telegram](https://t.me/r_DataHoarder)*
 * /r/trackers 
 * /r/usenet 
-* [/r/CrackSupport - *Piracy / Gaming / Cracking Discussion / [Discord](https://discord.gg/eTsaTNpsxj)*
+* /r/CrackSupport - *Piracy / Gaming / Cracking Discussion / [Discord](https://discord.gg/eTsaTNpsxj)*
 * [CS.RIN.RU](https://cs.rin.ru/forum)
 * [Ru.Board](http://forum.ru-board.com/)
 * [Piracy Forum](https://pirates-forum.org/) 

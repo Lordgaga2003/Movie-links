@@ -647,7 +647,6 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [itty.bitty](https://itty.bitty.site/) - *Host Small HTML Sites / Apps* 
 * [Miraheze](https://miraheze.org/) - *Free Wiki Hosting* 
 * [WikiStalk](https://github.com/altilunium/wistalk) - *Analyze Wikipedia User's Activity*
-* [Wikipedia Tree](https://www.kamogo.com/) - *Wikipedia Link Tree View*
 * [Linktree](https://linktr.ee/), [Solo.to](https://solo.to/) or [ContactInBio](https://www.contactinbio.com/) - *Link All Your Sites on One Page* 
 * [Carrd](https://carrd.co/) - *One-Page Site Builder* 
 * [Ruffle](https://ruffle.rs/) - *Flash Emulator* 

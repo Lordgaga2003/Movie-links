@@ -260,7 +260,7 @@
 * [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - *Doom SNES Source Code*
 * [rottexpr](https://github.com/LTCHIPS/rottexpr) - *Rise of the Triad Source Port*
 * [ECWolf](https://maniacsvault.net/ecwolf/) - *Wolfenstein 3D, Spear of Destiny & Super 3D Noah's Ark Port*
-* [Aleph One](https://alephone.lhowon.org/) - *Marathon Game Engine* 
+* [Aleph One](https://alephone.lhowon.org/) - *Open-Source Marathon Continuation* 
 * [Powerslave EX](https://drive.google.com/file/d/1VFvOYKyjyFwH5sqSL5mz_jl3SdIUcAOY/view?usp=sharing) - *Powerslave PC Port* 
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - *Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)*
 * [frogg.ies mario ](https://froggi.es/mario/) - *Play Super Mario 64 in Browser* 

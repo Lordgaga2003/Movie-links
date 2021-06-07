@@ -360,7 +360,7 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * [SupaFlix](https://supaflix.1mt.top/) - *Movies / TV* 
 * [Pocket TV](https://pockettv.xyz/) - *Movies / TV*
 * [Rokkr](http://www.rokkr.net/ ) - *Movies / TV / 
-Add "huhu.to" or "oha.to"* 
+Add "huhu.to", "bs.to" or "oha.to"* 
 * [Airy TV](https://airy.tv/) - *Legal / Live TV* 
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - *YTS Torrents* 
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - *Chinese Drama* 

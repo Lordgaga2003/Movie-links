@@ -1114,7 +1114,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Read Paywalled Articles
 
-**[wallabag](https://wallabag.nixnet.services/)**, [bypass-paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome#bypass-paywalls), [anti-paywall](https://github.com/nextgens/anti-paywall), [Framabag](https://framabag.org/), [pocket](https://getpocket.com/), [outline](https://outline.com), [BriskReader](https://briskreader.com/), [bitbucket](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/)
+**[wallabag](https://wallabag.nixnet.services/)**, [bypass-paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome#bypass-paywalls), [anti-paywall](https://github.com/nextgens/anti-paywall), [Framabag](https://framabag.org/), [pocket](https://getpocket.com/), [outline](https://outline.com), [BriskReader](https://briskreader.com/), [bitbucket](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/) / [2](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
 
 ***
 

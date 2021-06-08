@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/19MdqLs.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/sp6yVuW.png)** - *For mobile users*
 
 ***
 ***
@@ -480,6 +480,16 @@
 
 * irc://irc.undernet.org/bookz
 * irc://irc.irchighway.net/ebooks
+
+***
+
+#### Killmyself Clones
+
+* https://arconaitv.xyz/
+* https://brickstreams.xyz/
+* https://scrubtv.cloud/
+* https://scrubtv.me/
+* https://netflix.bond/
 
 ***
 

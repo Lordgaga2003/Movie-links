@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/egakRdA.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/dlcBsdN.png)** - *For mobile users*
 
 ***
 ***
@@ -341,6 +341,17 @@
 * [HQ Hip Hop](http://94hiphop.com/) - *Hip Hop / MP3 / FLAC*
 * [Rapload](https://rapload.org/) - *Hip Hop / MP3*
 * [MikuDB](http://mikudb.moe/) - *Vocaloid / MP3*
+
+*** 
+
+#### FMovies Clones
+
+* [FlixHQ](https://flixhq.net/)
+* [FBox](https://www1.fbox.to/)
+* [HuruWatch](https://hurawatch.com/)
+* [Movies7](https://movies7.to/)
+* [Flixtor](https://flixtor.one/)
+* [BFlix](https://www1.bflix.to/)
 
 ***
 

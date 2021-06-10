@@ -376,7 +376,6 @@
 * [uStreamix](https://ustreamix.to/index.html) - *TV / Sports* 
 * [LM Shows](https://lmshows.se/) - *TV*
 * [TVOnline.Liveschauen](https://tvonline.liveschauen.com/) - *TV* 
-* [Scrub.watch](https://scrub.watch/) - *TV* 
 * [WorldCupFootball](http://www.worldcupfootball.me/) - *Sports*
 * [cytube](https://cytu.be/) - *TV / chat*
 * [6stream](http://6stream.xyz/) - *Sports*

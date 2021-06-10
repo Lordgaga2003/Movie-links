@@ -80,7 +80,7 @@
 * [K a p K e y K](https://kpkyk.com/) - *Movies / TV*
 * [IceFilms](https://wwv.icefilms-info.com/) - *Movies / TV*
 * [LosMovies](https://losmovies.live/) - *Movies / TV / Anime* 
-* [GoldMovies](https://goldmovies.to/) or [123Movies.show](https://www.123movie.show/) - *Movies / TV / Anime* 
+* [GoldMovies](https://goldmovies.to/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_goldmovies_clones)* 
 * [Dutafilm](https://dutafilm.network/) - *Movies / TV / Anime*
 * [CineVood](https://cinevood.cyou/) - *Movies / TV*
 * [Movies123](https://www.movies123.email/) - *Movies / TV / Anime* 
@@ -99,8 +99,6 @@
 * [DownloadAnyMovie](https://www.downloads-anymovies.com/) - *Movies* 
 * [Teatv.xyz](https://teatv.xyz/) or [F5Movies](https://f5movies.co/) - *Movies / TV / Anime*
 * [Vmovee](https://www.vmovee.watch/) - *Movies / TV*
-* [CMovies](https://cmovies.ac/) - *Movies / TV / Anime* 
-* [Series9](https://www4.series9.ac/) - *Movies / TV / Anime* 
 * [GoWatchSeries](https://www3.gowatchseries.bz/) - *Movies / TV / Anime* 
 * [HDO](https://w9.hdonline.eu/) - *Movies / TV / Anime* 
 * [Ligaxxi](http://ligaxxi.xyz/) - *Movies / TV* 
@@ -114,11 +112,9 @@
 * [Movie4k](https://movie4k.123movies.online/) - *Movies / TV*
 * [SeeHD](https://seehd.nl/) - *Movies / TV / Anime* 
 * [SeeHD.uno](https://www.seehd.uno/) - *Movies / TV / Anime / NSFW* 
-* [YesMovies.sx](https://yesmovies.sx/) - *Movies / TV / Anime*
 * [Yesmovies.love](https://yesmovies.love/) - *Movies / TV / Anime* 
 * [GustaTV](https://www2.gustatv.to/) - *Movies / TV Anime*
 * [Pubfilms](https://old.pubfilms.club/) - *Movies / TV* 
-* [WWatchSeries](https://wwatchseries.com/) - *Movies / TV / Anime*
 * [GoMoviesFree](https://www13.gomoviesfree.page/) - *Movies / TV / Anime*
 * [Put-Locker](https://ww1.put-locker.com/) - *Movies / TV / Anime* 
 * [Cinehub](https://cinehub.wtf/) - *Movies / TV / [Discord](https://discord.com/invite/ZqHsfSEkBE)* 

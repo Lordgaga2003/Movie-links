@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/sp6yVuW.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/egakRdA.png)** - *For mobile users*
 
 ***
 ***
@@ -368,6 +368,16 @@
 * https://groups.google.com/g/roshanstgbot
 * https://groups.google.com/g/zanime
 * https://groups.google.com/g/rdrivelinks
+
+***
+
+#### GoldMovies Clones
+
+* [CMovies](https://cmovies.ac/)
+* [Series9](https://www4.series9.ac/)
+* [123Movies.show](https://www.123movie.show/)
+* [WWatchSeries](https://wwatchseries.com/)
+* [YesMovies.sx](https://yesmovies.sx/)
 
 ***
 

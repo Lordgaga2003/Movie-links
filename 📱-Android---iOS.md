@@ -180,7 +180,7 @@ App Manager
 * [Haoict Repository](https://haoict.github.io/cydia/) - *App Repository*
 * [DivestOS](https://divestos.org/fdroid/unofficial/), [2](https://divestos.org/fdroid/official/) - *App Repository*
 * [TeamOS](https://www.teamos-hkrg.com/) - *Modded / Forum* 
-* [ACMarket](https://acmarket.net/) - *Download Google play apps / modded*
+* [ACMarket](https://ac-market.org/) - *Modded*
 * [Aurora Store](https://auroraoss.com/) - *Alt Google Play Store / [F-Droid](https://f-droid.org/en/packages/com.aurora.store/)*
 * [Aptoide](https://aptoide.com/) - *Alt Android App Store*
 * [Android Zone](https://android-zone.ws/) - *Forum*

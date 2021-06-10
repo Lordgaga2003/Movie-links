@@ -412,7 +412,8 @@ RSS Player*
 # ► iOS Jailbreaking
 
 * [Can I Jailbreak](https://iosninja.io/jailbreak-wizard-can-i-jailbreak) - *Check if your phone can be jailbroken* 
-* [/r/jailbreak/](https://www.reddit.com/r/jailbreak/) - *Jailbreaking Subreddit*
+* /r/jailbreak - *Jailbreaking Subreddit*
+* /r/sideloaded - *Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)*
 * [checkra1n](https://checkra.in/) - *Jailbreaking 5s - X*
 * [IPSW](https://ipsw.me/) - *Provides Jailbreak firmware*
 * [Julioverne](https://julio.hackyouriphone.org/) - *Jailbreaking Tools* 

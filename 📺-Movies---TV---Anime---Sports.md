@@ -73,7 +73,7 @@
 ## ▷ Multi Hosts
 
 * **[HiMovies](https://www3.himovies.to/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)*
-* **[FMovies](https://fmovies.name/)**, [FlixHQ](https://flixhq.net/), [FBox](https://www1.fbox.to/), [HuruWatch](https://hurawatch.com/), [Movies7](https://movies7.to/), [Flixtor](https://flixtor.one/) or [BFlix](https://www1.bflix.to/) - *Movies / TV / Anime*
+* **[FMovies](https://fmovies.name/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)*
 * **[PrimeWire](https://www.primewire.li/)** - *Movies / TV / Anime*
 * [**YourPTFlixMovies**](https://yourptflixmovies.com/) - *Movies / TV*
 * [Movie-Forum](https://movie-forum.co/forum.php) - *Movies / TV*

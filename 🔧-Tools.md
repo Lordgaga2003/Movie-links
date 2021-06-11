@@ -1224,7 +1224,7 @@ General Reading Sites*
 
 * **[Windows Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/pirate-windows)**, [2](https://rentry.co/windows_for_retards)
 * **[Windows 10 Activation Guide](https://rentry.co/ActivateWin10)**, [2](https://redd.it/er3fon), [3](https://msguides.com/), [4](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation)
-* **[Windows ISO's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)**
+* **[Windows ISO's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - *Download Windows*
 * **[Windows Activation Scripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation_scripts)** 
 * **[Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)** 
 * **[Rainmeter](https://www.rainmeter.net/)**, [ScreenStyler](https://screenstyler.com/) / [Discord](https://discord.gg/u3thTMp9Cd) or [XDesktopSoft](https://www.xwidget.com/) - *Desktop Customization / [Utilities](https://github.com/EnhancedJax/PowerToysPlus)* 

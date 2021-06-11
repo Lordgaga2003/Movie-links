@@ -336,7 +336,7 @@
 * [Dino Swords](https://dinoswords.gg/) - *Stay Alive by Jumping / Destroying Cacti* 
 * [Slither.io](http://slither.io/) or [worm.is](http://play.worm.is/) - *Grow the longest worm*
 * [diep.io](https://diep.io/) - *Become the strongest tank* 
-* [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - *Conquer the most spots on the map*   
+* [Hexar.io](http://www.hexar.io/), [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - *Control the Map*   
 * [mitos.is](http://play.mitos.is/) - *Become the biggest cell* 
 * [agar.io](https://agar.io/) - *Become the biggest circle* 
 * [Hole.io](https://hole-io.com/) - *Become the biggest hole / [Discord](https://discord.gg/TS33SU2)* 

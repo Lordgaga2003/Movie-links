@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/dlcBsdN.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/8LKaeby.png)** - *For mobile users*
 
 ***
 ***
@@ -1704,6 +1704,18 @@ Good for finding classic, obscure & short films.
 #### Windows 10 Antispy Tools
 
 [ShutUp10](https://www.oo-software.com/en/shutup10), [Blackbird](https://www.getblackbird.net/), [Destroy Windows 10 Spying](https://m.majorgeeks.com/files/details/destroy_windows_10_spying.html), [W10Privacy](https://www.w10privacy.de/english-home/), [WPD](https://wpd.app/), [PrivateWin10](https://github.com/DavidXanatos/priv10), [Manage connection endpoints](https://docs.microsoft.com/en-us/windows/privacy/manage-windows-2004-endpoints), [Manage Microsoft Services connection endpoints](https://docs.microsoft.com/en-us/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services), [gp-pack PaT](https://www.gp-pack.com/gp-pack-pat-privacy-and-telemetry/), [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker), [privacy.sexy](https://privacy.sexy/), [optimizer](https://github.com/hellzerg/optimizer)
+
+***
+
+#### Windows 10 Debloater
+
+**[Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater)**, [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/), [win10script](https://github.com/ChrisTitusTech/win10script), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/)
+
+***
+
+#### Windows Activation Scripts
+
+**[Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts/)**, [KMS VL ALL](https://github.com/kkkgo/KMS_VL_ALL), [hwid.kms38.gen.mk6](https://web.archive.org/web/20210328020828/https://www.saidit.net/s/sjain_guides)/ [2](https://archive.md/8pdfC), [thk.003mk6](https://www.upload.ee/files/10182930/thk.003mk6.7z.html), [MyDigitalLife](https://forums.mydigitallife.net/)
 
 ***
 

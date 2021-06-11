@@ -41,6 +41,7 @@
 * [TheFlix](https://www.theflix.to/) - *Movies / TV* 
 * [LunchFlix](https://www.lunchflix.org/) - *Movies / TV*
 * [UniqueStream](https://uniquestream.vip/) - *Movies / TV / Anime*
+* [CooLMoviez](https://coolmoviez.app/) - *Movies / TV / Anime / [Telegram](https://t.me/coolmoviezfree)*
 * [FlixHub](https://flixhub.net/) - *Movies*
 * [TheMovieBay](https://vww.themoviebay.net/) - *Movies / TV / Videyo*
 * [TheWebFlicks](https://thewebflicks.com/) - *Movies / Streamtape* 
@@ -63,6 +64,7 @@
 * [VStream](https://movie.directmoviedl.com/) - *Movies / TV*
 * [Goojara](https://www.goojara.to/) - *Movies / TV / Anime*
 * [DHAKA FTP](http://103.205.233.70/) - *Movies*
+* [Join4Films](https://www.join4films.net/hollywood/) - *Movies*
 * [iMovies](https://www.imovies.cc/) - *Movies / TV / Anime*
 * [OkFreeMovies](https://okfreemovies.com/home) - *Movies / TV* 
 * [AllMoviesForYou](https://allmoviesforyou.co/) - *Movies / TV* 
@@ -84,7 +86,7 @@
 * [GoldMovies](https://goldmovies.to/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_goldmovies_clones)* 
 * [Dutafilm](https://dutafilm.network/) - *Movies / TV / Anime*
 * [CineVood](https://cinevood.cyou/) - *Movies / TV*
-* [Movies123](https://www.movies123.email/) - *Movies / TV / Anime* 
+* [Movies123](https://www.movies123.email/) or [123movies](https://ww.123movies.club) - *Movies / TV / Anime* 
 * [YMovies](https://ymovies.se/) - *Movies*
 * [TopEuroPix](https://topeuropix.site/) or [europixHD](https://europixhd.io/), [2](https://europixhd.pro/) - *Movies / TV / Anime*
 * [VidHotel](https://vidhotel.com/) - *Movies / TV / Anime*
@@ -107,6 +109,8 @@
 * [123MoviesMe](https://www.123moviesme.org/) or [MinionStream](https://www.minionstream.com/) - *Movies / TV* 
 * [123Moviesx](https://123moviesx.tv/) - *Movies / TV / Anime* 
 * [0123movies](https://watch0123movies.org) - *Movies / TV*
+* [0123MoviesHub ](https://0123movieshub.to/) - *Movies / TV / Anime*
+* [123MoviesGo](https://www.123moviesgo.li/) - *Movies / TV*
 * [123MovieWeb](https://123moviesweb.net/) - *Movies*
 * [Watch free](https://1watch-free.cc/) - *Movies / TV* 
 * [EMovies](https://emovies.io/) - *Movies / TV / Anime*
@@ -117,7 +121,7 @@
 * [GustaTV](https://www2.gustatv.to/) - *Movies / TV Anime*
 * [Pubfilms](https://old.pubfilms.club/) - *Movies / TV* 
 * [GoMoviesFree](https://www13.gomoviesfree.page/) - *Movies / TV / Anime*
-* [Put-Locker](https://ww1.put-locker.com/) - *Movies / TV / Anime* 
+* [Put-Locker](https://ww1.put-locker.com/) or [123moviesc](https://www.123moviesc.co/) - *Movies / TV / Anime* 
 * [Cinehub](https://cinehub.wtf/) - *Movies / TV / [Discord](https://discord.com/invite/ZqHsfSEkBE)* 
 * [Flenix](https://flenix.net/) - *Movies / TV / Anime* 
 * [HDFull](https://hdfull.lv/) - *Movies / TV / Anime* 
@@ -399,7 +403,8 @@
 * [Football Live Stream](https://football-live.stream/free-matches-online-6) - *Football* 
 * [Live.NFL.Stream](https://live-nfl.stream/) + *[Other Sports](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_nfl_stream_.28other_sports.29)* 
 * [NBAStreams](https://nbastreams.to/), [NFL](https://nflstreams.to/), [NHL](https://nhlstreams.to/), [MLB](https://mlbstreams.to/) - *Sports* 
-* [Topstreams](http://topstreams.info/) - *Sports / Live / Replays* 
+* [Topstreams](http://topstreams.info/) - *Sports* 
+* [BoxingStreams](https://boxingstreams.cc/) - *Boxing*
 * [F1 Live Stream](https://formula1-live.stream/free-races-online-4) - *F1* 
 * [LiveSoccer TV](https://www.livesoccertv.com/) - *Soccer*
 * [footybite](https://live.footybite.com/) - *Soccer* 
@@ -438,6 +443,8 @@
 * [DDLBase](https://ddlbase.net/) - *Movies / TV*
 * [megaDDL](https://megaddl.co/) - *Movies / TV*
 * [GDriveDL](https://gdrivedl.com/) - *Movies / TV*
+* [HDPopcorns](https://hdpopcorns.blog/) - *Movies*
+* [MoviesWBB](http://movieswbb.com/) - *Movie / TV*
 * [Movies4Discord](https://discord.com/invite/XBGm36RWEs) - *Movie Streaming / Download Bot / [Website](https://movies4discord.xyz/)*
 * [KatMovieHD](https://katmoviehd.nl/) - *Movies / TV / Anime*
 * [Amadei33](https://www.amadei33.com/) - *Movies / TV*  
@@ -464,17 +471,33 @@
 * [MoviezAddiction](https://moviezaddiction.me/) - *Movies / TV* 
 * [MovieMinions](https://www.movieminions.co/) - *Movies*
 * [WorldFree4u](https://worldfree4u.download/) - *Movies* 
+* [MP4Moviez](https://mp4moviez.pw/5/hollywood-english-movies.html) - *Movies / TV*
 * [Best-MovieZ](https://www.best-moviez.ws/) - *Movies / TV*
-* [480mkv](https://tvshows.480mkv.com/) - *TV*
-* [480p TV Shows](https://www.480ptvshows.com/) - *Movies / TV* 
+* [mkvCinemas](https://www.mkvcinemas.tube/) - *Movies*
+* [MKVHub](https://www.mkvhub.co/) - *Movies / TV*
 * [Gophie](https://gophie.cam/) - *Movies / TV*
 * [ULMovies](https://ulmovies.xyz/) - *Movies / TV* 
+* [oKhatrimaza](https://www.okhatrimaza.vin/category/7/hollywood-english-movies/default/1.html) - *Movies*
+* [SD Movies Point](https://1sdmoviespoint.kim/category/hollywooddd/) - *Movies / TV*
+* [SkyMoviesHD](https://skymovieshd.kim/category/Hollywood-English-Movies.html) - *Movies*
+* [Free Movies Watch Online](https://www.freemovieswatchonline.me/category/hollywood-movies-free-online-2019-s/) - *Movies*
+* [HDFriday](https://hdfriday.com/category/download-hollywood-movies/) - *Movies*
 * [PrivateMovieZ](https://privatemoviez.com/) - *Movies / TV*
 * [MegaUploadAgora](https://www.megauploadagora.com.br/) - *Movies / TV* 
-* [x265 Movies](https://x265movies.cc/) - *Movies / TV*
 * [Khatrimaza](https://khatrimaza1.in/) - *Movies / TV* 
 * [Warez Lover](https://warezlover.org/) - *Movies / TV* 
 * [LatestMovie4U](https://latestmovie4u.com/) - *Movies / TV / Anime* 
+* [x265 Movies](https://x265movies.cc/) - *Movies / TV*
+* [480mkv](https://tvshows.480mkv.com/) - *TV*
+* [480p TV Shows](https://www.480ptvshows.com/) - *Movies / TV* 
+* [300mbFilms](https://www.300mbfilms.ws/) - *Movies / TV*
+* [300mbPlus](https://300mbplus.space/category/hollywood/) - *Movies*
+* [TvShows4Mobile](https://tvshows4mobile.com/) - *TV / Anime*
+* [UHDMV](https://uhdmv.org/) - *HD Movies / TV*
+* [Blu-Ray.world](https://blu-ray.world/) - *HD Movies / TV*
+* [4K HDR](https://4k-hdr.org/) - *HD Movies / TV*
+* [4k-hd.club](https://4k-hd.club/) - *HD Movies*
+* [OlaMovies](https://olamovies.top/) - *HD Movies / TV* 
 * [Live Action Movies ](https://sites.google.com/view/live-action-movies/home), [2](https://live-action-raws.tumblr.com/) - *Movies* 
 * [Media](https://drive.google.com/drive/folders/1FEXQWN5szPBTau3EPFaC8PkOgp3v4cve) - *Movies / TV / Anime / Drive* 
 * [dl1.3rver](http://dl1.3rver.org/), [2](http://dl2.3rver.org/ ), [3](http://dl3.3rver.org/) - *Movies / TV / Drive*
@@ -492,11 +515,6 @@
 * [sv.dcnm.ir](https://sv.dcnm.ir/Serial/Foreign/) - *TV / Drive* 
 * [Cartoons Raw](https://cartoons-raws.tumblr.com/master-list), [2](https://sites.google.com/view/cartoonraws-disney/home) - *Cartoons* 
 * [Bakabt](https://bakabt.me/) - *Cartoons / [Signup](http://wiki.bakabt.me/index.php/Sign_up)* 
-* [UHDMV](https://uhdmv.org/) - *HD Movies / TV*
-* [Blu-Ray.world](https://blu-ray.world/) - *HD Movies / TV*
-* [4K HDR](https://4k-hdr.org/) - *HD Movies / TV*
-* [4k-hd.club](https://4k-hd.club/) - *HD Movies*
-* [OlaMovies](https://olamovies.top/) - *HD Movies / TV* 
 * [r/MegaLinks Backup](https://mega.nz/folder/fv4lCaZQ#6tS6HpQiWAjx6Ibr1N_D8w), [2](https://www71.zippyshare.com/v/behLhk3F/file.html)
 * [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_indexes) - *Most contain videos* 

@@ -395,7 +395,7 @@
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - *Create a Dancing Character* 
 * [Gifypet](https://gifypet.neocities.org/) - *Create Your Own Cute Pet* 
 * [Akinator](https://en.akinator.com/) - *20 Questions for characters and people*
-* [70's TV Simulator](https://www.my70stv.com/), [80's TV Simulator](https://www.my80stv.com/) or [90's TV Simulator](https://www.my90stv.com/)
+* [70's TV Simulator](https://www.my70stv.com/), [80's](https://www.my80stv.com/), [90's](https://www.my90stv.com/) or [00's TV Simulator](https://www.my00stv.com/)
 * [Neave.tv](https://neave.tv/) - *TV without context* 
 * [The Office Stare Machine](http://theofficestaremachine.com/) - *The Office Video Emotions* 
 * [Work at Dunder Mifflin](https://workatdundermifflin.com/) - *Listen to the Sounds of Dunder Mifflin* 

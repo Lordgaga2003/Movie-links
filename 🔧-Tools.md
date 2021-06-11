@@ -190,6 +190,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Piskel](https://www.piskelapp.com/), [rx](https://rx.cloudhead.io/), [PixelCraft](https://pixelcraft.web.app/) / [GitHub](https://github.com/rgab1508/PixelCraft) or [PixilArt](https://www.pixilart.com/draw) - *Pixel art editor* 
 * [Pedro's Pixel Art Tutorials](https://blog.studiominiboss.com/pixelart) - *Pixal Art Tutorials* 
 * [Croppola](https://croppola.com/) or [Avatar Cropper](https://avatarcropper.com/) - *Cropping Tool* 
+* [Simple Image Resizer](http://www.simpleimageresizer.com/) - *Resize Images*
 * [Resize App Icon](https://resizeappicon.com/) - *Resize Square Images* 
 * [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q) - *Sketchpad / Notepad* 
 * [Logo Makr](https://logomakr.com/), [Logoshi](https://www.logoshi.com/) or [ACME](https://acme.com/labelmaker/) - *Logo Creator* 

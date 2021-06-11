@@ -41,6 +41,7 @@
 * [TheFlix](https://www.theflix.to/) - *Movies / TV* 
 * [LunchFlix](https://www.lunchflix.org/) - *Movies / TV*
 * [UniqueStream](https://uniquestream.vip/) - *Movies / TV / Anime*
+* [FlixHub](https://flixhub.net/) - *Movies*
 * [TheMovieBay](https://vww.themoviebay.net/) - *Movies / TV / Videyo*
 * [TheWebFlicks](https://thewebflicks.com/) - *Movies / Streamtape* 
 * [FZMovies](https://fzmovies.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)* 

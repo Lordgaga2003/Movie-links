@@ -733,6 +733,7 @@ General Reading Sites*
 * [Soovle](https://soovle.com/) or [Keyword Tool](https://keywordtool.io/) - *Popular Keyword Generator*
 * [Social-Searcher](https://www.social-searcher.com/) or [Social Mention](http://socialmention.com/) - *Social Media Search Engine*  
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - *Forum Search Engine* 
+* [Blog Search Engine](http://www.blogsearchengine.org/) - *Blog Search*
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - *Search Engine for lightweight web pages*
 * [Search My Site](https://searchmysite.net/) - *Search Engine for Independent and Personal websites / Open Source*
 * [algolia](https://hn.algolia.com/) - *Hacker News Search* 

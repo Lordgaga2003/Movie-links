@@ -584,6 +584,7 @@
 * [Sarantakos](https://www.sarantakos.com/keimena.html) - *Greek (Modern)*
 * [Project Laurens Jz Coster](https://cf.hum.uva.nl/dsp/ljc/) - *Classic / Dutch*
 * [biblior](https://biblior.net/) - *French / English / Geography / History / Tales*
+* [ In Parenthesis](https://www.yorku.ca/inpar/) - *Historic Tales*
 * [Italian Women Writers](http://artflsrv02.uchicago.edu/cgi-bin/philologic/navigate.pl?iww.0) - *Classic / Italian*
 * [CELT](https://celt.ucc.ie/) - *Irish / History / Literature / Politics*
 * [textfiles.com](http://textfiles.com/) - *1980's Text File Index*
@@ -664,7 +665,8 @@
 * [DocDroid](https://www.google.com/search?q=site%3Adocdroid.net) - *Document Search* 
 * [Higher Intellect](https://preterhuman.net/) - *Document Search* 
 * [SkillCommons](https://www.skillscommons.org/) - *Work Training Documents* 
-* [What in The World](https://whatintheworld.xyz/) - *GDrive PDF / Document Search* 
+* [What in The World](https://whatintheworld.xyz/) - *GDrive PDF / Document Search*
+* [Institute of Education Sciences](https://eric.ed.gov/) - *Documents / Texts / Papers* 
 * [Pdfgeni](http://www.pdfgeni.com/) - *PDF Search*
 * [PDFGrab](https://pdfgrab.com/) - *PDF Search*
 * [PDFDrive](https://pdfdrive.com/) - *PDF Search* 

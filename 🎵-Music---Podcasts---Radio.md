@@ -77,8 +77,8 @@
 * [Podbay](https://podbay.fm/) - *Podcasts*
 * [WebOasis Radio](http://streamwat.ch/radio/) - *Genre-Based Radio*
 * [Chiru.no](https://chiru.no/) - *Multiple Online Radio Sites* 
-* [Archive.org](https://archive.org/details/audio?&sort=-downloads&page=1) - *News / Old-Radio / Podcasts*
-* [Old Time Radio](https://oldtime.radio/) - *Golden Age Radio Shows* 
+* [Archive.org](https://archive.org/details/audio?&sort=-downloads&page=1) - *News / Classic Radio / Podcasts*
+* [Dumb Old Time Radio](http://www.dumb.com/oldtimeradio/) or [Old Time Radio](https://oldtime.radio/) - *Classic Radio*
 * [Old Time Radio Downloads](https://www.oldtimeradiodownloads.com/) - *Classic Radio Downloads*
 * [adblock radio](https://www.adblockradio.com/en/) - *Ad Free Podcasts / Radio Player / [GitHub](https://github.com/adblockradio/adblockradio)*
 * [radiobot](https://t.me/radiobot) - *Radio / Telegram* 
@@ -123,9 +123,11 @@
 * [Soundrown](http://soundrown.com/) - *Ambient* 
 * [A Soft Murmur](https://asoftmurmur.com/) - *Ambient* 
 * [Nature Mixer](https://naturemixer.com/) - *Ambient* 
+* [MoodTurn](http://moodturn.com/) - *Ambient*
 * [Ambient Mixer](https://www.ambient-mixer.com/) - *Ambient / Music* 
 * [Calm](https://app.www.calm.com/) - *Meditation / Sleep Music* 
 * [Tide.fm](https://tide.fm/) or [Sounds4Sleep](https://sounds4sleep.com/) - *Meditation / Sleep Sounds* 
+* [ChillOuts](http://www.chillouts.com/) - *Meditation Aid*
 * [August Ambiance](https://augustambience.com/) - *Ambient Summer Sounds / Relaxation* 
 * [VirtCcean](https://virtocean.com/) - *Ambient Ocean Sounds*
 * [ASMRion](https://asmrion.com/), [2](https://defonic.com/vibeasmrion.html) - *Ambient Noise Generator*
@@ -241,13 +243,12 @@
 * **[Audio Torrent Sites Search](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)**
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "audio"*
 * **[Redtopia](https://git.fuwafuwa.moe/cairn/Redtopia)** - *Redtopia Repository / FLAC*
+* **[the /kpg/ torrent](https://kpg.neocities.org/)** - *800gb+ Torrent File*
 * **[Lidarr](https://github.com/Lidarr/Lidarr)** - *Autodownload music torrents*
 * [Music Torrent](http://music-torrent.net/) - *FLAC*
 * [Flactor](https://flactor.ru/) - *FLAC*
 * [Metal Tracker](https://en.metal-tracker.com/) - *Metal Music / MP3*
 * [RockBox](https://rawkbawx.rocks/) - *Metal Music / MP3*
-* [the /kpg/ torrent](https://kpg.neocities.org/) - *800gb+ Torrent File*
-* [RuTracker](http://rutracker.org/forum/index.php) - *Russian forum with lots of music*
 * [ZOMB Torrents](http://zombtracker.the-zomb.com/) - *Music sharing community / forum*
 * [bt.etree](http://bt.etree.org/) - *Live Concert Recordings* 
 

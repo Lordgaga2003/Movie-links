@@ -15,6 +15,7 @@
 * **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
 * **[Audiobook Bay](http://audiobookbay.net/)**, [2](http://audiobookbay.nl/), [3](http://www.audiobookbayabb.com/) - *Torrents / [Extension](https://addons.mozilla.org/en-US/firefox/addon/audiobookbay-magnet-assistant/)*
 * **[Tokybook](https://tokybook.com/)** - *Listen Online*
+* [Top 1,000 Audiobooks](https://mega.nz/folder/yvoQTKCL#cHzM6YY3JU3b65OzxecnmA) - *Audiobooks / Drive*
 * [Audiobooks](https://hotaudiobooks.com) - *Listen Online* 
 * [AudioBook Reviews](https://audiobookreviews.com/) 
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks) 
@@ -134,6 +135,7 @@
 * [Comics All](https://comics-all.com/) or [NewComics](https://newcomic.info/) - *Downloads*
 * [BookDL Comic & Manga](http://booksdl.org/comics0/) - *Comics / Manga / Drive*
 * [The-Eye Comics](http://the-eye.eu/public/Comics/) - *Comic Archive* 
+* [GoComics](https://www.gocomics.com/) - *Comics Strips*
 * [Zahard](https://zahard.top/) - *WebToons*
 * [RichieRichcomicsfanclub](https://richierichcomicsfanclub.wordpress.com/) - *Richie Rich Comics* 
 * [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - *Tor required* 
@@ -384,6 +386,7 @@
 * **[WiLd's Occult Ebook Sources](https://justpaste.it/WiLdOccultEbooks)** - *Occult / Esoterica*
 * **[Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm)** - *Mythology / Conspiracy / Esoterica*
 * [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2) - *Occult*
+* [GodChecker](https://www.godchecker.com/) - *Learn about Gods from different Religions*
 * [Hermetic International](https://www.hermetics.net/) - *Religion / Occult / Alchemy / Astrology / Freemasonry / Gnosticism / Hermetic / Kabbalah / Philosophy*
 * [Temple of Solomon the King](https://mega.nz/#F!SfZyUYRK!yW7p_LkWtooQaVZ3Vr6WLQ), [2](https://mega.nz/folder/ig0CBbLS#pGy_4LFIXKdtF_Ey5CVCdw/folder/TpVG3ITY) - *Occult / Gnosticism / Ect. / Drive* 
 * [Abundant Hope](https://krishnamurti.abundanthope.org/) - *Sacred Texts / Religion / Christianity / Buddhism / Alchemy / Hinduism / Islam / Theosophy / Judaism / Taoism*
@@ -410,6 +413,7 @@
 * [Azrk's library](https://www.mediafire.com/folder/z7x8kec9jidn2/Occult) - *Occult / Esoterica / Satanism / Religion / Ect.* 
 * [Spirituality Megadrive](https://mega.nz/#F!kd9h1A6Y!1waeMtxUpksB9eQsws0Zcg) 
 * [IAPSOP](http://iapsop.com/) - *Spiritualist / Occult Periodicals* 
+* [Mythology.net](https://mythology.net/) - *Mythology / Religion*
 * [Beyond Weird](https://www.beyondweird.com/) - *Assorted Documents / Witchcraft / Conspiracies*
 * [CraftStuff](https://drive.google.com/drive/u/0/mobile/folders/1BurmAyZ-iEpDARXawyeYmwD2MGHrw4l6?usp=sharing) - *Witchcraft*
 * [Alchemy](https://mega.nz/#F!jBk3nBwC!3kbcd3Yb0I1Dkw6GCBLY1A) 
@@ -529,6 +533,7 @@
 * [Naked Scientists](https://www.thenakedscientists.com/) - *Podcasts / Shows / Science* 
 * [Science Forums](https://www.scienceforums.net/) - *Forums / Science* 
 * [Space.com](https://www.space.com/) - *News / Exploration / Astronomy / Space*
+* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) - *Books / Notes / Astronomy*
 * [phys](https://phys.org/) - *Latest / News / Article / Physics* 
 * [RealNotComplex](https://realnotcomplex.com/) - *Math / Books*
 * [MathOnline](http://mathonline.wikidot.com/) - *Math / Courses*

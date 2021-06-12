@@ -129,6 +129,7 @@
 * [Emulator Online](https://emulatoronline.com/) - *Browser Emulator*
 * [PS1FUN](http://www.ps1fun.com/) - *PS1 Browser Emulator* 
 * [LYR9C](https://lyr9c.weebly.com/gba-games.html) - *GBA Browser Emulator* 
+* [LetsPlayGB](https://www.letsplaygb.com/) - *Game Boy Browser Emulator*
 * [PlanetEmu](http://www.planetemu.net/) - *Emulators*
 * [EmuCR](https://www.emucr.com/) - *Emulators*
 * [Retrostic](https://www.retrostic.com/) - *Emulators / Roms*
@@ -263,6 +264,7 @@
 * [Aleph One](https://alephone.lhowon.org/) - *Open-Source Marathon Continuation* 
 * [Powerslave EX](https://drive.google.com/file/d/1VFvOYKyjyFwH5sqSL5mz_jl3SdIUcAOY/view?usp=sharing) - *Powerslave PC Port* 
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - *Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)*
+* [Mars 3D](https://mars3d-game.wixsite.com/index) - *Mars 3D Translation & Remake*
 * [frogg.ies mario ](https://froggi.es/mario/) - *Play Super Mario 64 in Browser* 
 * [sm64](https://github.com/n64decomp/sm64) - *Super Mario 64 Decompilation / [Discord](https://discord.gg/duyh3fh) / [Guide](https://youtu.be/rQVpfWYT0eg)* 
 * [GtkAtlantic](https://gtkatlantic.gradator.net/index.html) or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - *Open Source Monopoly*
@@ -314,6 +316,8 @@
 * [AirConsole](https://www.airconsole.com/) - *Play Games on TV with your Phone as a Controller* 
 * [Surrogate](https://www.surrogate.tv/) - *Remote Control Real Life Games* 
 * [RobotStreamer](https://robotstreamer.com/) - *Live Control Robots* 
+* [Line Rider](https://www.linerider.com/) - *Draw Sled Tracks*
+* [Free Rider HD](https://www.freeriderhd.com/) - *Draw / Race Bike Tracks*
 * [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) - *Top Down Battle Royal* 
 * [ZombsRoyale.io](https://zombsroyale.io/) - *Zombie Battle Royale* 
 * [1v1.LOL](https://1v1.lol/) - *1v1 Building / Battle Sim*
@@ -351,6 +355,7 @@
 * [LanguageGuesser](https://languageguesser.com/) - *Guess Music Video Languages* 
 * [schoolprison](https://www.schoolprison.com/) - *Is this Building a School or Prison?* 
 * [Guess The Price](https://guesstheprice.net/) - *Price Guessing Game* 
+* [TotalJerkFace](https://totaljerkface.com/) - *Happy Wheels & More*
 * [ConnectTheStars](https://connectthestars.xyz/) - *Connect Stars through Movies*
 * [Blaseball](https://www.blaseball.com/) - *Odd Baseball Simulation Game* 
 * [Sokoban ](https://suppilulemur.neocities.org/) - *Box Moving Puzzle Game / Zelda-Themed*

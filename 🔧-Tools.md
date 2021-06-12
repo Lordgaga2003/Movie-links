@@ -11,19 +11,7 @@
 
 # ► General Tools
 
-* [PineTools](https://pinetools.com/) - *Multiple Online Tools*
-* [123Apps](https://123apps.com/) - *Multiple Online Tools*
-* [iTools](http://itools.com/) - *Multiple Online Tools* 
-* [Framasoft](https://framasoft.org/) - *Multiple Online Tools / Click "Menu"* 
-* [browserling Tools](https://www.browserling.com/tools/) - *Multiple Online Tools*
-* [Dan's Tools](https://www.danstools.com/) - *Multiple Online Tools*
-* [WebBrowserTools](https://webbrowsertools.com/) - *Multiple Online Tools*
-* [CyberChef](https://gchq.github.io/CyberChef/) - *Multiple Online Tools*
-* [ManyTools](https://manytools.org/) - *Multiple Online Tools* 
-* [Comment Picker](https://commentpicker.com/other-tools.php) - *Multiple Online Tools* 
-* [OSINT Combine](https://www.osintcombine.com/tools) - *Multiple Online Tools* 
-* [MxToolbox](https://mxtoolbox.com/NetworkTools.aspx) - *Multiple Online Tools* 
-* [Sumo](https://sumo.app/) - *Multiple Online Tools*
+* **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)** - *Sites with Multiple Tools*
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - *Open Source Tools* 
 * [Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites) - *Sites with many Calculators* 
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - *AI Experiments / Tools* 
@@ -59,7 +47,6 @@
 * [BeMyEyes](https://www.bemyeyes.com/) - *Visually Assist Blind / Low Vision People* 
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) or [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools) - *Digital forensics Tools*  
 * [Chaotic Shiny](http://chaoticshiny.com/) - *Fantasy Writing Generator* 
-* [Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools)
 * [QotNews](https://news.t0.vc/), [spidr](https://spidr.today/), [Knewz](https://knewz.com/), [All Sides](https://www.allsides.com/), [News Radius](https://newsradius.news/), [NewsLookup](http://www.newslookup.com/), [NewsNow](https://www.newsnow.co.uk/) or [Google News](https://news.google.com/) - *News Feed Aggregator*
 * [/m/news](https://www.reddit.com/user/nbatman/m/news/) - *News Multireddit*
 * [ABYZNews](http://www.abyznewslinks.com/), [AllYouCanRead](https://www.allyoucanread.com/) or [OnlineNewspapers](http://www.onlinenewspapers.com/index.shtml) - *Worldwide News Sites Index* 
@@ -592,6 +579,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Browsers with a focus on Privacy* 
 * **[Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers) - *Normal Web Browsers*
 * **[Browser Extensions / UserScripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_extensions)** 
+* **[Internet Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_browser_tools)** - *Internet & Browser Privacy Tools* 
 * **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_managers)** - *Manage / Save Passwords*
 * **[Email Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites)** - *No Verification Required Email Sites* 
 * **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - *Create Temporary Email Addresses*
@@ -599,6 +587,9 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)** - *Host Sites for Free*
 * **[Consuming The World](https://weboas.is/forum/index.php?topic=656.0)** - *RSS Feed List / Guide*
 * **[IsItDownRightNow](https://www.isitdownrightnow.com/)**, [IsThisServiceDown](https://istheservicedown.com/), [DownDetector](https://downdetector.com/) or [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/) - *Check if a Site is Down*
+* [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - *Test Internet Speed*
+* [OONI](https://ooni.org/) - *Test Site Blocking / Network Speed*
+* [ISP Logger](https://isplogger.com/) - *Internet Performance Monitor* 
 * [Blocked](https://www.blocked.org.uk/) - *ISP Site Blocking Test* 
 * [FeedReader](http://www.feedreader.com/), [QuiteRSS](https://quiterss.org/), [RSSOwl](http://www.rssowl.org/), [CommaFeed](https://www.commafeed.com/#/welcome), [RSSHub](https://github.com/DIYgod/RSSHub), [Fluent Reader](https://hyliu.me/fluent-reader/) or [Feeder](https://feeder.co/) - *RSS Feed Reader* 
 * [DatoRSS](https://www.datorss.com/) or [RSS.app](https://rss.app/) - *RSS Feed Search* 
@@ -657,9 +648,6 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Integrated Inbox](https://integratedinbox.com/) - *Gmail Google Web App Integration*
 * [Namechk](https://namechk.com/), [Username Checker](https://checkuser.org/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Check username and domain availability*
 * [Pyfunceble](https://pyfunceble.github.io/#/) - *Check IP / domain availability* 
-* [fast](https://fast.com/), [LibreSpeed](https://librespeed.org/), [Xfinity Speed Test](https://speedtest.xfinity.com/), [DLS Reports](http://www.dslreports.com/tools), [Bandwidth Place](https://www.bandwidthplace.com/), [Cloudflare](https://speed.cloudflare.com/), [Google Speed Test](https://www.google.com/search?q=internet+speed+test) or [Speedtest](https://www.speedtest.net/) - *Internet Speed Test*
-* [OONI](https://ooni.org/) - *Test Site Blocking / Network Speed*
-* [ISP Logger](https://isplogger.com/) - *Internet Performance Monitor* 
 * [HostsDock](https://eshengsky.github.io/HostsDock/) - *Manage & Switch Hosts* 
 * [My IP Address](https://myipaddress.ru/) or [WhatIsMyIPLookup](https://whatismyiplookup.com/) - *Check your IP Address*
 * [open-ports](https://www.yougetsignal.com/tools/open-ports/) - *Port Forwarding Tester*
@@ -1070,6 +1058,7 @@ General Reading Sites*
 * [CPUid](https://www.cpuid.com/softwares/cpu-z.html) - *System Information Tool* 
 * [Wox](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) or [Alfred (Mac)](https://www.alfredapp.com/) - *Keystroke Launcher* 
 * [Cerebro App](https://cerebroapp.com/) or [Zazu App](http://zazuapp.org/) - *System Productivity Booster*
+* [Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - *Automate Tasks*
 * [PowerToys](https://github.com/microsoft/PowerToys) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - *Windows Tweaks*
 * [Win10 Widgets](https://win10widgets.com/) - *Widgets for Windows 10* 

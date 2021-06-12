@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/aYoRTVm.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/VYG3GEz.png)** - *For mobile users*
 
 ***
 *** 
@@ -1470,7 +1470,3 @@ General Reading Sites*
 ***
 
 # ► [Educational Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_educational_tools)
-
-***
-
-# ► [Language Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_language_learning)

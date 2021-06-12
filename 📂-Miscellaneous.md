@@ -342,12 +342,13 @@
 * **[Conversational Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_conversational_chatbots)** - *Chat with AI*
 * **[Live Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)** - *Watch Live Webcams*
 * **[FMHY Curated Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - *Multireddits curated by FMHY memebers*
-* [StumblingOn](https://stumblingon.com/), [Stumbled](https://stumbled.cc/), [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/), [JumpStick](https://jumpstick.app/), or [random](https://random.new/) - *Takes you to a Random Site*
+* [StumblingOn](https://stumblingon.com/), [Stumbled](https://stumbled.cc/), [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/), [JumpStick](https://jumpstick.app/), [OpenBulkURL](https://openbulkurl.com/random/) or [random](https://random.new/) - *Takes you to a Random Site*
 * [NeverThink](https://neverthink.tv/) - *Watch Random Memes / Videos* 
 * [Neal.fun](https://neal.fun/) - *Sites / Games*
 * [Just For Fun](https://justforfun.io/) or [Andrew Marsh](http://andrewmarsh.com/software) - *Coding Project Showcase* 
 * [Trippy shit Mega List](https://triptoysfor.me/) - *Fun trippy stuff* 
 * [Bimble Space](https://in.bimble.space/toys) - *Multiple Toys / Art Tools* 
+* [MoodLight](https://www.moodlight.org/) - *Turn Screen into Strobe Light*
 * [Drinking Game Zone](https://drinkinggamezone.com/) - *Drinking Games Encyclopedia* 
 * [Drinkify](http://drinkify.org/) - *Picks Drinks Based on Songs* 
 * [Activity Suggestion](https://www.activitysuggestion.com/) or [bored.solutions](https://bored.solutions/) - *Activity Suggestions* 
@@ -554,6 +555,7 @@
 * [Get Font](https://getfont.herokuapp.com/) - *Find Font in Github* 
 * [Cava's Pixel Resources ](https://caveras.net/) - *Pixel Fonts* 
 * [Scanlation School Drive](https://drive.google.com/drive/folders/1hPV4o8fmxY2Ab9tXi84l0vVOUQEgFIbU) - *Comic Fonts*
+* [Make WordArt](https://www.makewordart.com/) - *WordArt Generator*
 * [int10h](https://int10h.org/oldschool-pc-fonts/) - *Oldschool PC Fonts* 
 * [Codeface](https://github.com/chrissimpkins/codeface) - *Fonts for Coding* 
 * [FiraCode](https://github.com/tonsky/FiraCode) - *Monospace Fonts* 

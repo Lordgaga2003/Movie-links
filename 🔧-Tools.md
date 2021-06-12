@@ -1473,4 +1473,4 @@ General Reading Sites*
 
 ***
 
-## ▷ [Language Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_language_learning)
+# ► [Language Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_language_learning)

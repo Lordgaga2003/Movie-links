@@ -300,6 +300,7 @@
 * [Cartoon Network Games](https://www.cartoonnetwork.com/games/index.html)
 * [WBKidsGo](https://www.wbkidsgo.com/)
 * [Disney LOL](https://lol.disney.com/games/)
+* [Lego Games](https://www.lego.com/en-us/kids/games) - *Lego Games*
 * [Friv](https://friv.com/), [2](https://web.archive.org/web/*/Friv.com)
 * [Ninjakiwi](https://ninjakiwi.com/) - *Browser Games / Bloons / Multiplayer*
 * [Games on GitHub](https://github.com/leereilly/games) - *GitHub Hosted Games*

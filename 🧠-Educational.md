@@ -162,6 +162,40 @@
 
 ***
 
+# ► Language Learning 
+
+* **[Awesome-Lang](https://github.com/oyd11/awesome-lang)** - *Language Learning Resource Index* 
+* **[Languages and Linguistics](https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w)** - *Language Learning Books*
+* [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi Language Dictionary Index*
+* [WordReference](https://www.wordreference.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
+* [Memrise](https://www.memrise.com/), [Busuu](https://www.busuu.com/en/) or [Duolingo](https://www.duolingo.com/) - *Language Learning Lessons* 
+* [Yojik](https://fsi-languages.yojik.eu/index.html) - *Language Learning Courses*
+* [refold.la](https://refold.la/roadmap) - *Language Learning Guide* 
+* [Learn English Online](http://www.learn-english-online.org/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - *Learn English*
+* [MyLanguages](http://mylanguages.org/) - *Grammar / Vocabulary Language Learning*
+* [EnglishAccentMap](https://www.englishaccentsmap.com/) - *English Accent Videos / Map* 
+* [paralleltext](http://paralleltext.io/) - *Learn Languages by Reading Translated Books Parallel* 
+* [HelloTalk](https://www.hellotalk.com/) - *Learn Languages by Chatting to Native Speakers* 
+* [Lang-8](https://lang-8.com/) - *Learn Languages with help from Native Speakers* 
+* [Readlang](https://readlang.com/) - *Learn a Language While Web Browsing* 
+* [Polyglot](https://polyglotclub.com/) - *Offline Language Exchange* 
+* [AnimeLon](https://animelon.com/) - *Streaming / Anime / Learn Japanese*
+* [Marshall's Site](https://marshallyin.com/) - *Learn Japanese* 
+* [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - *Japanese Practice Material*
+* [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - *Japanese Accent Dictionary* 
+* [GetKanda](https://getkana.com/app/) - *Learn / Memorize Kana* 
+* [Read Korean Letters](https://readkoreanletters.com/) - *Learn Korean Characters* 
+* [Mandarin Chinese](https://drive.google.com/drive/u/0/mobile/folders/152oeHQoeqvC9RVMk6kJi1irAlSSp7NVk?usp=sharing) - *Mandarin Chinese Learning Books*
+* [youglish](https://youglish.com/) - *Youtube Word Pronunciations* 
+* [ASL Resources](https://t.me/ASLresources) - *American Sign Language Resources / Telegram* 
+* [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - *American Sign Language* 
+* [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)  
+* [BSL Dictionary](https://www.signbsl.com/) - *British Sign Language* 
+* [Language Drops](https://languagedrops.com/) - *Language Learning App / [Premium](https://forum.mobilism.org/search.php?keywords=drops&sr=topics&sf=titleonly)*
+* [Manji](https://github.com/Livinglist/Manji) - *Language Learning / Japanese / Kanji*
+
+***
+
 # ► Educational Tools
 
 * **[The Free Learning List](https://freelearninglist.org/)** - *Free Educational Sites / Tool Index* 
@@ -262,37 +296,3 @@ https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.white
 * [Sideways Dictionary](https://sidewaysdictionary.com/) - *Common Computer Terms Explained Simply*
 * [Future Vision BIE](https://hemanthrajhemu.github.io/) - *VTU Study Materials*
 * [P2PU](https://www.p2pu.org/) - *Join Learning Groups Using Free Courses* 
-
-***
-
-## ▷ Language Learning 
-
-* **[Awesome-Lang](https://github.com/oyd11/awesome-lang)** - *Language Learning Resource Index* 
-* **[Languages and Linguistics](https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w)** - *Language Learning Books*
-* [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi Language Dictionary Index*
-* [WordReference](https://www.wordreference.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
-* [Memrise](https://www.memrise.com/), [Busuu](https://www.busuu.com/en/) or [Duolingo](https://www.duolingo.com/) - *Language Learning Lessons* 
-* [Yojik](https://fsi-languages.yojik.eu/index.html) - *Language Learning Courses*
-* [refold.la](https://refold.la/roadmap) - *Language Learning Guide* 
-* [Learn English Online](http://www.learn-english-online.org/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - *Learn English*
-* [MyLanguages](http://mylanguages.org/) - *Grammar / Vocabulary Language Learning*
-* [EnglishAccentMap](https://www.englishaccentsmap.com/) - *English Accent Videos / Map* 
-* [paralleltext](http://paralleltext.io/) - *Learn Languages by Reading Translated Books Parallel* 
-* [HelloTalk](https://www.hellotalk.com/) - *Learn Languages by Chatting to Native Speakers* 
-* [Lang-8](https://lang-8.com/) - *Learn Languages with help from Native Speakers* 
-* [Readlang](https://readlang.com/) - *Learn a Language While Web Browsing* 
-* [Polyglot](https://polyglotclub.com/) - *Offline Language Exchange* 
-* [AnimeLon](https://animelon.com/) - *Streaming / Anime / Learn Japanese*
-* [Marshall's Site](https://marshallyin.com/) - *Learn Japanese* 
-* [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - *Japanese Practice Material*
-* [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - *Japanese Accent Dictionary* 
-* [GetKanda](https://getkana.com/app/) - *Learn / Memorize Kana* 
-* [Read Korean Letters](https://readkoreanletters.com/) - *Learn Korean Characters* 
-* [Mandarin Chinese](https://drive.google.com/drive/u/0/mobile/folders/152oeHQoeqvC9RVMk6kJi1irAlSSp7NVk?usp=sharing) - *Mandarin Chinese Learning Books*
-* [youglish](https://youglish.com/) - *Youtube Word Pronunciations* 
-* [ASL Resources](https://t.me/ASLresources) - *American Sign Language Resources / Telegram* 
-* [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - *American Sign Language* 
-* [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)  
-* [BSL Dictionary](https://www.signbsl.com/) - *British Sign Language* 
-* [Language Drops](https://languagedrops.com/) - *Language Learning App / [Premium](https://forum.mobilism.org/search.php?keywords=drops&sr=topics&sf=titleonly)*
-* [Manji](https://github.com/Livinglist/Manji) - *Language Learning / Japanese / Kanji*

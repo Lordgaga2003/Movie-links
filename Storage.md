@@ -212,7 +212,7 @@
 
 #### Conversational Chatbots
 
-[Replika](https://replika.ai/), [Mitsuku](https://www.pandorabots.com/mitsuku/), [cleverbot](https://www.cleverbot.com/), [eviebot](https://www.eviebot.com/en/), [rose](http://ec2-54-215-197-164.us-west-1.compute.amazonaws.com/speech.php), [jabberwacky](http://www.jabberwacky.com/), [Kajiwoto](https://kajiwoto.com/) (ai builder)
+[Replika](https://replika.ai/), [Mitsuku](https://www.pandorabots.com/mitsuku/), [cleverbot](https://www.cleverbot.com/), [eviebot](https://www.eviebot.com/en/), [rose](http://ec2-54-215-197-164.us-west-1.compute.amazonaws.com/speech.php), [jabberwacky](http://www.jabberwacky.com/), [Kajiwoto](https://kajiwoto.com/) (ai builder), [God](http://www.dumb.com/god/)
 
 ***
 
@@ -810,13 +810,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Name & Identity Generators
 
-**Names**
-
-[namefake](https://en.namefake.com/), [minirandom](https://minirandom.com/), [namegenerators](http://namegenerators.org/), [online-generator.com](https://online-generator.com/index.php), [igopaygo](https://names.igopaygo.com/), [fakena.me](https://fakena.me/), [Fake Name Generator ](https://www.fakenamegenerator.com/)
-
-**Identity**
-
-[fakepersongenerator](https://www.fakepersongenerator.com/), [datafakegenerator](https://datafakegenerator.com/), [elfqrin](https://www.elfqrin.com/), [fakedetail](https://fakedetail.com/)
+[Fake-it](https://fake-it.ws/), [Fake Data](https://www.fakedata.pro/), [namefake](https://en.namefake.com/), [minirandom](https://minirandom.com/), [namegenerators](http://namegenerators.org/), [online-generator.com](https://online-generator.com/index.php), [igopaygo](https://names.igopaygo.com/), [fakena.me](https://fakena.me/), [Fake Name Generator](https://www.fakenamegenerator.com/), [fakepersongenerator](https://www.fakepersongenerator.com/), [datafakegenerator](https://datafakegenerator.com/), [elfqrin](https://www.elfqrin.com/), [fakedetail](https://fakedetail.com/)
 
 ***
 
@@ -1347,6 +1341,7 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28) - *Video / Courses / NSFW / Drive* 
 * [17.103.80.101](http://117.103.80.101/) - *Video / Software / Games / Drive* 
 * [Public.crackhub](https://public.crackhub.site/) - *Video / Books / Games*
+* [PHLucas](https://www.phlucas.com/downloads/Shared/) - *Video / Audio / Books / Drive*
 * [index-of](http://index-of.es/) - *Tech / Programming / Directory* 
 * [Manny Hackers](https://apd.msbots.workers.dev/0:/)
 * [Mirror Bot](https://mirrorbot.sarutobi.workers.dev/)
@@ -1563,7 +1558,7 @@ Downlaod from deezer also supports playlist from Spotify
 
 #### Torrent to GDrive
 
-**[Light Cloud](https://t.me/lightzcloud)**, [KL torrent](https://t.me/kltorrent), [Torrent Bots](https://t.me/TorrentBots), [TorrentXbot](https://t.me/TorrentXbot), [torrentdrive_bot](https://t.me/torrentdrive_bot), [tgpublicdrive](https://t.me/tgpublicdrive), [publicdrive](https://t.me/publicdrive), [Mirror-Bot](https://github.com/KenHV/Mirror-Bot)
+**[Light Cloud](https://t.me/lightzcloud)**, [KL torrent](https://t.me/kltorrent), [Torrent Bots](https://t.me/TorrentBots), [TorrentXbot](https://t.me/TorrentXbot), [torrentdrive_bot](https://t.me/torrentdrive_bot), [tgpublicdrive](https://t.me/tgpublicdrive), [publicdrive](https://t.me/publicdrive), [Mirror-Bot](https://github.com/KenHV/Mirror-Bot), [Torrent2Drive](https://t.me/torrent_2_drive)
 
 *** 
 

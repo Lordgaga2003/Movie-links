@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/VYG3GEz.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/96HdXqb.png)** - *For mobile users*
 
 ***
 *** 
@@ -1043,188 +1043,6 @@ General Reading Sites*
 
 ***
 
-## ▷ Developer Tools
-
-* **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - *Read / Download programming books* 
-* **[freeCodeCamp](https://www.freecodecamp.org/)** - *Programming / Courses / Interactive*
-* **[List.community](https://list.community/)** - *Programming / Development GitHub Lists* 
-* **[goormIDE](https://ide.goorm.io/)**, [Visual Studio](https://visualstudio.microsoft.com/), [Codeanywhere](https://codeanywhere.com/), [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [Anyfiddle](https://www.anyfiddle.com/) or [Glitch](https://glitch.com/) - *Cloud IDE / [Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) / [Themes](https://oslo-vsc.netlify.app/)* 
-* **[The Odin Project](https://www.theodinproject.com/)** - *Web Dev Tutorials / Courses*
-* [ReverseEagle](https://developers.reverseeagle.org/) or [free-for.dev](https://free-for.dev/) - *Developer Tools*
-* [WebdevHome](https://webdevhome.github.io/) or [Tiny Tools](https://tinytools.directory/) - *Programming / Developer Tools*
-* [Developer.Mozilla](https://developer.mozilla.org/) - *Developer Resources* 
-* [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
-* [Roadmap](https://roadmap.sh/) - *Developer Roadmaps / Guides* 
-* [QuickRef.ME](https://quickref.me/) or [Devhints](https://devhints.io/) - *Developer Cheatsheets*
-* [Awesome-Discord-Communities](https://github.com/mhxion/awesome-discord-communities) - *Programming / Developer / Discord Communities*
-* [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
-* [Programiz](https://www.programiz.com/) - *Coding Tutorials*
-* [JDFiddle](https://jsfiddle.net/ ), [W3Schools](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python), [CollabEdit](http://collabedit.com/), [Portacode](https://portacode.com/), [SoloLearn](https://www.sololearn.com/) / [Playground](https://code.sololearn.com/) or [JSFiddle](https://jsfiddle.net/) [PlayCode](https://playcode.io/) - *Online Code Editor* 
-* [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/) - *Code / Text Editor* 
-* [CodePen](https://codepen.io/) - *Code Sandbox* 
-* [SpaceVim](https://spacevim.org/), [NeoVim](https://neovim.io/) or [Vim](https://www.vim.org/) - *Program Source Code Editor / [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Android](https://github.com/shiftrot/droidvim), [2](https://f-droid.org/packages/com.droidvim) / [Config](https://github.com/ChristianChiarulli/LunarVim)* 
-* [Mega Linter](https://github.com/nvuillam/mega-linter) - *Code Analyser* 
-* [Sourcegraph](https://sourcegraph.com/) - *Universal Code Search*
-* [ShareScript](https://sharescript.net/) - *Script / Code Index*
-* [challenges.re](https://challenges.re/) - *Reverse Engineer Code*
-* [DelphiTools](https://www.delphitools.info/) - *Code Profiler / Delphi Tools*
-* [Dracula](https://draculatheme.com/) - *Dark Theme for Code Editors / Terminal Emulators* 
-* [Giters](https://www.giters.com/) or [GitGud](https://gitgud.io/) - *Git hosting*
-* [Git / Github Guide](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
-* [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - *Git Learning Game*
-* [Colorful](https://github.com/Siddharth11/Colorful) - *Curated List of Color Scheme Resources* 
-* [Colormind](http://colormind.io/) or [Coolors](https://coolors.co/) - *Color Palette Generator*
-* [Colorpedia](https://github.com/joowani/colorpediahttps://coolors.co/) - *Lookup Colors & Palettes via Command-Line* 
-* [HTMLDog](https://htmldog.com/) - *HTML / CSS / JavaScript Tutorials* 
-* [HTML Meta Tags](https://gist.github.com/lancejpollard/1978404) - *List of Common HTML Meta Tags Complete* 
-* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - *Programming Tutorials*
-* [Codecademy](https://www.codecademy.com/) - *Coding Lessons* 
-* [CodeProject](https://www.codeproject.com/) - *Developer Forum / Q&A / Articles* 
-* [Aquent Gymnasium](https://thegymnasium.com/) - *Courses* 
-* [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - *Mobile Friendly Page Test* 
-* [Hacksplaining](https://www.hacksplaining.com/) - *Developer Security Lessons* 
-* [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- *Penetration Testing Resources*
-* [Laws of UX](https://lawsofux.com/) - *Maxims / Principles for UI Designers* 
-* [UI Coach](https://uicoach.io/) - *UI Design Challenge Generator*
-* [SchoolOfHaskell](https://www.schoolofhaskell.com/) - *Haskell Tutorials* 
-* [Minifier](https://www.willpeavy.com/tools/minifier/) - *Minify HTML, CSS & JS Markup HTML* 
-* [HTML.com](https://html.com/) - *HTML Guide / Cheat Sheet*
-* [HTML Reference](https://htmlreference.io/) - *HTML Guide* 
-* [HTML Compressor](https://htmlcompressor.com/compressor/)
-* [HTML Notepad](https://html-notepad.com/) - *HTML Editor*
-* [TryIt HTML](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro), [CodeTester](http://codetester.org/), [HTML-Online](https://html-online.com/editor/) or [jsTester](https://www.cs.iupui.edu/~ajharris/webprog/jsTester.html) - *Online HTML5 Editor & Tester* 
-* [explainshell.com](https://explainshell.com/) - *Match Command-Line Arguments to Help Text* 
-* [CSS Protips](https://github.com/AllThingsSmitty/css-protips) or [CSS Reference](https://cssreference.io/) - *CSS Guide* 
-* [Cssgr](https://cssgr.id/) - *CSS Grid Code Tool* 
-* [Water.css](https://watercss.kognise.dev/) - *CSS Styles Collection*
-* [Leon's CSS](https://leonarnott.neocities.org/ ) - *CSS Text Styles*
-* [Hover.CSS](https://ianlunn.github.io/Hover/) - *CSS Hover Effects* 
-* [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds) - *CSS Background Patterns* 
-* [Animista](https://animista.net/) - *Tweak / Download CSS Animations*
-* [css2scss](https://sebastianpontow.de/css2compass/) - *CSS to SCSS Converter* 
-* [Bulma](https://bulma.io/) or [SimpleCSS](https://simplecss.org/) - *CSS Framework*
-* [Awesome CSS](https://github.com/awesome-css-group/awesome-css) - *CSS resources* 
-* [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - *Programming resources* 
-* [Awesome HTML5](https://github.com/diegocard/awesome-html5) - *HTML5 resources* 
-* [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/) - *Cheatsheets / Programming / Frameworks / Dev Tools*
-* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - *Creative Coding Resource Index* 
-* [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) - *Resources For Learning To Code* 
-* [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality/wiki) - *Software Quality Testing Tools*
-* [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) - *Machine Learning Art Resource Index* 
-* [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - *Web Scraping Tool Index* 
-* [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - *Archive, Scrape & Crawl Sites* 
-* [Clone Zone](http://clonezone.link/) - *Tweak / Clone Webpages* 
-* [Edbrowse](http://edbrowse.org/) - *Command Line Editor / Browser / Mail Client*
-* [JavaScript.info](https://javascript.info/) - *JavaScript Guide* 
-* [RunKit](https://runkit.com/) - *Browser Javascript Sandbox* 
-* [JS.ORG](https://js.org/) - *Free subdomain for Javascript Developers* 
-* [1loc](https://1loc.dev/) - *217 Single Line JavaScript Codes* 
-* [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
-* [Kaboomjs](https://kaboomjs.com/) - *Quickly Make Games with Javascript*
-* [Kodular](https://www.kodular.io/) - *Android App Creator*
-* [Godot](https://godotengine.org/) - *Game Engine / Open-Source / 2D / 3D*
-* [GDevelop](https://gdevelop-app.com/) - *HTML5 Game Creator*
-* [Phaser](https://phaser.io/) - *Mobile HTML5 Game Framework* 
-* [PlayCanvas](https://playcanvas.com/) - *Build HTML5 Visualizations / Games* 
-* [Uisual](https://uisual.com/) - *Landing Page Templates*
-* [Canva](https://www.canva.com/) - *Design Templates* 
-* [MarkdownGuide](https://www.markdownguide.org/) - *Guide for Markdown (.md)* 
-* [zettlr](https://www.zettlr.com/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote) or [Mark Text](https://github.com/marktext/marktext) - *Markdown Editor* 
-* [Markdown Editor for Firefox](https://addons.mozilla.org/en-US/firefox/addon/markdown-editor-premium/) - *Markdown Editor Extension* 
-* [Obsidian](https://obsidian.md/) - *Markdown File Organizer*  
-* [Quick-R](https://www.statmethods.net/index.html) - *R Tutorials*
-* [30 Seconds of Code](https://www.30secondsofcode.org/) - *Coding Snippets / Guides* 
-* [Learn X in Y minutes](https://learnxinyminutes.com/) - *Programming Language Rundowns* 
-* [Typing.io](https://typing.io/) - *Typing Practice for Programmers* 
-* [CodinGame](https://www.codingame.com/) - *Games to Practice Coding / Programming* 
-* [CodeSandbox](https://codesandbox.io/), [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VS Code* 
-* [Openshift](https://che.openshift.io/) - *Cloud IDE / Eclipse Che* 
-* [Sight](https://github.com/tsenart/sight) - *Syntax Highlighter* 
-* [myCompiler](https://www.mycompiler.io/) or [Wandbox](https://wandbox.org/) - *Online Compiler* 
-* [Notebooks.azure](https://notebooks.azure.com/) - *Access Jupyter notebooks* 
-* [Google Colaboratory](https://colab.research.google.com/), [Mattermost](https://mattermost.com/), [HackMD](https://hackmd.io/), [CryptPad](https://cryptpad.fr/) or [Socket](https://socket.io/) - *Text / Code Collaboration / [Python Online](https://onehack.us/t/awazing-colab-notebook-all-in-one/76652)*
-* [py-modindex](https://docs.python.org/3/py-modindex.html) - *Python Modules List / Tutorials*
-* [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - *Python Guide*
-* [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - *Online Python Editor & Tester*  
-* [RubyMonk](https://rubymonk.com/) - *Ruby Tutorials* 
-* [HTTPie](https://httpie.io/) - *Command-Line HTTP Client* 
-*[glot.io](https://glot.io/) - *Pastebin with Runnable Snippets, API & Compiler* 
-* [CoCalc](https://cocalc.com/) - *Virtual online workspace*
-* [tio.run](https://tio.run/) - *Programming Language Interpreters* 
-* [Responsively](https://responsively.app/) - *Responsive Deb Design Tool*
-* [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - *Webpage Editor* 
-* [Algorithm Visualizer](https://algorithm-visualizer.org/) - *Visualize Code Algorithms* 
-* [RapidAPI](https://rapidapi.com/) - *API Platform*
-* [Pipedream](https://pipedream.com/) - *Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)*
-* [Docker](https://www.docker.com/) - *Build, Manage & Run Apps in Containers / [Images](https://linuxserver.io/)*
-* [WNIX](https://gitlab.com/gokhanettin/wnix) - *UNIX-like Windows Development Environment*
-* [GNUnet](https://gnunet.org/en/) - *Software Framework* 
-* [Appwrite](https://appwrite.io/) - *Open-Source Backend Server*
-* [Bubble](https://bubble.io/) - *Create Web Apps* 
-* [PWABuilder](https://www.pwabuilder.com/) - *Turn Site into Progressive Web App*
-* [ColorsAndFonts](https://www.colorsandfonts.com/) - *Quickly Copy Colors & Typography Combinations* 
-* [ColorHexa](https://www.colorhexa.com/) - *Color Hex Encycolopedia* 
-* [WebSequenceDiagrams](https://www.websequencediagrams.com/) - *Draw Sequence Diagrams* 
-* [ASCII Flow](https://asciiflow.com/) - *Draw ASCII Diagrams*
-* [n8n](https://n8n.io/) - *Workflow Automation Tool* 
-* [Codeberg](https://codeberg.org/) - *Open-Source code hosting* 
-* [Node-RED](https://nodered.org/) - *Low-code programming for event-driven applications* 
-* [RegExr](https://regexr.com/) - *Learn, Build & Test RegEx* 
-* [Regex101](https://regex101.com/) - *Regex Editor / Debugger* 
-* [Kuker](https://github.com/krasimir/kuker) - *Debug Applications* 
-* [Redux DevTools](http://extension.remotedev.io/) - *Add Redux Debugging to Browser*
-* [Vuejs Dev Tools](https://vuejs.org/) - *Add Vuejs Debugging to Browser* 
-* [JSON Formatter](https://jsonformatter.curiousconcept.com/) or [json-formatter](https://github.com/callumlocke/json-formatter) - *JSON Formatter* 
-* [JSONView](https://jsonview.com/) - *JSON Viewer* 
-* [Radare](https://rada.re/r/) or [Cutter](https://github.com/rizinorg/cutter) - *Reverse Engineering Framework* 
-* [MinIO](https://min.io/) - *Cloud Native Object Storage* 
-* [FileZilla](https://filezilla-project.org/index.php) - *FTP*
-* [squid](http://www.squid-cache.org/) - *Caching Proxy / [MSI Installer](http://squid.diladele.com/) / [Site Blocking](http://www.thedumbterminal.co.uk/posts/2005/10/blocking_access_to_sites_when_using_squid.html)* 
-* [ShaderToy](https://www.shadertoy.com/browse) - *User-Made Shaders* 
-* [RandomAPI](https://randomapi.com/) - *Generate Fake Data for Populating Mockups* 
-* [GalleryProject](http://galleryproject.org/) - *Manage / Host Photos on Website* 
-* [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - *Visual Studio Code Extensions* 
-* [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
-* [Thanos](https://thanos.io/) - *Open Source Prometheus Setup / [GitHub](https://github.com/thanos-io/thanos)* 
-* [Ainize](https://ainize.ai/) - *Launchpad for open-source AI projects*
-* [Stackbit](https://www.stackbit.com/) - *JamStack Tools* 
-* [the New Dynamic](https://www.tnd.dev/) - *JamStack Directory* 
-* [cURL](https://github.com/curl/curl) - *Transfer Data with URLs* 
-* [Sift](https://sift-tool.org/) - *Search Plain-Text Data Sets for Lines that Match a Regular Expression*  
-* [Booster](https://booster.js.org/) - *Website Performance / Speed Optimizer* 
-* [Bypass Cloudflare](https://github.com/jychp/cloudflare-bypass) - *Bypass Coudflare Bot Protection*
-* [Inno Setup](https://jrsoftware.org/isinfo.php) - *Windows Program Installer*
-* [LibreCaptcha](https://github.com/librecaptcha/lc-core) - *Self-Hosted, Privacy Respecting CAPTCHAs*
-* [IP Intelligence](http://getipintel.com/) - *Proxy / VPN / Bad IP Detection*
-* [MachineID](http://www.ionworx.com/machineid.html) - *Hardware Identifier*
-* [ACRCloud](https://acrcloud.com/) - *Automatic Content Recognition*
-* [Portainer](https://portainer.io/) - *Build / Manage Docker Containers / [Templates](https://github.com/SelfhostedPro/selfhosted_templates) / [GitHub](https://github.com/portainer/portainer)*
-* [AwesomeTwitterAccounts](https://github.com/yask123/AwesomeTwitterAccounts) - *Curated List of Programming Related Twitter Accounts* 
-* [DoIt](https://github.com/dolthub/dolt) - *SQL Database* 
-* [Refined GitHub](https://github.com/sindresorhus/refined-github) - *Simplifies GitHub Interface & Adds Features* 
-* [github1s](https://github1s.com/) - *GitHub Code Viewer* 
-* [Lovely Forks](https://github.com/musically-ut/lovely-forks) - *View a Repositories Forks* 
-* [OctoLinker](https://octolinker.now.sh/) - *Make GitHub Code References Clickable* 
-* [Octotree](https://www.octotree.io/) - *GitHub Repository File Tree View* 
-* [Sourcegraph](https://about.sourcegraph.com/) - *GitHub Repository Sourcegraph Editor* 
-* [CodeWyng](https://codewyng.io/) - *Browse GitHub like an IDE* 
-* [PR Monitor](https://github.com/fwouts/prmonitor) - *GitHub Pull Request Notifier* 
-* [algolia](https://github.algolia.com/) - *Adds Autocomplete to GitHub's Search / [GitHub](https://github.com/algolia/github-awesome-autocomplete)* 
-* [Whats New GitHub](https://github.com/flawyte/whats-new-github) - *GitHub Repository Change Feed* 
-* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - *Dynamically Generated GitHub Readme Stats* 
-* [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - *ReadMe Template* 
-* [Read the Docs](https://readthedocs.org/) - *Make Documentation for your Software*
-* [Zero Dark Matrix](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - *Chrome Devtools Dark Theme* 
-* [ChooseALicense](https://choosealicense.com/) - *List of Open Source License's & Help Choosing Them* 
-* [TrackMyBacklink](https://trackmybacklink.com/) - *Backlink Tracker*
-* [Wappalyzer](https://www.wappalyzer.com/) - *Identify Technologies on Websites* 
-* [Balena](https://www.balena.io/) - *Build / Manage  IoT Groups*
-* [daily.dev](https://daily.dev/) - *Replace New Tab Page with Developer Articles* 
-* [BugBounty](http://bugbountytips.me/) - *Bug Tips Search Engine*
-* [Console](https://console.substack.com/) - *Subscribe to a List of Open Source Projects*
-
-***
-
 # ► System Tools
 
 * **[Windows Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/pirate-windows)**, [2](https://rentry.co/windows_for_retards)
@@ -1466,6 +1284,247 @@ General Reading Sites*
 ***
 
 ## ▷ [iOS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_tools)
+
+***
+
+# ► Developer Tools
+
+* **[List.community](https://list.community/)** - *Programming / Development GitHub Lists* 
+* [ReverseEagle](https://developers.reverseeagle.org/) or [free-for.dev](https://free-for.dev/) - *Developer Tools*
+* [WebdevHome](https://webdevhome.github.io/) or [Tiny Tools](https://tinytools.directory/) - *Programming / Developer Tools*
+* [Student Developer Pack](https://education.github.com/pack) - *Free Developer Tools for Students* 
+* [CodeProject](https://www.codeproject.com/) - *Developer Forum / Q&A / Articles* 
+* [daily.dev](https://daily.dev/) - *Replace New Tab Page with Developer Articles* 
+* [Laws of UX](https://lawsofux.com/) - *Maxims / Principles for UI Designers* 
+* [UI Coach](https://uicoach.io/) - *UI Design Challenge Generator*
+* [Responsively](https://responsively.app/) - *Responsive Dev Design Tool*
+* [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - *ReadMe Template* 
+* [ChooseALicense](https://choosealicense.com/) - *List of Open Source License's & Help Choosing Them* 
+* [RegExr](https://regexr.com/) - *Learn, Build & Test RegEx* 
+* [Regex101](https://regex101.com/) - *Regex Editor / Debugger* 
+* [Console](https://console.substack.com/) - *Subscribe to a List of Open Source Projects*
+* [RapidAPI](https://rapidapi.com/) - *API Platform*
+* [Pipedream](https://pipedream.com/) - *Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)*
+* [WebSequenceDiagrams](https://www.websequencediagrams.com/) - *Draw Sequence Diagrams* 
+* [ASCII Flow](https://asciiflow.com/) - *Draw ASCII Diagrams*
+* [MinIO](https://min.io/) - *Cloud Native Object Storage* 
+* [Thanos](https://thanos.io/) - *Open Source Prometheus Setup / [GitHub](https://github.com/thanos-io/thanos)* 
+* [Ainize](https://ainize.ai/) - *Launchpad for open-source AI projects*
+* [DoIt](https://github.com/dolthub/dolt) - *SQL Database* 
+* [Balena](https://www.balena.io/) - *Build / Manage  IoT Groups*
+* [BugBounty](http://bugbountytips.me/) - *Bug Tips Search Engine*
+
+***
+​
+## ▷ Learning / Cheatsheets
+
+* **[The Odin Project](https://www.theodinproject.com/)** - *Web Dev Tutorials / Courses*
+* **[freeCodeCamp](https://www.freecodecamp.org/)** - *Programming / Courses / Interactive*
+* **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - *Read / Download programming books* 
+* [Developer.Mozilla](https://developer.mozilla.org/) - *Developer Resources* 
+* [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - *Python Guide*
+* [Roadmap](https://roadmap.sh/) - *Developer Roadmaps / Guides* 
+* [Aquent Gymnasium](https://thegymnasium.com/) - *Courses* 
+* [SchoolOfHaskell](https://www.schoolofhaskell.com/) - *Haskell Tutorials* 
+* [QuickRef.ME](https://quickref.me/) or [Devhints](https://devhints.io/) - *Developer Cheatsheets*
+* [explainshell.com](https://explainshell.com/) - *Match Command-Line Arguments to Help Text*
+* [Programiz](https://www.programiz.com/) - *Coding Tutorials*
+* [30 Seconds of Code](https://www.30secondsofcode.org/) - *Coding Snippets / Guides* 
+* [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/) - *Cheatsheets / Programming / Frameworks / Dev Tools*
+* [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) - *Resources For Learning To Code* 
+* [HTMLDog](https://htmldog.com/) - *HTML / CSS / JavaScript Tutorials* 
+* [Quick-R](https://www.statmethods.net/index.html) - *R Tutorials*
+* [RubyMonk](https://rubymonk.com/) - *Ruby Tutorials* 
+* [JavaScript.info](https://javascript.info/) - *JavaScript Guide* 
+* [Learn X in Y minutes](https://learnxinyminutes.com/) - *Programming Language Rundowns* 
+* [Typing.io](https://typing.io/) - *Typing Practice for Programmers* 
+* [Hacksplaining](https://www.hacksplaining.com/) - *Developer Security Lessons* 
+
+***
+
+## ▷ Site Development 
+
+* [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - *Web Developer Multireddit*
+* [Flounder](https://flounder.online/) - *Gemini Website Builder / [GitHub](https://github.com/alexwennerberg/flounder)* 
+* [Uisual](https://uisual.com/) - *Landing Page Templates*
+* [Canva](https://www.canva.com/) - *Design Templates* 
+* [GalleryProject](http://galleryproject.org/) - *Manage / Host Photos on Website* 
+* [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - *Webpage Editor* 
+* [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - *Mobile Friendly Page Test* 
+* [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- *Penetration Testing Resources*
+* [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - *Archive, Scrape & Crawl Sites* 
+* [Clone Zone](http://clonezone.link/) - *Tweak / Clone Webpages* 
+* [Appwrite](https://appwrite.io/) - *Open-Source Backend Server*
+* [squid](http://www.squid-cache.org/) - *Caching Proxy / [MSI Installer](http://squid.diladele.com/) / [Site Blocking](http://www.thedumbterminal.co.uk/posts/2005/10/blocking_access_to_sites_when_using_squid.html)* 
+* [RandomAPI](https://randomapi.com/) - *Generate Fake Data for Populating Mockups* 
+* [Booster](https://booster.js.org/) - *Website Performance / Speed Optimizer* 
+* [Bypass Cloudflare](https://github.com/jychp/cloudflare-bypass) - *Bypass Coudflare Bot Protection*
+* [LibreCaptcha](https://github.com/librecaptcha/lc-core) - *Self-Hosted, Privacy Respecting CAPTCHAs*
+* [IP Intelligence](http://getipintel.com/) - *Proxy / VPN / Bad IP Detection*
+* [MachineID](http://www.ionworx.com/machineid.html) - *Hardware Identifier*
+* [ACRCloud](https://acrcloud.com/) - *Automatic Content Recognition*
+* [TrackMyBacklink](https://trackmybacklink.com/) - *Backlink Tracker*
+* [Wappalyzer](https://www.wappalyzer.com/) - *Identify Technologies on Websites* 
+* [Bubble](https://bubble.io/) - *Create Web Apps* 
+* [PWABuilder](https://www.pwabuilder.com/) - *Turn Site into Progressive Web App*
+* [Stackbit](https://www.stackbit.com/) - *JamStack Tools* 
+* [the New Dynamic](https://www.tnd.dev/) - *JamStack Directory*
+* [Redux DevTools](http://extension.remotedev.io/) - *Add Redux Debugging to Browser*
+* [Vuejs Dev Tools](https://vuejs.org/) - *Add Vuejs Debugging to Browser* 
+* [Sight](https://github.com/tsenart/sight) - *Syntax Highlighter for Chrome* 
+
+***
+
+## ▷ Software Development
+
+* [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
+* [GNUnet](https://gnunet.org/en/) - *Software Framework* 
+* [Kuker](https://github.com/krasimir/kuker) - *Debug Applications* 
+* [Radare](https://rada.re/r/) or [Cutter](https://github.com/rizinorg/cutter) - *Reverse Engineering Framework* 
+* [Read the Docs](https://readthedocs.org/) - *Make Documentation for your Software*
+
+***
+
+## ▷ App Development
+
+* [Docker](https://www.docker.com/) - *Build, Manage & Run Apps in Containers / [Images](https://linuxserver.io/)*
+* [Portainer](https://portainer.io/) - *Build / Manage Docker Containers / [Templates](https://github.com/SelfhostedPro/selfhosted_templates) / [GitHub](https://github.com/portainer/portainer)*
+* [Inno Setup](https://jrsoftware.org/isinfo.php) - *Windows Program Installer*
+* [Kodular](https://www.kodular.io/) - *Android App Creator*
+​
+***
+
+## ▷ Game Development
+
+* [Godot](https://godotengine.org/) - *Game Engine / Open-Source / 2D / 3D*
+* [Kaboomjs](https://kaboomjs.com/) - *Quickly Make Games with Javascript*
+* [GDevelop](https://gdevelop-app.com/) - *HTML5 Game Creator*
+* [Phaser](https://phaser.io/) - *Mobile HTML5 Game Framework* 
+* [PlayCanvas](https://playcanvas.com/) - *Build HTML5 Visualizations / Games* 
+​
+***
+
+## ▷ Programming / Coding 
+
+* **[List.community](https://list.community/)** - *Programming / Development GitHub Lists* 
+* [WebdevHome](https://webdevhome.github.io/) or [Tiny Tools](https://tinytools.directory/) - *Programming / Developer Tools*
+* [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - *Web Scraping Tool Index*
+* [Awesome-Discord-Communities](https://github.com/mhxion/awesome-discord-communities) - *Programming / Developer / Discord Communities* 
+* [AwesomeTwitterAccounts](https://github.com/yask123/AwesomeTwitterAccounts) - *Curated List of Programming Related Twitter Accounts* 
+* [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - *Programming resources* 
+* [Dracula](https://draculatheme.com/) - *Dark Theme for Code Editors / Terminal Emulators* 
+* [Codecademy](https://www.codecademy.com/) - *Coding Lessons* 
+* [CodinGame](https://www.codingame.com/) - *Games to Practice Coding / Programming* 
+* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - *Programming Tutorials*
+* [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality/wiki) - *Software Quality Testing Tools*
+* [Node-RED](https://nodered.org/) - *Low-code programming for event-driven applications* 
+* [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/) - *Code / Text Editor* 
+* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - *Creative Coding Resource Index* 
+* [Algorithm Visualizer](https://algorithm-visualizer.org/) - *Visualize Code Algorithms* 
+* [SpaceVim](https://spacevim.org/), [NeoVim](https://neovim.io/) or [Vim](https://www.vim.org/) - *Program Source Code Editor / [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Android](https://github.com/shiftrot/droidvim), [2](https://f-droid.org/packages/com.droidvim) / [Config](https://github.com/ChristianChiarulli/LunarVim)* 
+* [Mega Linter](https://github.com/nvuillam/mega-linter) - *Code Analyzer* 
+* [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - *Visual Studio Code Extensions* 
+* [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) - *Machine Learning Art Resource Index* 
+* [Sourcegraph](https://sourcegraph.com/) - *Universal Code Search*
+* [ShareScript](https://sharescript.net/) - *Script / Code Index*
+* [challenges.re](https://challenges.re/) - *Reverse Engineer Code*
+* [DelphiTools](https://www.delphitools.info/) - *Code Profiler / Delphi Tools*
+* [Zero Dark Matrix](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - *Chrome Devtools Dark Theme* 
+* [RunKit](https://runkit.com/) - *Browser Javascript Sandbox* 
+* [JS.ORG](https://js.org/) - *Free subdomain for Javascript Developers* 
+* [1loc](https://1loc.dev/) - *217 Single Line JavaScript Codes* 
+* [Gummy](https://gummyjs.vercel.app/) - *Easily Build Javascript Programs* 
+* [Kaboomjs](https://kaboomjs.com/) - *Quickly Make Games with Javascript*
+* [py-modindex](https://docs.python.org/3/py-modindex.html) - *Python Modules List / Tutorials*
+* [JSONView](https://jsonview.com/) - *JSON Viewer* 
+* [JSON Formatter](https://jsonformatter.curiousconcept.com/) or [json-formatter](https://github.com/callumlocke/json-formatter) - *JSON Formatter* 
+
+***
+
+## ▷ CLI Tools
+
+* [HTTPie](https://httpie.io/) - *Command-Line HTTP Client* 
+* [cURL](https://github.com/curl/curl) - *Transfer Data with URLs* 
+* [WNIX](https://gitlab.com/gokhanettin/wnix) - *UNIX-like Windows Development Environment*
+* [Sift](https://sift-tool.org/) - *grep Alternative*
+* [Edbrowse](http://edbrowse.org/) - *Command Line Editor / Browser / Mail Client*
+
+***
+
+## ▷ Cloud IDEs / Collab
+
+* **[goormIDE](https://ide.goorm.io/)**, [Codeanywhere](https://codeanywhere.com/), [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [Anyfiddle](https://www.anyfiddle.com/) or [Glitch](https://glitch.com/) - *Cloud IDE / [Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) / [Themes](https://oslo-vsc.netlify.app/)* 
+* [CodeSandbox](https://codesandbox.io/), [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - *Cloud IDE / VS Code* 
+* [Openshift](https://che.openshift.io/) - *Cloud IDE / Eclipse Che* 
+* [JDFiddle](https://jsfiddle.net/ ), [W3Schools](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python), [CollabEdit](http://collabedit.com/), [Portacode](https://portacode.com/), [SoloLearn](https://www.sololearn.com/) / [Playground](https://code.sololearn.com/) or [JSFiddle](https://jsfiddle.net/) [PlayCode](https://playcode.io/) - *Online Code Editor* 
+* [glot.io](https://glot.io/) - *Pastebin with Runnable Snippets, API & Compiler* 
+* [myCompiler](https://www.mycompiler.io/) or [Wandbox](https://wandbox.org/) - *Online Compiler* 
+* [Google Colaboratory](https://colab.research.google.com/), [Mattermost](https://mattermost.com/), [HackMD](https://hackmd.io/), [CryptPad](https://cryptpad.fr/) or [Socket](https://socket.io/) - *Text / Code Collaboration / [Python Online](https://onehack.us/t/awazing-colab-notebook-all-in-one/76652)*
+* [Notebooks.azure](https://notebooks.azure.com/) - *Access Jupyter notebooks* 
+* [CoCalc](https://cocalc.com/) - *Virtual online workspace*
+* [CodePen](https://codepen.io/) - *Code Sandbox* 
+* [tio.run](https://tio.run/) - *Programming Language Interpreters* 
+* [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - *Online Python Editor & Tester*  
+
+***
+
+## ▷ Markup Languages
+
+* [HTMLDog](https://htmldog.com/) - *HTML / CSS / JavaScript Tutorials* 
+* [HTML Meta Tags](https://gist.github.com/lancejpollard/1978404) - *List of Common HTML Meta Tags Complete* 
+* [Minifier](https://www.willpeavy.com/tools/minifier/) - *Minify HTML, CSS & JS Markup HTML* 
+* [HTML.com](https://html.com/) - *HTML Guide / Cheat Sheet*
+* [HTML Reference](https://htmlreference.io/) - *HTML Guide* 
+* [HTML Compressor](https://htmlcompressor.com/compressor/)
+* [HTML Notepad](https://html-notepad.com/) - *HTML Editor*
+* [TryIt HTML](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro), [CodeTester](http://codetester.org/), [HTML-Online](https://html-online.com/editor/) or [jsTester](https://www.cs.iupui.edu/~ajharris/webprog/jsTester.html) - *Online HTML5 Editor & Tester* 
+* [Awesome HTML5](https://github.com/diegocard/awesome-html5) - *HTML5 resources* 
+* [GDevelop](https://gdevelop-app.com/) - *HTML5 Game Creator*
+* [Phaser](https://phaser.io/) - *Mobile HTML5 Game Framework* 
+* [PlayCanvas](https://playcanvas.com/) - *Build HTML5 Visualizations / Games* 
+* [CSS Protips](https://github.com/AllThingsSmitty/css-protips) or [CSS Reference](https://cssreference.io/) - *CSS Guide* 
+* [Awesome CSS](https://github.com/awesome-css-group/awesome-css) - *CSS resources* 
+* [Cssgr](https://cssgr.id/) - *CSS Grid Code Tool* 
+* [Water.css](https://watercss.kognise.dev/) - *CSS Styles Collection*
+* [Leon's CSS](https://leonarnott.neocities.org/ ) - *CSS Text Styles*
+* [Hover.CSS](https://ianlunn.github.io/Hover/) - *CSS Hover Effects* 
+* [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds) - *CSS Background Patterns* 
+* [Animista](https://animista.net/) - *Tweak / Download CSS Animations*
+* [css2scss](https://sebastianpontow.de/css2compass/) - *CSS to SCSS Converter* 
+* [Bulma](https://bulma.io/) or [SimpleCSS](https://simplecss.org/) - *CSS Framework*
+* [MarkdownGuide](https://www.markdownguide.org/) - *Guide for Markdown (.md)* 
+* [zettlr](https://www.zettlr.com/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote) or [Mark Text](https://github.com/marktext/marktext) - *Markdown Editor* 
+* [Markdown Editor for Firefox](https://addons.mozilla.org/en-US/firefox/addon/markdown-editor-premium/) - *Markdown Editor Extension* 
+* [Obsidian](https://obsidian.md/) - *Markdown File Organizer*  
+
+***
+
+## ▷ Git Tools
+
+* [Codeberg](https://codeberg.org/), [Giters](https://www.giters.com/) or [GitGud](https://gitgud.io/) - *Git hosting*
+* [Git / Github Guide](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
+* [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - *Git Learning Game*
+* [Refined GitHub](https://github.com/sindresorhus/refined-github) - *Simplifies GitHub Interface & Adds Features* 
+* [github1s](https://github1s.com/) - *GitHub Code Viewer* 
+* [Lovely Forks](https://github.com/musically-ut/lovely-forks) - *View a Repositories Forks* 
+* [OctoLinker](https://octolinker.now.sh/) - *Make GitHub Code References Clickable* 
+* [Octotree](https://www.octotree.io/) - *GitHub Repository File Tree View* 
+* [Sourcegraph](https://about.sourcegraph.com/) - *GitHub Repository Sourcegraph Editor* 
+* [CodeWyng](https://codewyng.io/) - *Browse GitHub like an IDE* 
+* [PR Monitor](https://github.com/fwouts/prmonitor) - *GitHub Pull Request Notifier*  
+* [Whats New GitHub](https://github.com/flawyte/whats-new-github) - *GitHub Repository Change Feed* 
+* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - *Dynamically Generated GitHub Readme Stats* 
+​
+***
+
+## ► Color Schemes
+
+* [Colorful](https://github.com/Siddharth11/Colorful) - *Curated List of Color Scheme Resources* 
+* [Colormind](http://colormind.io/) or [Coolors](https://coolors.co/) - *Color Palette Generator*
+* [ColorsAndFonts](https://www.colorsandfonts.com/) - *Quickly Copy Colors & Typography Combinations* 
+* [ColorHexa](https://www.colorhexa.com/) - *Color Hex Encycolopedia* 
+* [Colorpedia](https://github.com/joowani/colorpediahttps://coolors.co/) - *Lookup Colors & Palettes via Command-Line* 
+* [ShaderToy](https://www.shadertoy.com/browse) - *User-Made Shaders* 
 
 ***
 

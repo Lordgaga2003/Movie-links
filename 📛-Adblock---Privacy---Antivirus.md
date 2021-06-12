@@ -269,7 +269,6 @@
 * [Canarytokens](https://canarytokens.org/generate) - *Network Breach Check* 
 * [Vigilante.pw](http://vigilante.pw/) - *Search for sites that have been breached* 
 * [RS Lookup](http://rslookup.com/) - *Check if your RuneScape data has been breached* 
-* [Fake-it](https://fake-it.ws/) or [Fake Data](https://www.fakedata.pro/) - *Create fake form data*
 * [ACCOUNTKILLER](https://www.accountkiller.com/) or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - *Find / Terminate Old Accounts* 
 * [JustGetMyData](https://justgetmydata.com/) - *Links to Obtain Your Data from Websites* 
 * [Google Takeout](https://takeout.google.com/) - *Google Data Request*

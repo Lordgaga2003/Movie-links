@@ -298,6 +298,7 @@
 # ► Usenet
 
 * **[Usenet Guide / Automation Setup](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic)**
+* **[Usenet Tools & Services Index](https://curlie.org/en/Computers/Usenet)**
 
 ## ▷ Indexers
 

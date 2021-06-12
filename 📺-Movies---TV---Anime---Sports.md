@@ -256,10 +256,10 @@
 * [RareFilmm](https://rarefilmm.com/) - *Rare Movies* 
 * [Club-MST3k](http://www.club-mst3k.com/) - *All MST3k episodes*
 * [Rifftrax Twitch](https://www.twitch.tv/rifftrax) or [RiffTrax Pluto](https://pluto.tv/live-tv/rifftrax) - *RiffTrax Live Streams*
-* [Classic Cinema Online](https://classiccinemaonline.com/) - *Classic Films*
-* [BnWMovies](https://bnwmovies.com/) - *Classic Films*
+* [Classic Cinema Online](https://classiccinemaonline.com/), [BnWMovies](https://bnwmovies.com/) or [Dumb Classic Movies](http://www.dumb.com/movies/) - *Classic Films*
 * [TheFilmDetective](https://thefilmdetective.tv/) - *Classic Films / TV*
 * [RetroVision Media](http://www.retrovisionmedia.com/) - *Retro / Classic Films* 
+* [Wu Tang Collection](https://www.thewutangcollection.com/) - *Martial Arts Films*
 * [Effed Up Movies](https://www.effedupmovies.com/) - *Disturbing Horror Movies* 
 * [Ubu](https://ubu.com/film/) - *Short Films / Avant-Garde*
 * [LIMA](https://www.li-ma.nl/) - *Short / Experimental Films*
@@ -286,62 +286,7 @@
 
 ***
 
-## ▷ Educational Streaming
-
-* **[Coursera](https://www.coursera.org/)** - *Courses*
-* **[edX](https://www.edx.org/)** - *Courses*
-* **[Future Learn](https://www.futurelearn.com/)** - *Courses*
-* **[Udacity](https://www.udacity.com/)** - *Courses*
-* **[MitOpenCourseWare](https://ocw.mit.edu/index.htm)** - *Courses*
-* **[Khan Academy](https://www.khanacademy.org/)** - *Courses / [Downloader](https://github.com/rand-net/khan-dl)*
-* **[Git.ir](https://git.ir/)** - *Courses*
-* **[PluralSight](https://visualstudio.microsoft.com/dev-essentials/)** - *Free for 1 Month*
-* [Awesome CS](https://github.com/prakhar1989/awesome-courses/) - *Courses*
-* [OpenLearn](https://www.open.edu/openlearn/) - *Courses*
-* [FreeCourseForAll](https://freecoursesforall.com/) - *Courses* 
-* [CrunchLearn](https://www.crunchlearn.com/) - *Courses* 
-* [Alison](https://alison.com/) - *Courses*
-* [EbookFoundation Courses](https://github.com/EbookFoundation/free-programming-books#free-online-courses) - *Courses*
-* [CertByte](https://certbyte.com/) - *Courses* 
-* [OpenCulture](https://www.openculture.com/freeonlinecourses) - *Courses* 
-* [DigitalGarage](https://learndigital.withgoogle.com/digitalgarage/courses) - *Courses* 
-* [Lagunita](https://online.stanford.edu/lagunita-learning-platform) - *Courses* 
-* [Hillsdale College](https://online.hillsdale.edu/) - *Courses* 
-* [LearningCrux](https://www.learningcrux.com/) - *Courses*
-* [Class Central](https://www.classcentral.com/) - *Search for Courses*
-* [cs1000](https://cs1000.vercel.app/) - *Educational Video Playlists* 
-* [UdemyFreeCourses](https://udemyfreecourses.org/) - *Udemy Courses*
-* [TutsNode](https://tutsnode.net/) - *Udemy Courses*
-* /r/udemyfreebies - *Udemy Courses*
-* [Nocourses](https://nocourses.com/) - *Udemy Coupons / Courses* 
-* [Online Courses Tracker](https://comidoc.net/) - *Udemy Coupons / Courses*
-* [SmartyBro](https://smartybro.com/) - *Udemy Coupons / Courses* 
-* [Udemy Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons) - *Udemy Coupon Sites*
-* [UdemyEnrollEverywhere](https://github.com/keethesh/UdemyEnrollEverywhere) - *Auto-Grab Udemy Coupons*
-* [GUdemyBot](https://t.me/GUdemyBot) - *Udemy Coupon Bot* 
-* [Discounted-Udemy-Course-Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller) - *Automatically Enroll in Udemy Courses*
-* [How to Become a Computer Science Engineer](https://laconicml.com/computer-science-engineer-mit-university/) - *Free Computer Science Lectures* 
-* [LearnOutLoud](https://www.learnoutloud.com/) - *Documentaries / Courses*
-* [Top Documentary Films](https://topdocumentaryfilms.com/) - *Documentaries*
-* [Ihavenotv](https://ihavenotv.com/) - *Documentaries*
-* [Documentary Streaming](https://documentary-streaming.com/) - *Documentaries* 
-* [Media Burn Archive](https://mediaburn.org/) - *Documentaries* 
-* [DocumentaryHeaven](https://documentaryheaven.com/) - *Documentaries*
-* [Documentary Mania](https://www.documentarymania.com/) - *Documentaries* 
-* [ThoughtMaybe](https://thoughtmaybe.com/) - *Documentaries* 
-* [Folkstreams](https://www.folkstreams.net/) - *Documentaries* 
-* [Films For Action](https://www.filmsforaction.org/) - *Documentaries* 
-* [Documentary Addict](https://documentaryaddict.com/) - *YouTube Documentaries*
-* /r/Documentaries 
-* UC Berkeley Webcast project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://lbry.tv/@UCBerkeley:d?) - *Video Lectures*
-* [Mathispower4u](http://www.mathispower4u.com/) - *Math Tutorials*
-* [PatrickJMT](http://patrickjmt.com/) - *Math Tutorials*
-* [SchoolYourself](http://schoolyourself.org/) - *Math Tutorials*
-* [mathhelp](https://www.mathhelp.com/) - *Math Tutorials*
-* [mathonline](http://mathonline.wikidot.com/) - *Math Tutorials*
-* [brighstorm](https://www.brightstorm.com/) - *Test Prep*
-* [O'Reilly](https://www.oreilly.com/) - *Tech / Programming / infinite free trial by clearing cookies / making new account*
-* [pad.ma](https://pad.ma/) - *Text-annotated video material* 
+## ▷ [Educational Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_educational_streaming)
 
 ***
 
@@ -352,7 +297,7 @@
 * **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - *NBA / NFL*
 * **[WebOas.is TV](http://streamwat.ch/)** - *TV / Sports*
 * [Stream2Watch](https://www.stream2watch.is/) - *TV / Sports*
-* [Awesome IPTV](https://github.com/iptv-org/awesome-iptv), [2](https://github.com/iptv-org/iptv) - IPTV Resources / [6k Channels](https://github.com/Onemars/iptv-1) / [Free IPTV Trick](https://iptvtrick.blogspot.com/2020/04/the-iptv-exploit.html) / [Kodi app](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client)
+* [Awesome IPTV](https://github.com/iptv-org/awesome-iptv), [2](https://github.com/iptv-org/iptv) - IPTV Resources / [Free IPTV Trick](https://iptvtrick.blogspot.com/2020/04/the-iptv-exploit.html) / [Kodi app](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client)
 * [m3u Index](https://m3u4u.com/), [HLSCat](https://hlscat.com/), [2](https://iptvcat.net/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Plex + Emby Proxy](https://xteve.de/)
 * [123TV](http://123tvnow.com/) - *TV / Sports*
 * [streamlive](https://www.streamlive.to/) - *TV / Sports*
@@ -404,11 +349,13 @@
 * [Live.NFL.Stream](https://live-nfl.stream/) + *[Other Sports](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_nfl_stream_.28other_sports.29)* 
 * [NBAStreams](https://nbastreams.to/), [NFL](https://nflstreams.to/), [NHL](https://nhlstreams.to/), [MLB](https://mlbstreams.to/) - *Sports* 
 * [Topstreams](http://topstreams.info/) - *Sports* 
+* [MLB66](https://mlb66.ir/) - *MLB* 
 * [BoxingStreams](https://boxingstreams.cc/) - *Boxing*
 * [F1 Live Stream](https://formula1-live.stream/free-races-online-4) - *F1* 
 * [LiveSoccer TV](https://www.livesoccertv.com/) - *Soccer*
 * [footybite](https://live.footybite.com/) - *Soccer* 
 * [NHLstream](https://www.nhlstream.net/) - *NHL*
+* [NHL66](https://nhl66.ir/) - *NHL*
 * [InsectsEnthusiasts](https://www.reddit.com/r/InsectsEnthusiasts/) - *Cricket*
 * [ipl21](https://ipl21.xyz/) - *IPL Cricket Live*
 * [Sports Streaming Subreddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming_subs)
@@ -438,7 +385,7 @@
 * [RareLust](https://rarelust.com/) - *Rare Movies / NSFW* 
 * [My Duck Is Dead](http://www.myduckisdead.org/) - *Rare Movies / NSFW* 
 * [Reviviendo Viejas Joyas](https://reviviendoviejasjoyas.blogspot.com/) - *Rare Movies / Stop Pages from Loading to use w/o Account* 
-* [PSARips](https://psarips.uk/) - *Movies / TV* 
+* [PSARips](https://psarips.uk/) or [x265.club](https://x265.club/) - *Movies / TV* 
 * [Crazy4tv](https://crazy4tv.com/) - *Movies / TV*
 * [DDLBase](https://ddlbase.net/) - *Movies / TV*
 * [megaDDL](https://megaddl.co/) - *Movies / TV*
@@ -487,7 +434,6 @@
 * [Khatrimaza](https://khatrimaza1.in/) - *Movies / TV* 
 * [Warez Lover](https://warezlover.org/) - *Movies / TV* 
 * [LatestMovie4U](https://latestmovie4u.com/) - *Movies / TV / Anime* 
-* [x265 Movies](https://x265movies.cc/) - *Movies / TV*
 * [480mkv](https://tvshows.480mkv.com/) - *TV*
 * [480p TV Shows](https://www.480ptvshows.com/) - *Movies / TV* 
 * [300mbFilms](https://www.300mbfilms.ws/) - *Movies / TV*
@@ -499,6 +445,7 @@
 * [4k-hd.club](https://4k-hd.club/) - *HD Movies*
 * [OlaMovies](https://olamovies.top/) - *HD Movies / TV* 
 * [Live Action Movies ](https://sites.google.com/view/live-action-movies/home), [2](https://live-action-raws.tumblr.com/) - *Movies* 
+* [Torrent2Drive](https://torrent2drive.video/0:/) - *Movies / TV / [Telegram](https://t.me/torrent_2_drive)*
 * [Media](https://drive.google.com/drive/folders/1FEXQWN5szPBTau3EPFaC8PkOgp3v4cve) - *Movies / TV / Anime / Drive* 
 * [dl1.3rver](http://dl1.3rver.org/), [2](http://dl2.3rver.org/ ), [3](http://dl3.3rver.org/) - *Movies / TV / Drive*
 * [dlb3d.ir](http://dl5.dlb3d.ir/Films/), [2](http://dl5.dlb3d.ir/G/), [3](http://dl5.dlb3d.ir/M/), [4](http://dl5.dlb3d.ir/S/), [5](http://dl5.dlb3d.ir/Tv.Shows/), [6](http://dl10.dlb3d.ir/M/), [7](http://dl11.dlb3d.ir/G/), [8](http://dl12.dlb3d.ir/F/), [9](http://dl12.dlb3d.ir/J/), [10](http://dl12.dlb3d.ir/S/) - *Movies / TV / Drive*
@@ -566,58 +513,7 @@
 
 ***
 
-## ▷ Educational Downloading
-
-* **[freesoff](https://freesoff.com/)** - *Courses*
-* **[TutFlix](https://tutflix.com/)** - *Courses / Mega.nz Host* 
-* [Iit jee lectures](https://t.me/Iitjeeinveins2) - *Lectures / Telegram*   
-* [downloadly](https://downloadly.ir/) - *Courses*
-* [Coursed](https://coursed.co/) - *Courses*
-* [ttorial](https://ttorial.com/) - *Courses*
-* [OnlineCourseBay](https://onlinecoursebay.com/) - *Courses* 
-* [CoursesDaddy](http://coursesdaddy.com/) - *Courses* 
-* [Course Drive](https://coursedrive.org/) - *Courses* 
-* [freetutorials.ca](https://www.freetutorials.ca/) - *Courses*
-* [Course Now](https://freecoursenow.com/) - *Courses*   
-* [online-courses](https://online-courses.club/) - *Courses*
-* [Course Upload](https://courseupload.com/) - *Courses* 
-* [Coursesghar](https://coursesghar.com/) - *Courses* 
-* [FreeEducationWeb](https://freeeducationweb.com/) - *Courses* 
-* [DLECourse](https://dlecourse.com/) - *Courses* 
-* [FreeCourseDL](https://freecoursedl.com/) - *Courses* 
-* [FreeStudyWeb](https://freestudyweb.com/) - *Courses* 
-* [CryptoTips](https://www.cryptotips.us/) - *Courses* 
-* [CourseDown](https://coursedown.com/) - *Courses* 
-* [5G GYAN](https://www.5ggyan.com/) - *Courses* 
-* [FreeCourseLechz](https://t.me/joinchat/AAAAAEeZL9jF22ZREqka2g) - *Courses / Telegram* 
-* [CourseInDrive](https://t.me/CourseInDrive) - *Courses / Telegram* 
-* [Free Open Source knowledge](https://t.me/free_open_source_knowledge) - *Courses / Telegram* 
-* [Download Links Materials](https://t.me/DownloadLinksMaterials) - *Courses / Telegram* 
-* [learningDL](https://learningdl.net/) - *Courses / Leech required* 
-* [Christmas Share](https://mega.nz/#F!rrJyDQIa!-QJeJqVThi_uC9DTLX4ElA) - *Courses / Drive* 
-* [FreeTutsDownload.net](https://freetutsdownload.net/) - *Courses / Tutorials* 
-* [FreetutsDownload.com](https://freetutsdownload.com/) - *Courses / GDrive Host* 
-* [hackingworld.best 1.3TB](https://mega.nz/folder/eeIzlAjL#zGa0iHkQJu0JmP4BayAJ3A) - *Marketing Courses* 
-* [Free Udemy Courses](https://freeudemycourses.us/) - *Udemy Courses*
-* [Giga Course](https://gigacourse.com/) - *Udemy Courses / Drive* 
-* [Udemy Courses Drive](https://mega.nz/folder/Sw8Qgarb#zqBiBYbth58oncNOHon8eg) - *Udemy Courses / Drive* 
-* [Udemy 24](https://udemy24.com/) - *Udemy courses* 
-* [FreeCourseWeb](http://freecourseweb.com/) - *Udemy Courses* 
-* [Udemycourses](https://udemycourses.me/) - *Udemy Courses* 
-* [FreeCourseUdemy](https://freecourseudemy.com/) - *Udemy Courses*  
-* [FtuUdemy]( https://www.ftuudemy.com/) - *Udemy Courses* 
-* [CourseForFree](https://courseforfree.com/) - *Udemy Courses*  
-* [Pirate Warez](https://piratewarez.com/) - *Udemy Courses* 
-* [Download Online Tutorials Free](https://download.howtofree.org/) - *Udemy Courses* 
-* [Udemy Free Course](https://t.me/udemy_free_cource) - *Udemy Courses* 
-* [Documentary.su](https://documentary.su/) - *Documentaries / Forum*
-* [Docuwiki](https://docuwiki.net/) - *Documentaries / [Emule required](https://www.emule-project.net/)*
-* [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - *Download videos from Coursera* 
-* [skillshare-dl](https://github.com/K-E-N-W-A-Y/Skillshare-DL), [skillshare-downloader](https://github.com/kallqvist/skillshare-downloader) or [Skillshare DL Guide](https://i.imgur.com/AIENK0K.png) - *Download videos from Skillshare*
-* [skillsharefree](https://t.me/skillsharefree) - *Skillshare Courses / Telegram* 
-* [udemy-dl](https://github.com/r0oth3x49/udemy-dl), [2](https://github.com/riazXrazor/udemy-dl), [Udeler](https://github.com/FaisalUmair/udemy-downloader-gui) or [avdshare](https://www.avdshare.com/udemy-downloader) - *Download videos from Udemy*
-* [UdemyCourseGrabber](https://github.com/keethesh/UdemyCourseGrabber) - *Find Udemy Course Download Link*
-* [Udacimak](https://github.com/udacimak/udacimak) - *Udacity Nanodegree / Course Downloader*
+## ▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_educational_downloading)
 
 ***
 
@@ -697,29 +593,7 @@
 
 ***
 
-## ▷ Educational Torrenting 
-
-* **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - *Get a VPN before torrenting*
-* [Course Club](https://courseclub.me/) - *Courses*
-* [Free Courses Online](https://www.freecoursesonline.me/) - *Courses*
-* [FreeCourseSite](http://freecoursesite.com/) - *Courses*
-* [GetFreeCourses](https://getfreecourses.co/) - *Courses*
-* [TutsGalaxy](https://tutsgalaxy.org/) - *Courses*
-* [OnlineCourseBay](https://onlinecoursebay.com/) - *Courses* 
-* [TheVaat](https://web.thevaat.com/) -*Courses* 
-* [Ahlan Education](https://www.ahlanedu.com/) - *Courses* 
-* [UdemyTuts](https://udemytuts.com/) - *Udemy Courses* 
-* [My Free Courses](http://myfreecourses.com/) - *Udemy Courses*   
-* [UdemyDownload](https://udemydownload.com/) - *Udemy Courses*
-* [Paid Courses for Free ](https://paidcoursesforfree.com/) - *Udemy Courses* 
-* [Online Free Course](https://www.onlinefreecourse.net/) - *Udemy Courses*   
-* [Tutorials Planet](https://tutorialsplanet.net/) - *Udemy Courses*   
-* [Giga Course](https://gigacourse.com/) - *Udemy Courses* 
-* [Free All Course](https://freeallcourse.com/) - *Udemy Courses* 
-* [FreeCourseStock](http://freecoursestock.com/) - *Udemy Courses* 
-* [Pimp My Money](https://pimpmymoney.net/) - *Digital Marketing Courses* 
-* [Videoneat](https://www.videoneat.com/) - *Documentaries*
-* [MVGroup](https://forums.mvgroup.org/) - *Documentaries*
+## ▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_educational_torrenting)
 
 ***
 

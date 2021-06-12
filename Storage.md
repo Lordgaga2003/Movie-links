@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/8LKaeby.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/ojwGBTo.png)** - *For mobile users*
 
 ***
 ***
@@ -497,6 +497,12 @@
 
 ***
 
+#### Internet Speed Test
+
+[fast](https://fast.com/), [LibreSpeed](https://librespeed.org/), [Xfinity Speed Test](https://speedtest.xfinity.com/), [DLS Reports](http://www.dslreports.com/tools), [Bandwidth Place](https://www.bandwidthplace.com/), [Cloudflare](https://speed.cloudflare.com/), [Google Speed Test](https://www.google.com/search?q=internet+speed+test), [Speedtest](https://www.speedtest.net/)
+
+***
+
 #### IRC Book Sites
 
 * irc://irc.undernet.org/bookz
@@ -785,6 +791,14 @@ Add the following commands to a search to manually scrape each site.
 #### Multi Site Video Downloaders
 
 **[Download Helper](http://www.downloadhelper.net/)** (extension), **[9xbuddy](https://9xbuddy.org/)**, [AllTube Download](https://alltubedownload.net/), [grabanymedia](https://grabanymedia.altervista.org/), [Ripsave](https://ripsave.com/), [KeepSaveIT](http://keepsaveit.com/), [TubeOffline](https://www.tubeoffline.com/), [clipconverter](https://www.clipconverter.cc/2/), [clipgrab](https://clipgrab.org/), [4kdownload](https://www.4kdownload.com/), [bitdownloader](https://qdownloader.io/), [you-get](https://you-get.org/), [QDownloader](https://qdownloader.io/), [annie](https://github.com/iawia002/annie), [catchvideo](https://catchvideo.net/), [HackDownload](https://hackdownloader.com/), [DistillVideo](https://distillvideo.com/), [Gozilla Downloader (Telegram)](https://t.me/Gozilla_bot), [Catch-Tube](https://catch.tube/), [Video Downloader](https://provd.net/) (extension), [SaveVideo.me](http://savevideo.me/?lang=en), [LocoDownloader](https://locoloader.com/), [Yout](https://yout.com/), [Video-Download](https://video-download.link/), [Keepv.id](https://keepv.id/), [downloader-ui](https://github.com/Mqlhaha/downloader-ui), [connectvip](https://connectvip.store/)
+
+***
+
+#### Multi Tool Sites
+
+[PineTools](https://pinetools.com/), [123Apps](https://123apps.com/), [iTools](http://itools.com/), [Framasoft](https://framasoft.org/), [browserling Tools](https://www.browserling.com/tools/)
+[Dan's Tools](https://www.danstools.com/), [WebBrowserTools](https://webbrowsertools.com/) 
+[CyberChef](https://gchq.github.io/CyberChef/), [ManyTools](https://manytools.org/), [Comment Picker](https://commentpicker.com/other-tools.php), [OSINT Combine](https://www.osintcombine.com/tools), [MxToolbox](https://mxtoolbox.com/NetworkTools.aspx),[Sumo](https://sumo.app/) 
 
 ***
 

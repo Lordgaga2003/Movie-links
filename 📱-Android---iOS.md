@@ -355,6 +355,7 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * [CucoTV](https://cucotv.github.io/) - *Movies / TV* 
 * [Bouncy](https://github.com/WeeklyProblem/Bouncy) - *Movies / TV / Anime / Chromecast*
 * [MediaBox HD](https://mediaboxhd.net/) - *Movies / TV / Chromecast*
+* [Upflix](https://upflix.pro/) - *Movies / TV*
 * [Titanium TV](https://aapks.com/apk/titanium-tv-com-wise-tech-titanium/) - *Movies / TV / Anime / Chromecast*
 * [Berg](https://www.funkymuse.dev/p/berg.html) - *Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * [SupaFlix](https://supaflix.1mt.top/) - *Movies / TV* 

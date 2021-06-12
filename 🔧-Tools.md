@@ -1517,7 +1517,7 @@ General Reading Sites*
 ​
 ***
 
-## ► Color Schemes
+## ▷ Color Schemes
 
 * [Colorful](https://github.com/Siddharth11/Colorful) - *Curated List of Color Scheme Resources* 
 * [Colormind](http://colormind.io/) or [Coolors](https://coolors.co/) - *Color Palette Generator*

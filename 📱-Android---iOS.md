@@ -619,7 +619,6 @@ iOS
 * [Manga Storm](https://apps.apple.com/us/app/manga-storm/id417341160) 
 * [Manga Reader](https://apps.apple.com/us/app/manga-reader-manga-viewer/id647701066) 
 * [Manga Bird](https://apps.apple.com/us/app/manga-bird-best-manga-reader/id834760417)
-* [Manga Man](https://apps.apple.com/us/app/manga-man-manga-reader/id1489839722) 
 * [MangaZone](https://apps.apple.com/app/id1181309509)
 * [ZETSU](https://testflight.apple.com/join/emEhlNGn)
 * [Paperback](https://paperback.moe/) - *[Discord](https://discord.gg/Ny83JV3) / [App Store](https://apps.apple.com/app/paperback-manga-reader/id1519509781)*

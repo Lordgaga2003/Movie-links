@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/ojwGBTo.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/mX0v20Z.png)** - *For mobile users*
 
 ***
 ***
@@ -825,6 +825,12 @@ Add the following commands to a search to manually scrape each site.
 #### Name & Identity Generators
 
 [Fake-it](https://fake-it.ws/), [Fake Data](https://www.fakedata.pro/), [namefake](https://en.namefake.com/), [minirandom](https://minirandom.com/), [namegenerators](http://namegenerators.org/), [online-generator.com](https://online-generator.com/index.php), [igopaygo](https://names.igopaygo.com/), [fakena.me](https://fakena.me/), [Fake Name Generator](https://www.fakenamegenerator.com/), [fakepersongenerator](https://www.fakepersongenerator.com/), [datafakegenerator](https://datafakegenerator.com/), [elfqrin](https://www.elfqrin.com/), [fakedetail](https://fakedetail.com/)
+
+***
+
+#### News Feed Aggregators
+
+[QotNews](https://news.t0.vc/), [spidr](https://spidr.today/), [Knewz](https://knewz.com/), [All Sides](https://www.allsides.com/), [News Radius](https://newsradius.news/), [NewsLookup](http://www.newslookup.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/)
 
 ***
 

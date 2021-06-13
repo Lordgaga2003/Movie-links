@@ -528,6 +528,7 @@
 * [Sonarr](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - *TV torrent autodownload*
 * [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - *Movie / TV autodownload / [Discord](https://discord.gg/PFwM4zk)*
 * [SickChill](https://sickchill.github.io/) or [CouchPotato](https://couchpota.to/) - *Automatic torrent/nzb searching, downloading & processing / Manager*
+* [Autodownload Tools](https://redd.it/hbwnb2) - *All Autodownload Tools*
 * [NZBHydra](https://github.com/theotherp/nzbhydra) - *Meta search for NZB indexers*
 * [Clifix](https://github.com/fabiospampinato/cliflix) - *Torrent Stream Search App*
 * [pirateflix](https://github.com/orinocoz/pirateflix) - *Stream TPB Movies from CLI* 

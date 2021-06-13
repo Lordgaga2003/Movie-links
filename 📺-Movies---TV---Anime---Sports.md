@@ -30,7 +30,6 @@
 * [BatFLIX](https://ww2.batflix.org/) - *Movies / TV / Videyo*
 * [162.12.215.254](http://162.12.215.254/) - *Movies / [Drive](http://162.12.215.254/Data/Movies/)*
 * [Rainierland](https://rainierland.to/) - *Movies / TV* 
-* [WatchSoMuch.tv](https://watchsomuch.tv/) - *Movies / TV / Anime* 
 * [ClubFilm](https://clubfilm4.xyz/) - *Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [MelliMovies](https://mellimovies2.tk/) - *Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)* 
 * [SuperNova](https://supernova.to/) - *Movies / TV / Anime* 
@@ -548,7 +547,7 @@
 * **[EZTV](https://eztv.re/)** - *TV / Anime*
 * [Magnet4You](http://magnet4you.me) - *Movies / TV / Anime*
 * [MSearch](https://msearch.now.sh/) - *Movies / TV*
-* [WatchSoMuch.org](https://watchsomuch.org/) - *Movies / TV / Anime* 
+* WatchSoMuch - [Streaming](https://watchsomuch.tv/) / [Downloading](https://watchsomuch.org/)
 * [magnetoo](https://www.magnetoo.io/) - *Stream Movie Torrents Online*
 * [Play](http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/) - *[ZeroNet Required](https://zeronet.io/) / Movies / TV*
 * [Baby Torrent](https://babytorrent.fun/) - *Movies / TV*

@@ -184,7 +184,6 @@
 * **[Noxx](https://noxx.is)** - *TV*
 * **[CouchTuner](https://www.couchtuner.host/)** - *TV* 
 * [Best-Series](https://best-series.me/) - *TV / Anime* 
-* [WatchSeriesHD](https://www4.watchserieshd.tv/) - *TV / Anime* 
 * [WatchEpisodes](https://www.watchepisodes4.com/) - *TV / Anime*
 * [MyWatchSeries](https://www5.mywatchseries.stream/) - *TV / Anime* 
 * [South Park](https://southpark.cc.com/) - *South Park Episodes* 

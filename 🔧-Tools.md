@@ -47,12 +47,7 @@
 * [BeMyEyes](https://www.bemyeyes.com/) - *Visually Assist Blind / Low Vision People* 
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) or [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools) - *Digital forensics Tools*  
 * [Chaotic Shiny](http://chaoticshiny.com/) - *Fantasy Writing Generator* 
-* [QotNews](https://news.t0.vc/), [spidr](https://spidr.today/), [Knewz](https://knewz.com/), [All Sides](https://www.allsides.com/), [News Radius](https://newsradius.news/), [NewsLookup](http://www.newslookup.com/), [NewsNow](https://www.newsnow.co.uk/) or [Google News](https://news.google.com/) - *News Feed Aggregator*
-* [/m/news](https://www.reddit.com/user/nbatman/m/news/) - *News Multireddit*
-* [ABYZNews](http://www.abyznewslinks.com/), [AllYouCanRead](https://www.allyoucanread.com/) or [OnlineNewspapers](http://www.onlinenewspapers.com/index.shtml) - *Worldwide News Sites Index* 
-* [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
 * [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - *Timeline Creation Tool*
-* [Forekast](https://forekast.com/) - *Worldwide Event Calendar* 
 * [PackageTrack](https://packagetrack.com/) - *Track Multiple Shipping Services*
 * [WhatDog](https://www.bing.com/visualsearch/Microsoft/WhatDog) - *Dog Breed Identification Tool* 
 * [tusk](https://tusk.page/) - *Give & Receive Anonymous Feedback* 
@@ -541,6 +536,16 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Darck Repacks GUI Compressor](https://www.fileforums.com/showthread.php?t=103713) - *Repacking Tool / Use Masquerade Version*
 * [How To Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
 * [AltCtrls](https://altctrls.info/) - *Custom Controller Crafting Resources*
+
+***
+
+## ▷ News Tools
+
+* [QotNews](https://news.t0.vc/), [spidr](https://spidr.today/), [Knewz](https://knewz.com/), [All Sides](https://www.allsides.com/), [News Radius](https://newsradius.news/), [NewsLookup](http://www.newslookup.com/), [NewsNow](https://www.newsnow.co.uk/) or [Google News](https://news.google.com/) - *News Feed Aggregator*
+* [/m/news](https://www.reddit.com/user/nbatman/m/news/) - *News Multireddit*
+* [ABYZNews](http://www.abyznewslinks.com/), [AllYouCanRead](https://www.allyoucanread.com/) or [OnlineNewspapers](http://www.onlinenewspapers.com/index.shtml) - *Worldwide News Sites Index* 
+* [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
+* [Forekast](https://forekast.com/) - *Worldwide Event Calendar* 
 
 ***
 

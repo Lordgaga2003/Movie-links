@@ -213,7 +213,7 @@
 * [DirtyWarez](https://dirtywarez.org/) - *Ranks Sites*
 * [WAREZZ](https://piracy.now.sh/), [2](https://warezz.now.sh/), [3](https://github.com/xuac/warezz) - *Piracy Index*
 * [Neverland](http://www.neverland.ws/) - *Piracy Index* 
-* [neocities](https://pilssken.neocities.org/warez/) - *Piracy Index* 
+* [pilssken](https://pilssken.neocities.org/warez/) - *Piracy Index* 
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - *Software / Tool Index*
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software Index* 
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index*

@@ -541,11 +541,12 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 
 ## ▷ News Tools
 
-* [QotNews](https://news.t0.vc/), [spidr](https://spidr.today/), [Knewz](https://knewz.com/), [All Sides](https://www.allsides.com/), [News Radius](https://newsradius.news/), [NewsLookup](http://www.newslookup.com/), [NewsNow](https://www.newsnow.co.uk/) or [Google News](https://news.google.com/) - *News Feed Aggregator*
+* **[News Feed Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_news_feed_aggregators)** - *Multiple News Site Feeds*
 * [/m/news](https://www.reddit.com/user/nbatman/m/news/) - *News Multireddit*
 * [ABYZNews](http://www.abyznewslinks.com/), [AllYouCanRead](https://www.allyoucanread.com/) or [OnlineNewspapers](http://www.onlinenewspapers.com/index.shtml) - *Worldwide News Sites Index* 
 * [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
 * [Forekast](https://forekast.com/) - *Worldwide Event Calendar* 
+* [Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspaper_sites) - *Read & Download Newspapers*
 
 ***
 

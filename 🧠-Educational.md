@@ -115,7 +115,7 @@
 * [Documentary.su](https://documentary.su/) - *Documentaries / Forum*
 * [Docuwiki](https://docuwiki.net/) - *Documentaries / [Emule required](https://www.emule-project.net/)*
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - *Download videos from Coursera* 
-* [skillshare-dl](https://github.com/K-E-N-W-A-Y/Skillshare-DL), [skillshare-downloader](https://github.com/kallqvist/skillshare-downloader) or [Skillshare DL Guide](https://i.imgur.com/AIENK0K.png) - *Download videos from Skillshare*
+* [Skillshare DL Guide](https://i.imgur.com/AIENK0K.png) - *Download videos from Skillshare*
 * [skillsharefree](https://t.me/skillsharefree) - *Skillshare Courses / Telegram* 
 * [udemy-dl](https://github.com/r0oth3x49/udemy-dl), [2](https://github.com/riazXrazor/udemy-dl), [Udeler](https://github.com/FaisalUmair/udemy-downloader-gui) or [avdshare](https://www.avdshare.com/udemy-downloader) - *Download videos from Udemy*
 * [UdemyCourseGrabber](https://github.com/keethesh/UdemyCourseGrabber) - *Find Udemy Course Download Link*

@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/mX0v20Z.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/r0chDv5.png)** - *For mobile users*
 
 ***
 ***
@@ -46,6 +46,7 @@
 * https://www.info.com/
 * https://www.yahoo.com/
 * https://www.yippy.com/
+* https://presearch.org/ + [GitHub](https://github.com/presearchofficial)
 * https://search.aol.com/
 * https://www.bing.com/
 * https://all-io.net/
@@ -628,6 +629,12 @@ Add the following commands to a search to manually scrape each site.
 #### Mouse Gestures
 
 [FoxyGestures (firefox)](https://github.com/marklieberman/foxygestures), [Gesturefy (firefox)](https://github.com/Robbendebiene/Gesturefy), [CrxMouse (chrome)](https://crxmouse.com/), [Simple Gesture (firefox)](https://github.com/utubo/firefox-simple_gesture) 
+
+***
+
+#### Modded Minecraft Launchers
+
+[tLauncher](https://tlauncher.org/en/), [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [WurstClient](https://www.wurstclient.net/), [ImpactClient](https://impactclient.net/), [SkLauncher](https://skmedix.pl/sklauncher)
 
 ***
 
@@ -1762,13 +1769,13 @@ Good for finding classic, obscure & short films.
 
 #### YouTube to MP3
 
-**[YouTube-DL](https://github.com/ytdl-org/youtube-dl)** / [GUI](https://mrs0m30n3.github.io/youtube-dl-gui/), [2](https://youtube-dl-helper.github.io/), [3](https://github.com/JaGoLi/ytdl-gui), [4](https://stacher.io/) / [Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection), [YTMDL](https://ytmdl.deepjyoti30.dev/) / [GitHub](https://github.com/deepjyoti30/ytmdl), [Gramophy](https://github.com/rnayabed/gramophy), [MP3 YouTube](https://mp3-youtube.download/en/audio-easy-converter), [youtubetomp3music](https://youtubetomp3music.com/), [YTMP3](https://ytmp3.cc/), [ddownr (Playlists)](https://ddownr.com/), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [Spotify-Downloader](https://github.com/spotDL/spotify-downloader), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [YouTube to MP3 Converter](https://www.mediahuman.com/youtube-to-mp3-converter/), [loader](https://loader.to/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [DeURL](http://deturl.com/), [Yout](https://yout.com/), [FLVto](https://www.flvto.biz/en83/), [FreeMake](https://www.freemake.com/free_video_downloader/), [AudioJack](http://blue9.github.io/AudioJack-GUI/), [youtube2video](https://www.youtube2video.com/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [convertmp3](https://www.convertmp3.cc/), [convyoutube](https://www.convyoutube.com/), [YouTubeMultiDownloader (playlists)](https://youtubemultidownloader.net/index.html), [onlinevideoconverter](https://onlinevideoconverter.pro/)
+**[YouTube-DL](https://github.com/ytdl-org/youtube-dl)** / [GUI](https://mrs0m30n3.github.io/youtube-dl-gui/), [2](https://youtube-dl-helper.github.io/), [3](https://github.com/JaGoLi/ytdl-gui), [4](https://stacher.io/) / [Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection), [YTMDL](https://ytmdl.deepjyoti30.dev/) / [GitHub](https://github.com/deepjyoti30/ytmdl), [Gramophy](https://github.com/rnayabed/gramophy), [MP3 YouTube](https://mp3-youtube.download/en/audio-easy-converter), [youtubetomp3music](https://youtubetomp3music.com/), [YTMP3](https://ytmp3.cc/), [ddownr (Playlists)](https://ddownr.com/), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [Spotify-Downloader](https://github.com/spotDL/spotify-downloader), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [YouTube to MP3 Converter](https://www.mediahuman.com/youtube-to-mp3-converter/), [loader](https://loader.to/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [DeURL](http://deturl.com/), [Yout](https://yout.com/), [FLVto](https://www.flvto.biz/en83/), [FreeMake](https://www.freemake.com/free_video_downloader/), [AudioJack](http://blue9.github.io/AudioJack-GUI/), [youtube2video](https://www.youtube2video.com/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [convertmp3](https://www.convertmp3.cc/), [convyoutube](https://www.convyoutube.com/), [YouTubeMultiDownloader (playlists)](https://youtubemultidownloader.net/index.html), [onlinevideoconverter](https://onlinevideoconverter.pro/), [kharasach](http://www.kharasach.com/)
 
 ***
 
 #### YouTube Video Downloaders
 
-**[YouTube-DL](https://github.com/ytdl-org/youtube-dl)** / [GUI](https://mrs0m30n3.github.io/youtube-dl-gui/), [2](https://youtube-dl-helper.github.io/), [3](https://github.com/JaGoLi/ytdl-gui), [4](https://stacher.io/) / [Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection), [YT-DLC](https://github.com/blackjack4494/yt-dlc), [ytmp3](https://ytmp3.cc), [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader), [Loader](https://loader.to/) (playlists), [KeepVid](https://keepvid.works/) (playlists), [ddownr](https://ddownr.com/) (playlists), [Tartube](https://github.com/axcore/tartube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [Youtube Video Downloader](https://github.com/OmarAflak/Youtube-Video-Downloader), [YouTube MP4](https://youtubemp4.to/), [DeURL](http://deturl.com/), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [LocoDownloader](https://locoloader.com/), [FLVto](https://www.flvto.biz/en80/), [FreeMake](https://www.freemake.com/free_video_downloader/), [youtube2video](https://www.youtube2video.com/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [convertmp3](https://www.convertmp3.cc/), [convyoutube](https://www.convyoutube.com/), [YouTubeMultiDownloader (playlists)](https://youtubemultidownloader.net/index.html), [onlinevideoconverter](https://onlinevideoconverter.pro/), [FLVto](https://flvto.video/), [projectlounge ytdl](https://projectlounge.pw/ytdl)
+**[YouTube-DL](https://github.com/ytdl-org/youtube-dl)** / [GUI](https://mrs0m30n3.github.io/youtube-dl-gui/), [2](https://youtube-dl-helper.github.io/), [3](https://github.com/JaGoLi/ytdl-gui), [4](https://stacher.io/) / [Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection), [YT-DLC](https://github.com/blackjack4494/yt-dlc), [ytmp3](https://ytmp3.cc), [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader), [Loader](https://loader.to/) (playlists), [KeepVid](https://keepvid.works/) (playlists), [ddownr](https://ddownr.com/) (playlists), [Tartube](https://github.com/axcore/tartube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [Youtube Video Downloader](https://github.com/OmarAflak/Youtube-Video-Downloader), [YouTube MP4](https://youtubemp4.to/), [DeURL](http://deturl.com/), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [LocoDownloader](https://locoloader.com/), [FLVto](https://www.flvto.biz/en80/), [FreeMake](https://www.freemake.com/free_video_downloader/), [youtube2video](https://www.youtube2video.com/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [convertmp3](https://www.convertmp3.cc/), [convyoutube](https://www.convyoutube.com/), [YouTubeMultiDownloader (playlists)](https://youtubemultidownloader.net/index.html), [onlinevideoconverter](https://onlinevideoconverter.pro/), [FLVto](https://flvto.video/), [projectlounge ytdl](https://projectlounge.pw/ytdl), [kharasach](http://www.kharasach.com/)
 
 ***
 

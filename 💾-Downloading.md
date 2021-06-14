@@ -22,6 +22,7 @@
 * [MegaDDL](http://megaddl.net/) - *Video / Audio / Software / Games / Books* 
 * [wJungle](https://wjungle.net/) - *Video / Audio / Books / Games / Android / NSFW*
 * [Sbenny's Forum](https://forum.sbenny.com/) - *Video / Audio / Software / Roms / Books / Android / [Discord](https://discord.gg/kf9FKQx)*
+* [Amader Forum](http://amaderforum.us/) - *Video / Games / Software / Android / Books / NSFW*
 * [RapidHeaven](https://rapidheaven.com/) - *Videos / Audio / Software / Games / Roms*
 * [TehParadox](https://www.tehparadox.net/) - *Video / Audio / Software / Games / Books / Magazines / Roms / Android* 
 * [Akiba-Online](https://www.akiba-online.com/) - *Japanese Media / Video / Audio / Games / Comics / NSFW*
@@ -68,6 +69,7 @@
 * [ReleaseHive](https://www.releasehive.com/) - *Video / Audio / Software / Games / Books / NSFW* 
 * [rlsbb](http://rlsbb.ru/) - *Video / Audio / Games / Software / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker)*
 * [0dayhome](https://0dayhome.net/) - *Video / Audio / Games / Software / Books / Magazines*
+* [0DayDDL](https://0dayddl.com/) - *Video / Audio / Games / Software / Books / Magazines*
 * [MaxRelease](http://max-rls.com/) - *Video / Audio / Software / Games / Magazines*
 * [Volno](https://volno.org) - *Audio / Books / Software / Games / Android / NSFW*
 * [worldsrc](https://www.worldsrc.net/) - *Video / Audio / Games / Software / Android*

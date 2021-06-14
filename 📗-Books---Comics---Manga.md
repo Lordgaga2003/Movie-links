@@ -415,6 +415,7 @@
 * [IAPSOP](http://iapsop.com/) - *Spiritualist / Occult Periodicals* 
 * [Mythology.net](https://mythology.net/) - *Mythology / Religion*
 * [Beyond Weird](https://www.beyondweird.com/) - *Assorted Documents / Witchcraft / Conspiracies*
+* [Archive](https://drive.google.com/drive/folders/1UNPHhBJNOUB0c-gFi9toSqirPSi4W99R) - *Conspiracy / Occult / Metaphysics*
 * [CraftStuff](https://drive.google.com/drive/u/0/mobile/folders/1BurmAyZ-iEpDARXawyeYmwD2MGHrw4l6?usp=sharing) - *Witchcraft*
 * [Alchemy](https://mega.nz/#F!jBk3nBwC!3kbcd3Yb0I1Dkw6GCBLY1A) 
 * [Hellenistic Theism](https://mega.nz/#F!gehhiaKI!PfYluqpWY4vfowImabzsLQ) 
@@ -690,6 +691,7 @@
 * [WikiLeaks](https://search.wikileaks.org/) - *WikiLeaks Search* 
 * [NASA NTRS](https://ntrs.nasa.gov/search.jsp) - *NASA Documents*
 * [Ariadne](http://ariadne2.isti.cnr.it/) - *Archaeological Datasets* 
+* [Aesthetics Archive](https://contempaesthetics.org/) - *Aesthetics Articles / Notes Contemporary*
 * [DocDownloader](https://docdownloader.com/) - *[Scribd](https://www.scribd.com/) Document Downloader* 
 * [CourtListerner](https://www.courtlistener.com/recap/) - *Pacer Documents*
 * [Aleph](https://github.com/alephdata/aleph ) - *Document Index Tool*

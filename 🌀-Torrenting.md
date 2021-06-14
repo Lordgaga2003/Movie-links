@@ -129,11 +129,15 @@
 * [2Torrentz](https://2torrentz.net/torrentz/) - *Search aggregator*  
 * [Torrent.tm](https://torrent.tm/) - *Search aggregator*
 * [Dirty Torrents](https://dirtytorrents.com/) - *Search aggregator*
+* [TorrentQuest](https://torrentquest.com/ - *Search aggregator*
+* [TorrentHound](http://torrenthound.ee/) - *Search aggregator*
 * [Torrends ](https://torrends.to/) - *Search aggregator* 
 * [BTDB](https://btdb.eu/) - *Search aggregator*
 * [BTMET](https://btmet.com/) - *Magnet Search*
 * [BT4G](https://bt4g.org/) - *Magnet Search*
+* [BITCQ](https://bitcq.com/) - *Magnet Search*
 * [Torrent.nz](https://torrent.nz/) - *Magnet Search* 
+* [TorrentProject2](https://torrentproject2.com/) - *Magnet Search*
 * [ciligou0](http://ciligou0.com/) - *Magnet Search* 
 * [TorrentHashes](https://torrenthashes.com/) - *Magnet Search* 
 * [TorrentDownloads](https://www.torrentdownloads.me/) - *Search aggregator*

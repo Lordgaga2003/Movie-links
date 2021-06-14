@@ -31,7 +31,7 @@
 * [KaOsKrew](https://www.kaoskrew.org/)
 * [Crohasit](https://crohasit.net/)
 * [Le Fishe Repacks](https://lefishe.rf.gd/) - *[Discord](https://discord.gg/W3MfGDXhAS)*
-* [ElAmigos Games](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
+* [ElAmigos](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
 * [Black Box Repack](http://www.blackboxrepack.com/) 
 * [Ova Games](http://www.ovagames.com/)
 * [GameTrex](https://gametrex.com/) 

@@ -115,6 +115,7 @@
 * [Uploadgram App](https://github.com/pato05/uploadgram-app) - *Uploadgram Frontend*
 * [Instander](https://thedise.me/instander/) - *Modded Instagram Client*
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
+* [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) - *Google Camera Ports / [Telegram](https://t.me/googlecameraport)*
 * [CutTheCord](https://gitdab.com/distok/cutthecord), [Treecord](https://github.com/Treecord/Treecord or [Aliucord](https://github.com/Aliucord/Aliucord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX) - *Telegram Client*
 * [FluffyChat](https://fluffychat.im/en/) - *Matrix Client*
@@ -169,7 +170,7 @@ App Manager
 * **[Lucky Patcher](https://www.luckypatchers.com/download/)** - *Remove Ads / Free In App Purchases / App Patcher / [How to use](https://latestechnews.com/how-to-use-lucky-patcher/)*
 * **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - *Repositories Index*
 * **[APKMirror](https://www.apkmirror.com/)** - *Untouched*
-* **[ModdedCentral](https://t.me/ModdedCentral)** - *Modded / Telegram*
+* **[ModdedCentral](https://t.me/ModdedCentral)** or [ModdedPrivate](https://t.me/ModdedPrivate) - *Modded / Telegram*
 * **[M.D. Super App Store](https://www.filelinked.com/)** - *Modded Streaming App Repo, use code "85810914" in file linked*
 * **[Android FOSS](https://github.com/offa/android-foss)**, **[Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md)**, **[/r/u_Jackie7610](https://redd.it/jhtvn4)** or **[Cool FOSS](https://albertomosconi.github.io/foss-apps/)** / [GitHub](https://github.com/albertomosconi/foss-apps) - *Free and Open Source Apps for Android*
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - *Add Direct DL Links to Google Play* 
@@ -233,7 +234,7 @@ App Manager
 * [Pro App Share](https://t.me/proappshare) - *Modded / Telegram*   
 * [xdapiratesbot](https://t.me/joinchat/AAAAAEGvyb2EPtoW2_Yf-A) - *Modded / Telegram*  
 * [Software_Android_Apps_Games](https://t.me/Software_Android_Apps_Games) - *Modded / Telegram*   
-* [FossDroid](https://fossdroid.com/) - *Open source apps + /r/fossdroid*
+* [FossDroid](https://fossdroid.com/) - *Open source apps / /r/fossdroid*
 * [Moderse ](https://t.me/Moderse) - *Android Apk Telegram Channel by well know modder- Stabiron*
 * [APK Downloader ](https://apk.support/apk-downloader) - *Download Google Play apks*
 * [evozi](https://apps.evozi.com/apk-downloader) - *Download Google Play apks*
@@ -371,7 +372,7 @@ Add "huhu.to", "bs.to" or "oha.to"*
 RSS Player*
 * [mobi24](https://www.mobi24.net) - *Anime / Cartoons / Drama / Manga*
 * [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv) or [MX Player](https://forum.mobilism.org/search.php?keywords=Mx+player&amp;terms=all&amp;author=Balatan&amp;sc=1&amp;sf=titleonly&amp;sr=topics&amp;sk=t&amp;sd=d&amp;st=0&amp;ch=300&amp;t=0&amp;submit=Search) - *Video Player*
-* [Xtra](https://play.google.com/store/apps/details?id=com.github.exact7.xtra&amp;hl=en_US&amp;gl=US) or [TwitchMod](https://github.com/nopbreak/TwitchMod) - *Modded Ad Free Twitch Client* 
+* [Twire](https://f-droid.org/packages/com.perflyst.twire/), [Xtra](https://play.google.com/store/apps/details?id=com.github.exact7.xtra&amp;hl=en_US&amp;gl=US) or [TwitchMod](https://github.com/nopbreak/TwitchMod) - *Modded Ad Free Twitch Client* 
 * [Android TV Mod](https://t.me/androidtvmod) - *Android TV / Fire TV / Fire Stick / Mods / Telegram*  
 * [Smart YouTube TV](https://smartyoutubetv.github.io/) - *Ad-Free YouTube client for set-top boxes and Android-based TVs*
 * [Great Courses Plus Premium](https://onehack.us/t/get-the-great-courses-plus-premium-android/92613) - *Courses*
@@ -412,6 +413,7 @@ RSS Player*
 
 # ► iOS Jailbreaking
 
+* **[Complete Jailbreak Chart](https://docs.google.com/spreadsheets/d/11DABHIIqwYQKj1L83AK9ywk_hYMjEkcaxpIg6phbTf0/)** - *Jailbreak Tools Index*
 * [Can I Jailbreak](https://iosninja.io/jailbreak-wizard-can-i-jailbreak) - *Check if your phone can be jailbroken* 
 * /r/jailbreak - *Jailbreaking Subreddit*
 * /r/sideloaded - *Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)*
@@ -473,6 +475,7 @@ iOS
 
 # ► iOS Tools
 
+* [Waltr](https://softorino.com/waltr/) - *Convert Files to iOS Formats*
 * [iOS eBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *eBook / Audiobook readers* 
 * [iEmulators](https://iemulators.com/) - *Emulator Apps*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 

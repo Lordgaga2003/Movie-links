@@ -9,6 +9,10 @@
 ***
 ***
 
+* **[Course Piracy Index](https://github.com/ItIsMeCall911/Course-Piracy-Index)** - *Course Piracy Site / Tool Index*
+
+***
+
 # ► Educational Streaming
 
 * **[Coursera](https://www.coursera.org/)** - *Courses*

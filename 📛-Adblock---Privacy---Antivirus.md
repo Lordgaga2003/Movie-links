@@ -176,6 +176,7 @@
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - *Run a Oracle VM on TailsOS*
 * [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/) - *Stop telemetry data leaks*
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - *Track Torrent Download Leaks*
+* [Safing](https://safing.io/) - *Monitor Network / Block Trackers*
 * [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html) or [GlassWire](https://www.glasswire.com/) - *Firewall / Network Monitor* 
 * [Test Your Metal](http://metal.fortiguard.com/) - *Test Firewall* 
 * [LuLu](https://objective-see.com/products/lulu.html) - *Mac Firewall* 

@@ -66,6 +66,7 @@
 * [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes) - *Game Remakes* 
 * [Alpha Beta Gamer](https://alphabetagamer.com/) - *Play games in Alpha or Beta Testing* 
 * [Game Top](https://www.gametop.com/) - *Casual PC Games* 
+* [TeknoParrot](https://teknoparrot.com/) - *Modern Arcade Client / [Games](http://teknoparrot.link.free.fr/), [2](https://www.retroroms.info/forum/topic/Teknoparrot-games.htm)*
 * [awesome-ttygames](https://ligurio.github.io/awesome-ttygames/) - *ASCII Terminal Games* 
 * [Misc Windows](https://drive.google.com/drive/folders/15QKzyr1Oxddh7CLjVWkD06Sxm6E2YGHm) - *Classic Windows XP Games*
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&engine=&status=&rating=&commercial=exclude&sort=&portal=None) - *Games made via RPG Maker*
@@ -441,6 +442,7 @@
 * [Moby Games](https://www.mobygames.com/) - *Video Game Database* 
 * [rate.house](https://rate.house/) - *Video Game Database*
 * [Movie-Censorship](https://www.movie-censorship.com/) - *Compare Alternate Versions of Media* 
+* [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Greatest 100 Lists*
 
 ***
 
@@ -456,4 +458,4 @@
 
 ***
 
-# ► [Gaming Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_gaming_tools)
+# ► [Gaming Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25BA_gaming_tools)

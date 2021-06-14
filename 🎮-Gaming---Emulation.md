@@ -71,11 +71,11 @@
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&engine=&status=&rating=&commercial=exclude&sort=&portal=None) - *Games made via RPG Maker*
 * [Macgamefiles](http://www.macgamefiles.com/) - *Mac Games*
 * [de.linuxgame.cn](https://de.linuxgame.cn/) - *Linux Games* 
+* [The-Eye Linux](https://the-eye.eu/public/Games/Linux/) - *Linux Games*
 * [Gload](https://gload.cc/) - *German DDL site*
 * [GoodOldDownloads Backup](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view)
 * [PCGames-Download Backup](https://1fichier.com/?hy7lsbep6bqtu4loy1j6)
 * [CsWaRzOnE](https://www.cswarzone.com/) - *Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)*
-* [MyCraft](https://my-craft.org/en/) - *Free Minectaft Java Edition* 
 * [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 
 * [Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25BA_free_stuff) 
 * [Vapor Store](https://github.com/SushyDev/vapor-store) - *Pirated Game Store / [Discord](https://discord.gg/Y4ECqXN) / Works w/ [steamunlocked](https://steamunlocked.net/all-games/)*

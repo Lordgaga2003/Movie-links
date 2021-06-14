@@ -1255,7 +1255,7 @@ General Reading Sites*
 * [Snap2HTML](https://rlvision.com/snap2html/about.php) - *Take HTML Snapshots of Folder / File Structures*
 * [Corrupt My File](http://www.corruptmyfile.com/) - *Intentionally Corrupt your Files*
 * [HashTab](http://implbits.com/products/hashtab/) or [OpenHashTab](https://github.com/namazso/OpenHashTab) - *Calculate / Check File Hashes* 
-* [QuickSFV](https://quicksfv.org/), [RapidCRC](http://rapidcrc.sourceforge.net/) or [QuickDash](https://gitlab.com/AndreVuillemot160/QuickDash/) - *File Hashing / Verification Tools*
+* [QuickSFV](https://quicksfv.org/), [RapidCRC](http://rapidcrc.sourceforge.net/) or [QuickDash](https://gitlab.com/AndreVuillemot160/QuickDash/) / [Discord](https://discord.gg/ZuxmMXdGpm) - *File Hashing / Verification Tools*
 * [Hashes](https://hashes.com/) - *Decrypt Hashes*
 * [Uploader Bot X](https://t.me/url_uploadbot) - *Remotely uploads files to Telegram URL* 
 * [UploadURL](https://t.me/UploadsRobot) - *Remotely uploads files to Telegram / Mega.nz Support* 

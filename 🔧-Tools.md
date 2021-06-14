@@ -444,97 +444,14 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [MusicKit](https://musickit.jull.dev/) - *Metronome, Tuner & Tone Generator* 
 * [Tuner Ninja](https://tuner.ninja/) - *Instrument Tuner* 
 * [The Wub Machine](https://the.wubmachine.com/) - *Turn any Song into Dubstep* 
+* [img-encode](https://github.com/alexadam/img-encode) - *Image to Audio Converter*
+* [weird-converter](https://github.com/AlbertSuarez/weird-converter) - *Image to Audio / Audio to Image Converter*
 * [FindSounds](https://www.findsounds.com/) - *Sound Search Engine* 
 * [mathewvp](http://midi.mathewvp.com/) - *Edit / Create / Polyphonic ringtones* 
 * [librosa](https://librosa.org/) - *Audio Analysis / Information Retrieval / [Github](https://github.com/librosa/librosa)*
 * [Auphonic](https://auphonic.com/) or [Levelator](http://www.conversationsnetwork.org/levelator) - *Audio Leveler*
 * [OPUS](https://opus-codec.org/) - *Audio Codec / [Bitrate Optimization](https://github.com/master-of-zen/BOPUS)* 
 * [AAFDCHDriverMod](https://github.com/AlanFinotty/AAFDCHDriverMod) - *Realtek Audio Driver Mods*
-
-***
-
-## ▷ Gaming Tools
-
-* **[GoG Galaxy](https://www.gog.com/galaxy)**, [Launchbox](https://www.launchbox-app.com/), [GameHub](https://tkashkin.tk/projects/gamehub/) / [GutHub](https://github.com/tkashkin/GameHub), [Playnite](https://playnite.link/) or [chad_launcher](https://gitlab.com/Gnurur/chad_launcher) - *Game Library / Launcher*
-* **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)** - *Game Requirements Test* 
-* [find-PlayDate](https://www.find-playdate.com/) - *Find People to Play Games With* 
-* [Before I Play](http://www.beforeiplay.com/) - *Tips for any Game* 
-* [Fraps](https://fraps.com/) - *FPS Benchmarking Utility*
-* [MSI Afterburner](https://www.msi.com/Landing/afterburner) - *Graphics Card Overclocking Utility*
-* [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - *Game Fixes and Patches*
-* [GameBurnWorld](http://www.gameburnworld.com/) - *No-CD/No-DVD Patches, Game Fixes, Trainers, Cheats* 
-* [Save Game World](http://www.savegameworld.com/) - *PC Game Save Downloads*
-* [Save Editor Online](https://www.saveeditonline.com/) - *Game Save Editor*
-* [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - *Steam Tools Index*
-* [SteamDB](https://steamdb.info/) - *Steam Insights Tool*
-* [SteamCleaner](https://github.com/Codeusa/SteamCleaner) - *Remove Data Left Behind by Game Clients* 
-* [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) / [GitHub](https://github.com/MAXBURAOT/SmartSteamEmu), [Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator), [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - *Steam Client Emulator* 
-* [Steam Mover](https://www.traynier.com/software/steammover) - *Store Steam Games on Multiple Drives*
-* [Steamless](https://github.com/atom0s/Steamless) - *DRM Remover*
-* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - *Steam DLC Unlocker / [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521)*
-* [Koalageddon](https://github.com/acidicoala/Koalageddon/) - *DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)*
-* [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - *Epic DLC Unlocker* 
-* [LEGENDARY](https://github.com/derrod/legendary) or [Rare](https://github.com/Dummerle/Rare) - *Open-Source Epic Games Launcher* 
-* [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher for Linux*
-* [EpicAuth-Loader](https://gitlab.com/TheTank3753/EpicAuth-Loader) - *Cracked Epic Games Launcher*
-* [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - *Epic Online Service Emulator*
-* [Epic Account Creator](https://github.com/juzjus10/Epic-Account-Creator) - *Create Infinite Epic Games Accounts*
-* [Get DLC from SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837)
-* [Parsec](https://parsec.app/) - *Play games from your PC remotely* 
-* [Gamepad-Tester](https://gamepad-tester.com/), [Nektro](https://apps.nektro.net/gamepad/) or [AresLuna](https://aresluna.org/gamepad-tester/) - *Controller Connectivity Testers*
-* /r/CrackWatch or [CrackSnoop](https://github.com/CrackSnoop/cracksnoop) - *Scene release tracker / [Discord](https://discord.gg/d9StxkknwX)*
-* [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/) or [softether](https://www.softether.org/) - *Play Pirated Multiplayer Games*
-* [CnCNet](https://cncnet.org/) - *Multiplayer Command & Conquer* 
-* [Online Fix](https://online-fix.me/) - *Online Game Cracks / [Discord](https://discord.gg/yExgFYncMD)* 
-* [Slippi](https://slippi.gg/) - *Super Smash Bros Melee Online* 
-* [Blitz](https://blitz.gg/) - *Post Match Performance Analyzer / [Adblocker](https://github.com/lulzsun/blitz-app-adblock)* 
-* [Map Genie](https://mapgenie.io/) - *Explore Game Maps* 
-* [noclip](https://noclip.website/) - *Explore Game Environments* 
-* [bspview](https://devanbuggay.com/bspview/) - *Explore Quake/GoldSrc maps in your browser / [Github](https://github.com/sbuggay/bspview)* 
-* [NES Maps](https://www.nesmaps.com/) - *NES Game Maps* 
-* [SNES Maps](https://www.snesmaps.com/) - *SNES Game Maps*
-* [Open Game Art](https://opengameart.org/) - *Game Assets / Images* 
-* [Random Dice](http://www.dicesimulator.com/) - *Dice Simulator*
-* [Roll20](https://roll20.net/), [Rolisteam](https://rolisteam.org/) or [Astral](https://www.astraltabletop.com/) - *Tabletop RPG Streaming*
-* [Dungeon Map Doodler](https://dungeonmapdoodler.com/) or [donjon](http://donjon.bin.sh/) - *Draw and Build Dungeons* 
-* [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/), [HexHTML](https://hextml.playest.net/) or [MapTool](https://www.rptools.net/?page=maptool) - *Map Making Software* 
-* [Adventurer's Codex](https://adventurerscodex.com) -  *Online D&D 5e Campaign Manager / System*
-* [DS4Windows](http://ds4windows.com/) or [InputMapper](https://inputmapper.com/) - *DS4 Tool* 
-* [Lowkey](https://lowkey.gg/) - *Record / Screenshot Gameplay* 
-* [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
-* [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
-* [Nexus Mods](https://www.nexusmods.com/), [ZagruzkaMods](https://zagruzkamods.com/), [CurseForge](https://www.curseforge.com/) or [ModDB](https://moddb.com/) - *Game Mods* 
-* [Plutonium](https://plutonium.pw/) - *Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)* 
-* [IW4x / IW6x](https://xlabs.dev/) - *COD MW2 Mod Project* 
-* [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - *Battlefield Mod Projects*
-* [Project Era](https://erafn.glitch.me/#downloads) - *Play Old Fortnite Seasons*
-* [Steam Workshop Downloader](https://steamworkshopdownloader.io/) or [Steamworkshop.download](http://steamworkshop.download/) - *Download files from the Steam workshop* 
-* [Awesome Minecraft](https://github.com/bs-community/awesome-minecraft) - *Minecraft Resource Index*  
-* [OptiFine](https://optifine.net/), [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) or [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - *Minecraft Optimization Mod / Fabric Required for some* 
-* [Minehut](https://www.minehut.com/), [ScalaCube](https://scalacube.com/) or [Aternos](https://aternos.org/) - *Make Free Minecraft Servers*
-* [GeyserMC](https://geysermc.org/) - *Join Minecraft Java Servers with Bedrock Client / [Consoles](https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles)* 
-* [Salwyrr Launcher](https://www.salwyrr.com/) or [MultiMC5-Cracked](https://github.com/AfoninZ/MultiMC5-Cracked) - *Minecraft Launcher / Free Premium*
-* [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [SkLauncher](https://skmedix.pl/sklauncher) or [tLauncher](https://tlauncher.org/en/) - *Alt / Modded Minecraft Launchers* 
-* [Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods) - *Mod Minecraft* 
-* [Forge](https://files.minecraftforge.net/) or [Fabric](https://fabricmc.net/) - *Minecraft Modding API* 
-* [Nova Skin](https://minecraft.novaskin.me/) - *Minecraft Skin Editor* 
-* [tModLoader](https://www.tmodloader.net/) - *Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)*
-* [Low Specs Experience](https://ragnotechpowered.com/) - *Game Optimization Program* 
-* [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) or [Netch](https://github.com/netchx/Netch/) - *Online Game Acceleration Proxy*
-* [protondb](https://www.protondb.com/) or [Lutris](https://lutris.net/) - *Play Windows games on Linux*
-* [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *Playstation 4 /Playstation 5 Remote Play Client* 
-* [Tinfoil](https://tinfoil.io/) - *Switch Title Manager / File Browser* 
-* [Medal](https://medal.tv/) - *Nvidia Shadowplay for non Nicosia cards* 
-* [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) - *Steam Card Automation* 
-* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - *Desktop Implementation of Steam's Mobile Authenticator* 
-* [Achievement Watcher](https://github.com/xan105/Achievement-Watcher) - *Achievement File Parser, Notifications & Playtime Tracker* 
-* [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - *Steam Achievement Manager* 
-* [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) or [SteamFinder](https://steamidfinder.com/) - *Steam ID Lookup* 
-* [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - *Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)*
-* [How to Download and Play Flash Games](https://i.imgur.com/T6huIGF.png), [2](https://www.wikihow.com/Download-a-Flash-Game)
-* To Play old Shockwave Games Install [Adobe Shockwave](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html) & [K-Meleon Browser](http://kmeleonbrowser.org/)
-* [How To Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
-* [AltCtrls](https://altctrls.info/) - *Custom Controller Crafting Resources*
 
 ***
 
@@ -727,6 +644,7 @@ General Reading Sites*
 * [SearchEnginesIndex](https://www.searchenginesindex.com/), [Fagan Finder](https://www.faganfinder.com/), [DirectSearch.Net](http://www.directsearch.net/) or [Search Engine Colossus](https://www.searchenginecolossus.com/) - *Search Engine Directory*
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - *DuckDuckGo !bang Meta Serarch / [GitHub](https://github.com/MoserMichael/duckduckbang)*
 * [Soovle](https://soovle.com/) or [Keyword Tool](https://keywordtool.io/) - *Popular Keyword Generator*
+* [Alexa Similar Sites](https://www.alexa.com/find-similar-sites) - *Similar / Related Site Search*
 * [Social-Searcher](https://www.social-searcher.com/) or [Social Mention](http://socialmention.com/) - *Social Media Search Engine*  
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - *Forum Search Engine* 
 * [Blog Search Engine](http://www.blogsearchengine.org/) - *Blog Search*
@@ -1193,6 +1111,8 @@ General Reading Sites*
 * [PDFmyURL](https://pdfmyurl.com/) - *Convert Web Page to PDF* 
 * [PSTOEdit](http://pstoedit.net/) - *Convert PDF to other Vector Formats* 
 * [Issuu](https://issuu.com/) - *Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/)* 
+* [newfileconverterbot](https://t.me/newfileconverterbot), [convrt_bot](https://t.me/convrt_bot) or [FileConvertBot](https://t.me/FileConvertBot) - *Telegram File Conversion Bots*
+* [Waltr](https://softorino.com/waltr/) - *Convert Files to iOS Formats*
 * [Kindle Comic Converter](https://kcc.iosphe.re/) - *Convert book files to ePub*
 * [Pandoc](https://pandoc.org/) or [CometDocs](https://www.cometdocs.com/) - *Document Converter* 
 * [ConvertCSV](https://www.convertcsv.com/) - *CSV data conversion*
@@ -1231,7 +1151,6 @@ General Reading Sites*
 * [BackupPC](https://backuppc.github.io/backuppc/) - *File Backup Server* 
 * [DocDroid](https://www.docdroid.net/) or [Securedrop](https://securedrop.org/) - *Document Sharing Tool*
 * [Browsemonkey](https://github.com/shukriadams/browsemonkey) - *Take Snapshots of File Systems* 
-* [newfileconverterbot](https://t.me/newfileconverterbot), [convrt_bot](https://t.me/convrt_bot) or [FileConvertBot](https://t.me/FileConvertBot) - *Telegram File Conversion Bots*
 * [Save to Drive](https://savetogoogledrive.herokuapp.com/) - *Save Files to GDrive without account*   
 * [Public Link Bot](https://t.me/Tg2extbot) or [GetPublicLinkBot](https://t.me/GetPublicLinkBot) - *Mirror Telegram files to external file hosts*   
 * [GdriveXbot](https://t.me/GdriveXbot), [HK_upload_bot](https://t.me/HK_driveupload_bot), [gdrive_upload_bot](https://t.me/gdrive_upload_bot), [driveuploadbot](https://t.me/driveuploadbot) or [gdriveupme_bot](https://t.me/gdriveupme_bot) - *Google Drive Telegram upload bots* 
@@ -1277,6 +1196,109 @@ General Reading Sites*
 ***
 
 ## ▷ [iOS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_tools)
+
+***
+
+# ► Gaming Tools
+
+* **[GoG Galaxy](https://www.gog.com/galaxy)**, [Launchbox](https://www.launchbox-app.com/), [GameHub](https://tkashkin.tk/projects/gamehub/) / [GutHub](https://github.com/tkashkin/GameHub), [Playnite](https://playnite.link/) or [chad_launcher](https://gitlab.com/Gnurur/chad_launcher) - *Game Library / Launcher*
+* **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)** - *Game Requirements Test* 
+* [find-PlayDate](https://www.find-playdate.com/) - *Find People to Play Games With* 
+* [Before I Play](http://www.beforeiplay.com/) - *Tips for any Game* 
+* [Fraps](https://fraps.com/) - *FPS Benchmarking Utility*
+* [MSI Afterburner](https://www.msi.com/Landing/afterburner) - *Graphics Card Overclocking Utility*
+* [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - *Game Fixes and Patches*
+* [GameBurnWorld](http://www.gameburnworld.com/) - *No-CD/No-DVD Patches, Game Fixes, Trainers, Cheats* 
+* [Save Game World](http://www.savegameworld.com/) - *PC Game Save Downloads*
+* [Save Editor Online](https://www.saveeditonline.com/) - *Game Save Editor*
+* [Koalageddon](https://github.com/acidicoala/Koalageddon/) - *DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)*
+* [Parsec](https://parsec.app/) - *Play games from your PC remotely* 
+* [Gamepad-Tester](https://gamepad-tester.com/), [Nektro](https://apps.nektro.net/gamepad/) or [AresLuna](https://aresluna.org/gamepad-tester/) - *Controller Connectivity Testers*
+* /r/CrackWatch or [CrackSnoop](https://github.com/CrackSnoop/cracksnoop) - *Scene release tracker / [Discord](https://discord.gg/d9StxkknwX)*
+* [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/) or [softether](https://www.softether.org/) - *Play Pirated Multiplayer Games*
+* [CnCNet](https://cncnet.org/) - *Multiplayer Command & Conquer* 
+* [Online Fix](https://online-fix.me/) - *Online Game Cracks / [Discord](https://discord.gg/yExgFYncMD)* 
+* [Slippi](https://slippi.gg/) - *Super Smash Bros Melee Online* 
+* [Blitz](https://blitz.gg/) - *Post Match Performance Analyzer / [Adblocker](https://github.com/lulzsun/blitz-app-adblock)* 
+* [Map Genie](https://mapgenie.io/) - *Explore Game Maps* 
+* [noclip](https://noclip.website/) - *Explore Game Environments* 
+* [bspview](https://devanbuggay.com/bspview/) - *Explore Quake/GoldSrc maps in your browser / [Github](https://github.com/sbuggay/bspview)* 
+* [NES Maps](https://www.nesmaps.com/) - *NES Game Maps* 
+* [SNES Maps](https://www.snesmaps.com/) - *SNES Game Maps*
+* [Open Game Art](https://opengameart.org/) - *Game Assets / Images* 
+* [Random Dice](http://www.dicesimulator.com/) - *Dice Simulator*
+* [Roll20](https://roll20.net/), [Rolisteam](https://rolisteam.org/) or [Astral](https://www.astraltabletop.com/) - *Tabletop RPG Streaming*
+* [Dungeon Map Doodler](https://dungeonmapdoodler.com/) or [donjon](http://donjon.bin.sh/) - *Draw and Build Dungeons* 
+* [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/), [HexHTML](https://hextml.playest.net/) or [MapTool](https://www.rptools.net/?page=maptool) - *Map Making Software* 
+* [Adventurer's Codex](https://adventurerscodex.com) -  *Online D&D 5e Campaign Manager / System*
+* [DS4Windows](http://ds4windows.com/) or [InputMapper](https://inputmapper.com/) - *DS4 Tool* 
+* [Lowkey](https://lowkey.gg/) - *Record / Screenshot Gameplay* 
+* [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
+* [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
+* [Nexus Mods](https://www.nexusmods.com/), [ZagruzkaMods](https://zagruzkamods.com/), [CurseForge](https://www.curseforge.com/) or [ModDB](https://moddb.com/) - *Game Mods* 
+* [Plutonium](https://plutonium.pw/) - *Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)* 
+* [IW4x / IW6x](https://xlabs.dev/) - *COD MW2 Mod Project* 
+* [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - *Battlefield Mod Projects*
+* [Project Era](https://erafn.glitch.me/#downloads) - *Play Old Fortnite Seasons*
+* [tModLoader](https://www.tmodloader.net/) - *Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)*
+* [Low Specs Experience](https://ragnotechpowered.com/) - *Game Optimization Program* 
+* [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) or [Netch](https://github.com/netchx/Netch/) - *Online Game Acceleration Proxy*
+* [protondb](https://www.protondb.com/) or [Lutris](https://lutris.net/) - *Play Windows games on Linux*
+* [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *Playstation 4 /Playstation 5 Remote Play Client* 
+* [Tinfoil](https://tinfoil.io/) - *Switch Title Manager / File Browser* 
+* [Medal](https://medal.tv/) - *Nvidia Shadowplay for non Nicosia cards* 
+* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - *Desktop Implementation of Steam's Mobile Authenticator* 
+* [Achievement Watcher](https://github.com/xan105/Achievement-Watcher) - *Achievement File Parser, Notifications & Playtime Tracker* 
+* [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - *Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)*
+* [How to Download and Play Flash Games](https://i.imgur.com/T6huIGF.png), [2](https://www.wikihow.com/Download-a-Flash-Game)
+* To Play old Shockwave Games Install [Adobe Shockwave](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html) & [K-Meleon Browser](http://kmeleonbrowser.org/)
+* [How To Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
+* [AltCtrls](https://altctrls.info/) - *Custom Controller Crafting Resources*
+
+*** 
+
+## ▷ Steam Tools
+
+* [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - *Steam Tools Index*
+* [SteamDB](https://steamdb.info/) - *Steam Insights Tool*
+* [SteamCleaner](https://github.com/Codeusa/SteamCleaner) - *Remove Data Left Behind by Game Clients* 
+* [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) / [GitHub](https://github.com/MAXBURAOT/SmartSteamEmu), [Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator), [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - *Steam Client Emulator* 
+* [Steam Mover](https://www.traynier.com/software/steammover) - *Store Steam Games on Multiple Drives*
+* [Steamless](https://github.com/atom0s/Steamless) - *DRM Remover*
+* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - *Steam DLC Unlocker / [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521)*
+* [Koalageddon](https://github.com/acidicoala/Koalageddon/) - *DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)*
+* [Get DLC from SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837)
+* [Steam Workshop Downloader](https://steamworkshopdownloader.io/) or [Steamworkshop.download](http://steamworkshop.download/) - *Download files from the Steam workshop* 
+* [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) - *Steam Card Automation* 
+* [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - *Steam Achievement Manager* 
+* [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) or [SteamFinder](https://steamidfinder.com/) - *Steam ID Lookup* 
+
+***
+
+## ▷ Epic Tools
+
+* [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - *Epic DLC Unlocker* 
+* [Koalageddon](https://github.com/acidicoala/Koalageddon/) - *DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)*
+* [LEGENDARY](https://github.com/derrod/legendary) or [Rare](https://github.com/Dummerle/Rare) - *Open-Source Epic Games Launcher* 
+* [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher for Linux*
+* [EpicAuth-Loader](https://gitlab.com/TheTank3753/EpicAuth-Loader) - *Cracked Epic Games Launcher*
+* [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - *Epic Online Service Emulator*
+* [Epic Account Creator](https://github.com/juzjus10/Epic-Account-Creator) - *Create Infinite Epic Games Accounts*
+
+***
+
+## ▷ Minecraft Tools
+
+* [Awesome Minecraft](https://github.com/bs-community/awesome-minecraft) - *Minecraft Resource Index*  
+* [OptiFine](https://optifine.net/), [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) or [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - *Minecraft Optimization Mod / Fabric Required for some* 
+* [Aristois](https://aristois.net/) - *Minecraft Utility Mod*
+* [Minehut](https://www.minehut.com/), [ScalaCube](https://scalacube.com/) or [Aternos](https://aternos.org/) - *Make Free Minecraft Servers*
+* [GeyserMC](https://geysermc.org/) - *Join Minecraft Java Servers with Bedrock Client / [Consoles](https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles)* 
+* [Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers) 
+* [Salwyrr Launcher](https://www.salwyrr.com/) or [MultiMC5-Cracked](https://github.com/AfoninZ/MultiMC5-Cracked) - *Free Premium Minecraft Launchers*
+* [Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods) - *Mod Minecraft* 
+* [Forge](https://files.minecraftforge.net/) or [Fabric](https://fabricmc.net/) - *Minecraft Modding API* 
+* [Nova Skin](https://minecraft.novaskin.me/) - *Minecraft Skin Editor* 
 
 ***
 

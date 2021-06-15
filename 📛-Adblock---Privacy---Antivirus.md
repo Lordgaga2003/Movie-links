@@ -260,7 +260,7 @@
 * [DNSCookie](http://dnscookie.com/) - *Identify Related Network Flows*
 * [Turn off IPv6 to Prevent Leaks](https://www.itechguides.com/disable-ipv6-windows-10/) - *[IPv6 Leak Test](https://ip6.nl/)* 
 * [webwormhole](https://github.com/saljam/webwormhole) - *Peer Authenticated WebRTC*
-* [WhatsMyUA?](https://www.whatsmyua.info/) - *User-Agent Detection* 
+* [WhatsMyUA?](https://www.whatsmyua.info/) or [WhatIsMyBrowser](https://www.whatismybrowser.com/detect/what-is-my-user-agent) - *User-Agent Detection* 
 * [Pribot](https://pribot.org/) - *Automated Analysis for Privacy Policies* 
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - *Password Strength Checker*
 * [Password Data Breach Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)

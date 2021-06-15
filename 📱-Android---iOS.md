@@ -9,8 +9,8 @@
 ***
 ***
 
-* [Will My Phone Work?](https://willmyphonework.net/) - *Find out which Phones Support which Carriers* 
-* [Kimovil](https://www.kimovil.com/en/) - *Easily Compare Smartphones & Prices* 
+* [Will My Phone Work?](https://willmyphonework.net/) - *Phone Carrier Support Index* 
+* [Kimovil](https://www.kimovil.com/en/) - *Compare Phones & Prices* 
 * [DXOMARK](https://www.dxomark.com/) - *Smartphone Quality Testing*
 
 # ► Android Adblocking
@@ -85,7 +85,6 @@
 * [LDPlayer](https://www.ldplayer.net/) - *[Screenshot](https://i.imgur.com/URAJXJ6.png)*
 * [Genymotion](https://www.genymotion.com/fun-zone/) - *[Screenshot](https://i.imgur.com/rIoiob7.jpg)* 
 * [BlueStacks](https://www.bluestacks.com/) - *[Screenshot](https://i.imgur.com/E3DTvzA.png)*
-* [AndY](https://www.andyroid.net/) - *[Screenshot](https://i.imgur.com/RagdwA6.png)* 
 * [Leapdroid](https://leapdroid.en.softonic.com/) - *[Screenshot](https://i.imgur.com/4RKnNqJ.png)* 
 
 ***
@@ -340,20 +339,21 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 
 # ► Android Streaming
 
-* **[Cinehub](https://www.cinehub.app/)** or [Cinehub.to](https://www.cinehub.to/) - *Movies / TV / Chromecast*
 * **[Stremio](https://www.stremio.com/)** - *Torrent Streaming / [Addons](https://redd.it/ahd6gk) / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
+* **[CloudStream2](https://github.com/LagradOst/CloudStream-2)** - *Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM)*
 * **[CinemaHD](https://cinemaapk.com/)** - *Movies / TV / Anime / Chromecast*
-* **[PopcornTime.is](https://getpopcorntime.is/)** - *Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
+* **[Noyox](https://play.google.com/store/apps/details?id=com.vid.vidseed)** - *Movies / TV / PW: `777`*
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - *Ad Free YouTube on Android*
-* [CyberFlix TV](https://cybercloud.media) - *Movies / TV / Anime / PW 1122*
+* **[Cinehub](https://www.cinehub.app/)** or [Cinehub.to](https://www.cinehub.to/) - *Movies / TV / Chromecast /* **Currently Down :(**
+* [CucoTV](https://cucotv.github.io/) - *Movies / TV* 
 * [Cunrchyroll Premium](https://forum.mobilism.org/search.php?keywords=crunchyroll&amp;sr=topics&amp;sf=titleonly)
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - *Movies / TV / Anime* 
 * [PopcornTime.app](https://popcorntime.app/) - *Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
+* [PopcornTime.is](https://getpopcorntime.is/) - *Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * [BeeTV](https://beetvapp.me/) or [NovaTV](https://novatv.app/) - *Movies / TV / Anime / Chromecast*
 * [VivaTV](https://www.vivatv.io/) or [TeaTV](https://teatv.net/) - *Movies / TV / Anime / Chromecast*
-* [ZiniTevi](https://zinitevi.github.io/movieapps/) - *Movies* 
-* [CucoTV](https://cucotv.github.io/) - *Movies / TV* 
+* [ZiniTevi](https://zinitevi.github.io/movieapps/) - *Movies*
 * [Bouncy](https://github.com/WeeklyProblem/Bouncy) - *Movies / TV / Anime / Chromecast*
 * [MediaBox HD](https://mediaboxhd.net/) - *Movies / TV / Chromecast*
 * [Upflix](https://upflix.pro/) - *Movies / TV*
@@ -363,8 +363,6 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * [Pocket TV](https://pockettv.xyz/) - *Movies / TV*
 * [Rokkr](http://www.rokkr.net/ ) - *Movies / TV / 
 Add "huhu.to", "bs.to" or "oha.to"* 
-* [ScrubTV](http://netflix.bond/ScrubTV2.apk) - *Episode Streams*
-* [Airy TV](https://airy.tv/) - *Legal / Live TV* 
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - *YTS Torrents* 
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - *Chinese Drama* 
 * [aDrama](https://adrama.online/) - *Asian Drama*
@@ -408,6 +406,9 @@ RSS Player*
 * [Redbox](https://redboxtv.app/)
 * [SwiftStreams](http://swiftstreamz.com/)
 * [TVTap](http://tvtap.bz/index.php)
+* [HD STREAMZ](https://hdstreamz.app/)
+* [Airy TV](https://airy.tv/) - *Legal / Live TV* 
+* [ScrubTV](http://netflix.bond/ScrubTV2.apk) - *Episode Streams*
 
 ***
 

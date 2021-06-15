@@ -412,6 +412,7 @@
 * https://sflix.to/
 * https://cineb.net/
 * https://www.freshmoviestreams.net/
+* https://kk01.net/
 * https://myflixerhd.ru/
 * https://myflixer.link/
 * https://ainiesta.com/
@@ -653,6 +654,7 @@ Add the following commands to a search to manually scrape each site.
 * [Chia-Anime](http://www.chia-anime.me/) - *Sub*
 * [AnimeRush](https://www.animerush.tv/) - *Sub / Dub*
 * [AnimeHD47](https://animehd47.com/) - *Sub / Dub*
+* [KissCartoon.info](https://kisscartoon.info/) - *Anime / Cartoons / Sub / Dub*
 * [Soul-Anime](http://ww9.soul-anime.us/) - *Sub*
 * [NWAnime](https://nwanime.tv/) - *Sub* 
 * [AniOrb](https://aniorb.me/) - *Sub*
@@ -721,6 +723,7 @@ Add the following commands to a search to manually scrape each site.
 * [Novel12](https://novel12.com/) 
 * [ebook3000](http://www.ebook3000.com/)
 * [PDFDuck](https://pdfduck.com/)
+* [StudyCrux](https://www.studycrux.com/) - *[Telegram](https://t.me/joinchat/OrqFslALXomP5uajuXUYAA)* 
 * [VK Serial Books & Magazines](https://vk.com/sebomag)
 * [Read Print](http://www.readprint.com/)
 * [Global Grey](https://www.globalgreyebooks.com/index.html)
@@ -791,7 +794,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Multireddits 
 
-[Explore All Multireddits](https://www.reddit.com/r/multihub/top/?sort=top&t=all), [Piracy](https://www.reddit.com/user/nbatman/m/piracy/) / [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/), [Random](https://www.reddit.com/user/nbatman/m/random/), [Streaming](https://www.reddit.com/user/nbatman/m/streaming/), [News](https://www.reddit.com/user/nbatman/m/news/), [Left](https://www.reddit.com/user/nbatman/m/left/), [Conspiracy](https://www.reddit.com/user/nbatman/m/conspiracy/), [Aliens](https://www.reddit.com/user/nbatman/m/aliens/), [Paranormal](https://www.reddit.com/user/nbatman/m/paranormal/), [Metaphysics](https://www.reddit.com/user/nbatman/m/metaphysics/), [Countries](https://www.reddit.com/user/sneaky5erpent/m/countries/) / [2](https://www.reddit.com/user/sneaky5erpent/m/countries2/), [International AskARedditor](https://www.reddit.com/user/sneaky5erpent/m/ask_people_nationality/)
+[Explore All Multireddits](https://www.reddit.com/r/multihub/top/?sort=top&t=all), [Piracy](https://www.reddit.com/user/nbatman/m/piracy/) / [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) / [3](https://www.reddit.com/user/nanomuto/m/piracyhub/), [Random](https://www.reddit.com/user/nbatman/m/random/), [Weird YouTube](https://www.reddit.com/user/jarod47/m/wierdpartofyoutube/), [Streaming](https://www.reddit.com/user/nbatman/m/streaming/) / [2](https://www.reddit.com/user/asmailes/m/fullmoviesandtv/), [Cord Free TV](https://www.reddit.com/user/efidol/m/cordfreetv/), [News](https://www.reddit.com/user/nbatman/m/news/), [Left](https://www.reddit.com/user/nbatman/m/left/), [Conspiracy](https://www.reddit.com/user/nbatman/m/conspiracy/), [Aliens](https://www.reddit.com/user/nbatman/m/aliens/), [Paranormal](https://www.reddit.com/user/nbatman/m/paranormal/), [Metaphysics](https://www.reddit.com/user/nbatman/m/metaphysics/), [Countries](https://www.reddit.com/user/sneaky5erpent/m/countries/) / [2](https://www.reddit.com/user/sneaky5erpent/m/countries2/), [International AskARedditor](https://www.reddit.com/user/sneaky5erpent/m/ask_people_nationality/)
 
 ***
 

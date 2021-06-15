@@ -802,11 +802,12 @@ General Reading Sites*
 * [Dark-Discord](https://github.com/snappercord/Dark-Discord) - *Dark Theme for BetterDiscord & Powercord* 
 * [DeepL](https://github.com/aisuzuki/dd-bot) - *Discord Chat Auto Translator*
 * [Discord Token Getter](https://greasyfork.org/en/scripts/404170-discord-token-getter) or [Get Discord Token](https://greasyfork.org/en/scripts/395741-get-discord-token) - *Retrieve Discord user token*
-* [Coffee](https://github.com/pl4st1c/Coffee) - *Prevent Discord Token Thieves*
 * [PreMiD](https://premid.app/) - *Display internet activity in Discord status / [Github](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.gg/WvfVZ8T)* 
 * [Alternatives to MEE6](https://alternativestomee6.com/) - *[Discord](https://discord.gg/WrbMdWHfNd)* 
 * [MonitoRSS](https://monitorss.xyz/) - *RSS Discord Bot*
+* [Permissions Calculator](https://discordapi.com/permissions.html) - *Generate Discord OAuth Invites*
 * [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [eidolonrp CodeFactor](https://github.com/kairusds/eidolonrp), [DiscordRPCMaker](https://drpcm.t1c.dev/) or [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC) - *Create a Custom Rich Presence in Discord*
+* [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - *Discord Rich Presence Manager*
 * [iTunes-Discord-RP](https://github.com/kkevinm/iTunes-Discord-RP) - *iTunes Rich Presence* 
 * [mpv-discordRPC](https://github.com/cniw/mpv-discordRPC) - *MPV Rich Presence* 
 * [Discord.io](https://discord.io/) or [dsc.gg](https://dsc.gg/) - *Create Custom Discord Invites*
@@ -1143,7 +1144,7 @@ General Reading Sites*
 * [IPFS](https://ipfs.io/) - *P2P Hypermedia Protocol / [Extension](https://github.com/ipfs-shipyard/ipfs-companion)* 
 * [Awesome-IPFS](https://github.com/ipfs/awesome-ipfs) - *IPFS Resource Index* 
 * [Dreamcrafter](https://www.dreamcrafter.dev/) - *File Manager*
-* [RClone](https://rclone.org/), [2](https://github.com/rclone/rclone), [Rethink Files](https://rethink.software/, [RaiDrive](https://www.raidrive.com/), [AutoRclone](https://github.com/xyou365/AutoRclone), [Air Explorer](https://airexplorer.net/en/), [MultiCloud](https://www.multcloud.com/) or [gclone](https://github.com/donwa/gclone) - *Multi-Site Cloud Storage File Manager / [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20)* 
+* [RClone](https://rclone.org/), [2](https://github.com/rclone/rclone), [Rethink Files](https://rethink.software/, [RaiDrive](https://www.raidrive.com/), [AutoRclone](https://drive.google.com/file/d/11yrXPUfWEP6bAeIw0fibjr-JxeWa-1Da/) / [GitHub](https://github.com/xyou365/AutoRclone), [Air Explorer](https://airexplorer.net/en/), [MultiCloud](https://www.multcloud.com/) or [gclone](https://github.com/donwa/gclone) - *Multi-Site Cloud Storage File Manager / [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20)* 
 * [Cyberduck](https://cyberduck.io/) - *Libre Server / Cloud Storage Browser*
 * [myDrive](https://mydrive-storage.com/) - *Open-Source Cloud File Storage*
 * [FolderClone](http://www.folderclone.com/) - *Clone / Backup Folders*
@@ -1213,7 +1214,7 @@ General Reading Sites*
 * [Save Editor Online](https://www.saveeditonline.com/) - *Game Save Editor*
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - *DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)*
 * [Parsec](https://parsec.app/) - *Play games from your PC remotely* 
-* [Gamepad-Tester](https://gamepad-tester.com/), [Nektro](https://apps.nektro.net/gamepad/) or [AresLuna](https://aresluna.org/gamepad-tester/) - *Controller Connectivity Testers*
+* [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - *Controller Connectivity Testers*
 * /r/CrackWatch or [CrackSnoop](https://github.com/CrackSnoop/cracksnoop) - *Scene release tracker / [Discord](https://discord.gg/d9StxkknwX)*
 * [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/) or [softether](https://www.softether.org/) - *Play Pirated Multiplayer Games*
 * [CnCNet](https://cncnet.org/) - *Multiplayer Command & Conquer* 
@@ -1241,6 +1242,8 @@ General Reading Sites*
 * [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - *Battlefield Mod Projects*
 * [Project Era](https://erafn.glitch.me/#downloads) - *Play Old Fortnite Seasons*
 * [tModLoader](https://www.tmodloader.net/) - *Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)*
+* [TEdit](http://binaryconstruct.com/games/tedit) - *View / Edit Terraria Maps*
+* [Terrasavr](https://yal.cc/r/terrasavr/) - *Terraria Character Editor*
 * [Low Specs Experience](https://ragnotechpowered.com/) - *Game Optimization Program* 
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) or [Netch](https://github.com/netchx/Netch/) - *Online Game Acceleration Proxy*
 * [protondb](https://www.protondb.com/) or [Lutris](https://lutris.net/) - *Play Windows games on Linux*
@@ -1277,12 +1280,12 @@ General Reading Sites*
 
 ## ▷ Epic Tools
 
+* [LEGENDARY](https://github.com/derrod/legendary) or [Rare](https://github.com/Dummerle/Rare) - *Open-Source Epic Games Launcher* 
+* [EpicAuth-Loader](https://gitlab.com/TheTank3753/EpicAuth-Loader) - *Cracked Epic Games Launcher*
+* [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher for Linux*
+* [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - *Epic Online Service Emulator*
 * [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - *Epic DLC Unlocker* 
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - *DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)*
-* [LEGENDARY](https://github.com/derrod/legendary) or [Rare](https://github.com/Dummerle/Rare) - *Open-Source Epic Games Launcher* 
-* [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - *Epic Games Launcher for Linux*
-* [EpicAuth-Loader](https://gitlab.com/TheTank3753/EpicAuth-Loader) - *Cracked Epic Games Launcher*
-* [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - *Epic Online Service Emulator*
 * [Epic Account Creator](https://github.com/juzjus10/Epic-Account-Creator) - *Create Infinite Epic Games Accounts*
 
 ***
@@ -1292,6 +1295,7 @@ General Reading Sites*
 * [Awesome Minecraft](https://github.com/bs-community/awesome-minecraft) - *Minecraft Resource Index*  
 * [OptiFine](https://optifine.net/), [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) or [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - *Minecraft Optimization Mod / Fabric Required for some* 
 * [Aristois](https://aristois.net/) - *Minecraft Utility Mod*
+* [Meteor Client](https://meteorclient.com/) - *Minecraft Fabric Utility Mod*
 * [Minehut](https://www.minehut.com/), [ScalaCube](https://scalacube.com/) or [Aternos](https://aternos.org/) - *Make Free Minecraft Servers*
 * [GeyserMC](https://geysermc.org/) - *Join Minecraft Java Servers with Bedrock Client / [Consoles](https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles)* 
 * [Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers) 

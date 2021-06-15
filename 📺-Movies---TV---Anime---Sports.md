@@ -54,6 +54,7 @@
 * [HDM.to](https://hdm.to/) - *Movies* 
 * [Moviehdkh](https://www.moviehdkh.com/) - *Movies* 
 * [Tainio-Mania](https://tainio-mania.online/) - *Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)* 
+* [IsAiDub](http://isaidubb.co/tamil/hollywood-movies-in-english.html) - *Movies*
 * [YesMovies.sh](https://yesmovies.sh/) - *Movie / TV / Anime* 
 * [123MoviesFree](https://123moviesfree.net/) - *Movies / TV / Anime* 
 * [Gophie](https://gophie.cam/) - *Movies / TV*
@@ -115,6 +116,7 @@
 * [Yesmovies.love](https://yesmovies.love/) - *Movies / TV / Anime* 
 * [GustaTV](https://www2.gustatv.to/) - *Movies / TV Anime*
 * [Pubfilms](https://old.pubfilms.club/) - *Movies / TV* 
+* [CimaClub](https://www.cimaclub.cc/category/%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86) - *Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [GoMoviesFree](https://www13.gomoviesfree.page/) - *Movies / TV / Anime*
 * [Put-Locker](https://ww1.put-locker.com/) or [123moviesc](https://www.123moviesc.co/) - *Movies / TV / Anime* 
 * [Cinehub](https://cinehub.wtf/) - *Movies / TV / [Discord](https://discord.com/invite/ZqHsfSEkBE)* 
@@ -188,7 +190,6 @@
 * **[CouchTuner](https://www.couchtuner.host/)** - *TV* 
 * [WatchEpisodes](https://www.watchepisodes4.com/) - *TV / Anime*
 * [MyWatchSeries](https://www5.mywatchseries.stream/) - *TV / Anime* 
-* [South Park](https://southpark.cc.com/) - *South Park Episodes* 
 * [KissTVShow](https://kisstvshow.to/) - *Asian TV Shows / Subtitles*   
 * [turkish123](https://turkish123.com/) - *Turkish TV Shows / Subtitles* 
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - *Bay Area TV Archive*  
@@ -231,6 +232,8 @@
 * [cartooncrazy](https://www.cartooncrazy.tv/), [2](http://www.cartooncrazy.net/) - *Anime / Cartoons* 
 * [animetoon](http://www.animetoon.org/) - *Anime / Cartoons* 
 * [thewatchcartoononline](https://www.thewatchcartoononline.tv/), [wcostream](https://www.wcostream.com/), [wcoforever](https://www.wcoforever.com/ ) or [WCO](https://www.wco.tv/) - *Anime / Cartoons* 
+* [KissCartoon.info](https://kisscartoon.info/) - *Anime / Cartoons*
+* [South Park](https://southpark.cc.com/) - *South Park Episodes* 
 * [ToonamiAftermath](https://www.toonamiaftermath.com/) - *Toonami Stream* 
 
 ***

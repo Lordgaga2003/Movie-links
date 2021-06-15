@@ -86,7 +86,7 @@
 * [YggTorrent](https://ww3.yggtorrent.si/) - *Video / Audio / Roms / Software / Books / Android / Comics*
 * [LimeTorrents](https://www.limetorrents.info/) - *Video / Audio / Software / Games / Books*
 * [ExtraTorrent](https://extratorrent.si/) - *Video / Audio / Software / Games / Android / Books / NSFW*  
-* [YourBittorrent](https://yourbittorrent.com/) - *Video / Audio / Software / Games / Books / NSFW*
+* [YourBittorrent](https://yourbittorrent.com/), [2](https://yourbittorrent2.com/) - *Video / Audio / Software / Games / Books / NSFW*
 * [ProStyleX](https://prostylex.org/) - *Video / Audio / Books / Games / Software / NSFW*  
 * [IsoHunt](http://isohunt.ee/), [IsoHunts](https://isohunts.to/) or [IsoHunt.nz](https://isohunt.nz/) - *Video / Audio / Games / Software / Books*
 * [ExT](https://ext.to/) - *Video / Audio / Games / Software / Books*
@@ -99,6 +99,7 @@
 * [Tigole](https://infogalactic.com/info/Tigole#Getting_Tigole_torrents) - *Torrent Index*
 * [VSTorrent](https://vstorrent.org/) - *Software*
 * [FTUApps](https://ftuapps.dev/) - *Software* 
+* [Fost.ws](https://fost.ws/) - *Software / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Mac-Torrents.io](https://mac-torrents.io/) - *Software / Games / Mac*
 * [Mac Torrents](https://www.torrentmac.net/) - *Software / Games / Mac*
 * [AudioNews](https://audionews.org/) - *Audio Software* 
@@ -128,6 +129,7 @@
 * [TorLook](https://torlook.info/) - *Search aggregator*
 * [2Torrentz](https://2torrentz.net/torrentz/) - *Search aggregator*  
 * [Torrent.tm](https://torrent.tm/) - *Search aggregator*
+* [Toros2](https://www.toros2.com/) - *Search aggregator*
 * [Dirty Torrents](https://dirtytorrents.com/) - *Search aggregator*
 * [TorrentQuest](https://torrentquest.com/ - *Search aggregator*
 * [TorrentHound](http://torrenthound.ee/) - *Search aggregator*

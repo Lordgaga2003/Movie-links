@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://imgur.com/a/t2WZH7d)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/dlxPi3R.png)** - *For mobile users*
 
 ***
 ***
@@ -381,6 +381,7 @@
 * [World4uFree](https://world4ufree.cyou/) - *Movies / TV* 
 * [9xMovies](https://9xmovies.land/) - *Movies / TV* 
 * [4MovieRulz](https://4movierulz.mn/) - *Movies* 
+* [WatchnHear](http://watchnhear.com/) - *Movies*
 * [HindiLover](https://hindilover.biz/) - *TV*
 * [OkJatt](https://okjatt.work/) - *Movies / TV*
 * [HindiLinks4u](https://www.hindilinks4u.to/) - *Movies / TV*
@@ -745,6 +746,7 @@
 # ► Russian
 
 * [РосКомСвобода](https://t.me/roskomsvoboda_discuss) - *Piracy Discussion Telegram*
+* [DXP](https://dxp.ru/) - *Torrent / Subtitles*
 
 ## ▷ Downloading 
 
@@ -773,13 +775,19 @@
 
 ## ▷ Torrenting
 
+* [UpTracker](https://www.uptracker.ru/) - *Torrent Tracker Index*
 * [krasfs](https://krasfs.ru/) - *Torrent Search* 
 * [torrent.by](http://torrent.by/) - *Torrent Search* 
 * [RuTracker](http://rutracker.org) - *Video / Audio / Games / Software / Android / Comics / Magazines + [Onion](http://rutrackerripnext.onion/)*
 * [rutracker.ru](http://rutracker.ru/) - *Video / Audio / Games / Books / Software / Android / NSFW* 
 * [rutor](http://rutor.info/) - *Video / Audio / Games / Software / Books / Roms / Magazines*
 * [NNTT](http://www.nntt.org/) - *Video / Audio / Software / Games / Books / Magazines / Android* 
+* [Dark-OS](https://dark-os.com/) - *Video / Audio / Software / Games / Roms / Books / Magazines / Android / NSFW*
+* [Rus-Media](http://rus-media.org/) - *Video / Audio / Software / Games / Roms / Books / Magazines / Android / NSFW*
+* [URALTRACK](http://uraltrack.net/) - *Video / Audio / Software / Games / Roms / Books / Magazines*
 * [PB.wtf](https://pb.wtf/) - *Video / Audio / Software / Games / Books / Comics / Magazines / Android / NSFW* 
+* [IvTracker](http://ivtracker.org/) - *Video / Audio / Software / Games / Roms / Books / Magazines / Android / NSFW*
+* [IV-Torrents](https://iv-torrents.com/) - *Video / Audio / Software / Games / Roms / Books / Android / NSFW*
 * [Tapochek](https://tapochek.net/) - *Video / Audio / Software / Games / Books* 
 * [katushka](https://katushka.fun/) - *Video / Audio / Software / Books* 
 * [Korsars](http://korsars.pro/) - *Video / Audio / Software / Games / Books* 
@@ -793,16 +801,29 @@
 * [DugTor](http://dugtor.ru/) - *Video / Audio / Software / Games* 
 * [NNM-Club](https://nnmclub.to/) - *Video / Audio / Software / Games* 
 * [ZLOTracker](http://zlotracker.org/) - *Video / Audio / Software / Games / Books* 
+* [AllTorrents](http://alltorrents.net/) - *Video / Audio / Software / Games / Roms*
+* [GOLDtracker](http://goldtracker.org/) - *Video / Audio / Games / Books*
+* [Spaider](http://spaider.net/) - *Video / Audio / Software / Games / Roms*
+* [DDGroupClub](http://ddgroupclub.win/) - *Video / Audio / Software / Games / Roms / Books*
+* [HDReactor](https://hdreactor.club/) - *Video / Audio / Games / NSFW*
+* [GTorrent](http://gtorrent.pro/) - *Video / Audio / Software / Games*
+* [Utor.pp](http://utor.pp.ua/) - *Video / Audio / Software / Games / Roms / Books*
 * [Fast torrent](http://fast-torrent.ru/) - *Movies / TV / Anime* 
+* [FireBit](http://firebit.org/) - *Video / Audio / Software / Games / Books*
 * [BigFanGroup](https://bigfangroup.org/) - *Movies / TV / Anime* 
 * [torrentss](https://torrentss.ru/) - *Movies / TV / Games / Music* 
+* [ByTorent](http://bytorent.ru/) - *Video / Audio / Software*
 * [Animelayer](http://animelayer.ru/) - *Anime* 
 * [TFILMS](http://films-torrent.ru/) - *Movies / TV* 
+* [Torrent.Northnet](http://torrent.northnet.ru/) - *Movies / TV*
+* [HDGALAKTIKA](http://hdgalaktik.com/) - *Movies*
 * [kinozal](http://kinozal.tv/) - *Movies* 
 * [toreents.club](http://toreents.club/) - *Movies / TV*  
+* [Underver](https://underver.se/) - *Movies / TV*
 * [FileBase](http://www.filebase.ws/) - *Movies* 
 * [androidkino](https://androidkino.net/) - *Movies / TV* 
 * [bitru](https://bitru.org/) - *Movies* 
+* [RGFootball](http://rgfootball.net/) - *Sports*
 * [туттоп](https://tuttop.com/) - *Games*
 * [Torrent-Games](https://link21.torrent-games.su/) - *Games* 
 * [Big-Games](http://big-games.info/) - *Games* 
@@ -823,7 +844,9 @@
 * [viho.live](https://viho.live/) - *Movies / TV / Anime* 
 * [hdzo](https://hdzo.tv/) - *Movies / TV*
 * [seasonvar](http://seasonvar.ru/) - *TV*
+* [Kino-Dom](http://kino-dom.org/) - *TV*
 * [otakustudio](http://www.otakustudio.tv/) - *Anime* 
+* [Kinotochka](https://kinotochka.co/) - *Movies / TV / Anime*
 * [Soviet Movies Online](https://sovietmoviesonline.com/cartoons) - *Cartoons* 
 * [Dokonlin.ru](https://www.dokonlin.ru/) - *Documentaries*   
 * [VseDoramy](https://vsedoramy.net/) - *Asian Drama*
@@ -857,6 +880,7 @@
 * [Playing Soviet](https://commons.princeton.edu/soviet/) - *Children's Books*
 * [CyberLeninka](https://cyberleninka.ru/) - *Articles / Educational / Scientific / Legal*  
 * [Baza Knig](https://baza-knig.ru/), [Bibl](https://m.bibl.us/), [Knizhkin](https://knizhkin.net/), [Aknigi Online](https://aknigionline.ru/), [A Book Club](http://abook-club.ru/) - *Audiobooks*
+* [Аудиокниги Клуб](https://akniga.org/) - *Browser Audiobooks*
 
 ***
 
@@ -959,6 +983,15 @@
 
 ***
 
+# ► Tamil
+
+## ▷ Streaming 
+
+* [TamilCrow](https://www.1tamilcrow.com/) - *Movies / TV*
+* [TamilYogi](http://tamilyogi.cool/), [2](http://tamilyogi.best/) - *Movies*
+
+***
+
 # ► Thai 
 
 ## ▷ Downloading
@@ -1035,10 +1068,8 @@
 * [lupiteam](https://lupiteam.net/) - *Corsican / Manga*
 * [RÚV](https://www.ruv.is/ruv) - *Icelandic / Live TV*
 * [KannadaCine](https://www.kannadacine.com/) - *Kannada / Streaming / Movies*
-* [TamilCrow](https://www.1tamilcrow.com/) - *Tamil / Streaming / Movies / TV*
 * [Filmarkivet](https://www.filmarkivet.se/) - *Swedish / Short Films*
 * [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - *Malaysian / Audio / Telegram*
 * [PinoyMovies](https://pinoymovies.de/) - *Filipino / Stream / Download / Movies* 
 * [9jaflaver](https://9jaflaver.com/) - *Nigerian / MP3*
-* [TamilYogi](http://tamilyogi.cool/) - *Tamil / Streaming / Movies*
 * [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - *Converts Steam Prices to Argentine Pesos*

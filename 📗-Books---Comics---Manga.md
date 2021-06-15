@@ -74,7 +74,7 @@
 * [AllBooksWorld](https://allbooksworld.com/)  - *Books / Fiction / Nonfiction*
 * [Only Books](https://onlybooks.org/) - *Books / Fictions / Nonfiction*
 * [16Chan Library](https://16chan.xyz/library/) - *Books / Fiction / Non Fiction*
-* [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - *Google book downloader with proxy support*
+* [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - *Google Book Downloader w/ Proxy Support*
 * [AvaxHome](https://avxhm.se/) - *[Leech Required](https://leechall.com/)* 
 * [Telegram eBooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download) - *Telegram eBook Channels*
 * [Wikibooks](https://www.wikibooks.org/) - *Wikimedia community*
@@ -88,6 +88,7 @@
 * [Short Stories](https://short-stories.co/) - *Short Stories* 
 * [Everything2](https://everything2.com/) - *Short Stories / Poetry / Writing Help*
 * [infinite story](https://infinite-story.com/) - *Interactive Fiction*
+* [bunken](https://github.com/laxyapahuja/bunken) - *Download eBooks directly from Goodreads*
 * /r/opendirectories
 * /r/EBook_Resources/
 * /r/FreeEBOOKS
@@ -268,9 +269,10 @@
 * **[PDFMagazines](https://pdfmagazines.club/)**
 * **[DownMagaz](https://downmagaz.com/)**
 * **[MagazineLib](https://magazinelib.com/)**
-* **[Newspapers Magazines](https://t.me/newspapersmagaziness)** - *telegram* 
-* [ENMagazine](https://t.me/enmagazine) - *telegram*
-* [Magazines4U](https://t.me/Magazines4U) - *telegram* 
+* **[Newspapers Magazines](https://t.me/newspapersmagaziness)** - *Telegram* 
+* [ENMagazine](https://t.me/enmagazine) - *Telegram*
+* [Magazines4U](https://t.me/Magazines4U) - *Telegram* 
+* [newspaper_archive](https://t.me/newspaper_archive) - *Telegram*
 * [World Mags](https://www.worldmags.net/)
 * [World of Magazine](https://www.worldofmagazine.com/)
 * [PDF Magazines Download](https://pdf-magazines-download.com/)
@@ -299,9 +301,10 @@
 * **[Newspaper Paywall Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser)** or [Burlesco](https://burles.co/en/) - *Bypass the paywall on online newspapers*
 * **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)**
 * **[Google Newspaper Search](https://news.google.com/newspapers)**
-* **[Newspapers Magazines](https://t.me/newspapersmagaziness)** - *telegram* 
+* **[Newspapers Magazines](https://t.me/newspapersmagaziness)** - *Telegram* 
 * [Sanet.st](https://sanet.st/newspapers/)
-* [EngNewspapers](https://vk.com/engnewspapers) - *telegram*
+* [EngNewspapers](https://vk.com/engnewspapers) - *Telegram*
+* [newspaper_archive](https://t.me/newspaper_archive) - *Telegram*
 * [Chronicling America](https://chroniclingamerica.loc.gov/newspapers/)
 * [Newspapers com](https://newspapers.com/)
 * [freeforbook](https://freeforbook.com/) 

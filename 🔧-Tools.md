@@ -154,12 +154,15 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Vectr](https://vectr.com/) - *Online Vector Graphics Editor* 
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - *Mac Image Editing Software* 
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Linux Image Editing Software* 
-* [EZGif](https://ezgif.com/) or [Gif Maker](https://gifmaker.me/) - *GIF Tools / Maker*
+* [EZGif](https://ezgif.com/), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Gif Maker](https://gifmaker.me/) - *GIF Creator / Editor*
+* [gifify](https://github.com/vvo/gifify) - *Convert Video Files to GIFs*
 * [GifRun](https://gifrun.com/) - *Make GIFs From Online Videos*
 * [ScreenToGif](https://www.screentogif.com/) - *GIF Recording Software* 
+* [screengif](https://github.com/dergachev/screengif) - *Turn Screencasts into GIFs*
+* [ConvYouTube](https://www.convyoutube.com/en), [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - *Turn YouTube Videos into GIFs* 
 * [Gifs paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/) or [Animated Images](https://www.animatedimages.org/) - *Download GIFs* 
 * [GifPrint](http://gifprint.com/) - *Turn GIFs Into Flipbooks* 
-* [ConvYouTube](https://www.convyoutube.com/en) - *Turn YouTube Videos into GIFs* 
+* [Gifski](https://gif.ski/) - *GIF Encoder*
 * [DrMemes](https://www.drmemes.com/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - *Meme Generator* 
 * [FontIcon](https://gauger.io/fonticon/) or [Favic-o-Matic](https://favicomatic.com/) - *Favicon Generator* 
 * [IrfanView](https://www.irfanview.com/), [nomacs](https://nomacs.org/), [ImageGlass](https://imageglass.org/) or [PicView](https://github.com/Ruben2776/PicView) - *Image Viewer* 
@@ -238,6 +241,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [ShareX](https://getsharex.com/), [Gyazo](https://gyazo.com/) or [Flameshot](https://flameshot.org/) / [GitHub](https://github.com/flameshot-org/flameshot) / [Upload to Imgur](https://slproweb.com/products/Win32OpenSSL.html ) - *Screenshot Program* 
 * [SXCU](https://sxcu.net/) - *Image Uploader for ShareX* 
 * [imverter](https://www.imverter.com/) - *Online Image Converter* 
+* [ImageMagick](http://www.imagemagick.org/script/index.php) - *Image Editor / Converter*
 * [WEBPtoJPG](https://webptojpg.com/), [WEBPtoPNG](https://webptopng.com/), [WEBTtoGIF](https://webptogif.com/), [PNGtoJPG](https://pngtojpg.com/), [HEICtoJPG](https://heicjpeg.com/) - *Image Conversion Tools*
 * [WebP Converter ](https://webp-converter.com/) - *Image File to WebP Converter*
 * [PaperFile](http://www.paperfile.net/) or [StructuRise](http://structurise.com/screenshot-ocr/) - *Convert picture text to text file*
@@ -315,12 +319,14 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot) or [File2videoconvbot](https://t.me/File2videoconvbot) - *File to Video Telegram Bots* 
 * [OBS](https://obsproject.com/) - *Video Recording / Live Streaming* 
 * [Stream Recorder](https://www.hlsloader.com/) - *Streaming Video Recorder* 
+* [GifW00t](https://github.com/yaronn/GifW00t) - *Javascript Web Recorder*
 * [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-dl](https://github.com/ihabunek/twitch-dl) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  *Download Twitch Videos* 
 * [Multi](https://multi.raredrop.co/) - *Watch Multiple Twitch Streams* 
 * [TwitchTheater](https://twitchtheater.tv/) - *Watch Multiple Twitch / YouTube Videos*
 * [Zoom Escaper](https://zoomescaper.com/ ) - *Self-Sabotage Video Calls to Escape Meetings*
 * [Avidemux](http://fixounet.free.fr/avidemux/) - *Cut / Filter / Encode* 
 * [Clideo](https://clideo.com/), [Kapwing](https://www.kapwing.com/), [Biteable](https://biteable.com/) or [KeepVid](https://keepvid.com/) - *Online Video Editor* 
+* [MoviePy](https://zulko.github.io/moviepy/) - *Python Video Editor*
 * [vidcutter](https://github.com/ozmartian/vidcutter) - *Cut Videos* 
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts* 
 * [MergeMP4](https://maple3142.github.io/mergemp4/) - *Merge MP4 Video & Audio* 
@@ -377,7 +383,6 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Audiocheck](https://www.audiocheck.net/) - *Audio Tests* 
 * [Online Mic Test](https://onlinemictest.com/) - *Mic Test* 
 * [REAL](https://github.com/miniant-git/REAL) - *Reduce Win 10 Audio Latency*
-* [Mixxx](https://mixxx.org/) - *DJ Mixing Software* 
 * [VCV Rack](https://vcvrack.com/) - *Eurorack Simulator*
 * [Midomi](https://www.midomi.com/), [Shazam](https://www.shazam.com/), [SoundHound](https://www.soundhound.com/soundhound), [AcrCloud](https://www.acrcloud.com/identify-songs-music-recognition-online/), [Music ID Android](https://play.google.com/store/apps/details?id=com.gravitymobile.recognize&hl=en), [Music ID iOS](https://apps.apple.com/app/musicid/id358838909?ign-mpt=uo%3D8), [Dejavu](https://github.com/worldveil/dejavu) (python) or [Audd](https://audd.io/) (api) - *Song Identification Tools* 
 * [Monash IO](https://monash.io/) or [AudioRelay](https://audiorelay.net/) - *Stream PC Audio to Phone* 
@@ -397,20 +402,26 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Webamp](https://webamp.org/) - *Winamp in browser* 
 * [Winamp Skin Museum](https://skins.webamp.org/) - *Skins for Winamp/Webamp* 
 * [WACUP](https://getwacup.com/) - *Winamp update project* 
-* [RaveDJ](https://rave.dj/) - *Easily Mix Songs Together* 
 * [Mod Archive](https://modarchive.org/) - *Audio Modules*
+* [FamiStudio](https://famistudio.org/) - *Open Source Retro Music Editor*  
+* [Mixxx](https://mixxx.org/) - *DJ Mixing Software* 
+* [WD-1](https://www.worteldrie.com/WD5/), [Citizen DJ](https://citizen-dj.labs.loc.gov/loc-variety-stage/remix/) or [Webx0x Beats](https://webx0x.com/beats/new) - *Online DJ / Beat Creator* 
+* [RaveDJ](https://rave.dj/) - *Easily Mix Songs Together* 
+* [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - *Create Songs with Code* 
+* [Blokdust](https://blokdust.com/) - *Make Songs With Blocks* 
+* [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/) - *Song Maker*
 * [WebSynths](http://www.websynths.com/) - *Browser-Based Instruments* 
 * [Sampulator](http://sampulator.com/) - *Create Music with Your Keyboard* 
 * [JummBox](https://jummbus.bitbucket.io/) - *Create Chiptune Melodies* 
-* [Roland 808303.studio](https://808303.studio/) - *TR-808 Drum Machine / TB-303 Bass Synth* 
-* [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - *Create Music with Code* 
-* [Citizen DJ](https://citizen-dj.labs.loc.gov/loc-variety-stage/remix/) - *Online DJ / Beat Creator* 
-* [WD-1](https://www.worteldrie.com/WD5/) - *Online DJ* 
-* [Dot Piano](https://dotpiano.com/) - *Play Piano*
+* [Acid Machine 2](http://errozero.co.uk/acid-machine/) - *Acid Techno Machine*
+* [Roland 808303.studio](https://808303.studio/) - *Online Drum Machine / TB-303 Bass Synth* 
+* [iO-808](https://io808.com/) - *Online Drum Machine*
+* [Dot Piano](https://dotpiano.com/) - *Online Piano*
+* [MK-1](https://ericrosenbaum.github.io/MK-1/) - *Online Sampling Keyboard*
 * [Theremin](https://femurdesign.com/theremin/) - *Online Synth / Theremin* 
-* [Blokdust](https://blokdust.com/) - *Make Songs With Blocks* 
+* [Web Synth V2](http://aikelab.net/websynthv2/) or [TANGUY](http://tanguysynth.com/) - *Online Synthesizer*
+* [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - *Pop Song Sample Mixer*
 * [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Voca.ro](https://voca.ro/) - *Online Audio Recorder*  
-* [FamiStudio](https://famistudio.org/) - *Open Source Retro Music Editor*  
 * [Clyp](https://clyp.it/) - *Record / Share Audio Clips*
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts* 
 * [lalal.ai](https://www.lalal.ai/) - *Split Vocal and Instrumental Tracks from music* 
@@ -444,6 +455,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [MusicKit](https://musickit.jull.dev/) - *Metronome, Tuner & Tone Generator* 
 * [Tuner Ninja](https://tuner.ninja/) - *Instrument Tuner* 
 * [The Wub Machine](https://the.wubmachine.com/) - *Turn any Song into Dubstep* 
+* [PIXELSYNTH](https://ojack.xyz/PIXELSYNTH/) - *Image to Sound Synthesizer*
 * [img-encode](https://github.com/alexadam/img-encode) - *Image to Audio Converter*
 * [weird-converter](https://github.com/AlbertSuarez/weird-converter) - *Image to Audio / Audio to Image Converter*
 * [FindSounds](https://www.findsounds.com/) - *Sound Search Engine* 
@@ -701,6 +713,7 @@ General Reading Sites*
 * [Open Bulk URL](https://openbulkurl.com/) - *URL Bulk Opener*
 * [Redirect Detective](https://redirectdetective.com/) - *URL Redirect Checker* 
 * [Dereferer](https://dereferer.me/) - *Derefer / Anonymize Links*
+* [Link-Lock](https://rekulous.github.io/link-lock/) - *Encrypt & Decrypt Links with Passwords*
 * [Linkify Plus Plus](https://greasyfork.org/en/scripts/4255-linkify-plus-plus) - *[Core](https://github.com/eight04/linkify-plus-plus-core) / Turn Plain txt URL's into Links*
 * [Perma](https://perma.cc/) - *Permanent URLs* 
 * [Temporary-Url](https://www.temporary-url.com/) - *Temporary URLs / QR Codes* 
@@ -790,6 +803,7 @@ General Reading Sites*
 * [Revert Rebrand](https://betterdiscord.app/theme/Revert%20Rebrand) - *Revert Discord’s Rebrand on BetterDiscord / Powercord / [GitHub](https://github.com/Goose-Nest/GT-RevertRebrand)*
 * [Unicord](https://github.com/WamWooWam/Unicord) - *Open Source Discord Client* 
 * [GooseMod](https://goosemod.com/) - *Modifiable Discord Client / [Browsers](https://github.com/AAGaming00/GooseMod-chrome)*
+* [OpenDiscord](https://github.com/505e06b2/OpenDiscord) - *Modifiable Discord Client*
 * [Quarrel](https://github.com/UWPCommunity/Quarrel) - *Universal Windows Platform Discord Client*
 * [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) or [WebCord](https://github.com/SpacingBat3/WebCord) - *Discord Web Client / [Discord](https://discord.gg/Vm4CwZx)*
 * [CutTheCord](https://gitdab.com/distok/cutthecord) - *Modded Discord Client for Android* 
@@ -876,7 +890,7 @@ General Reading Sites*
 * [TVClip](https://tvclip.biz/) - *Alt YouTube Viewer* 
 * [Ytfzf](https://github.com/pystardust/ytfzf) - *Watch YouTube via the Terminal* 
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer) - *YouTube Linux Client / [Fork](https://github.com/trizen/pipe-viewer)* 
-* [ConvYouTube](https://www.convyoutube.com/en) - *Turn YouTube Videos into GIFs* 
+* [ConvYouTube](https://www.convyoutube.com/en), [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - *Turn YouTube Videos into GIFs* 
 * [ytcropper](https://ytcropper.com/) - *YouTube Video Cropper*
 * [yt2pod](https://github.com/frou/yt2pod) - *Create Podcasts from YouTube Channels* 
 * [YouTube Comment Scraper](https://github.com/philbot9/youtube-comment-scraper-cli) - *YouTube Comment Scraping CLI* 

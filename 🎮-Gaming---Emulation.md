@@ -44,9 +44,6 @@
 * [TOPXGAME](https://topxgame.com/)
 * [GamesMountain](https://gamesmountain.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
-* [AllGamesForYou](https://agfy.co/) - *[Discord](https://discord.gg/KHYuPABbnP)*
-* [FreeGamesHub](https://freegameshub.co/) - *[Discord](https://discord.gg/8YZTkmGPra) / AGFY Uploads*
-* [Steam Cracked](https://steamcracked.co/) - *[Discord](https://discord.gg/mFSrMKjbQg) / AGFY Uploads*
 * [LiGHT Repack Archive](https://drive.google.com/drive/folders/1q4lRUnwVhMQuakl1yM8OH1Je9_92LpXE)
 * [DLFox](https://www.dlfox.com/)
 * [ApunKaGames](https://www.apunkagames.biz/) 
@@ -59,6 +56,9 @@
 * [Ali213](https://ali213.net/) - *May Require VPN / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [pc_game_down](https://t.me/pc_game_down) - *Telegram*
 * [g4u](https://g4u.to/) - *Password: 404*
+* [AllGamesForYou](https://agfy.co/) - *[Discord](https://discord.gg/KHYuPABbnP)*
+* [FreeGamesHub](https://freegameshub.co/) - *[Discord](https://discord.gg/8YZTkmGPra) / AGFY Uploads*
+* [Steam Cracked](https://steamcracked.co/) - *[Discord](https://discord.gg/mFSrMKjbQg) / AGFY Uploads*
 * [LibreGameWiki](https://libregamewiki.org/List_of_games) - *Free Open-Source Games* 
 * [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - *Freeware Games Index*
 * [itch.io](https://itch.io/games/new-and-popular/featured/free) or [Game Jolt](https://gamejolt.com/games?price=free) - *Indie Games* 
@@ -101,7 +101,6 @@
 * [Xatab Repack](https://b.otxataba.net/), [2](https://x5.xatab-repack.com/)
 * [AllTorrents](https://alltorrents.co/)
 * [Tuttop](https://tuttop.com/) 
-* [Game3rb](https://www.game3rb.com/)
 * [Pleasuredome](http://www.pleasuredome.org.uk/)
 * [Dirty Games](https://www.dirtygames.xyz/)
 * [Igruha](https://s1.torrents-igruha.org/) 
@@ -169,8 +168,6 @@
 * [LegendaryRepacks](http://legendaryrepacks.simplesite.com/) - *Roms / [Discord](https://discord.gg/RUSNHSk) / Adblock & Universal Bypass Required*
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - *Roms / Torrent*
 * [Pleasuredome](http://www.pleasuredome.org.uk/) - *Roms / Torrent*
-* [RomsMania](https://romsmania.cc/) - *Click ["More Options"](https://i.imgur.com/gj0Ib6L.png) to DL / Emulators / Roms /* **Don't Use Exe**
-* [CoolRom](https://coolrom.com.au/) - *Roms /* **Don't Use Exe** 
 * [NesFiles](https://www.nesfiles.com/) - *NES Roms / Emulators* 
 * [Eclipse](https://eclipseemu.me/play/) - *Online Mobile Multi-Console Emulator* 
 * [/r/Roms](https://www.reddit.com/r/Roms/) - *Discussion sub*
@@ -330,7 +327,6 @@
 * [Dynast](https://dynast.io/) - *Survival Browser Game*
 * [Arcade Prehacks](http://www.arcadeprehacks.com/) - *Hacked Flash Games* 
 * [BlueMaxima](http://bluemaxima.org/flashpoint/) - *Flash Games Archive / [Discord](https://discord.gg/Z4gGtJvvn8)*
-* [Menneske](https://www.menneske.no/eng/) - *Number Puzzles* 
 * [AllBad.Cards](https://allbad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - *Cards Against Humanity Online* 
 * [Mexican Train](https://mexicantrain.online/) - *Domino Train Game*
 * [SlaveHack2](http://slavehack2.com/) - *Hacking Game*
@@ -361,8 +357,6 @@
 * [TotalJerkFace](https://totaljerkface.com/) - *Happy Wheels & More*
 * [ConnectTheStars](https://connectthestars.xyz/) - *Connect Stars through Movies*
 * [Blaseball](https://www.blaseball.com/) - *Odd Baseball Simulation Game* 
-* [Sokoban ](https://suppilulemur.neocities.org/) - *Box Moving Puzzle Game / Zelda-Themed*
-* [Blocks](https://theblocks.netlify.app/) - *Puzzle Game* 
 * [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) - *Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)*
 * [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - *Pac-man*
 * [iFiction](https://www.ifiction.org/) - *Text Adventure Index*
@@ -380,8 +374,7 @@
 * [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&ia=answer) or [2048](https://play2048.co/) - *Play 2048*
 * [Haxball](https://www.haxball.com/) - *Physics Based Multiplayer Soccer*
 * [WorldsBiggestPacman](https://worldsbiggestpacman.com/#-1,-1) - *World's Largest game of Pacman*
-* [The Wiki Game](https://www.thewikigame.com/) - *Explore Wikipedia Game* 
-* [WikiRacer](https://wikiracer.io/) - *Find the Shortest Path between Wiki Articles / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)*
+* [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/), [WikiRacer](https://wikiracer.io/) - *Find the Shortest Path between Wiki Articles / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)*
 * [Classic Minecraft](https://classic.minecraft.net/) - *Play Classic Minecraft* 
 * [CS-ONLINE.CLUB](https://cs-online.club/), [2](https://game.cs-online.club/) - *Play Counter Strike in Browser* 
 * [Marble Blast Gold Web](https://marbleblast.vani.ga/) - *Marble Blast Gold in Browser*
@@ -422,11 +415,16 @@
 * [NationStates](https://www.nationstates.net/) - *Nation Simulation Game* 
 * [247 Free Poker](https://www.247freepoker.com/) - *Simple Poker Online* 
 * [Cookie Consent Speed.Run](https://cookieconsentspeed.run/) - *Cookie Disabling Game*
-* [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - *Regex Based Crossword Puzzle*
 * [CandyBox](https://candybox2.github.io/) - *Candy Eating Game* 
 * [BTShip](https://github.com/hairarrow/btship) - *Typescript Boat Game*
+* [Sokoban](https://suppilulemur.neocities.org/) - *Box Moving Puzzle Game / Zelda-Themed*
+* [Blocks](https://theblocks.netlify.app/) - *Puzzle Game* 
+* [Game about Squares](http://gameaboutsquares.com/) - *Puzzle Game*
+* [Menneske](https://www.menneske.no/eng/) - *Number Puzzles* 
+* [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - *Regex Based Crossword Puzzle*
 * [How to Download and Play Flash Games](https://i.imgur.com/T6huIGF.png), [2](https://www.wikihow.com/Download-a-Flash-Game)
 * To Play old Shockwave Games Install [Adobe Shockwave](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html) & [K-Meleon Browser](http://kmeleonbrowser.org/)
+* [Educational Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_educational_games)
 
 ***
 

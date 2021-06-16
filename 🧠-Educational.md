@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/NtTSKIY.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/QxSWdJ1.png)** - *For mobile users*
 
 ***
 ***
@@ -184,7 +184,7 @@
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi Language Dictionary Index*
 * [WordReference](https://www.wordreference.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
 * [Memrise](https://www.memrise.com/), [Busuu](https://www.busuu.com/en/) or [Duolingo](https://www.duolingo.com/) - *Language Learning Lessons* 
-* [Yojik](https://fsi-languages.yojik.eu/index.html) - *Language Learning Courses*
+* [Yojik](https://fsi-languages.yojik.eu/index.html) or [ESOL](https://www.esolcourses.com/) - *Language Learning Courses*
 * [refold.la](https://refold.la/roadmap) - *Language Learning Guide* 
 * [Learn English Online](http://www.learn-english-online.org/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - *Learn English*
 * [MyLanguages](http://mylanguages.org/) - *Grammar / Vocabulary Language Learning*
@@ -221,7 +221,6 @@
 * **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - *Sites with many Calculators* 
 * **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - *List of interactive math sites*
 * **[Awesome Research](https://github.com/emptymalei/awesome-research)** - *Research tools index* 
-* **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)**, [Starfall](https://www.starfall.com/) or [Funbrain](https://www.funbrain.com/games) - *Educational Games*
 * **[Cymath](https://www.cymath.com/)** or [Symbolab](https://www.symbolab.com/) - *Math Problem Solver with Steps / [Symbolab Pro](https://pastebin.com/wA3QQkCj)*
 * **[PhET](https://phet.colorado.edu/)** - *STEM / Interactive*
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Infinite trial by clearing cookies & making new account*
@@ -247,7 +246,6 @@
 * [Quizlet](https://quizlet.com/) - *Quizes / Study Material*
 * [OpenSyllabus](https://opensyllabus.org/) - *Syllabus* 
 * [Edpuzz Ninja](https://edpuzz.ninja/) - *Educational Puzzle Solving Tool* 
-* [Cool Math Games](https://www.coolmathgames.com/) - *Math Games* 
 * [IXL Learning](https://au.ixl.com/math/) - *Math Practice / Quizzes*
 * [SpeedCrunch](https://speedcrunch.org/) - *Advanced Calculator*
 * [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - *Algebra Calculator* 
@@ -302,7 +300,6 @@ https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.white
 * [EbookFoundation Interactive Programming Tuts](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md) - *Interactive Programming Tutorials* 
 * [nanoHUB](https://nanohub.org/) - *Nanotechnology Tool Index*
 * [Vocabulary.ugent](http://vocabulary.ugent.be/) - *Vocabulary Test* 
-* [iCivics](https://www.icivics.org/games) - *Browser Games about U.S. Laws*
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/) - *Learn about Logical Fallacies* 
 * [YourBiasIs](https://yourbias.is/) - *Learn about Biases* 
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - *Learn to Tie Knots* 
@@ -315,3 +312,14 @@ https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.white
 * [Sideways Dictionary](https://sidewaysdictionary.com/) - *Common Computer Terms Explained Simply*
 * [Future Vision BIE](https://hemanthrajhemu.github.io/) - *VTU Study Materials*
 * [P2PU](https://www.p2pu.org/) - *Join Learning Groups Using Free Courses*
+
+***
+
+# ► Educational Games
+
+* **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - *Educational Games Index*
+* **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
+* [Starfall](https://www.starfall.com/) - *Educational Games*
+* [Funbrain](https://www.funbrain.com/games) - *Educational Games*
+* [Cool Math Games](https://www.coolmathgames.com/) - *Math Games* 
+* [iCivics](https://www.icivics.org/games) - *Browser Games about U.S. Laws*

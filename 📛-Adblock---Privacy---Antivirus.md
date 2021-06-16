@@ -136,6 +136,7 @@
 * [WinAuth](https://winauth.github.io/winauth/) - *Combine Two-Factor Authenticator Services* 
 * [Surveillance Self-Defense](https://ssd.eff.org/), [Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/), [The New Oil](https://thenewoil.xyz/index.html) or [Security In A Box](https://securityinabox.org/en/) - *Privacy & Safety Guides / Tools* 
 * [Privacy.Sexy](https://privacy.sexy/) - *Privacy Scripts* 
+* [Team Elite](https://www.te-home.net/) - *Security Software*
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - *CyberSecurity Tool Index*
 * [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - *Anti-Censorship tool index* 
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - *Linux Privacy Guide* 

@@ -137,6 +137,7 @@
 * [rzlib](https://www.rzlib.net/) - *Light-Novels* 
 * [booktxt](https://m.booktxt.net/) - *Light-Novels* 
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - *Documents*  
+* [guoxue](http://www.guoxue.com/) - *History / Journals*
 
 ***
 
@@ -989,6 +990,7 @@
 
 * [TamilCrow](https://www.1tamilcrow.com/) - *Movies / TV*
 * [TamilYogi](http://tamilyogi.cool/), [2](http://tamilyogi.best/) - *Movies*
+* [tamilgun.tw](https://tamilgun.tw/) - *Movies / TV*
 
 ***
 
@@ -1059,6 +1061,7 @@
 * [Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_asian_drama_sites)
 * [JioRockers](http://www.jiorockers.uk/) - *Indian Languages / Streaming / Movies*
 * [4MovieRulz](https://4movierulz.gg/) - *Indian Languages / Download / Movies*
+* [v100v.net](https://www.v100v.net/) - *Indian Languages / Streaming / Movies*
 * [TamilBlasters](https://tamilblasters.unblockit.onl/) - *Indian Languages / Torrent / Movies*
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - *Indian Languages / Radio*
 * [Einthusan](https://einthusan.tv/intro/) - *South Asian Films Archive*

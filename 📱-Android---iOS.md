@@ -361,6 +361,7 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * [Berg](https://www.funkymuse.dev/p/berg.html) - *Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * [SupaFlix](https://supaflix.1mt.top/) - *Movies / TV* 
 * [Pocket TV](https://pockettv.xyz/) - *Movies / TV*
+* [Tuner Radio](https://www.downloader.world/) - *Movies / TV*
 * [Rokkr](http://www.rokkr.net/ ) - *Movies / TV / 
 Add "huhu.to", "bs.to" or "oha.to"* 
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - *YTS Torrents* 

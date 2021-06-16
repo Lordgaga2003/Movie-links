@@ -215,7 +215,6 @@
 * [Warez DL](https://wrzs.me/) - *MP3 / FLAC* 
 * [Exystence](http://exystence.net/) - *MP3 / FLAC*  
 * [FindFlac](http://findflac.com/) - *FLAC / MP3 / MP4* 
-* [RIP REQUESTS](https://discord.gg/r7wwuAam3t) - *MP3 / FLAC / r/riprequests*
 * [TvG](https://tvg-blog.tumblr.com/) - *MP3 / Rare Music*
 * [zippyshare DJs](https://www.zippysharedjs.com/) - *Zippyshare File Search* 
 * [Archive.org](https://archive.org/details/audio) - *DL / Stream / MP3* 
@@ -294,6 +293,7 @@
 # ► Request Music
 
 * **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)** 
+* [RIP REQUESTS](https://discord.gg/r7wwuAam3t) - *MP3 / FLAC / r/riprequests*
 * [WorldSrc](https://t.me/WorldsrcOfficial)
 * [TehParadox](https://www.tehparadox.net/requests/)
 * [Sanet.st](https://sanet.st/community/t/requests) 

@@ -44,6 +44,29 @@
 * [arblionz.org](https://www.arblionz.org/) - *Movies / TV* 
 * [mycima](https://mycima.video/) - *Movies / TV* 
 * [animebdk](https://animebdk.blogspot.com/) - *Anime*
+* [anime4up](https://www.anime4up.com/) - *Anime*
+* [gateanime](https://www.gateanime.com/) - *Anime*
+* [shahiid](https://www.shahiid-anime.net/) - *Anime*
+* [branitube](https://www.branitube.net/) - *Anime*
+* [anime4you](https://www.anime4you.one/) - *Anime*
+* [ani-city](https://www.ani-city.tv/) - *Anime*
+* [animem2o](https://www.animem2o.com/) - *Anime*
+* [movizland](https://www.movizland.com/) - *Anime*
+* [animestarz](https://www.animestarz.com/) - *Anime*
+* [egyanime](https://www.egyanime.com/) - *Anime*
+* [anyanime](https://www.anyanime.com/) - *Anime*
+* [xsanime](https://www.xsanime.com/) - *Anime*
+* [okanime](https://www.okanime.com/) - *Anime*
+* [arabseed](https://www.arabseed.net/) - *Anime*
+* [oxoanime](https://www.oxoanime.me/) - *Anime*
+* [animekom](https://www.animekom.com/) - *Anime*
+* [octanime](https://www.octanime.com/) - *Anime*
+* [anyanime](https://www.anyanime.com/) - *Anime*
+* [animelek](https://www.animelek.tv/) - *Anime*
+* [animesilver](https://www.animesilver.com/) - *Anime*
+* [animetv](https://www.animetv.ge/) - *Anime*
+* [zimabdko](https://www.zimabdko.com/) - *Anime*
+* [tuktukcinema](https://www.tuktukcinema.com/) - *Anime*
 * [fomny](http://fomny.com/Home/index.php) - *Live TV* 
 
 ## ▷ Reading
@@ -358,7 +381,8 @@
 * [BDmusic](https://bdmusic23.bid/) - *Movies / TV*
 * [KatMovieHD](https://katmoviehd.se/) - *Movies / TV*
 * [MoviesVerse](https://t.me/MoviesHomeOFFICIALS) - *Movies / TV / Telegram* 
-* [MoviezAddiction](https://moviezaddiction.me/) - *Movies / TV* 
+* [BollywoodCineplex](https://t.me/BollywoodCineplex) - *Movies*
+* [MoviezAddiction](https://moviezaddiction.me/) - *Movies / TV / Telegram* 
 * [UnCutHD](https://www.uncuthd.win/) - *Movies / TV* 
 * [Gophie](https://gophie.cam/) - *Movies / TV*
 * [DesiRulez](https://www.desirulez.cc/) - *Video / Audio*
@@ -395,6 +419,11 @@
 * [gaana](https://gaana.com/) - *Music*
 * [hungama](https://www.hungama.com/music/) - *Music*
 * [jiosaavn](https://www.jiosaavn.com/) - *Music*
+
+## ▷ Reading
+
+* [requesthindibooks](https://t.me/requesthindibooks) - *Books / Request*
+* [English_Hindi_Novels_Magazine](https://t.me/English_Hindi_Novels_Magazine) - *Books / Magazines*
 
 ***
 
@@ -1063,10 +1092,12 @@
 * [4MovieRulz](https://4movierulz.gg/) - *Indian Languages / Download / Movies*
 * [v100v.net](https://www.v100v.net/) - *Indian Languages / Streaming / Movies*
 * [TamilBlasters](https://tamilblasters.unblockit.onl/) - *Indian Languages / Torrent / Movies*
+* [indianebooks](https://t.me/indianebooks) - *Indian Languages / Books*
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - *Indian Languages / Radio*
 * [Einthusan](https://einthusan.tv/intro/) - *South Asian Films Archive*
 * [wlext](https://wlext.is/) - *Turkish / Filipino / Thai / Streaming / Movies*
 * [KlikFilm](https://klikfilm.org/) - *Serbian / Streaming / Movies / TV*
+* [GeezLibrary](https://t.me/GeezLibrary) - *Amharic / Books*
 * [filma24](https://www.filma24.ai/) - *Albanian / Streaming / Movies / TV*
 * [lupiteam](https://lupiteam.net/) - *Corsican / Manga*
 * [RÚV](https://www.ruv.is/ruv) - *Icelandic / Live TV*

@@ -200,6 +200,7 @@
 * [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3 / Drive*
 * [Kyan's Music](https://drive.google.com/drive/folders/1J6VVfN-iD6DLEMIC1kLETcc5f8ENoJs0) - *MP3 / Drive*
 * [NewAlbum.club](https://newalbum.club/) - *MP3 Search*
+* [RipRequests](https://reddit.com/r/riprequests) - *FLAC / MP3 / Ripping Discussion / [Discord](https://discord.gg/y4MSkdvWYg)
 * [FLAC Attack](https://flacattack.net/) - *FLAC*
 * [24Flac.net](https://24flac.net/) - *FLAC*
 * [Flac Music](https://flachdmusic.org/) - *FLAC*
@@ -243,7 +244,7 @@
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "audio"*
 * **[Redtopia](https://git.fuwafuwa.moe/cairn/Redtopia)** - *Redtopia Repository / FLAC*
 * **[the /kpg/ torrent](https://kpg.neocities.org/)** - *800gb+ Torrent File*
-* **[Lidarr](https://github.com/Lidarr/Lidarr)** - *Autodownload music torrents*
+* **[Lidarr](https://github.com/Lidarr/Lidarr)** - *Autodownload Music Torrents*
 * [Music Torrent](http://music-torrent.net/) - *FLAC*
 * [Flactor](https://flactor.ru/) - *FLAC*
 * [Metal Tracker](https://en.metal-tracker.com/) - *Metal Music / MP3*
@@ -264,7 +265,7 @@
 # ► Tracking / Discovery
 
 * **[Last.fm](https://www.last.fm/home)** or [Libre](https://libre.fm/) - *Automatically track music you listen to + [Manual Scrobble](https://openscrobbler.com/)*
-* **[Has it leaked](https://hasitleaked.com/)** - *Album Leak Trackers*
+* **[Has it leaked](https://hasitleaked.com/)** or [LEAKED](https://leaked.cx/) - *Album Leak Tracker*
 * **[Muspy](https://muspy.com/)** - *Get album release updates*
 * **[Sputnik](https://www.sputnikmusic.com/)** - *albums*
 * [RateYourMusic](https://rateyourmusic.com/), [Discogs](https://www.discogs.com/) or [Musicbranz](https://musicbrainz.org/) - *albums / songs*

@@ -269,7 +269,7 @@
 * [LIMA](https://www.li-ma.nl/) - *Short / Experimental Films*
 * [The Library of Congress](https://www.loc.gov/film-and-videos/) - *Movies / Short Films* 
 * [Video Data Bank](https://www.vdb.org/) - *Short Films / Rare Videos* 
-* [Total Short Films](http://www.totalshortfilms.com/), [Viddsee](https://www.viddsee.com/), [MAFF](https://www.maff.tv/) or [Audpop](https://audpop.com/) - *Short Films* 
+* [Total Short Films](http://www.totalshortfilms.com/), [Viddsee](https://www.viddsee.com/), [MAFF](https://www.maff.tv/), [Short of the Week](https://www.shortoftheweek.com/) or [Audpop](https://audpop.com/) - *Short Films* 
 * [HuntleyArchives](https://www.huntleyarchives.com/) - *Rare / Forgotten Short Films* 
 * [Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_asian_drama_sites) - *Asian Drama Sites / English Subs*
 * [Einthusan](https://einthusan.tv/) - *South Asian Film Archive*
@@ -384,8 +384,8 @@
 * **[Video Download Sites Search](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** + [Video Download Sites 2](https://cse.google.com/cse?cx=89f2dfcea452fc451)
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "video"*
 * **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - *Download videos from streaming sites*
-* **[pahe.ph](http://pahe.ph/)** - *Movies / TV / Anime / [Discord](https://discord.gg/33P8hpR)*
-* **[snahp.it](https://snahp.it/)** - *Movies / TV / Anime / Passwords: snahp.it or snahp*
+* **[pahe.ph](http://pahe.ph/)** - *Movies / TV / Anime / HD / [Discord](https://discord.gg/33P8hpR)*
+* **[snahp.it](https://snahp.it/)** - *Movies / TV / Anime / HD / Passwords: snahp.it or snahp*
 * **[MovieParadise](https://movieparadise.org/)** - *Movies / TV*
 * **[Worlds Cinema](http://worldscinema.org/)** - *Old / Classic / Cult Films*
 * **[TopNow](http://topnow.se/)** - *Movies / [Discord](https://discord.gg/WHYmgeB)*
@@ -489,6 +489,8 @@
 * **[Anime Download Sites Search](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
 * **[AnimeKaizoku](https://animekaizoku.com/)**
 * **[hi10anime](https://hi10anime.com/)**
+* **[AnimeBatchDDL](https://animebatchddl.wordpress.com/)** - *[Discord](https://discord.gg/h5pGByTZ9Z) / [Drive](https://animebatchddl.code-geass.workers.dev/0:/), [2](https://animebatchddl.lelouch-vi-britannia.workers.dev/0:/), [3](https://animebatchddl.seisei-ruten.workers.dev/0:/), [4](https://animebatchddl.lelouch-lamperouge.workers.dev/0:/)*
+* **[Judas Discord](https://discord.gg/vbJ7RTn)** - *Sub / Dub / [OneDrive](https://reskk-my.sharepoint.com/personal/frankcastle_f_odpan_cn/_layouts/15/onedrive.aspx) / [GDrive](https://drive.google.com/drive/folders/19URIgzsbkOfNCXG13Wklmoq3KugKzk9j) / [TeamDrive](https://groups.google.com/d/forum/judasddl)* 
 * **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)** - *Telegram Anime Download Channels* 
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - *Anime / Manga Download Forum*
 * [TheHylia](https://anime.thehylia.com/)
@@ -506,7 +508,6 @@
 * [Kayoanime](https://kayoanime.com/)
 * [Erai-Raws](https://www.erai-raws.info/) - *[Discord](https://discord.gg/2PfWaar)*
 * [Anime Devil](https://animedevil.com/) - *[Telegram](https://groups.google.com/g/animedevil)*
-* [AnimeBatchDDL](https://animebatchddl.wordpress.com/) - *[Discord](https://discord.gg/h5pGByTZ9Z) / [Drive](https://animebatchddl.code-geass.workers.dev/0:/), [2](https://animebatchddl.lelouch-vi-britannia.workers.dev/0:/), [3](https://animebatchddl.seisei-ruten.workers.dev/0:/), [4](https://animebatchddl.lelouch-lamperouge.workers.dev/0:/)*
 * [NoobSubs](https://noobsubs.com/) - *[Drive](https://noobftp1.noobsubs.com/)*
 * [DameDesuYo](https://damedesuyo.com/) 
 * [Chiby](http://www.animechiby.com/)
@@ -515,7 +516,6 @@
 * [CopyCat Encodes](https://mega.nz/#folder/jpMFlQLB#QZ0W2OIyko-n2BTouWjHOQ) - *Drive* 
 * [Anime Time Drive](https://atdrive.animetimeserver.workers.dev/0:/) - *Drive* 
 * [FFA DDL BATCH](https://ffa.shiraha.workers.dev/) - *Drive* 
-* [Judas Discord](https://discord.gg/vbJ7RTn) - *Sub / Dub / [OneDrive](https://reskk-my.sharepoint.com/personal/frankcastle_f_odpan_cn/_layouts/15/onedrive.aspx) / [GDrive](https://drive.google.com/drive/folders/19URIgzsbkOfNCXG13Wklmoq3KugKzk9j) / [TeamDrive](https://groups.google.com/d/forum/judasddl)* 
 * [nibl](https://nibl.co.uk/bots.php) - *Anime Downloads / XDCC*
 * [Monkey-DL](https://github.com/Oshan96/monkey-dl), [HakuNeko](https://hakuneko.download/) / [2](https://github.com/manga-download/hakuneko), [anime-dl](https://github.com/anime-dl/anime-downloader) or [ultimate-batch-anime-downloader](https://github.com/KorigamiK/ultimate-batch-anime-downloader) - *Bulk Anime Downloader*
 * [manyame](https://github.com/asakura42/manyame/) - *IRC Anime Download Script* 
@@ -587,6 +587,7 @@
 * **[nyaa](https://nyaa.si/)**, [2](http://nyaa.iss.one/), [3](http://meowinjapanese.cf/) - *[Scrape Tool](https://github.com/natanbc/nyaasi)*
 * **[Anidex](https://anidex.info/)**
 * **[Hi10Anime](https://hi10anime.com/)**
+* **[SubsPlease](https://subsplease.org/)**
 * [KawAnime](https://github.com/Kylart/KawAnime) - *Anime Streaming App / [Discord](https://discord.com/invite/sdArN2Z)* 
 * [TokyoTosho](https://www.tokyotosho.info/)
 * [AnimeTosho](https://animetosho.org/)
@@ -599,7 +600,6 @@
 * [DameDesuYo](https://damedesuyo.com/) 
 * [GoodJobMedia](https://www.goodjobmedia.com/) 
 * [Chihiro](https://chihiro-subs.com/)
-* [SubsPlease](https://subsplease.org/)
 * [Some-Stuffs](http://some-stuffs.com/) - *[Discord](https://discord.gg/wYgXer2)*
 * [Erai-Raws](https://www.erai-raws.info/) - *[Discord](https://discord.gg/2PfWaar)*
 * [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - *[ZeroNet Required](https://zeronet.io/)*
@@ -683,8 +683,9 @@
 * [Fmovies](https://fmovies.co/) - *Movies / TV / Anime*
 * [1movies](https://ww2.1movies.is/contact) - *Movies / TV / Anime*
 * [UniqueStream](https://uniquestream.vip/requests/) - *Movies / TV / Anime*
-* [9Anime](https://9anime.to/) - *Anime / Click request*
+* [9Anime](https://9anime.to/) - *Anime / Click Request*
 * [SSAnime](https://ssanime.ga/request) - *Anime* 
+* [AnimeBatchDDL](https://animebatchddl.wordpress.com/) - *[Discord](https://discord.gg/h5pGByTZ9Z)
 * [GustaTV](https://www2.gustatv.to/requests/) - *Movies / TV* 
 * [TheWebFlix](https://docs.google.com/forms/d/e/1FAIpQLSe1-DTmK9yuAtmO6_pLMO4fR5UF2aWf0QbMME41blXfFWSQBA/viewform) - *Movies / TV* 
 * [anime-sharing](http://www.anime-sharing.com/forum/anime-requests-19/) - *Anime*

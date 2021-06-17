@@ -128,7 +128,6 @@
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - *Download / Torrent Manager* 
 * [Vysor](https://www.vysor.io/) or [scrcpy](https://github.com/Genymobile/scrcpy) - *Control Android via Desktop*
 * [LineageOS](https://www.lineageos.org/) or [Replicant](https://www.replicant.us/) - *Android OS*
-* [QR Code Generator](https://www.the-qrcode-generator.com/) - *Create QR Codes / Messages* 
 * [FAST](https://play.google.com/store/apps/details?id=com.netflix.Speedtest) or [FCC Speed Test](https://play.google.com/store/apps/details?id=com.samknows.fcc&hl=en_US&gl=US) - *Internet Speed Test*
 * [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - *Use Google Cam Without Google Play* 
 * [RClone](https://github.com/x0b/rcx) - *Multi-Site Cloud Storage File Manage*
@@ -158,6 +157,7 @@ App Manager
 * [Mematic](https://www.mematic.net/) - *Meme Creator* 
 * [Reface](https://reface.app/) - *Create Face Swap Videos* 
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
+* [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) - *Extract OTP Tokens*
 
 ***
 
@@ -245,6 +245,7 @@ App Manager
 * [Android App Sales](https://t.me/androidappsales) - *Paid apps / Telegram* 
 * [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - *Paid apps*
 * [AppsFree](https://play.google.com/store/apps/details?id=com.appsfree.android) - *Paid apps*
+* [How-to Install Play Store Apps from Other Countries](https://rentry.co/29s6v)
 
 ***
 
@@ -483,7 +484,6 @@ iOS
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
 * [3uTools](http://www.3u.com/) - *All in one iOS manager for Windows*
 * [UTM](https://getutm.app/) - *Virtual machines on iOS* 
-* [QR Code Generator](https://www.the-qrcode-generator.com/) - *Create QR Codes / Messages* 
 * [iSkin](https://iskin.tooliphone.net/) - *No Jailbreak iOS Themes* 
 * [iCustom](https://icustom.tooliphone.net/) - *Make Custom Icons Without Shortcuts* 
 * [widgetopia](https://apps.apple.com/us/app/widgetopia-widgets-weather/id1536432615) - *iOS Widgets*

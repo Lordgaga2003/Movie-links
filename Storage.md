@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/r0chDv5.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/rp90uf6.png)** - *For mobile users*
 
 ***
 ***
@@ -92,6 +92,12 @@
 #### Alternative Twitch Player
 
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/twitch_5/), [Chrome](https://chrome.google.com/webstore/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf)
+
+***
+
+#### Audio Editors 
+
+**[Audacity](https://www.audacityteam.org/)**, [MusE](https://muse-sequencer.github.io/), [Lexis Audio Editor](https://www.lexisaudioeditor.com/), [mp3DirectCut](https://mpesch3.de/), [Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [AudioMass](https://audiomass.co/), [FamiStudio](https://famistudio.org/), [Qtractor](https://qtractor.org/) (Linux)
 
 ***
 
@@ -219,7 +225,7 @@
 
 #### Compression Programs
 
-**[Conversion Tutorial Index](https://fileforums.com/showthread.php?t=96782)**, **[7-zip](https://www.7-zip.org/)**, [win-rar](https://www.win-rar.com/) / [Remove Popup](http://cooltricksb.blogspot.com/2015/03/how-to-remove-40-days-trial-period.html?m=1), [peazip](https://peazip.github.io/), [jZip](https://www.jzip.com/), [Unzip Online](https://unzip-online.com/en), [kgbarchiver](https://github.com/RandallFlagg/kgbarchiver), [Pigz](https://zlib.net/pigz/), [GNU Gzip](http://www.gnu.org/software/gzip/), [ezyZip](https://www.ezyzip.com/), [FreeARC](https://sourceforge.net/projects/freearc/) / [FreeARC 0.666](https://www68.zippyshare.com/v/qZUpSdVT/file.html), [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135), [p7zip](https://github.com/jinfeihan57/p7zip), [Razorx](https://fileforums.com/showthread.php?t=103577&highlight=Razorx)
+**[Conversion Tutorial Index](https://fileforums.com/showthread.php?t=96782)**, **[7-zip](https://www.7-zip.org/)**, [win-rar](https://www.win-rar.com/) / [Remove Popup](http://cooltricksb.blogspot.com/2015/03/how-to-remove-40-days-trial-period.html?m=1), [peazip](https://peazip.github.io/), [jZip](https://www.jzip.com/), [Unzip Online](https://unzip-online.com/en), [kgbarchiver](https://github.com/RandallFlagg/kgbarchiver), [Pigz](https://zlib.net/pigz/), [GNU Gzip](http://www.gnu.org/software/gzip/), [ezyZip](https://www.ezyzip.com/), [FreeARC](https://sourceforge.net/projects/freearc/) / [FreeARC 0.666](https://www68.zippyshare.com/v/qZUpSdVT/file.html), [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135), [p7zip](https://github.com/jinfeihan57/p7zip), [Razorx](https://fileforums.com/showthread.php?t=103577&highlight=Razorx), [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer)
 
 ***
 
@@ -267,7 +273,7 @@
 
 #### Free Webhosting Sites
 
-**[netlify](https://www.netlify.com/)**,  **[heroku](https://www.heroku.com/)**, [profreehost](https://profreehost.com/), [000webhost](https://www.000webhost.com/), [infinityfree](https://infinityfree.net/), [openshift](https://www.openshift.com/), [vercel](https://vercel.com/) /  [2](https://vercel.app/), [GitHub Pages](https://pages.github.com/), [surge](https://surge.sh/), [firebase](https://firebase.google.com/products/hosting), [openode](https://www.openode.io/) / [Github](https://github.com/openode-io), [workers.dev](https://workers.cloudflare.com/), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [neocities](https://neocities.org/), [ovobox](https://www.ovobox.com/), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [webs](https://www.webs.com/), [weebly](https://www.weebly.com/in), [yola](https://www.yola.com/), [wordpress](https://wordpress.com/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [txti](http://txti.es/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [hubzilla](https://zotlabs.org/page/zotlabs/home), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [moodlecloud](https://moodlecloud.com/), [tilda](https://tilda.cc/), [runkod](https://runkod.com/), [paiza.cloud](https://paiza.cloud/), [boomla](https://boomla.com/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [repl.it](https://docs.repl.it/repls/web-hosting), [render](https://render.com/), [roast](https://www.roast.io/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [hostman](https://hostman.com/), [freehosting](https://freehosting.host/), [gearhost](https://www.gearhost.com/), [freewebhostingarea](https://www.freewebhostingarea.com/), [DriveToWeb](https://drv.tw/), [freenom](http://freenom.com/), [milkshake](https://milkshake.app/)
+**[netlify](https://www.netlify.com/)**,  **[heroku](https://www.heroku.com/)**, [profreehost](https://profreehost.com/), [000webhost](https://www.000webhost.com/), [infinityfree](https://infinityfree.net/), [openshift](https://www.openshift.com/), [vercel](https://vercel.com/) /  [2](https://vercel.app/), [GitHub Pages](https://pages.github.com/), [surge](https://surge.sh/), [firebase](https://firebase.google.com/products/hosting), [openode](https://www.openode.io/) / [Github](https://github.com/openode-io), [workers.dev](https://workers.cloudflare.com/), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [neocities](https://neocities.org/), [ovobox](https://www.ovobox.com/), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [webs](https://www.webs.com/), [weebly](https://www.weebly.com/in), [yola](https://www.yola.com/), [wordpress](https://wordpress.com/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [txti](http://txti.es/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [hubzilla](https://zotlabs.org/page/zotlabs/home), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [moodlecloud](https://moodlecloud.com/), [tilda](https://tilda.cc/), [runkod](https://runkod.com/), [paiza.cloud](https://paiza.cloud/), [boomla](https://boomla.com/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [repl.it](https://docs.repl.it/repls/web-hosting), [render](https://render.com/), [roast](https://www.roast.io/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [hostman](https://hostman.com/), [freehosting](https://freehosting.host/), [gearhost](https://www.gearhost.com/), [freewebhostingarea](https://www.freewebhostingarea.com/), [DriveToWeb](https://drv.tw/), [freenom](http://freenom.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/)
 
 ***
 
@@ -279,7 +285,7 @@
 
 #### File Download Managers
 
-**[JDownloader](https://jdownloader.org/jdownloader2)** / [Dark Theme](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/), [XDM](https://github.com/subhra74/xdm), [XDM Link 2](https://subhra74.github.io/xdm/), [pyLoad](https://pyload.net/), [wfdownloader](https://www.wfdownloader.xyz/), [Mipony](https://www.mipony.net/), [EagleGet](http://www.eagleget.com/), [idm-trial-reset](https://github.com/J2TEAM/idm-trial-reset), [massivedl](https://github.com/dimkouv/massivedl), [Free Download Manager](https://www.freedownloadmanager.org/) / [2](https://sourceforge.net/projects/freedownload/), [uGet](https://ugetdm.com/) / [Extension](https://github.com/ugetdm/uget-integrator), [Persepolis](https://persepolisdm.github.io/), [DownZemAll](https://setvisible.github.io/DownZemAll/)
+**[JDownloader](https://jdownloader.org/jdownloader2)** / [Dark Theme](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/), [IDM](https://filecr.com/?s=Internet+Download+Manager+%28IDM%29) / [Trial Reset](https://github.com/J2TEAM/idm-trial-reset), [XDM](https://github.com/subhra74/xdm), [2](https://subhra74.github.io/xdm/), [pyLoad](https://pyload.net/), [wfdownloader](https://www.wfdownloader.xyz/), [Mipony](https://www.mipony.net/), [EagleGet](http://www.eagleget.com/), [massivedl](https://github.com/dimkouv/massivedl), [Free Download Manager](https://www.freedownloadmanager.org/) / [2](https://sourceforge.net/projects/freedownload/), [uGet](https://ugetdm.com/) / [Extension](https://github.com/ugetdm/uget-integrator), [Persepolis](https://persepolisdm.github.io/), [DownZemAll](https://setvisible.github.io/DownZemAll/)
 
 ***
 
@@ -287,7 +293,7 @@
 
 **File Syncing Programs**
 
-[lftp](https://lftp.tech/), [keybase](https://book.keybase.io/docs/files), [dropbox](https://www.dropbox.com/), [syncthing](https://syncthing.net/), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/)
+[lftp](https://lftp.tech/), [keybase](https://book.keybase.io/docs/files), [dropbox](https://www.dropbox.com/), [syncthing](https://syncthing.net/), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/), [WinSCP](https://winscp.net/eng/index.php), [freefilesync](https://freefilesync.org/)
 
 **Multi Host Uploaders**
 
@@ -635,7 +641,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Modded Minecraft Launchers
 
-[tLauncher](https://tlauncher.org/en/), [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [WurstClient](https://www.wurstclient.net/), [ImpactClient](https://impactclient.net/), [SkLauncher](https://skmedix.pl/sklauncher)
+[tLauncher](https://tlauncher.org/en/), [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [SkLauncher](https://skmedix.pl/sklauncher)
 
 ***
 
@@ -828,7 +834,7 @@ Add the following commands to a search to manually scrape each site.
 
 ####  Music Libraries / Players
 
-**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [Tauon Music Box](https://tauonmusicbox.rocks/) (linux), [Lollypop](https://wiki.gnome.org/Apps/Lollypop) (gnome), [GoneMAD](https://gonemadmusicplayer.blogspot.com/), [OvoPlayer](http://ovoplayer.altervista.org/)
+**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [Tauon Music Box](https://tauonmusicbox.rocks/) (linux), [Lollypop](https://wiki.gnome.org/Apps/Lollypop) (gnome), [GoneMAD](https://gonemadmusicplayer.blogspot.com/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/)
 
 ***
 
@@ -854,6 +860,7 @@ Add the following commands to a search to manually scrape each site.
 
 * Note these also activate Office 365
 * **https://a1_free365.a1od.workers.dev/**
+* [free365](https://github.com/KusakabeSi/free365) - *Index*
 * https://xkx.me/
 * http://25t.zxd.workers.dev/
 * https://a1.zxd.workers.dev/
@@ -870,6 +877,12 @@ Add the following commands to a search to manually scrape each site.
 * https://malahu.n5.myws.ca/
 * https://od.wasonliu.workers.dev/
 * https://office-user-auto-create.zaya.workers.dev/
+
+***
+
+#### Online Audio Editors
+
+**[Audioalter](https://audioalter.com/)**, [AudioStudio](https://www.redcoolmedia.net/web-browser-extension-utilities/audio-editor-audiostudio-chrome-firefox-extension), [Audiotool](https://www.audiotool.com/), [SoundTrap](https://www.soundtrap.com/), [BeepBox](https://www.beepbox.co/), [Efflux](https://www.igorski.nl/application/efflux/)
 
 ***
 
@@ -893,7 +906,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Password Managers
 
-* **[KeePass](https://keepass.info/)** + *[Ports](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/)*
+* **[KeePass](https://keepass.info/)** - *[Ports](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/)*
 * **[Bitwarden](https://bitwarden.com/)** - *[bitwarden_gcloud](https://github.com/dadatuputi/bitwarden_gcloud) / [Server](https://github.com/dani-garcia/vaultwarden)*
 * [Firefox Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/)
 * [LessPass](https://lesspass.com/)
@@ -1205,7 +1218,7 @@ Add the following commands to a search to manually scrape each site.
 
 ####  Screen Recorders
 
-[Bandicam](https://www.bandicam.com/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php), [Screenpresso](https://www.screenpresso.com/), [LiteCam](https://www.litecam.net/en/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [EZVid](https://www.ezvid.com/), [Captura](https://mathewsachin.github.io/Captura/), [Kap](https://getkap.co/)
+[OBS](https://obsproject.com/), [Bandicam](https://www.bandicam.com/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php), [Screenpresso](https://www.screenpresso.com/), [LiteCam](https://www.litecam.net/en/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [EZVid](https://www.ezvid.com/), [Captura](https://mathewsachin.github.io/Captura/), [Kap](https://getkap.co/)
 
 ***
 
@@ -1448,6 +1461,7 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 * [Ebookz](https://t.me/ebookz)
 * [AudioBook Collection](https://t.me/Audiobooks_Collection) 
 * [BlarkHive](https://t.me/blarkhive) 
+* [Audiobookclassic](https://t.me/Audiobookclassic) - *Classic Audiobooks*
 
 ***
 
@@ -1553,6 +1567,10 @@ Downlaod from deezer also supports playlist from Spotify
 * [ⓔBooks™](https://t.me/Ebooks_Encyclopedia27)  
 * [Books Every Day](https://t.me/books_every_day) 
 * [BooksNow](https://t.me/booksnow) 
+* [Books_worldd](https://t.me/Books_worldd) 
+* [boks_pdf](https://t.me/boks_pdf) 
+* [Ebooksenglish](https://t.me/Ebooksenglish)
+* [English_Hindi_Novels_Magazine](https://t.me/English_Hindi_Novels_Magazine)
 * [Ebookz](https://t.me/ebookz)
 * [bookdownbot](https://t.me/bookdownbot)
 * [goodreadstopbooks](https://t.me/goodreadstopbooks)
@@ -1579,6 +1597,7 @@ Downlaod from deezer also supports playlist from Spotify
 * [hollywoodcine](https://t.me/hollywoodcine) - *Movies*
 * [CC_X265](https://t.me/CC_X265) - *Movies*
 * [Rare Films](https://t.me/rarefilms) - *Movies* 
+* [New_Hollywood_Netflix_Movies](https://t.me/New_Hollywood_Netflix_Movies) - *Movies*
 * [MoviesVerse](https://t.me/MoviesHomeOFFICIALS) - *Movies / TV* 
 * [SciFiMovies4U](https://t.me/SciFiMovies4U) - *Sci-Fi Movies* 
 * [GDrive Movies Download](https://t.me/Google_drive_download_movies) - *Movies / TV* 
@@ -1759,7 +1778,7 @@ Good for finding classic, obscure & short films.
 * [Athena](https://discord.gg/3sDdhGwsxA) - *Custom Windows 10 1709 ISO*
 * [Ameliorated](https://ameliorated.info/) - *Windows 10 ISO Aimed Towards No Telemetry Windows 10*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old ISOs Windows, Mackintosh, Linux*
-* [Windows 10 LSTC](https://mega.nz/folder/ChNTDaiL#nNqH2PTfIzTLAEs8nc-U0w) - *Bloat / Telemetry Free Windows 10 / r/Windows10LTSC*
+* [Windows 10 LSTC](https://mega.nz/folder/ChNTDaiL#nNqH2PTfIzTLAEs8nc-U0w) - *Bloat / Telemetry Free Windows 10 /r/Windows10LTSC*
 * [Windows 10 Performance Edition](https://mega.nz/file/4JkCwYJB#ghB08_PppoMdl3t2F-9-hzNtBDgrw8gwM6MsUx1koZ0), [2](https://1fichier.com/?cxqd57d6vfpot5x6v9ft) - *No Cortana, Onedrive, Telemetry, Spying ect. + [Upates & Install Guide](https://weboas.is/forum/index.php?topic=2068.0)*
 
 ***

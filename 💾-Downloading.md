@@ -159,6 +159,7 @@
 * **[FileCR](https://filecr.com/en/)** - *Software / Books*
 * **[freesoff](https://freesoff.com/)** - *Software / Courses*
 * **[nsane.down](https://www.nsaneforums.com/)**
+* **[LRepacks](https://lrepacks.net/)** - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [YasDL](https://yasdl.com/) - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [ShareAppCrack](https://shareappscrack.com/) - *Software / Courses*
 * [downloadly](https://downloadly.ir/) - *Software / Courses*
@@ -183,12 +184,11 @@
 * [SoftnCracks](https://softncracks.com/) 
 * [KickassCracks](https://kickasscracks.com/) 
 * [SoftHouse](http://softhouse.cc/)
-* [LRepacks](https://lrepacks.ru/)
 * [VectorItalia](https://www.vectoritalia.com/)
 * [MySoftwareFree](https://mysoftwarefree.com/)
 * [Mutaz.net](https://www.mutaz.net/) - *PC / Mac / Android*
 * [AIOsetup](https://t.me/aiosetup) - *Software / Telegram* 
-* [raymondfreesoftware](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g) - *Software / Telegram* 
+* [raymondfreesoftware](https://sites.google.com/site/raymondfreesoftware/) *Software / [Telegram](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)* 
 * [ALTERNATIVES](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md) - *Lightweight Software Index*
 * [RADIXX11](https://radixx11rce2.blogspot.com/), [Izofile](https://izofile.com/), [Soft2Ev](https://www.soft2ev.com/), [CrackedFine](https://crackedfine.com/), [Keygen Fortress](https://t.me/keygen_fortress) or [Serials](https://www.serials.ws/) - *Software Keys / Patches*
 * [Software Heritage](https://www.softwareheritage.org/) - *Software Source Code Archive* 
@@ -200,8 +200,9 @@
 ## ▷ Freeware Sites
 
 * **[Major Geeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html)** - *Software*
+* **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)** - *Selfhosted Software Index* 
+* **[AlternativeTo](https://alternativeto.net/)**, [Slant](https://www.slant.co/) or [SaaSHub](https://www.saashub.com/) - *Find Alternatives to Software / Apps*
 * [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - *Open Source Wiki* 
-* [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - *Selfhosted Software Index* 
 * [OldVersion](http://www.oldversion.com/) - *Old Versions of Software* 
 * [OlderGeeks](https://oldergeeks.com/) - *Free Software Index / Forum*
 * [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - *Free Software Index / Wiki* 
@@ -223,7 +224,6 @@
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software* 
 * [Awesome Linux](https://github.com/inputsh/awesome-linux), [2](https://luong-komorebi.github.io/Awesome-Linux-Software/) - *Linux Software / Resources*
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software*  
-* [AlternativeTo](https://alternativeto.net/), [Slant](https://www.slant.co/) or [SaaSHub](https://www.saashub.com/) - *Find Alternatives to Software / Apps*
 * [RaymondFreeSoftware](https://t.me/raymondfreesoftware) - *telegram*
 * [Suckless](https://suckless.org/) - *Simple Software Archive* 
 * [MSDN](https://the-eye.eu/public/MSDN/) - *Microsoft Developer Network Software* 

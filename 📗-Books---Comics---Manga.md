@@ -303,15 +303,18 @@
 * **[Google Newspaper Search](https://news.google.com/newspapers)**
 * **[Newspapers Magazines](https://t.me/newspapersmagaziness)** - *Telegram* 
 * [Sanet.st](https://sanet.st/newspapers/)
+* [Elephind](https://www.elephind.com/) - *Historical Newspaper Search*
 * [EngNewspapers](https://vk.com/engnewspapers) - *Telegram*
 * [newspaper_archive](https://t.me/newspaper_archive) - *Telegram*
 * [Chronicling America](https://chroniclingamerica.loc.gov/newspapers/)
 * [Newspapers com](https://newspapers.com/)
 * [freeforbook](https://freeforbook.com/) 
 * [ThoughtCo](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
-* [LA Times](https://latimes.newspapers.com/)
 * [Library of Congress Newspapers](https://www.loc.gov/rr/news/oltitles.html)
 * [Archive.org Newspapers](https://archive.org/details/newspapers)
+* [World-Newspapers](https://world-newspapers.com/) or [Paperboy](https://www.thepaperboy.com/) - *Online Newspaper Index*
+* [LA Times](https://latimes.newspapers.com/)
+* [Europeana Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers) - *European Historical Newspapers*
 * [abc-dl](https://github.com/king-millez/abc-dl) - *Australian Broadcasting Corporation News Archive*
 * [Newspaper Map](https://newspapermap.com/) - *Find / Translate Worldwide Newspapers*
 
@@ -323,6 +326,7 @@
 * [The-Eye Food](https://the-eye.eu/public/Books/Food/) - *Cookbooks* 
 * [YudhaCookbook](https://www.yudhacookbook.my.id/) - *Cookbooks*
 * [Cook Bookshelf](https://t.me/cook_bookshelf) - *Cookbooks / Telegram*
+* [Search-22](https://search-22.com/recipe-search-tools) - *Multi-Site Recipe Search*
 * [SuperCook](https://www.supercook.com/) - *Recipe Search* 
 * [MyFridgeFood](https://www.myfridgefood.com/) - *Recipe Search* 
 * [Epicurious](https://www.epicurious.com/) - *Recipe Search* 
@@ -548,6 +552,8 @@
 * [EngBookPDF](https://www.engbookspdf.com/) - *Engineering*
 * [EasyEngineering](https://easyengineering.net/) - *Engineering*
 * [EngineeringBooksPDF](https://www.engineeringbookspdf.com/) - *Engineering*
+* [EngineeringEBookspdf](https://t.me/EngineeringEBookspdf) - *Engineering*
+* [EngineeringEBooks_civil](https://t.me/EngineeringEBooks_civil) - *Civil Engineering*
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - *Electronics* 
 * [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - *Philosophy* 
 * [APAOnline](https://www.apaonline.org/) - *Philosophy* 
@@ -658,7 +664,8 @@
 * [Crossref](https://search.crossref.org/) - *Articles / Documents / Datasets* 
 * [Dataone](https://www.dataone.org/) - *Datasets* 
 * [Data Catalog](https://datacatalog.worldbank.org/) - *Datasets* 
-* [mdpi](https://www.mdpi.com/) - *Articles / Open Access* 
+* [mdpi](https://www.mdpi.com/) - *Articles* 
+* [DOAJ](https://www.doaj.org/) - *Journals / Articles*
 * [CyberLeninka](https://cyberleninka.org/) - *Articles / Scientific / Legal* 
 * [Legal Core](https://core.ac.uk/) - *Papers / Academic*
 * [SSRN](https://www.ssrn.com/) - *Early Stage Research Papers* 

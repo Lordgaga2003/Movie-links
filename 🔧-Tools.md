@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/UskUBd0.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/rJ5hvLF.png)** - *For mobile users*
 
 ***
 *** 
@@ -12,8 +12,9 @@
 # ► General Tools
 
 * **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)** - *Sites with Multiple Tools*
+* **[MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb)** - *Google Colab Multi-Tool*
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - *Open Source Tools* 
-* [Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites) - *Sites with many Calculators* 
+* [Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites) - *Sites with Multiple Calculators* 
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - *AI Experiments / Tools* 
 * [Yandex Disk](https://disk.yandex.com/) - *Cloud Storage / File Sharing / Office Tools* 
 * [downloader](https://downloader.la/) - *Tools / Downloaders*
@@ -36,7 +37,7 @@
 * [Simple Science Fitness](https://ss.fitness/calculators) - *Fitness Calculators* 
 * [eXHALeR](https://www.xhalr.com/) - *Yoga / Meditation Breathing Tool* 
 * [ActivityWatch](https://activitywatch.net/) - *Automatically Track Device Activity / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)* 
-* [Take a Five](http://www.takeafive.com/) - *Self Destructing Tabs / Productivity Tracker* 
+* [Cold Turkey](https://getcoldturkey.com/) or [Take a Five](http://www.takeafive.com/) - *Site Blocker / Productivity Booster* 
 * [Tempus](https://tempus.keziahmoselle.fr/) - *Productivity Tracker* 
 * [SunCalc](https://www.suncalc.org/) - *Sun Position / Phase Calculator* 
 * [MoonCalc](https://www.mooncalc.org/) - *Moon Position / Phase Calculator* 
@@ -55,7 +56,7 @@
 * [Safe Substance](https://safesubstance.com/) - *Drug Combination Info / Harm Reduction* 
 * [Stolen Camera Finder](https://www.stolencamerafinder.com/) - *Find Stolen Cameras* 
 * [Thingiverse](https://www.thingiverse.com/) - *3D Printer Files* 
-* [QR Tiger](https://www.qrcode-tiger.com/) - *QR Code Generator* 
+* [QR Tiger](https://www.qrcode-tiger.com/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - *QR Code Generator* 
 * [QRpicture](https://www.qrpicture.com/) - *Picture to QR Code Converter* 
 * [Helpmap](https://helpmap.io/) - *Nonprofit Donation Map* 
 * [SlidesGo](https://slidesgo.com/) - *Google Slides / Powerpoint Templates* 
@@ -158,9 +159,9 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [gifify](https://github.com/vvo/gifify) - *Convert Video Files to GIFs*
 * [GifRun](https://gifrun.com/) - *Make GIFs From Online Videos*
 * [ScreenToGif](https://www.screentogif.com/) - *GIF Recording Software* 
-* [screengif](https://github.com/dergachev/screengif) - *Turn Screencasts into GIFs*
+* [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - *Turn Screencasts into GIFs*
 * [ConvYouTube](https://www.convyoutube.com/en), [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - *Turn YouTube Videos into GIFs* 
-* [Gifs paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/) or [Animated Images](https://www.animatedimages.org/) - *Download GIFs* 
+* [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [Gifs paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/) or [Animated Images](https://www.animatedimages.org/) - *Download GIFs* 
 * [GifPrint](http://gifprint.com/) - *Turn GIFs Into Flipbooks* 
 * [Gifski](https://gif.ski/) - *GIF Encoder*
 * [DrMemes](https://www.drmemes.com/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - *Meme Generator* 
@@ -265,7 +266,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image) or [stegpy](https://github.com/dhsdshdhk/stegpy) - *Embed / Extract Hidden Data in Images* 
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - *Blur Images / Scrub Metadata*
 * [Caesium](https://saerasoft.com/caesium/) or [Batch Compress](https://batchcompress.com/en) - *Image Compressor* 
-* [TinyPNG](https://tinypng.com/) - *Compress PNG Images* 
+* [TinyPNG](https://tinypng.com/) or [PNGQuant](https://pngquant.org/) - *PNG Compressor* 
 * [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi), [Exif-Viewer](http://exif-viewer.com/), [metapicz](http://metapicz.com/), [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - *EXIF / Metadata Viewer* 
 * [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif) or [VerExif](https://www.verexif.com/en/) - *Remove Meta / EXIF Data* 
 * [Pic2Map](https://www.pic2map.com/) - *Image EXIF data viewer with GPS support*
@@ -296,16 +297,17 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 
 ## ▷ Video Tools
 
-* **[Video Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_editors)** - *Free video editing programs*
+* **[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [VLC](https://www.videolan.org/), [MPC-HC](https://mpc-hc.org/), [MPC-BE](https://www.videohelp.com/software/MPC-BE), [Pot Player](http://potplayer.daum.net/) or [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/) - *Video Players / [Codecs](http://www.codecguide.com/download_kl.htm)*
+* MPV Tools - [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [Sub Navigation](https://github.com/perogiue/mpv-scripts/releases/) / [SponsorBlock](https://github.com/po5/mpv_sponsorblock)
+* **[Media Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - *Servers to Host / Play Media* 
+* **[Video Stream Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_stream_sync)** - *Video Streaming Sync / Watch Parties*
+* **[Video Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_editors)** - *Free Video Editing Software*
 * **[Video Hosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_hosting_sites)** - *Upload / Stream Videos* 
 * **[VideoHelp](https://www.videohelp.com/software)** - *Video Software Archive* 
-* **[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [VLC](https://www.videolan.org/) or [MPC](https://mpc-hc.org/) - *Video Player / [MPV Sub Navigation](https://github.com/perogiue/mpv-scripts/releases/) / [MPV Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [SponsorBlock](https://github.com/po5/mpv_sponsorblock)* 
-* **[Media Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - *Servers to Host / Play Media* 
 * **[HandBrake](https://handbrake.fr/)**, [XMedia Recode](https://www.xmedia-recode.de/en/) or [Evano](https://evano.com/online-video-converter) - *Video File Converter*
 * **[Video Encoding Guides](https://sometimes-archives-things.github.io/archived-things/)** - *Learn how to Encode Videos*
 * **[Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders)** - *Record your Screen*
-* **[Video Stream Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_stream_sync)** - *Video Streaming Sync / Watch Parties*
-* **[Multi Site Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)** - *Download videos from multiple sites*
+* **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)**
 * **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)** 
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
 * [youtube-cld](https://github.com/anatolykopyl/youtube-cdl) - *Bulk YouTube Channel Downloader*
@@ -318,6 +320,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [FFmpeg](https://ffmpeg.org/) - *Record, convert and stream audio & video / [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom)*
 * [ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot) or [File2videoconvbot](https://t.me/File2videoconvbot) - *File to Video Telegram Bots* 
 * [OBS](https://obsproject.com/) - *Video Recording / Live Streaming* 
+* [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - *Turn Screencasts into GIFs*
 * [Stream Recorder](https://www.hlsloader.com/) - *Streaming Video Recorder* 
 * [GifW00t](https://github.com/yaronn/GifW00t) - *Javascript Web Recorder*
 * [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-dl](https://github.com/ihabunek/twitch-dl) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  *Download Twitch Videos* 
@@ -362,19 +365,19 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 
 ## ▷ Audio Tools
 
-* **[Audio Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_downloading_apps)** - *Download Audio from Various Sites* 
-* **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
-* **[iBroadcast](https://ibroadcast.com)**, [koel](https://koel.dev/) / [Docker](https://github.com/0xcaff/docker-koel) or [Airsonic](https://airsonic.github.io/) - *Online Music Library / Player*
-* **[Audio Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_audio_software)** - *Download Audio Software*
 * **[Awesome Music](https://github.com/ciconia/awesome-music)** - *Music Resource Index* 
 * **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)** - *Music Production Index* 
-* **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - *Audio Visualization Resource Index* 
 * **[Hitsquad](http://www.hitsquad.com/smm/)** - *Audio Tools / Software Index* 
+* **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
+* **[iBroadcast](https://ibroadcast.com)**, [koel](https://koel.dev/) / [Docker](https://github.com/0xcaff/docker-koel) or [Airsonic](https://airsonic.github.io/) - *Online Music Library / Player*
+* **[Audio Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_audio_software)** - *Audio Software Downloads*
+* **[Audio Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_editors)** - *Edit Audio / Create Music*
+* **[Online Audio Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_online_audio_editors)** - *Edit Audio / Create Music Online*
+* **[Audio Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_downloading_apps)** - *Download Audio from Various Sites* 
+* **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
+* **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - *Audio Visualization Resource Index* 
 * **[Determine Audio File Quality](https://redd.it/3l0yxp)** - *How to determine the true quality of an audio file*
 * **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)** - *Audio compression examples*
-* **[Audacity](https://www.audacityteam.org/)**, [MusE](https://muse-sequencer.github.io/), [Lexis Audio Editor](https://www.lexisaudioeditor.com/), [mp3DirectCut](https://mpesch3.de/), [Ardour](https://ardour.org/), [LMMS](https://lmms.io/) or [AudioMass](https://audiomass.co/)  - *Audio Editor / Recorder*
-* **[Audioalter](https://audioalter.com/)**, [AudioStudio](https://www.redcoolmedia.net/web-browser-extension-utilities/audio-editor-audiostudio-chrome-firefox-extension), [Audiotool](https://www.audiotool.com/), [SoundTrap](https://www.soundtrap.com/), [BeepBox](https://www.beepbox.co/) or [Efflux](https://www.igorski.nl/application/efflux/) - *Online Music Creation / Editing*  
-* **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * [OpenAudio](https://github.com/webprofusion/OpenAudio) or [PLUGINS4FREE](https://plugins4free.com/) - *Audio Plugins & Apps* 
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_learning_tools) - *Learn How to Play Music*
 * [Beat of the Day](https://www.beatofthenight.com/) - *Play / Remix Music with Others*
@@ -403,7 +406,6 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Winamp Skin Museum](https://skins.webamp.org/) - *Skins for Winamp/Webamp* 
 * [WACUP](https://getwacup.com/) - *Winamp update project* 
 * [Mod Archive](https://modarchive.org/) - *Audio Modules*
-* [FamiStudio](https://famistudio.org/) - *Open Source Retro Music Editor*  
 * [Mixxx](https://mixxx.org/) - *DJ Mixing Software* 
 * [WD-1](https://www.worteldrie.com/WD5/), [Citizen DJ](https://citizen-dj.labs.loc.gov/loc-variety-stage/remix/) or [Webx0x Beats](https://webx0x.com/beats/new) - *Online DJ / Beat Creator* 
 * [RaveDJ](https://rave.dj/) - *Easily Mix Songs Together* 
@@ -475,6 +477,9 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
 * [Forekast](https://forekast.com/) - *Worldwide Event Calendar* 
 * [Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspaper_sites) - *Read & Download Newspapers*
+* [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Map* 
+* [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - *Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)*
+* [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - *List / Map of Active Volcanoes*
 
 ***
 
@@ -499,6 +504,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [CoolMaps](https://coolmaps.esri.com/#0) - *Multiple Maps* 
 * [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Map* 
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - *List / Map of Active Volcanoes*
+* [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - *Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)*
 * [FlightRadar24](https://www.flightradar24.com/) - *Live Flight Tracker* 
 * [MarineTraffic](https://www.marinetraffic.com/) - *Live Ship Tracker* 
 * [Mapfrappe](http://mapfrappe.com/?show=46142) - *Compare True Sizes on Land Masses*
@@ -571,7 +577,6 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - *GNU / Linux Twitch Desktop Client* 
 * [Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - *Download Twitch Chat Messages* 
 * [ZeroNet](https://zeronet.io/) - *Uncensorable sites + [/r/Zeronet](https://www.reddit.com/r/zeronet/)*
-* [arch.b4k](https://arch.b4k.co/) or [Sup/tg/](http://suptg.thisisnotatrueending.com/) - *4chan archive* 
 * [Hamachi](https://vpn.net/) - *VPN / LAN Emulator*
 * [itty.bitty](https://itty.bitty.site/) - *Host Small HTML Sites / Apps* 
 * [Miraheze](https://miraheze.org/) - *Free Wiki Hosting* 
@@ -610,7 +615,6 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Gate2Home](https://gate2home.com/) - *Keyboard Emulator* 
 * [PrintFriendly](https://www.printfriendly.com/) or [PrintWhatYouLike](https://www.printwhatyoulike.com/) - *Printer / PDF Version of Webpages*
 * [Textise](https://textise.net/) - *Remove Everything from a Page Except Text* 
-* [GitZip](https://gitzip.org/) - *Download sub-folders/files of Github Repo* 
 * [Signature Maker](https://signature-maker.net/) - *Digital / Email Signature Maker* 
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - *User Agent Archive* 
 * [FaxZero](https://faxzero.com/) - *Free Internet Faxing* 
@@ -734,7 +738,7 @@ General Reading Sites*
 
 ## ▷ Reddit Tools
 
-* **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)** or [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - *Browser Extension + [RES feature list](https://redditenhancementsuite.com/features/)*
+* **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)** or [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - *Browser Extension /  [Feature List](https://redditenhancementsuite.com/features/)*
 * **[redditlist](http://redditlist.com/)** - *Subreddit search / index*
 * [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [Reddit.tube](https://reddit.tube/), [RedditSave](https://redditsave.com/), /u/SaveVideo or /u/downloadmp4 - *Download Reddit Videos* 
 * [saveddit](https://github.com/p-ranav/saveddit) - *Reddit Bulk Media Downloader*
@@ -792,7 +796,7 @@ General Reading Sites*
 * [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - *Use Discord Emoji's without Nitro* 
 * [Ping and Salar's](https://discord.gg/RuFvp72qY4) - *Free Global Discord Emoji Server List / [Instructions](https://discord.com/channels/290572012437372931/444165499035713537/845971730690473994)*
 * [Emote Manager](https://github.com/EmoteBot/EmoteManager) - *Custom Discord Emote Manager* 
-* [emoji.gg](https://emoji.gg/) - *Discord Emotes* 
+* [emoji.gg](https://emoji.gg/) or [KEE](https://kellphy.com/projects/apps/kee.html) - *Discord Emotes* 
 * [Distok](http://distok.top/stickers/) - *Discord Stickers as GIFs* 
 * [Discord Sticker Viewer](https://sticker-view.vercel.app/) - *View / Search Discord Stickers*
 * [Better Discord](http://betterdiscord.app/) - *Modifiable Discord Client / [Plugins](https://rauenzi.github.io/BetterDiscordAddons/), [2](https://mwittrien.github.io/) / [Themes](https://www.limeshark.dev/editor), [2](https://gibbu.me/editor) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd), [2](https://discord.gg/sbA3xCJ)*
@@ -818,6 +822,7 @@ General Reading Sites*
 * [Discord Token Getter](https://greasyfork.org/en/scripts/404170-discord-token-getter) or [Get Discord Token](https://greasyfork.org/en/scripts/395741-get-discord-token) - *Retrieve Discord user token*
 * [PreMiD](https://premid.app/) - *Display internet activity in Discord status / [Github](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.gg/WvfVZ8T)* 
 * [Alternatives to MEE6](https://alternativestomee6.com/) - *[Discord](https://discord.gg/WrbMdWHfNd)* 
+* [Titan Embeds](https://titanembeds.com/) - *Create Discord Chat Embeds*
 * [MonitoRSS](https://monitorss.xyz/) - *RSS Discord Bot*
 * [Permissions Calculator](https://discordapi.com/permissions.html) - *Generate Discord OAuth Invites*
 * [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [eidolonrp CodeFactor](https://github.com/kairusds/eidolonrp), [DiscordRPCMaker](https://drpcm.t1c.dev/) or [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC) - *Create a Custom Rich Presence in Discord*
@@ -859,7 +864,7 @@ General Reading Sites*
 * [Discord InfluxDB exporter](https://github.com/terorie/discord-influx) - *Export Discord Metrics to InfluxDB*
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - *Datamining Discord changes from the JS files*
 * [Discord.sale](https://discord.sale/) - *Discord Client Build Info*
-* [Hypesquad](https://cdn.discordapp.com/attachments/668986791797325824/844589771653382194/unknown.png) - *Get a Discord Profile Badge, that does... nothing! yay!*
+* [Hypesquad](https://cdn.discordapp.com/attachments/668986791797325824/844589771653382194/unknown.png) - *Get a Discord Profile Badge*
 
 ***
 
@@ -971,139 +976,149 @@ General Reading Sites*
 # ► System Tools
 
 * **[Windows Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/pirate-windows)**, [2](https://rentry.co/windows_for_retards)
-* **[Windows 10 Activation Guide](https://rentry.co/ActivateWin10)**, [2](https://redd.it/er3fon), [3](https://msguides.com/), [4](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation)
 * **[Windows ISO's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - *Download Windows*
+* **[Windows 10 Activation Guide](https://rentry.co/ActivateWin10)**, [2](https://redd.it/er3fon), [3](https://msguides.com/), [4](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation)
 * **[Windows Activation Scripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation_scripts)** 
 * **[Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)** 
-* **[Rainmeter](https://www.rainmeter.net/)**, [ScreenStyler](https://screenstyler.com/) / [Discord](https://discord.gg/u3thTMp9Cd) or [XDesktopSoft](https://www.xwidget.com/) - *Desktop Customization / [Utilities](https://github.com/EnhancedJax/PowerToysPlus)* 
 * **[WizTree](https://wiztreefree.com/)**, [WinDirStat](https://windirstat.net/), [diskover](https://github.com/shirosaidev/diskover), [baobab](https://github.com/GNOME/baobab), [2](https://gitlab.gnome.org/GNOME/baobab), [HDSentinel](https://www.hdsentinel.com/) or [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - *Disk Usage Analyzer*
-* [Windows 10 Optimization Tutorial](https://youtu.be/pJTCwSX9Ym8) 
+* [Windows Optimization Guide](https://rentry.co/fwt#optimize-offline) - *Friendly Windows Thread / [Video](https://youtu.be/pJTCwSX9Ym8)* 
 * [Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png), [2](https://i.imgur.com/A36Yd7F.png)
+* [PowerToys](https://github.com/microsoft/PowerToys) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
+* [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - *Windows System Utilities* 
 * [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), /r/buildapc or [NZXTBld](https://www.letsbld.com/) - *PC Building Sites / [Discord](https://discord.gg/buildapc)*
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - *GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)*
 * [r/TechSupport](https://www.reddit.com/r/techsupport/) - *Tech Support Discussion / [Discord](https://discord.gg/2EDwzWa)* 
-* [phwmon](https://gitlab.com/o9000/phwmon) - *System Tray Hardware Monitor*
-* [Recoll](https://www.lesbonscomptes.com/recoll/) - *Search for Documents via their Contents & File Names / [Site Indexer](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/)* 
-* [balenaEtcher](https://balena.io/etcher) - *Flash OS images to SD cards & USB drives*
-* [Rufus](https://rufus.ie/), [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) or [WoeUSB](https://github.com/WoeUSB/WoeUSB) - *Create Bootable USB Drives* 
-* [MultiBoot USB](https://github.com/hackerncoder/multibootusb) - *Create Bootable USB Linux Drives* 
+* [Rufus](https://rufus.ie/), [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) or [WoeUSB](https://github.com/WoeUSB/WoeUSB) - *Create Bootable USB Drives*  
+* [Easy2Boot](https://www.easy2boot.com/) - *Boot Directly from ISO's* 
+* [balenaEtcher](https://balena.io/etcher) - *Flash OS Image SD / USB*
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - *Preinstallation Environment* 
-* [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) or [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - *Keep Getting Windows 7 Updates* 
-* [Windows Config Guide](https://rentry.co/fwt#optimize-offline) - *Friendly Windows Thread* 
-* [Mayfrost Guides](https://github.com/mayfrost/guides) - *Linux / Computing Guides*
-* [BloatBox](https://github.com/builtbybel/bloatbox) - *Remove Unwanted Windows Apps* 
-* [AATU](https://amdaputuningutility.com/) - *Ryzen Mobile Laptop Tuning Utility*
-* [CPUid](https://www.cpuid.com/softwares/cpu-z.html) - *System Information Tool* 
-* [Wox](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) or [Alfred (Mac)](https://www.alfredapp.com/) - *Keystroke Launcher* 
-* [Cerebro App](https://cerebroapp.com/) or [Zazu App](http://zazuapp.org/) - *System Productivity Booster*
-* [Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - *Automate Tasks*
-* [PowerToys](https://github.com/microsoft/PowerToys) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
-* [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - *Windows Tweaks*
-* [Win10 Widgets](https://win10widgets.com/) - *Widgets for Windows 10* 
-* [Blackbox 4 Windows](http://blackbox4windows.com/) - *Custom Windows Shells / Widgets*
-* [ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - *Desktop Program, Video & Webpage Pins / Program Wallpapers*
-* [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - *Windows API Tricks*
-* [Open Shell](https://open-shell.github.io/Open-Shell-Menu/), [2](https://github.com/Open-Shell/Open-Shell-Menu) - *Windows / Start Menu Enhancements* 
-* [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - *Classic Start Menu* 
-* [SystemTrayMenu](http://hofknecht.eu/systemtraymenu/) - *Improved Start Menu / [GitHub](https://github.com/Hofknecht/SystemTrayMenu)*
-* [Killer](https://github.com/ntaraujo/killer) or [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - *Improved Task Manager / [Discord](https://discord.gg/MKG6qgJ964)*
-* [VirtualCustoms](https://virtualcustoms.net/), [WinCustomize](https://www.wincustomize.com/) or [7Themes](https://7themes.su/) - *Windows Customization / Themes / Wallpapers ect.* 
-* [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - *Audio Visualizer / FX Engine for Keyboards, Mice & Accessories*
-* [MechaKeys](https://mechakeys.robolab.io/) - *Keyboard Soundpacks*
-* [StreamPi](https://stream-pi.com/) - *ElGato Streamdeck Alternative*
-* [EarTrumpet](https://eartrumpet.app/) - *Better Volume Button for Windows* 
-* [WinMute](https://github.com/lx-s/WinMute/) - *Automatically Mute PC*
-* [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - *Alt Windows Shells* 
-* [Chocolatey](https://chocolatey.org/) - *Windows Package Manager* 
-* [TopGrade](https://github.com/r-darwish/topgrade) - *Package Manager Update Automation* 
-* [mRemoteNG](https://mremoteng.org/) - *Remote Connections Manager* 
-* [Ninite](https://ninite.com/) - *Install / Update Multiple Programs at Once*
-* [WinFile](https://github.com/microsoft/winfile) - *Original Windows File Manager* 
-* [BeautySearch](https://github.com/krlvm/BeautySearch) - *Windows 10 Search Appearance Tweaker* 
-* [Soft Organizer](https://www.dropbox.com/s/5k5pm5f2xwbk7gb/soft-organizer-746-setup.exe), [Geek Uninstaller](https://geekuninstaller.com/), [Revo Uninstaller](https://www.revouninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - *Software Uninstallation Tool*
-* [Update Notifier](http://cleansofts.org/view/update-notifier.html) - *Scan Computer for Software Updates* 
-* [Scoop](https://scoop.sh/) - *Command-Line Installer* 
+* [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) or [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - *Extended Windows 7 Updates* 
 * [SmartWindows](https://smartwindows.app/) - *Create / Restore Windows Profiles* 
-* [ArsClip](http://www.joejoesoft.com/vcms/97/), [Ditto Clipboard Manager](https://ditto-cp.sourceforge.io/), [clipboardmemo](https://gitlab.com/fabrom/clipboardmemo), [CopyQ](https://hluk.github.io/CopyQ/) or [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots) - *Clipboard Manager* 
-* [Deskreen](http://deskreen.com/) - *Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen)* 
-* [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) - *Simulate User Activity* 
-* [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows) - *Mouse Auto Clicker*
-* [BleachBit](https://www.bleachbit.org/) - *Free cache, delete cookies, clear history, shred temp files, ect.*  
+* [VirtualBox](https://www.virtualbox.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - *Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)*
+* [WinCDEmu](https://wincdemu.sysprogs.org/) - *CD/DVD/BD Emulator*  
+* [SpeedyFox](https://crystalidea.com/speedyfox) - *Optimize Program Performance*  
+* [CCStopper](https://github.com/E-Soda/CCStopper) - *Stop Background Adobe Apps*
+* [AATU](https://amdaputuningutility.com/) - *Ryzen Mobile Laptop Tuning Utility*
+* [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](http://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - *Process Monitor*
+* [Process Lasso](https://bitsum.com/) - *CPU Optimization* 
+* [CPUid](https://www.cpuid.com/softwares/cpu-z.html) - *System Information Tool* 
+* [HWiNFO](https://www.hwinfo.com/) - *Hardware Analysis, Monitoring and Reporting*
+* [phwmon](https://gitlab.com/o9000/phwmon) - *System Tray Hardware Monitor*
+* [Open Shell](https://open-shell.github.io/Open-Shell-Menu/), [2](https://github.com/Open-Shell/Open-Shell-Menu) or [SystemTrayMenu](http://hofknecht.eu/systemtraymenu) / [GitHub](https://github.com/Hofknecht/SystemTrayMenu) - *Improved Start Menu* 
+* [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - *Classic Start Menu* 
+* [Search Deflector](https://github.com/spikespaz/search-deflector) - *Change Cortana Search Engine / Browser*
+* [Recoll](https://www.lesbonscomptes.com/recoll/) - *Improved Windows Search / [Site Indexer](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/)* 
+* [pyWinContext](https://github.com/VodBox/pyWinContext) - *Custom Context Menu Manager* 
+* [Killer](https://github.com/ntaraujo/killer) or [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - *Improved Task Manager / [Discord](https://discord.gg/MKG6qgJ964)*
 * [All Tasks Toolbar](https://winaero.com/create-all-tasks-god-mode-toolbar-windows-10/) - *Create All Tasks God Mode Toolbar in Win 10* 
 * [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - *Add Everything Support to Taskbar* 
 * [Hyper](https://github.com/nodgear/Hyperbar) or [Awesome](https://github.com/nodgear/Awesome) - *Taskbar Replacement*
-* [TaskbarX](https://chrisandriessen.nl/taskbarx/) - *Change Taskbar Icon Positions* 
-* [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - *Translucent Windows Taskbar* 
-* [pyWinContext](https://github.com/VodBox/pyWinContext) - *Custom Context Menu Manager* 
-* [Jabba The Hud](https://codeberg.org/elberro/jabba-the-hud) - *Windows HUD*
+* [Clover](http://en.ejie.me/) or [QTTabBar](http://qttabbar.wikidot.com/) - *Windows Explorer Tabs*
+* [Total Commander](https://www.ghisler.com/) - *Improved File Manager*
+* [WinFile](https://github.com/microsoft/winfile) - *Original Windows File Manager* 
+* [Multi Commander](http://multicommander.com/) - *Multi-Tabbed File Manager*
+* [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - *Quickly Change Power Schemes*
+* [Wox](http://www.wox.one/) / [GitHub](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - *Keystroke Launcher* 
+* [ArsClip](http://www.joejoesoft.com/vcms/97/), [Ditto Clipboard Manager](https://ditto-cp.sourceforge.io/), [clipboardmemo](https://gitlab.com/fabrom/clipboardmemo), [CopyQ](https://hluk.github.io/CopyQ/) or [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots) - *Clipboard Manager* 
+* [clip](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/clip) - *Redirects Command Output from Command Line to Clipboard*
+* [Almond](https://almond.stanford.edu/) - *Virtual Assistant*
+* [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - *Voice Assistant*
+* [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client), [Mycroft](https://mycroft.ai/) or [Home Assistant](https://www.home-assistant.io/) - *Home Assistant Client*
+* [Cerebro App](https://cerebroapp.com/) or [Zazu App](http://zazuapp.org/) - *System Productivity Booster*
+* [Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - *Automate Tasks*
+* [Econap](https://www.econap.de/) - *Prevent Sleep Mode*
+* [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) - *Simulate User Activity* 
+* [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows) - *Mouse Auto Clicker*
+* [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - *Windows Tweaks*
+* [Win10 Widgets](https://win10widgets.com/) - *Widgets for Windows 10* 
+* [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - *Windows API Tricks*
+* [f.lux](https://justgetflux.com/), [LightBulb](https://github.com/Tyrrrz/LightBulb) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - *Adapts Display Color to Time of Day*
+* [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRG) - *System Lighting Control*
+* [ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - *Desktop Program, Video & Webpage Pins / Program Wallpapers*
 * [Plumb](https://palatialsoftware.com/plumb/), [bug.n](https://github.com/fuhsjr00/bug.n), [GridMove](https://www.dcmembers.com/jgpaiva/), [Amethyst Windows](https://github.com/glsorre/amethystwindows), [yatta](https://github.com/LGUG2Z/yatta), [WorkSpacer](https://www.workspacer.org/), [TileMe](https://gitlab.com/slavoutich/tileme) or [WindowsGrid](http://windowgrid.net/) - *Window Grid / Tiling Program* 
 * [multrin](https://github.com/sentialx/multrin) - *Organize Windows Apps in Tabs* 
 * [Klotures](https://gitlab.com/jkushmaul/klotures) - *Desktop Icon Organizer / [Demo](https://gitlab.com/jkushmaul/klotures/raw/master/docs/KloturesDemo.webm)*
 * [QuickLook](https://github.com/QL-Win/QuickLook) - *macOS Quick Look for Windows* 
 * [AutoHotkey](https://www.autohotkey.com/) - *Keyboard Macro Program*
-* [Easy2Boot](https://www.easy2boot.com/) - *Boot Directly from ISO's* 
-* [SnappyDrivers](https://www.snappy-driver-installer.org/) - *Install missing drivers and update old drivers* 
-* [ricemood](https://github.com/fhadiel/ricemood) - *Fully customizable unix color schemer*
-* [Accent Applicator](https://github.com/mcdenis/AccentApplicator) - *Applies Win 10 Accent Color to OS*
-* [ModernWinver](https://github.com/torchgm/ModernWinver) - *Modernize the About Windows Screen* 
-* [f.lux](https://justgetflux.com/), [LightBulb](https://github.com/Tyrrrz/LightBulb) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - *Adapts Display Color to Time of Day*
-* [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRG) - *System Lighting Control*
-* [NVDA](https://www.nvaccess.org/download/) - *Screen Reader / [Github](https://github.com/nvaccess/nvda)* 
-* [SpeedyFox](https://crystalidea.com/speedyfox) - *Optimize Program Performance*  
-* [AnyDesk](https://anydesk.com/), [Parsec](https://parsec.app/) [TeamViewer](https://www.teamviewer.com/en-us/) or [NoMachine](https://www.nomachine.com/) - *Remote Desktop Clients*
+* [Carnac](http://code52.org/carnac/) - *Presentation Utility / Keyboard Logger*
+* [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit) - *Presentation Utility / Zoom Tool*
+* [Deskreen](http://deskreen.com/) - *Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen)* 
 * [JumpShare](https://jumpshare.com/) - *File, Screenshot & Video Sharing* 
+* [AnyDesk](https://anydesk.com/), [Parsec](https://parsec.app/) [TeamViewer](https://www.teamviewer.com/en-us/) or [NoMachine](https://www.nomachine.com/) - *Remote Desktop Clients*
+* [WindowsRDP](https://github.com/itznik/WindowsRDP) - *Free Remote Desktop Protocol / [Guide](https://rentry.co/WindowsRDP)*
+* [mRemoteNG](https://mremoteng.org/) - *Remote Connections Manager* 
 * [Collab-VM](http://computernewb.com/collab-vm/) - *Control Collaborative Virtual Machines* 
-* [VirtualBox](https://www.virtualbox.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - *Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)*
-* [cmder](https://cmder.net/) - *Portable console emulator for Windows* 
-* [WinCDEmu](https://wincdemu.sysprogs.org/) - *CD/DVD/BD emulator*  
-* [HWiNFO](https://www.hwinfo.com/) - *Hardware Analysis, Monitoring and Reporting*
+* [Chocolatey](https://chocolatey.org/) - *Windows Package Manager* 
+* [TopGrade](https://github.com/r-darwish/topgrade) - *Package Manager Update Automation* 
+* [winget-pkgs](https://github.com/microsoft/winget-pkgs) - *Windows Package Manager manifest repository / [CLI](https://github.com/microsoft/winget-cli)* 
+* [Ninite](https://ninite.com/) - *Install / Update Multiple Programs at Once*
+* [Soft Organizer](https://www.dropbox.com/s/5k5pm5f2xwbk7gb/soft-organizer-746-setup.exe), [Geek Uninstaller](https://geekuninstaller.com/), [Revo Uninstaller](https://www.revouninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - *Software Uninstallation Tool*
+* [BloatBox](https://github.com/builtbybel/bloatbox) - *Remove Unwanted Windows Apps* 
+* [Update Notifier](http://cleansofts.org/view/update-notifier.html) - *Scan Computer for Software Updates* 
+* [SnappyDrivers](https://www.snappy-driver-installer.org/) - *Update / Install Missing Drivers* 
+* [Downloadkar](https://downloadkar.ir/) - *Device Drivers / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
+* [Scoop](https://scoop.sh/) - *Command-Line Installer* 
+* [VCRedist](https://github.com/abbodi1406/vcredist) - *AIO Repack for Microsoft Visual C++ Redists*
+* [UUP dump](https://uupdump.ml/) - *Download Windows UUP files*   
+* [Dll Downloader](http://www.dlldownloader.com/) - *Download DLL Files for Windows* 
+* [BleachBit](https://www.bleachbit.org/) - *Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.*  
 * [sven dpi](https://www.sven.de/dpi/) - *DPI Calculator* 
-* [Almond](https://almond.stanford.edu/) - *Virtual Assistant*
-* [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - *Voice Assistant*
-* [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client), [Mycroft](https://mycroft.ai/) or [Home Assistant](https://www.home-assistant.io/) - *Home Assistant Client*
 * [JScreenFix](https://www.jscreenfix.com/) - *Repair Stuck Pixels* 
-* [clip](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/clip) - *Redirects Command Output from Command Line to Clipboard*
+* [NVDA](https://www.nvaccess.org/download/) - *Screen Reader / [Github](https://github.com/nvaccess/nvda)* 
 * [copy.sh](https://copy.sh/v86/) or [Virtual Desktop](http://www.virtualdesktop.org/) - *Multiple OS Emulators*
 * [Win95](https://win95.ajf.me/) - *Windows 95 Browser Emulator* 
 * [Windows 1.01](https://classicreload.com/Windows-1-01.html) - *Windows 1.01 Browser Emulator* 
 * [RebornXP](https://rebornxp.js.org/) - *Windows XP Browser Emulator*
-* [DistroTest](https://distrotest.net/) or [JSLinux](https://bellard.org/jslinux/) - *Linux Browser Emulator*
 * [PCE.js](https://jamesfriend.com.au/pce-js/ibmpc-games/) - *PCDOS 5 Emulator* 
-* [UUP dump](https://uupdump.ml/) - *Download Windows UUP files*   
-* [Dll Downloader](http://www.dlldownloader.com/) - *Download DLL Files for Windows* 
-* [store.rg](https://store.rg-adguard.net/) - *Microsoft Store Link Generator* 
-* [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - *Terminal Frameworks, Plugins & Resources* 
-* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - *Alternative Terminal* 
-* [Alacritty](https://github.com/alacritty/alacritty) or [Terminus](https://github.com/Eugeny/terminus) - *Terminal Emulator*
-* [Mintty](http://mintty.github.io/) - *Cygwin Terminal Emulator* 
-* [PowerShell](https://github.com/powershell/powershell) - *PC / Mac / Linux PowerShell*
-* [Starship](https://starship.rs/) - *Cross-Shell Prompt*
-* [GNU Parallelel](https://www.gnu.org/software/parallel/) - *Execute Commands / Scripts in Parallel using Multiple Computers* 
-* [winget-pkgs](https://github.com/microsoft/winget-pkgs) - *Windows Package Manager manifest repository / [CLI](https://github.com/microsoft/winget-cli)* 
-* [grepWin](https://github.com/stefankueng/grepWin) - *Regular expression search and replace* 
-* [Process Lasso](https://bitsum.com/) - *CPU Optimization* 
-* [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - *System Utilities Windows* 
-* [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) - *Analyze System Log Files* 
-* [CCStopper](https://github.com/E-Soda/CCStopper) - *Stop Background Adobe Apps*
 * [NetLimiter](https://www.netlimiter.com/) - *Internet Traffic Control / Monitor* 
 * [Natlas](https://github.com/natlas/natlas) - *Scaling Network Scanning* 
 * [Nmap](https://nmap.org/) - *Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)* 
 * [FNSRWR](https://github.com/dannyvoid/FNSRWR) - *Reset Windows Network Stack*
-* [ngrep](https://github.com/jpr5/ngrep) - *Specify Expressions to match against Data Payloads of Packets* 
-* [DependecyWalker](https://www.dependencywalker.com/) or [Dependencies](https://github.com/lucasg/Dependencies) - *View Application Dependencies* 
-* [Resource Hacker](http://www.angusj.com/resourcehacker/) - *Resource Editor* 
+* [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - *Audio Visualizer / FX Engine for Keyboards, Mice & Accessories*
+* [MechaKeys](https://mechakeys.robolab.io/) - *Keyboard Soundpacks*
+* [StreamPi](https://stream-pi.com/) - *ElGato Streamdeck Alternative*
+* [EarTrumpet](https://eartrumpet.app/) - *Better Volume Button for Windows* 
+* [WinMute](https://github.com/lx-s/WinMute/) - *Automatically Mute PC*
 * [How-To Crack Windows Passwords](https://samsclass.info/123/proj14/123p12winhash.htm) 
 * [Depix](https://github.com/beurtschipper/Depix) - *Recover Passwords from Pixelized Screenshots* 
+* [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - *Terminal Frameworks, Plugins & Resources* 
+* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - *Alternative Terminal* 
+* [ss64](https://ss64.com/) - *Command Line Reference Index*
+* [Alacritty](https://github.com/alacritty/alacritty) or [Terminus](https://github.com/Eugeny/terminus) - *Terminal Emulator*
+* [Mintty](http://mintty.github.io/) - *Cygwin Terminal Emulator* 
+* [cmder](https://cmder.net/) - *Portable Console Emulator for Windows* 
+* [PowerShell](https://github.com/powershell/powershell) - *PC / Mac / Linux PowerShell*
+* [Starship](https://starship.rs/) - *Cross-Shell Prompt*
+* [GNU Parallelel](https://www.gnu.org/software/parallel/) - *Execute Commands / Scripts in Parallel using Multiple Computers* 
+* [Resource Hacker](http://www.angusj.com/resourcehacker/) - *Resource Editor* 
+* [grepWin](https://github.com/stefankueng/grepWin) - *Regular expression search and replace* 
+* [ngrep](https://github.com/jpr5/ngrep) - *Specify Expressions to match against Data Payloads of Packets* 
+* [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) - *Analyze System Log Files* 
+* [DependecyWalker](https://www.dependencywalker.com/) or [Dependencies](https://github.com/lucasg/Dependencies) - *View Application Dependencies* 
+* [store.rg](https://store.rg-adguard.net/) - *Microsoft Store Link Generator* 
+
+***
+
+## ▷ Customization
+
+* **[Rainmeter](https://www.rainmeter.net/)** - *Desktop Customization / [Utilities](https://github.com/EnhancedJax/PowerToysPlus)* 
+* **[Wallpaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Download Wallpapers*
+* [SuperDuperWallpaper](https://gitlab.com/sech1p/superduperwallpaper) or [ScreenPlay](https://screen-play.app/) - *Wallpaper Manager*
+* /r/LivingBackgrounds - *Animated Wallpapers* 
+* [Lively](https://rocksdanister.github.io/lively/) - *Turn any GIF, video or Webpage into a Animated Wallpaper*
+* [ScreenStyler](https://screenstyler.com/) -  *Desktop Customization / [Discord](https://discord.gg/u3thTMp9Cd)*
+* [XDesktopSoft](https://www.xwidget.com/) - *Desktop Customization*
+* [VirtualCustoms](https://virtualcustoms.net/), [WinCustomize](https://www.wincustomize.com/) or [7Themes](https://7themes.su/) - *Desktop Customization / Themes / Wallpapers ect.* 
+* [Accent Applicator](https://github.com/mcdenis/AccentApplicator) - *Applies Win 10 Accent Color to OS*
+* [ModernWinver](https://github.com/torchgm/ModernWinver) - *Modernize the About Windows Screen*
+* [BeautySearch](https://github.com/krlvm/BeautySearch) - *Windows 10 Search Appearance Tweaker*
+* [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - *Translucent Windows Taskbar* 
+* [TaskbarX](https://chrisandriessen.nl/taskbarx/) - *Change Taskbar Icon Positions* 
+* [Jabba The Hud](https://codeberg.org/elberro/jabba-the-hud) - *Windows HUD Tweak*
+* [Blackbox 4 Windows](http://blackbox4windows.com/) - *Custom Windows Shells / Widgets*
+* [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - *Alt Windows Shells* 
 * [Windows Media Player Skins](https://web.archive.org/web/20100827223732/http://windows.microsoft.com/en-US/windows/downloads/windows-media-player/skins?T1=all)
-* [Tree](http://mama.indstate.edu/users/ice/tree/) - *Directory Listing Command (Linux)* 
-* [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - *One-Click Remote Desktop (Linux)* 
-* [winapps](https://github.com/Fmstrat/winapps) - *Run Windows Apps in Linux* 
-* [wslu](https://github.com/wslutilities/wslu) - *Utilities for Windows 10 Linux Subsystem* 
-* [archinstall](https://github.com/archlinux/archinstall) - *Arch Linux Installer*
-* [Sosumi](https://github.com/popey/sosumi-snap.git) - *Download & Install macOS in a VM* 
-* [pacwall](https://github.com/Kharacternyk/pacwall) - *Live Wallpaper that shows Dependency Graph & Status of Installed Packages* 
-* [MacLaunch](http://github.com/hazcod/maclaunch) - *Manage macOS Startup Items*
-* [Homebrew](https://brew.sh/) - *macOS / Linux Package Manager*
+* [Artpaper](https://gikken.co/artpaper) - *Mac / iOS Wallpaper Client*
 
 ***
 
@@ -1125,7 +1140,7 @@ General Reading Sites*
 * [JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF) or [img2pdf](https://pypi.org/project/img2pdf/) - *Create PDF Files from Images*
 * [PDFmyURL](https://pdfmyurl.com/) - *Convert Web Page to PDF* 
 * [PSTOEdit](http://pstoedit.net/) - *Convert PDF to other Vector Formats* 
-* [Issuu](https://issuu.com/) - *Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/)* 
+* [Issuu](https://issuu.com/) - *Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/)* 
 * [newfileconverterbot](https://t.me/newfileconverterbot), [convrt_bot](https://t.me/convrt_bot) or [FileConvertBot](https://t.me/FileConvertBot) - *Telegram File Conversion Bots*
 * [Waltr](https://softorino.com/waltr/) - *Convert Files to iOS Formats*
 * [Kindle Comic Converter](https://kcc.iosphe.re/) - *Convert book files to ePub*
@@ -1163,7 +1178,7 @@ General Reading Sites*
 * [myDrive](https://mydrive-storage.com/) - *Open-Source Cloud File Storage*
 * [FolderClone](http://www.folderclone.com/) - *Clone / Backup Folders*
 * [Borg](https://www.borgbackup.org/) - *Deduplicating File Archiver / Backup* 
-* [BackupPC](https://backuppc.github.io/backuppc/) - *File Backup Server* 
+* [BackupPC](https://backuppc.github.io/backuppc/) or [Duplicati](https://www.duplicati.com/) - *File Backup System* 
 * [DocDroid](https://www.docdroid.net/) or [Securedrop](https://securedrop.org/) - *Document Sharing Tool*
 * [Browsemonkey](https://github.com/shukriadams/browsemonkey) - *Take Snapshots of File Systems* 
 * [Save to Drive](https://savetogoogledrive.herokuapp.com/) - *Save Files to GDrive without account*   
@@ -1188,7 +1203,7 @@ General Reading Sites*
 * [Snap2HTML](https://rlvision.com/snap2html/about.php) - *Take HTML Snapshots of Folder / File Structures*
 * [Corrupt My File](http://www.corruptmyfile.com/) - *Intentionally Corrupt your Files*
 * [HashTab](http://implbits.com/products/hashtab/) or [OpenHashTab](https://github.com/namazso/OpenHashTab) - *Calculate / Check File Hashes* 
-* [QuickSFV](https://quicksfv.org/), [RapidCRC](http://rapidcrc.sourceforge.net/) or [QuickDash](https://gitlab.com/AndreVuillemot160/QuickDash/) / [Discord](https://discord.gg/ZuxmMXdGpm) - *File Hashing / Verification Tools*
+* [QuickSFV](https://quicksfv.org/), [RapidCRC](http://rapidcrc.sourceforge.net/) or [QuickDash](https://github.com/AndreVuillemot160/QuickDash/) / [Discord](https://discord.gg/ZuxmMXdGpm) - *File Hashing / Verification Tools*
 * [Hashes](https://hashes.com/) - *Decrypt Hashes*
 * [Uploader Bot X](https://t.me/url_uploadbot) - *Remotely uploads files to Telegram URL* 
 * [UploadURL](https://t.me/UploadsRobot) - *Remotely uploads files to Telegram / Mega.nz Support* 
@@ -1203,6 +1218,37 @@ General Reading Sites*
 * [HxD](https://mh-nexus.de/en/hxd/) - *Hex / Disk Editor*
 * [webhex.net](https://en.webhex.net/) - *Online Hex Viewer*
 * [HexEd.it](https://hexed.it/) - *Online Hex Editor*
+
+***
+
+## ▷ Linux Tools
+
+* [Mayfrost Guides](https://github.com/mayfrost/guides) - *Linux / Computing Guides*
+* [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - *One-Click Remote Desktop (Linux)* 
+* [MultiBoot USB](https://github.com/hackerncoder/multibootusb) - *Create Bootable USB Linux Drives*
+* [archinstall](https://github.com/archlinux/archinstall) - *Arch Linux Installer*
+* [OldSchoolOS](https://www.oldschoolos.com/) - *Old Linux ISOs*
+* [winapps](https://github.com/Fmstrat/winapps) - *Run Windows Apps in Linux* 
+* [wslu](https://github.com/wslutilities/wslu) - *Utilities for Windows 10 Linux Subsystem* 
+* [Tree](http://mama.indstate.edu/users/ice/tree/) - *Directory Listing Command (Linux)* 
+* [ss64 Bash](https://ss64.com/bash/) - *Linux Bash Commands*
+* [ricemood](https://github.com/fhadiel/ricemood) - *Fully customizable unix color schemer*
+* [DistroTest](https://distrotest.net/) or [JSLinux](https://bellard.org/jslinux/) - *Linux Browser Emulator*
+* [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
+* [Homebrew](https://brew.sh/) - *Package Manager*
+* [pacwall](https://github.com/Kharacternyk/pacwall) - *Live Wallpaper that shows Dependency Graph & Status of Installed Packages* 
+
+***
+
+## ▷ Mac Tools
+
+* [ss64 OSX](https://ss64.com/osx/) - *macOS Bash Commands*
+* [Alfred](https://www.alfredapp.com/) - *Keystroke Launcher* 
+* [MacLaunch](http://github.com/hazcod/maclaunch) - *Manage macOS Startup Items*
+* [Homebrew](https://brew.sh/) - *Package Manager*
+* [Sosumi](https://github.com/popey/sosumi-snap.git) - *Download & Install macOS in a VM* 
+* [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
+* [OldSchoolOS](https://www.oldschoolos.com/) - *Old Mac ISOs*
 
 ***
 
@@ -1317,6 +1363,7 @@ General Reading Sites*
 * [Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods) - *Mod Minecraft* 
 * [Forge](https://files.minecraftforge.net/) or [Fabric](https://fabricmc.net/) - *Minecraft Modding API* 
 * [Nova Skin](https://minecraft.novaskin.me/) - *Minecraft Skin Editor* 
+* [Amulet](https://www.amuletmc.com/) - *Minecraft Map Editor / Viewer*
 
 ***
 

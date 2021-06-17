@@ -89,6 +89,7 @@
 * **[URL Void](https://www.urlvoid.com/)**, [ThreatStop](https://threatstop.com/checkip), [urlscan.io](https://urlscan.io/), [Scamadviser](https://www.scamadviser.com/), [SiteSheck](https://sitecheck.sucuri.net/), [IsLegitSite](https://www.islegitsite.com/) or [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search) - *Check Site Legitimacy*
 * [Hard_Configurator](https://hard-configurator.com/) - *GUI to manage Software Restriction Policy* 
 * [Hardentools](https://github.com/securitywithoutborders/hardentools) - *Disables Risky Windows Features*
+* [Unchecky](https://unchecky.com/) - *Clears Software Installation Checkboxes*
 * [Antivirus Kaspersky Cloud](https://usa.kaspersky.com/free-cloud-antivirus) or [Adaware Antivirus](https://www.adaware.com/free-antivirus-download) - *Antivirus*
 * [MCShield](https://www.mcshield.net/) - *Removable Drive Antivirus* 
 * [Should I Remove It?](https://www.shouldiremoveit.com/) - *Easily Find & Remove Adware, Spyware ect.* 
@@ -208,10 +209,12 @@
 * [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - *Redirects Twitter, YouTube, Instagram & Google Maps to alt interfaces*
 * [Invidition](https://codeberg.org/Booteille/Invidition) - *Redirect YouTube / Twitter requests to their alt interfaces*
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - *Redirects all YouTube links to Invidous* 
-* [CanvasBlocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_canvasblocker) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - *Prevent Canvas Fingerprinting*
+* [Anti-Fp](https://www.cydecplatform.com/antifp.html) - *Disrupt Fingerprint Targeting*
 * [CSS Exfil Protection](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester) - *Stops CSS data exfiltration attacks*
+* [CanvasBlocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_canvasblocker) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - *Prevent Canvas Fingerprinting*
 * [First Party Isolation](https://github.com/mozfreddyb/webext-firstpartyisolation) - *Like blocking Third-party cookies, but more exhaustively*
 * [Location Guard](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_location_guard) or [Manual Geolocation](https://chrome.google.com/webstore/detail/manual-geolocation/jpiefjlgcjmciajdcinaejedejjfjgki) - *Hide Browsers Geolocation*
+* [Language Switch](https://addons.mozilla.org/en-US/firefox/addon/languageswitch/) - *Change Language Identifier*
 * [Cloud Firewall](https://addons.mozilla.org/en-GB/firefox/addon/cloud-firewall/) - *Block Major Cloud Services*
 * [UglyEmail](https://uglyemail.com/) or [PixelBlock](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem/) - *Block Email Trackers* 
 * [Chameleon](https://github.com/sereneblue/chameleon), [UA Switcher & Manager](https://add0n.com/useragent-switcher.html) or [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) - *User-Agent Spoofer*
@@ -269,6 +272,7 @@
 * [DataBunker](https://databunker.org/) - *Data Leak Prevention*
 * [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/) or [leakpeek](https://leakpeek.com/) - *Data Breach Search Engine* 
 * [Canarytokens](https://canarytokens.org/generate) - *Network Breach Check* 
+* [Pi.Alert](https://github.com/pucherot/Pi.Alert) - *Network Monitor*
 * [Vigilante.pw](http://vigilante.pw/) - *Search for sites that have been breached* 
 * [RS Lookup](http://rslookup.com/) - *Check if your RuneScape data has been breached* 
 * [ACCOUNTKILLER](https://www.accountkiller.com/) or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - *Find / Terminate Old Accounts* 

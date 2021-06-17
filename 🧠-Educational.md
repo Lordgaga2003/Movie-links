@@ -20,13 +20,13 @@
 * **[Future Learn](https://www.futurelearn.com/)** - *Courses*
 * **[Udacity](https://www.udacity.com/)** - *Courses*
 * **[MitOpenCourseWare](https://ocw.mit.edu/index.htm)** - *Courses*
+* **[CrunchLearn](https://www.crunchlearn.com/)** - *Courses* 
 * **[Khan Academy](https://www.khanacademy.org/)** - *Courses / [Downloader](https://github.com/rand-net/khan-dl)*
 * **[Git.ir](https://git.ir/)** - *Courses*
 * **[PluralSight](https://visualstudio.microsoft.com/dev-essentials/)** - *Free for 1 Month*
 * [Awesome CS](https://github.com/prakhar1989/awesome-courses/) - *Courses*
 * [OpenLearn](https://www.open.edu/openlearn/) - *Courses*
 * [FreeCourseForAll](https://freecoursesforall.com/) - *Courses* 
-* [CrunchLearn](https://www.crunchlearn.com/) - *Courses* 
 * [Alison](https://alison.com/) - *Courses*
 * [EbookFoundation Courses](https://github.com/EbookFoundation/free-programming-books#free-online-courses) - *Courses*
 * [CertByte](https://certbyte.com/) - *Courses* 
@@ -34,7 +34,6 @@
 * [DigitalGarage](https://learndigital.withgoogle.com/digitalgarage/courses) - *Courses* 
 * [Lagunita](https://online.stanford.edu/lagunita-learning-platform) - *Courses* 
 * [Hillsdale College](https://online.hillsdale.edu/) - *Courses* 
-* [LearningCrux](https://www.learningcrux.com/) - *Courses*
 * [Class Central](https://www.classcentral.com/) - *Search for Courses*
 * [cs1000](https://cs1000.vercel.app/) - *Educational Video Playlists* 
 * [UdemyFreeCourses](https://udemyfreecourses.org/) - *Udemy Courses*
@@ -75,7 +74,7 @@
 # ► Educational Downloading
 
 * **[freesoff](https://freesoff.com/)** - *Courses*
-* **[TutFlix](https://tutflix.com/)** - *Courses / Mega.nz Host* 
+* **[TutFlix](https://tutflix.com/)** - *Courses / Mega Host* 
 * [Iit jee lectures](https://t.me/Iitjeeinveins2) - *Lectures / Telegram*   
 * [downloadly](https://downloadly.ir/) - *Courses*
 * [Coursed](https://coursed.co/) - *Courses*
@@ -98,13 +97,13 @@
 * [FreeCourseLechz](https://t.me/joinchat/AAAAAEeZL9jF22ZREqka2g) - *Courses / Telegram* 
 * [CourseInDrive](https://t.me/CourseInDrive) - *Courses / Telegram* 
 * [Free Open Source knowledge](https://t.me/free_open_source_knowledge) - *Courses / Telegram* 
-* [Download Links Materials](https://t.me/DownloadLinksMaterials) - *Courses / Telegram* 
+* [Download Links Materials](https://t.me/DownloadLinksMaterials) - *Courses / Telegram*
+* [premiumcoursesfree](https://t.me/premiumcoursesfree) - *Courses / Telegram*
+* [Udemy_Courses_Free_Daily](https://t.me/Udemy_Courses_Free_Daily ) - *Courses / Telegram*
 * [learningDL](https://learningdl.net/) - *Courses / Leech required* 
 * [Christmas Share](https://mega.nz/#F!rrJyDQIa!-QJeJqVThi_uC9DTLX4ElA) - *Courses / Drive* 
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - *Courses / Tutorials* 
 * [FreetutsDownload.com](https://freetutsdownload.com/) - *Courses / GDrive Host* 
-* [hackingworld.best 1.3TB](https://mega.nz/folder/eeIzlAjL#zGa0iHkQJu0JmP4BayAJ3A) - *Marketing Courses* 
-* [Free Udemy Courses](https://freeudemycourses.us/) - *Udemy Courses*
 * [Giga Course](https://gigacourse.com/) - *Udemy Courses / Drive* 
 * [Udemy Courses Drive](https://mega.nz/folder/Sw8Qgarb#zqBiBYbth58oncNOHon8eg) - *Udemy Courses / Drive* 
 * [Udemy 24](https://udemy24.com/) - *Udemy courses* 
@@ -116,6 +115,11 @@
 * [Pirate Warez](https://piratewarez.com/) - *Udemy Courses* 
 * [Download Online Tutorials Free](https://download.howtofree.org/) - *Udemy Courses* 
 * [Udemy Free Course](https://t.me/udemy_free_cource) - *Udemy Courses* 
+* [6.04 TB Paid [C]ourses](https://mega.nz/folder/vRhSiagQ#H_G_aUZNrbLE5fPtTjPoeQ/folder/TAhQRSqK) - *Marketing Courses / Drive*
+* [hackingworld.best 1.3TB](https://mega.nz/folder/eeIzlAjL#zGa0iHkQJu0JmP4BayAJ3A) - *Marketing Courses* 
+* [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
+* [Udemy - Cybersecurity Collection](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD) - *Cyber Security Courses*
+* [CHFI](https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg) - *Computer Hacking Forensic Courses*
 * [Documentary.su](https://documentary.su/) - *Documentaries / Forum*
 * [Docuwiki](https://docuwiki.net/) - *Documentaries / [Emule required](https://www.emule-project.net/)*
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - *Download videos from Coursera* 
@@ -218,9 +222,9 @@
 # ► Educational Tools
 
 * **[The Free Learning List](https://freelearninglist.org/)** - *Free Educational Sites / Tool Index* 
-* **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - *Sites with many Calculators* 
+* **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - *Sites with Multiple Calculators* 
 * **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - *List of interactive math sites*
-* **[Awesome Research](https://github.com/emptymalei/awesome-research)** - *Research tools index* 
+* **[Awesome Research](https://github.com/emptymalei/awesome-research)** - *Research Tools Index* 
 * **[Cymath](https://www.cymath.com/)** or [Symbolab](https://www.symbolab.com/) - *Math Problem Solver with Steps / [Symbolab Pro](https://pastebin.com/wA3QQkCj)*
 * **[PhET](https://phet.colorado.edu/)** - *STEM / Interactive*
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Infinite trial by clearing cookies & making new account*
@@ -228,6 +232,7 @@
 * **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
 * [Learn Anything](https://learn-anything.xyz/) - *Interactive Learning Map* 
 * [Explorabl.es](https://explorabl.es/) - *Interactive Learning / Lessons* 
+* [Awesome Math](https://github.com/rossant/awesome-math) - *Math Resource Index*
 * /r/educationalgifs  - *Learn With Gifs* 
 * [KausalFlow](https://tools.kausalflow.com/) - *Academic Research Tools* 
 * [Zotero](https://www.zotero.org/) - *Research Organization Tool* 
@@ -237,7 +242,7 @@
 * [Stublio](https://stublio.com/) - *Keep Track of what you're Studying* 
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - *UPSC Telegram Channels* 
 * [AuthorStream](http://www.authorstream.com/) or [Slideshare](https://www.slideshare.net/) - *Watch / Share Slideshows & Presentations* 
-* [Periodic Stats](https://periodicstats.com/) or [Ptable](https://ptable.com/) - *Interactive Periodic Table* 
+* [Periodic Stats](https://periodicstats.com/), [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/) or [Ptable](https://ptable.com/) - *Interactive Periodic Table* 
 * [Images-Of-Elements](https://images-of-elements.com/) - *Periodic Table With Images*
 * [amrita olabs](https://amrita.olabs.edu.in/) - *Science Practicals / Theory / Animations / Simulations* 
 * [Online Math Tools](https://onlinemathtools.com/) - *Multiple Math Tools*

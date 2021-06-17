@@ -260,6 +260,7 @@
 * [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - *Doom SNES Source Code*
 * [rottexpr](https://github.com/LTCHIPS/rottexpr) - *Rise of the Triad Source Port*
 * [ECWolf](https://maniacsvault.net/ecwolf/) - *Wolfenstein 3D, Spear of Destiny & Super 3D Noah's Ark Port*
+* [OpenArena Live](https://kosmi.io/openarena) - *Quake III Arena Clone* 
 * [Aleph One](https://alephone.lhowon.org/) - *Open-Source Marathon Continuation* 
 * [Powerslave EX](https://drive.google.com/file/d/1VFvOYKyjyFwH5sqSL5mz_jl3SdIUcAOY/view?usp=sharing) - *Powerslave PC Port* 
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - *Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)*
@@ -267,8 +268,11 @@
 * [frogg.ies mario ](https://froggi.es/mario/) - *Play Super Mario 64 in Browser* 
 * [sm64](https://github.com/n64decomp/sm64) - *Super Mario 64 Decompilation / [Discord](https://discord.gg/duyh3fh) / [Guide](https://youtu.be/rQVpfWYT0eg)* 
 * [GtkAtlantic](https://gtkatlantic.gradator.net/index.html) or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - *Open Source Monopoly*
-* [TETR.IO](https://tetr.io/) - *Online Multiplayer Tetris*
-* [OpenTetris Classic](https://sourceforge.net/projects/opentetrisclassic/) - *Open Source Tetris* 
+* [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - *Pac-man*
+* [Tetris](https://tetris.com/) or [OpenTetris Classic](https://sourceforge.net/projects/opentetrisclassic/) - *Play Tetris*
+* [TETR.IO](https://tetr.io/) - *Multiplayer Tetris*
+* [First Person Tetris](https://firstpersontetris.com/) - *Play Tetris in First Person* 
+* [Play Snake](https://playsnake.org/) - *Retro Snake* 
 * [ProAsm](http://www.proasm.com/) - *Retro Game Mods*
 
 ***
@@ -295,11 +299,13 @@
 * [Game Top](https://www.gametop.com/online/index.html)
 * [Foddy](http://www.foddy.net/category/games/browser/)
 * [ALFY](https://www.alfy.com/)
+* [GameKB](https://www.gamekb.com/)
+* [ClassicGame](https://www.classicgame.com/)
 * [Flash by Night](http://flashbynight.com/) 
 * [Cartoon Network Games](https://www.cartoonnetwork.com/games/index.html)
 * [WBKidsGo](https://www.wbkidsgo.com/)
 * [Disney LOL](https://lol.disney.com/games/)
-* [Lego Games](https://www.lego.com/en-us/kids/games) - *Lego Games*
+* [Lego Games](https://www.lego.com/en-us/kids/games)
 * [Friv](https://friv.com/), [2](https://web.archive.org/web/*/Friv.com)
 * [Ninjakiwi](https://ninjakiwi.com/) - *Browser Games / Bloons / Multiplayer*
 * [Games on GitHub](https://github.com/leereilly/games) - *GitHub Hosted Games*
@@ -328,6 +334,8 @@
 * [Arcade Prehacks](http://www.arcadeprehacks.com/) - *Hacked Flash Games* 
 * [BlueMaxima](http://bluemaxima.org/flashpoint/) - *Flash Games Archive / [Discord](https://discord.gg/Z4gGtJvvn8)*
 * [AllBad.Cards](https://allbad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - *Cards Against Humanity Online* 
+* [Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards) - *Card Games Index*
+* [WorldOfCardGames](https://worldofcardgames.com/) - *Card Games*
 * [Mexican Train](https://mexicantrain.online/) - *Domino Train Game*
 * [SlaveHack2](http://slavehack2.com/) - *Hacking Game*
 * [Chesses](https://pippinbarr.github.io/chesses/) - *Multiple Styles of Chess* 
@@ -358,7 +366,6 @@
 * [ConnectTheStars](https://connectthestars.xyz/) - *Connect Stars through Movies*
 * [Blaseball](https://www.blaseball.com/) - *Odd Baseball Simulation Game* 
 * [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) - *Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)*
-* [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - *Pac-man*
 * [iFiction](https://www.ifiction.org/) - *Text Adventure Index*
 * [Pac-Txt](http://www.pactxt.com/) - *Pac-Man Themed Text Adventure*
 * [AI Dungeon](https://play.aidungeon.io/main/landing) - *Text Adventure*
@@ -373,7 +380,6 @@
 * [Clicking Bad](http://clickingbad.nullism.com/) - *Clicker Game / Become Walter White* 
 * [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&ia=answer) or [2048](https://play2048.co/) - *Play 2048*
 * [Haxball](https://www.haxball.com/) - *Physics Based Multiplayer Soccer*
-* [WorldsBiggestPacman](https://worldsbiggestpacman.com/#-1,-1) - *World's Largest game of Pacman*
 * [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/), [WikiRacer](https://wikiracer.io/) - *Find the Shortest Path between Wiki Articles / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)*
 * [Classic Minecraft](https://classic.minecraft.net/) - *Play Classic Minecraft* 
 * [CS-ONLINE.CLUB](https://cs-online.club/), [2](https://game.cs-online.club/) - *Play Counter Strike in Browser* 
@@ -381,8 +387,8 @@
 * [Flavour Machine](https://flavourmachine.com/) - *Twists to well known games*
 * [Kittens Game](https://bloodrizer.ru/games/kittens/) - *Make your own kitten civilization*
 * [Badger Kingdom](http://www.badgerkingdom.pantomimepony.co.uk/) - *Manage a group of badgers, help them survive*  
-* [OpenArena Live](https://kosmi.io/openarena) - *Quake III Arena Clone* 
 * [Blast Arena](https://blastarena.io/) - *BomberMan Like Game* 
+* [Games 1729](https://www.games1729.com/serpentron/) - *Multiplayer Snake*
 * [DelugeRPG](https://www.delugerpg.com/) - *Pokemon RPG Simulation*
 * [RoboStorm](https://robostorm.io/) - *Robot Battle Game* 
 * [FSHistory](https://s-macke.github.io/FSHistory/) - *Play Classic Flight Simulator* 
@@ -402,9 +408,6 @@
 * [Doodle Cricket](https://doodlecricket.github.io/index.html#/) - *Play simplified cricket as a cricket* 
 * [Impossible Rush](http://tanksw.com/impossible-rush/) - *Reflex Testing Game*
 * [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) - *Incremental Clicker*   
-* [Play Snake](https://playsnake.org/) - *Retro Snake* 
-* [Games 1729](https://www.games1729.com/serpentron/) - *Multiplayer Snake*
-* [First Person Tetris](https://firstpersontetris.com/) - *Play Tetris in First Person* 
 * [Piccolo](https://piccolo.click/web/) - *Othello AI* 
 * [PlayTicTacToe](https://playtictactoe.org/) - *Tic-Tac-Toe* 
 * [FindTwin](https://github.com/klimaleksus/FindTwin) - *Find the Twins* 

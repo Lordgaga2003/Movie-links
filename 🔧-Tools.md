@@ -791,6 +791,7 @@ General Reading Sites*
 
 ## ▷ Discord Tools
 
+* **WARNING** - Chat Archivers, Deleters, Mods & 3rd Party Clients are against Discords TOS, so use at your own risk. 
 * [Disboard](https://disboard.org/), [DiscordServers](https://discordservers.com/), [Discord Street](https://discord.st/), [DiscordServers.me](https://discordservers.me/) or [Discord Me](https://discord.me/) - *Discover Discord Servers* 
 * [DiscordTools](https://discordtools.io/) - *Discord Tools*
 * [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - *Use Discord Emoji's without Nitro* 
@@ -1356,6 +1357,7 @@ General Reading Sites*
 * [OptiFine](https://optifine.net/), [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) or [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - *Minecraft Optimization Mod / Fabric Required for some* 
 * [Aristois](https://aristois.net/) - *Minecraft Utility Mod*
 * [Meteor Client](https://meteorclient.com/) - *Minecraft Fabric Utility Mod*
+* [Sodium Fabric](https://github.com/CaffeineMC/sodium-fabric) - *Increase FPS & Performance*
 * [Minehut](https://www.minehut.com/), [ScalaCube](https://scalacube.com/) or [Aternos](https://aternos.org/) - *Make Free Minecraft Servers*
 * [GeyserMC](https://geysermc.org/) - *Join Minecraft Java Servers with Bedrock Client / [Consoles](https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles)* 
 * [Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers) 

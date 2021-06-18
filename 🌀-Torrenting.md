@@ -17,13 +17,13 @@
 
 * **[qBittorrent](https://www.qbittorrent.org/)** - *[Screenshot](https://i.imgur.com/B9KBUXs.png)*
 * **qBittorrent Tools** - [VPN Bind (Important)](https://www.ghacks.net/2016/03/23/qbittorrent-block-transfers-vpn-disconnect/) / [Plugins](https://github.com/qbittorrent/search-plugins#search-plugins) / [Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) / [Themes](https://github.com/jagannatharjun/qbt-theme) / [iOS Theme](https://github.com/ntoporcov/iQbit/) / [Docker](https://github.com/linuxserver/docker-qbittorrent) / [WebUI](https://github.com/WDaan/VueTorrent) / [Mega Upload](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent_MEGA.ipynb)
+* **[Transmission](https://transmissionbt.com/)** - *[Screenshot](https://i.imgur.com/Issj7VA.png)*
 * **[Torrent to GDrive Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)**
 * [Torrent all-in-one bot](https://github.com/patheticGeek/torrent-aio-bot) or [Codemaster](https://github.com/mohitjoshi155/Codemaster) - *Torrent to GDrive* 
 * [Torrent to GDrive via Colab](https://onehack.us/t/download-torrent-to-google-drive-using-google-colab-updated-video-tutorial/) - *Download Torrents to GDrive via Colab Guide*
 * [from-torrent](https://multiup.org/en/upload/from-torrent) - *Upload Torrent Files to DDL Sites / [Bypass 10GB Limit](https://i.imgur.com/ChMcdq8.png)*
 * [Deluge](https://www.deluge-torrent.org/) - *[Screenshot](https://i.imgur.com/RbQUHpF.png)*
 * Deluge Tools - [Plugins](https://dev.deluge-torrent.org/wiki/Plugins) / [Auto-Remove](https://github.com/omaralvarez/deluge-autoremoveplus) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
-* [Transmission](https://transmissionbt.com/) - *[Screenshot](https://i.imgur.com/Issj7VA.png)*
 * [Tixati](https://tixati.com/) - *[Screenshot](https://i.imgur.com/joYQzTw.png)* 
 * [Picotorrent](https://picotorrent.org/) - *[Screenshot](https://i.imgur.com/46oF1iD.png)*
 * [FrostWire](https://www.frostwire.com/) - *[Screenshot](https://i.imgur.com/3wJSJmg.png)*

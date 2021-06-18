@@ -133,7 +133,6 @@
 * [GetComics](https://getcomics.info/) - *Downloads / Read Online*
 * [Comix-Load](https://comix-load.in/) - *Downloads*
 * [Zip Comic](https://www.zipcomic.com/) - *Downloads*
-* [Comics All](https://comics-all.com/) or [NewComics](https://newcomic.info/) - *Downloads*
 * [BookDL Comic & Manga](http://booksdl.org/comics0/) - *Comics / Manga / Drive*
 * [The-Eye Comics](http://the-eye.eu/public/Comics/) - *Comic Archive* 
 * [GoComics](https://www.gocomics.com/) - *Comics Strips*

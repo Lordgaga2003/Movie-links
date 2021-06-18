@@ -131,7 +131,7 @@
 * [Torrent.tm](https://torrent.tm/) - *Search aggregator*
 * [Toros2](https://www.toros2.com/) - *Search aggregator*
 * [Dirty Torrents](https://dirtytorrents.com/) - *Search aggregator*
-* [TorrentQuest](https://torrentquest.com/ - *Search aggregator*
+* [TorrentQuest](https://torrentquest.com/) - *Search aggregator*
 * [TorrentHound](http://torrenthound.ee/) - *Search aggregator*
 * [Torrends ](https://torrends.to/) - *Search aggregator* 
 * [BTDB](https://btdb.eu/) - *Search aggregator*

@@ -444,6 +444,7 @@
 * [Unblocked](https://unblocked.how/) - *Piracy Site Proxies* 
 * [Unblockit](https://unblockit.dev/), [2](https://unblocked-pw.github.io/), [3](https://unblockit.eu/), [4](http://unblocked.to/) - *Piracy Site Proxies*
 * [UnblockAll](https://unblockall.org/) - *Piracy Site Proxies*
+* [Site Unblocked](https://siteunblocked.info/) - *Piracy Site Proxies*
 * [Knaben's Proxy List](https://knaben.info/) - *Piracy Site Proxies*
 * [Torrents.io](https://torrents.io/proxy/) - *Torrent Site Proxies*
 * [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container) - *Torrent Site Proxies*

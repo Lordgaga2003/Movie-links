@@ -317,6 +317,7 @@
 * [IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0) - *Games* 
 * [IndieGala](https://freebies.indiegala.com/) - *Games*
 * [ClaimFreeGames](https://claimfreegames.com/) - *Games* 
+* [Epic Games Free](https://www.epicgames.com/store/en-US/free-games) - *Games*
 * /r/googleplaydeals - *Paid apps* 
 * [Android App Sales](https://t.me/androidappsales) - *Paid apps / Telegram* 
 * [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - *Paid apps*

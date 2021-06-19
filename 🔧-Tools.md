@@ -1054,7 +1054,6 @@ General Reading Sites*
 * [winget-pkgs](https://github.com/microsoft/winget-pkgs) - *Windows Package Manager manifest repository / [CLI](https://github.com/microsoft/winget-cli)* 
 * [Ninite](https://ninite.com/) - *Install / Update Multiple Programs at Once*
 * [Soft Organizer](https://www.dropbox.com/s/5k5pm5f2xwbk7gb/soft-organizer-746-setup.exe), [Geek Uninstaller](https://geekuninstaller.com/), [Revo Uninstaller](https://www.revouninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - *Software Uninstallation Tool*
-* [BloatBox](https://github.com/builtbybel/bloatbox) - *Remove Unwanted Windows Apps* 
 * [Update Notifier](http://cleansofts.org/view/update-notifier.html) - *Scan Computer for Software Updates* 
 * [SnappyDrivers](https://www.snappy-driver-installer.org/) - *Update / Install Missing Drivers* 
 * [Downloadkar](https://downloadkar.ir/) - *Device Drivers / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*

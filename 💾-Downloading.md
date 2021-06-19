@@ -40,9 +40,9 @@
 * **[IRC / XDCC Tutorial](https://www.theloadguru.com/xdcc-irc-beginners-guide/)**, [2](https://github.com/mayfrost/guides/blob/master/IRC.md)
 * **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - *IRC Resource Index*
 * **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder), [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e)**
+* [TheMegaDrive](https://discord.gg/h2P5zsNMxZ) - *Megadrive Discord* 
 * [CloudBhadoo](https://index.hashhackers.com/) / [](https://search.hashhackers.com/), [ODCrawler](https://odcrawler.xyz/), [CatFiles](https://www.catfiles.net/) or [mmnt](https://www.mmnt.net/) - *Open Directory Search Engine*
 * [/r/opendirectories](https://www.reddit.com/r/opendirectories/) - *Open Directories subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner*
-* [TheMegaDrive](https://discord.gg/h2P5zsNMxZ) - *Megadrive Discord* 
 * [Create Open Directory Search Engine](https://redd.it/d3w2fu)
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) or [AutoIndex](http://autoindex.sourceforge.net/) - *Open Directory Indexer* 
 * [Directory Lister](https://directorylister.com/) - *Open Directory Explorer*
@@ -57,6 +57,7 @@
 * **[DownloadHa](https://www.downloadha.com)** - *Video / Software / Games / Android / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * **[SoftArchive](https://sanet.st)** or [Sanet.lc](https://sanet.lc/) - *Video / Audio / Games / Software / Android / Books / Comics / Newspapers / Magazines*
 * **[patoghu](https://patoghu.com/)** - *Video / Audio / Software / Android / Games / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)* 
+* [Bitdownload](http://bitdownload.ir/) - *Video / Audio / Software / Games / Android / Courses / [Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bitdownload_drives)*
 * [Uloz](https://ulozto.net/) - *Video / Audio* 
 * [DDLValley](https://www.ddlvalley.me/) - *Video / Audio / Games / Roms / Software / Android / Books / Comics / Magazines*
 * [Releaselog](http://www.rlslog.net/) - *Video / Games / Roms / Software / Books / Comics / Magazines / Android*
@@ -89,7 +90,6 @@
 * [DownTut](http://downtut.org/) - *Video / Audio / Software / Games / Android / Books / Magazines* 
 * [IRfree](http://irfree.org/) - *Video / Audio / Software / Games / Books / NSFW*
 * [0dayd](https://www.0dayd.com/) - *Video / Audio / Software / Games* 
-* [Bitdownload](http://bitdownload.ir/) - *Video / Audio / Software / Games / Android / Courses / [Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bitdownload_drives)*
 * [PirateHub](https://piratedhub.com/) - *Software / Android / Books / Games / Courses*  
 * [4Shared](https://www.4shared.com/) - *Video / Audio / Games / Software / Android*
 * [2013Zone](http://www.2013zone.com/) - *Video / Audio / Games / Software*
@@ -116,9 +116,9 @@
 ## ▷ Search Sites
 
 * **[Download Sites Search](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** + [Download Sites 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h)
+* [ZippyShareSearch](https://zippysharesearch.com/) - *Search Zippyshare* 
 * [FilePursuit](https://filepursuit.com) + *[Discord](https://discord.gg/xRfFd8h)*
 * [dedigger](https://www.dedigger.com/) - *GDrive File Search* 
-* [ZippyShareSearch](https://zippysharesearch.com/) - *Search Zippyshare* 
 * [scnlog](https://scnlog.me/)
 * [Napalm FTP](https://www.searchftps.net/)
 * [filesearch.link](http://filesearch.link/)

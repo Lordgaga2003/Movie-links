@@ -1608,7 +1608,7 @@ Good for finding classic, obscure & short films.
 
 #### Windows 10 Debloater
 
-**[Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater)**, [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/), [win10script](https://github.com/ChrisTitusTech/win10script), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/)
+**[Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater)**, [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/), [win10script](https://github.com/ChrisTitusTech/win10script), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/), [BloatBox](https://github.com/builtbybel/bloatbox) 
 
 ***
 

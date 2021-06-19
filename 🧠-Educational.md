@@ -105,7 +105,6 @@
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - *Courses / Tutorials* 
 * [FreetutsDownload.com](https://freetutsdownload.com/) - *Courses / GDrive Host* 
 * [Giga Course](https://gigacourse.com/) - *Udemy Courses / Drive* 
-* [Udemy Courses Drive](https://mega.nz/folder/Sw8Qgarb#zqBiBYbth58oncNOHon8eg) - *Udemy Courses / Drive* 
 * [Udemy 24](https://udemy24.com/) - *Udemy courses* 
 * [FreeCourseWeb](http://freecourseweb.com/) - *Udemy Courses* 
 * [Udemycourses](https://udemycourses.me/) - *Udemy Courses* 

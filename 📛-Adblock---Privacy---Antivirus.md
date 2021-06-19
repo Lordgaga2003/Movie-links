@@ -11,9 +11,9 @@
 
 # ► Adblocking 
 
-* [Stop Targeting Ads at Me](https://stoptargetingads.me/) or [Simple Opt Out](https://simpleoptout.com/) - *Guides to turn off targeted ads on sites, apps, services & devices*
-* [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm), [Hosts](https://github.com/StevenBlack/hosts) or [Gas Mask](https://github.com/2ndalpha/gasmask) (Mac) - *Avoid Ads Using Hosts File* 
-* [EmailRep](http://emailrep.io/) - *Email Reputation Check, Avoid Spam*
+* [Stop Targeting Ads at Me](https://stoptargetingads.me/) or [Simple Opt Out](https://simpleoptout.com/) - *Turn off Targeted Ads*
+* [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm), [Hosts](https://github.com/StevenBlack/hosts) or [Gas Mask](https://github.com/2ndalpha/gasmask) (Mac) - *Block Ads with Host Files* 
+* [EmailRep](http://emailrep.io/) - *Avoid Email Spam*
 
 ***
 

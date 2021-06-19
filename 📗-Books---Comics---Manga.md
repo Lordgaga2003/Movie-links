@@ -73,13 +73,11 @@
 * [29GB Mega Folder](https://mega.nz/folder/x4VG3DRL#lqecF4q2ywojGLE0O8cu4A) - *Books* 
 * [bitdl 1](http://s1.bitdl.ir/), [2](http://s2.bitdl.ir/), [3](http://s3.bitdl.ir/), [4](http://s4.bitdl.ir/), [5](http://s5.bitdl.ir/), [7](http://s7.bitdl.ir/), [8](http://s8.bitdl.ir/), [9](http://s9.bitdl.ir/), [10](http://s10.bitdl.ir/), [11](http://s11.bitdl.ir/), [13](http://s13.bitdl.ir/), [14](http://s14.bitdl.ir/) - *Books*
 * [StudyCrux](https://www.studycrux.com/) - *Books / [Telegram](https://t.me/joinchat/OrqFslALXomP5uajuXUYAA)* 
-* [Ocean of PDF](https://oceanofpdf.com/) - *Books / Comics*
 * [Books.cat](https://books.cat/) - *Books  / Forum / Requests* 
 * [Read Any Book](https://www.readanybook.com/) - *Books*
 * [openlibrary](https://openlibrary.org/) - *Books* 
 * [standardebooks](https://standardebooks.org) - *Books* 
 * [Manybooks](https://manybooks.net/)  - *Books*
-* [pdfroom](https://pdfroom.com/) - *Books / Comics* 
 * [Books-Share](https://www.books-share.com/) - *Books / Comics*
 * [dpgroup](https://www.dpgroup.org/) - *Books / Magazines*
 * [16Chan Library](https://16chan.xyz/library/) - *Books*
@@ -98,20 +96,17 @@
 * [Books'Cool](https://www.bookscool.com/en/index.php) - *Books*
 * [EBooksCart](https://ebookscart.com/) - *Books*
 * [Novel12](https://novel12.com/) - *Books* 
-* [PDFDuck](https://pdfduck.com/) - *Books* 
 * [Read Print](http://www.readprint.com/) - *Books* 
 * [Global Grey](https://www.globalgreyebooks.com/index.html) - *Books* 
 * [Bookyards](https://www.bookyards.com/en/welcome) - *Books* 
 * [DigiLibraries](https://digilibraries.com/) - *Books* 
 * [FullBooks](http://www.fullbooks.com/) - *Books* 
-* [pdforigin](https://www.pdforigin.info/) - *Books* 
 * [eBook4Expert](https://ebook4expert.net/) - *Books* 
 * [Chest of Books](https://chestofbooks.com/) - *Books*
 * [All Books Hub](https://allbookshub.com/) - *Books*
 * [8ebooks](https://8ebooks.net/) - *Books / Magazines*
 * [ebooksz](https://www.ebooksz.net/) - *Books*
 * [BBooks](https://bbooks.info/) - *Books*
-* [LargePDF](https://largepdf.com/) - *Books*
 * [eBook777](https://www.ebooks777.net/) - *Books*
 * [Bibliomania](http://www.bibliomania.com/bibliomania-static/index.html) - *Books*
 * [ReadCentral](https://www.readcentral.com/) - *Books*
@@ -121,7 +116,6 @@
 * [eBookHunter.net](https://www.ebookhunter.net/) - *Books*
 * [Planet eBook](https://www.planetebook.com/) - *Books*
 * [Loyal Books ](http://www.loyalbooks.com/) - *Books*
-* [PDF Stop](https://pdfstop.com/) - *Books*
 * [obooko](https://www.obooko.com/) - *Books* 
 * [Get Free eBooks](https://www.getfreeebooks.com/) - *Books* 
 * [eBooksBag](https://ebooksbag.com/) - *Books*  
@@ -138,13 +132,10 @@
 * [Google Play Books](https://play.google.com/store/books/collection/topselling_free) - *Books* 
 * [Smashwords](https://www.smashwords.com/shelves/home/1/free/any) - *Books* 
 * [kodges](https://www.kodges.ru/) - *Books / Use Translator*
-* [freepdfbook](http://www.freepdfbook.com/) - *Books* 
 * [lesatkins](http://www.lesatkins.com/books/epubfiles/) - *Books / [Download Zip](http://www.lesatkins.com/books/downloadzip.php)*
-* [pdfbooks](https://pdfbooks.co.za/) - *Books* 
 * [Flibusta](https://flibusta.is/) - *Books / [Onion](http://flibustahezeous3.onion/) / Requires account*
 * [DailyLit](https://dailylit.com/) - *Books*  
 * [FreeBooksSifter](https://www.freebooksifter.com/) - *Free Amazon E-Book* 
-* [Amazonaws](https://www.google.com/search?q=site%3As3.amazonaws.com+%3CSearch+term%3E+filetype%3Apdf) - *Amazon PDF Search* 
 * [HundredZeros](http://hundredzeros.com/) - *Free Kindle Books* 
 * [Ebooks Searcher](https://ebook-searcher.com/) or [NotoriousYEG (350+ CSE)](https://cse.google.com/cse?cx=c46414ccb6a943e39) - *Multi eBook Site Search* 
 * [Wikibooks](https://www.wikibooks.org/) - *Wikimedia community*
@@ -166,16 +157,25 @@
 
 ## ▷ PDF Search
 
-* **[PDFDrive](https://pdfdrive.com/)** - *PDF Search* 
-* [Pdfgeni](http://www.pdfgeni.com/) - *PDF Search*
-* [PDFGrab](https://pdfgrab.com/) - *PDF Search*
-* [Ebook PDF](https://ebookpdf.com/) - *PDF Search*
-* [KuPDF](https://kupdf.net/) - *PDF Search*
-* [ePDF](https://epdf.pub/) - *PDF Search*
-* [SoPDF](http://www.sopdf.com/) - *PDF Search* 
-* [PDF Search Engine](http://www.pdfsearchengine.info/) - *PDF Search*
-* [FindPDFDoc](http://www.findpdfdoc.com/) - *PDF Search / Document Search* 
-* [PDFSlide](https://pdfslide.net/) - *PDF / Document Search* 
+* **[PDFDrive](https://pdfdrive.com/)** - *Books* 
+* [Ocean of PDF](https://oceanofpdf.com/) - *Books / Comics*
+* [pdfroom](https://pdfroom.com/) - *Books / Comics* 
+* [Pdfgeni](http://www.pdfgeni.com/) - *Books* 
+* [PDFGrab](https://pdfgrab.com/) - *Books* 
+* [Ebook PDF](https://ebookpdf.com/) - *Books* 
+* [KuPDF](https://kupdf.net/) - *Books* 
+* [ePDF](https://epdf.pub/) - *Books* 
+* [SoPDF](http://www.sopdf.com/) - *Books* 
+* [PDF Search Engine](http://www.pdfsearchengine.info/) - *Books* 
+* [FindPDFDoc](http://www.findpdfdoc.com/) - *Books* 
+* [PDFSlide](https://pdfslide.net/) - *Books* 
+* [PDFDuck](https://pdfduck.com/) - *Books* 
+* [pdforigin](https://www.pdforigin.info/) - *Books* 
+* [LargePDF](https://largepdf.com/) - *Books*
+* [PDF Stop](https://pdfstop.com/) - *Books*
+* [freepdfbook](http://www.freepdfbook.com/) - *Books* 
+* [pdfbooks](https://pdfbooks.co.za/) - *Books* 
+* [Amazonaws](https://www.google.com/search?q=site%3As3.amazonaws.com+%3CSearch+term%3E+filetype%3Apdf) - *Amazon PDF Search* 
 
 ***
 

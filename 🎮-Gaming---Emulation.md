@@ -116,7 +116,9 @@
 
 * **[Recommended Emulator Specs](https://emulation.fandom.com/wiki/Computer_specs#Recommended_Specs)**
 * **[Emulator Index](https://emulation.gametechwiki.com/)**
-* **[Rom Site Index](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#Internet_Archive)** 
+* **[Rom Site Index](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#Internet_Archive)**
+* **[Emuparadise](https://www.emuparadise.me/)** - *Emulators / Roms / [DL Script](https://redd.it/968sm6), [2](https://openuserjs.org/scripts/tommyoxox/EmuParadise_Download_Workaround_-_1.1.2), [3](https://gist.github.com/Eptun/3fdcc84552e75e452731cd4621c535e9) / [Forum](https://www.epforums.org/)* 
+* **[Vimms Lair](https://vimm.net/)** - *Emulators / Roms*
 * [Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators) 
 * [Romulus](https://romulus.cc/) - *Rom Manager* 
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - *Roms / [Discord](https://discord.gg/rH9wRpu2vh)* 
@@ -132,9 +134,10 @@
 * [LYR9C](https://lyr9c.weebly.com/gba-games.html) - *GBA Browser Emulator* 
 * [LetsPlayGB](https://www.letsplaygb.com/) - *Game Boy Browser Emulator*
 * [PlanetEmu](http://www.planetemu.net/) - *Emulators*
+* [RoyalRoms](https://www.royalroms.com/) - *Emulators / Roms* 
 * [EmuCR](https://www.emucr.com/) - *Emulators*
 * [Retrostic](https://www.retrostic.com/) - *Emulators / Roms*
-* [Vimms Lair](https://vimm.net/?p=vault) - *Emulators / Roms*
+* [Emulanium](https://emulanium.com/) - *Emulators / Roms* 
 * [RomsUniverse](https://www.romsuniverse.com/) - *Emulators / Roms* 
 * [Romsie](https://romsie.com/) - *Emulators / Roms*
 * [EmuRoms](http://www.emuroms.ch/en) - *Emulators / Roms*
@@ -144,10 +147,7 @@
 * [The Old Computer](https://www.theoldcomputer.com/) - *Emulators / Roms*
 * [Emulator Games](https://www.emulatorgames.net/) - *Emulators / Roms*
 * [Roms Download](https://roms-download.com/) - *Emulators / Roms* 
-* [Emulanium](https://emulanium.com/) - *Emulators / Roms* 
 * [RomsGet](https://www.romsget.io/) - *Emulators / Roms*
-* [RoyalRoms](https://www.royalroms.com/) - *Emulators / Roms* 
-* [Emuparadise](https://www.emuparadise.me/) - *Emulators / Roms / [DL Script](https://redd.it/968sm6), [2](https://openuserjs.org/scripts/tommyoxox/EmuParadise_Download_Workaround_-_1.1.2), [3](https://gist.github.com/Eptun/3fdcc84552e75e452731cd4621c535e9) / [Forum](https://www.epforums.org/)* 
 * [EasyRoms](https://easyroms.com/) - *Emulators / Roms* 
 * [Game Wii](https://gamewii.net/), [All Xbox Game](https://downloadgamexbox.com/) or  [DownloadgamePSP](https://downloadgamepsp.com/) - *Roms*
 * [RomToHome](https://romtohome.com/) - *Roms*
@@ -177,10 +177,10 @@
 
 ## ▷ Rom Archives
 
-* **[RomCenter](https://r-roms.github.io/)**, [2](https://ybin.me/p/bfc90baa4dd321a4#VO7PWg3gmBRui2NifgKrp0XFN3GOUmpkWesSsH02bDk=). [3](https://rentry.co/24ufx) - *Roms*
+* **[No-Intro](https://archive.org/details/no-intro_romsets)**, [2](https://archive.org/details/No-Intro-Collection_2016-01-03_Fixed), [3](https://archive.org/details/No-Intro-Collection_2016-09-06) - *Roms*
 * **[AlvRo](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)**, [2](https://pastebin.com/79q1mdZm) - *Roms*
+* **[RomCenter](https://r-roms.github.io/)**, [2](https://ybin.me/p/bfc90baa4dd321a4#VO7PWg3gmBRui2NifgKrp0XFN3GOUmpkWesSsH02bDk=). [3](https://rentry.co/24ufx) - *Roms*
 * [TheRomDepot](https://theromdepot.com/) - *Roms*
-* [No-Intro](https://archive.org/details/no-intro_romsets), [2](https://archive.org/details/No-Intro-Collection_2016-01-03_Fixed), [3](https://archive.org/details/No-Intro-Collection_2016-09-06) - *Roms*
 * [@Storage_Manager](https://archive.org/details/@storage_manager) - *Roms / Zip* 
 * [FinalBurn Neo](https://archive.org/details/2020_01_06_fbn) - *Roms / Zip* 
 * [Everdrive](https://archive.org/details/latest-everdrive-pack-2020-04-16) - *Roms / Zip* 
@@ -280,6 +280,7 @@
 # ► Browser Games
 
 * **[Free Rice](https://freerice.com/)** - *Play a game while earning rice for the World Food Programme, turn off adblocker*
+* **[DelugeRPG](https://www.delugerpg.com/)** - *Pokemon RPG Simulation*
 * /r/WebGames
 * [Newgrounds](https://www.newgrounds.com/games)
 * [Armor Games](https://armorgames.com/)
@@ -389,7 +390,6 @@
 * [Badger Kingdom](http://www.badgerkingdom.pantomimepony.co.uk/) - *Manage a group of badgers, help them survive*  
 * [Blast Arena](https://blastarena.io/) - *BomberMan Like Game* 
 * [Games 1729](https://www.games1729.com/serpentron/) - *Multiplayer Snake*
-* [DelugeRPG](https://www.delugerpg.com/) - *Pokemon RPG Simulation*
 * [RoboStorm](https://robostorm.io/) - *Robot Battle Game* 
 * [FSHistory](https://s-macke.github.io/FSHistory/) - *Play Classic Flight Simulator* 
 * [Magnetic Scripts](https://msmemorial.if-legends.org/msa2/msa2.html) - *Magnetic Scrolls* 

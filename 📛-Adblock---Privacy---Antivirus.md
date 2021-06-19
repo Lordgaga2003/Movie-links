@@ -11,7 +11,7 @@
 
 # ► Adblocking 
 
-* **[Can You Block It?](https://canyoublockit.com/)**, **[AdBlock Tester](https://adblock-tester.com/)** or [Ad Blocker Test](https://d3ward.github.io/toolz/src/adblock) - *Test your adblockers*
+* **[Can You Block It?](https://canyoublockit.com/)**, **[AdBlock Tester](https://adblock-tester.com/)** or **[Ad Blocker Test](https://d3ward.github.io/toolz/src/adblock)** - *Test your adblockers*
 * [Adbox](http://raymondhill.net/ublock/adbox.html) - *Filter Test*
 * [Stop Targeting Ads at Me](https://stoptargetingads.me/) or [Simple Opt Out](https://simpleoptout.com/) - *Guides to turn off targeted ads on sites, apps, services & devices*
 * [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm), [Hosts](https://github.com/StevenBlack/hosts) or [Gas Mask](https://github.com/2ndalpha/gasmask) (Mac) - *Avoid Ads Using Hosts File* 

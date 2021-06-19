@@ -11,11 +11,10 @@
 
 # ► Download Forums
 
-* **[Download Forum Rankings](https://dirtywarez.org/cat/forum)** - *Alexa rankings*
 * **[DirtyWarez](https://forum.dirtywarez.com/)** - *Forum / Video / Audio / Games / Software / Books / Comics* 
+* [PuZo](https://www.puzo.org/) - *Video / Audio / Software / Android / Games / Books / NSFW*
 * [Adit-HD](https://www.adit-hd.com/) - *Video / Audio / Games / Books* 
 * [Novanon](https://novanon.net/) - *Video / Audio / Software / Games / Magazines / Comics / Android / Books / Courses*
-* [PuZo](https://www.puzo.org/) - *Video / Audio / Software / Android / Games / Books / NSFW*
 * [psychodownloads](http://psychodownloads.com/forum.php) - *Video / Audio / Software / Android / Games / Roms / Books / Magazines / NSFW*
 * [Merlin Warez](https://merlinwz.com/) - *Video / Audio / Games / Software / Books / Audiobooks / Comics / Magazines* 
 * [Warez Heaven](https://www.warezheaven.com/index.php) - *Video / Audio / Software / Games / Roms / Books / NSFW*
@@ -31,6 +30,7 @@
 * [Team OS](https://www.teamos-hkrg.com/) - *Software / Games / Books / Android*
 * [WarezBook](https://www.warezbook.org/) - *Video / Audio / Software / Games / Books* 
 * [ShareMania](http://sharemania.us/) - *Video / Audio* 
+* [Download Forum Rankings](https://dirtywarez.org/cat/forum) - *Alexa rankings*
 
 ***
 

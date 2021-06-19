@@ -47,12 +47,12 @@
 * **Lib Gen Tools** - *[Desktop App](https://wiki.mhut.org/software:libgen_desktop) / [Mobile App](https://github.com/manuelvargastapia/libgen_mobile_app) / [Download Tool](https://github.com/bagaswastu/librebook) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Telegram Bot](https://t.me/BotBookClub) / [Extension](https://github.com/samj1912/Genesis) / [Python Script](https://github.com/NadalVRoMa/PyLibGen) / [Mirrors](https://whereislibgen.now.sh/), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_clones), [3](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [4](https://sguru.org/libgen-proxy/) / [Onion](http://genotypeinczgrxr.onion/) / [Backup](https://redd.it/edwi9b) / /r/libgen*
 * **[Z-Library](https://z-lib.org/)** - *Books / Comics / Educational / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_mirrors) / [Telegram Bot](https://t.me/zlibrarybot)*
 * **[eBookHunter](https://ebook-hunter.org/)** - *Books / Comics*
+* **[ebook3000](http://www.ebook3000.com/)** - *Books / Audiobooks / Comics / Magazines / Newspapers*
 * **[The-Eye Books](https://the-eye.eu/public/Books/)** - *Books*
 * **[Telegram E-Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - *Telegram E-Book Channels*
 * **[Mobile Read](https://www.mobileread.com/)** - *E-Book / Reader Discussion Forum*
 * [Bookfi](http://en.bookfi.net/), [BookSee](https://en.booksee.org/) or [BookRe](http://bookre.org/)  - *Books*
 * [IRC E-Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - *Download EBooks from IRC / [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) / [Downloader](https://github.com/aghayes/rusty_book_pirate/)*
-* [ebook3000](http://www.ebook3000.com/) - *Books / Audiobooks / Comics / Magazines / Newspapers*
 * [Project Gutenberg](https://www.gutenberg.org/) - *Historical / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)*
 * [Archive.org](https://archive.org/details/texts) - *Books / Audiobooks / Magazines / Newspapers / [Borrow Only Bypass](https://i.imgur.com/y7Vl9rd.png)*
 * [The Library](https://discord.gg/mSyFJz9) or [The Great E-Library](https://discord.gg/efBxSuz) - *E-Book Discord Servers* 

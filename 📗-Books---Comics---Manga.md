@@ -59,8 +59,8 @@
 * **[The-Eye eBooks](https://the-eye.eu/public/Books/)**
 * **[eBookHunter](https://ebook-hunter.org/)** - *Books / Comics /*
 * **[Telegram eBooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - *Telegram eBook Channels*
-* **[Mobile Read](https://www.mobileread.com/)** - *E-Book / Reader Discussion Forum*
 * **[IRC eBooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites)** - *Download EBooks from IRC / [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) / [Downloader](https://github.com/aghayes/rusty_book_pirate/)*
+* **[Mobile Read](https://www.mobileread.com/)** - *E-Book / Reader Discussion Forum*
 * [Bookfi](http://en.bookfi.net/), [BookSee](https://en.booksee.org/) or [BookRe](http://bookre.org/)  - *Books*
 * [Project Gutenberg](https://www.gutenberg.org/) - *Historical / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)*
 * [ebook3000](http://www.ebook3000.com/) - *Books / Audiobooks / Comics / Magazines / Newspapers*

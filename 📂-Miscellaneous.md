@@ -17,7 +17,7 @@
 * **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - *Open-Source Extension Index*
 * **[Buster](https://github.com/dessant/buster)** or **[AntCpt](https://antcpt.com/eng/home.htm)** - *Auto Captcha Solver*
 * **[Privacy Pass](https://privacypass.github.io/)** - *Skip Captchas* 
-* **[Dark Reader](https://darkreader.org/)** [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html), or [222](https://github.com/x08d/222) - *Dark Mode* 
+* **[Dark Reader](https://darkreader.org/)**, [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html), or [222](https://github.com/x08d/222) - *Dark Mode* 
 * [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [VimC](https://github.com/1995eaton/chromium-vim), [Web Search Navigator](https://github.com/infokiller/web-search-navigator) or [Vimium C](https://github.com/gdh1995/vimium-c) - *Keyboard Shortcuts* 
 * [Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/) or [Link Clump](https://github.com/benblack86/linkclump) - *Select & Open Multiple Links at Once* 
 * [Glitter Drag](https://github.com/harytfw/glitterdrag) - *Adds Actions on Dragging* 

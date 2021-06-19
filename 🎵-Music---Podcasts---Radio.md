@@ -15,9 +15,9 @@
 
 * **[Spotify Client](https://spotify.com/)** or [XpoMusic](https://xpomusic.com/) - *Streaming*
 * **Spotify Tools** - **[Block Ads](https://github.com/mrpond/BlockTheSpot)**, [2](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/), [3](https://github.com/Lyut/SpotiHook2) / [Lyrics](https://versefy.app/) / [Spicetify](https://github.com/khanhas/spicetify-cli), [2](https://github.com/khanhas/Spicetify), [Spicetify Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Dedup](https://spotify-dedup.com/) / [Hotkeys](https://github.com/aleab/toastify)
+* **[Freezer](https://freezer.life/)** - *Streaming* 
 * [FunkWhale](https://funkwhale.audio/) - *Streaming*
 * [nuclear](https://github.com/nukeop/nuclear) - *Streaming*
-* [Freezer](https://freezer.life/) - *Streaming* 
 * [YTMDesktop](https://github.com/JamesParkDev/ytmdesktop-adblock), [2](https://ytmdesktop.app/), [Youtube-Music](https://github.com/th-ch/youtube-music) or [YMD](https://github.com/MaverickMartyn/youtube-music-desktop) - *YouTube Music Streaming* 
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - *Stream / Download Youtube Music from Terminal*
 * [Deezer](https://www.deezer.com/) - *Streaming*

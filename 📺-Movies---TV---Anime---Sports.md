@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/NKu7LPU.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/WDV90lh.png)** - *For mobile users*
 
 *** 
 ***
@@ -71,6 +71,23 @@
 * [AllMoviesForYou](https://allmoviesforyou.co/) - *Movies / TV* 
 * [Flixtor](https://flixtor.to) or [Filme21](https://filme21.com/) - *Movies / TV / Movies Older Than 6 Months For Premium Only*
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_indexes) - *Most contain videos* 
+* [Tubi](https://tubitv.com) - *Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)*
+* [Kanopy](https://kanopy.com/) - *Movies / TV / Library Card Required* 
+* [PopcornFlix](https://www.popcornflix.com/) - *Movies / TV*
+* [Crackle](https://www.crackle.com/) - *Movies / TV*
+* Peacock - *[Movies](https://www.peacocktv.com/stream/movies) / [TV](https://www.peacocktv.com/stream/tv) / [Kids](https://www.peacocktv.com/stream/kids)*
+* [ShoutFactoryTV](https://www.shoutfactorytv.com/) - *Movies / TV* 
+* [Roku](https://therokuchannel.roku.com/) - *Movies / TV*
+* [Pluto](http://pluto.tv/on-demand) - *Movies / TV*
+* [Vudu](https://www.vudu.com/) - *Movies*
+* [IMDB TV](https://www.imdb.com/tv/) - *Movies / TV*
+* [BBC iPlayer](https://www.bbc.co.uk/iplayer) - *Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / [Windscribes](https://windscribe.com/) free version works*
+* [Free YouTube, Dailymotion & Archive Movies](https://bin.disroot.org/?12737f5d5ce404f2#3LhDYgPi7c1s3cfDsNZEHsZjKTNWpCm8ppxT7AH4JJYz) - *Big list of Free Movies*
+* [StreamDor](https://www.streamdor.com/), [FreeMovies](https://freemovies.ltd/) or [MoviesFoundOnline](https://moviesfoundonline.com/) - *Movies / YouTube*
+* [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - *Youtube streaming subreddits*
+* [YouTube Streaming Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_streaming_channels) - *Channels that host movies or shows*
+* [Official YT Movies](https://www.youtube.com/feed/storefront?bp=kgEmCGQSIlBMSFBUeFR4dEMwaWJWWnJUMl9XS1dVbDJTQXhzS3VLd3iiBQIoAg%3D%3D) - *Free with Ads*
+* [JustWatch](https://www.justwatch.com/) or [ReelGood](https://reelgood.com/) - *Search Legal Streaming Hosts*
 
 ***
 
@@ -159,25 +176,48 @@
 
 ***
 
-## ▷ Legal Hosts
+## ▷ Specialty Streaming
 
-* [Tubi](https://tubitv.com) - *Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)*
-* [Kanopy](https://kanopy.com/) - *Movies / TV / Library Card Required* 
-* [PopcornFlix](https://www.popcornflix.com/) - *Movies / TV*
-* [Crackle](https://www.crackle.com/) - *Movies / TV*
-* Peacock - *[Movies](https://www.peacocktv.com/stream/movies) / [TV](https://www.peacocktv.com/stream/tv) / [Kids](https://www.peacocktv.com/stream/kids)*
-* [ShoutFactoryTV](https://www.shoutfactorytv.com/) - *Movies / TV* 
-* [Roku](https://therokuchannel.roku.com/) - *Movies / TV*
-* [Pluto](http://pluto.tv/on-demand) - *Movies / TV*
-* [Vudu](https://www.vudu.com/) - *Movies*
-* [IMDB TV](https://www.imdb.com/tv/) - *Movies / TV*
-* [BBC iPlayer](https://www.bbc.co.uk/iplayer) - *Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / [Windscribes](https://windscribe.com/) free version works*
-* [Free YouTube, Dailymotion & Archive Movies](https://bin.disroot.org/?12737f5d5ce404f2#3LhDYgPi7c1s3cfDsNZEHsZjKTNWpCm8ppxT7AH4JJYz) - *Big list of Free Movies*
-* [StreamDor](https://www.streamdor.com/), [FreeMovies](https://freemovies.ltd/) or [MoviesFoundOnline](https://moviesfoundonline.com/) - *Movies / YouTube*
-* [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - *Youtube streaming subreddits*
-* [YouTube Streaming Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_streaming_channels) - *Channels that host movies or shows*
-* [Official YT Movies](https://www.youtube.com/feed/storefront?bp=kgEmCGQSIlBMSFBUeFR4dEMwaWJWWnJUMl9XS1dVbDJTQXhzS3VLd3iiBQIoAg%3D%3D) - *Free with Ads*
-* [JustWatch](https://www.justwatch.com/) or [ReelGood](https://reelgood.com/) - *Search Legal Streaming Hosts*
+* [RareFilmm](https://rarefilmm.com/) - *Rare Movies* 
+* [Club-MST3k](http://www.club-mst3k.com/) - *All MST3k episodes*
+* [Rifftrax Twitch](https://www.twitch.tv/rifftrax) or [RiffTrax Pluto](https://pluto.tv/live-tv/rifftrax) - *RiffTrax Live Streams*
+* [Classic Cinema Online](https://classiccinemaonline.com/), [BnWMovies](https://bnwmovies.com/) or [Dumb Classic Movies](http://www.dumb.com/movies/) - *Classic Films*
+* [TheFilmDetective](https://thefilmdetective.tv/) - *Classic Films / TV*
+* [RetroVision Media](http://www.retrovisionmedia.com/) - *Retro / Classic Films* 
+* [Wu Tang Collection](https://www.thewutangcollection.com/) - *Martial Arts Films*
+* [Effed Up Movies](https://www.effedupmovies.com/) - *Disturbing Horror Movies* 
+* [Ubu](https://ubu.com/film/) - *Short Films / Avant-Garde*
+* [LIMA](https://www.li-ma.nl/) - *Short / Experimental Films*
+* [The Library of Congress](https://www.loc.gov/film-and-videos/) - *Movies / Short Films* 
+* [Video Data Bank](https://www.vdb.org/) - *Short Films / Rare Videos* 
+* [Total Short Films](http://www.totalshortfilms.com/), [Viddsee](https://www.viddsee.com/), [MAFF](https://www.maff.tv/), [Short of the Week](https://www.shortoftheweek.com/) or [Audpop](https://audpop.com/) - *Short Films* 
+* [HuntleyArchives](https://www.huntleyarchives.com/) - *Rare / Forgotten Short Films* 
+* [Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_asian_drama_sites) - *Asian Drama Sites / English Subs*
+* [Einthusan](https://einthusan.tv/) - *South Asian Film Archive*
+* [IndianCine](https://indiancine.ma/) - *Indian Film Archive*
+* [JP-Films](https://jp-films.com/) - *Japanese Movies / TV / English Subs* 
+* [Watch HK Movies Online](https://vinspirezhk.blogspot.com/) - *Rare Chinese Movies / English Subs* 
+* [Chicago Film Archives](http://www.chicagofilmarchives.org/) - *Chicago Film Archive*
+* [Eastern European Movies](https://easterneuropeanmovies.com/) - *Eastern European Film Archive* 
+* [BFIPlayer](https://player.bfi.org.uk/free) - *British Film Archive / UK VPN Required*
+* [British Pathé](https://www.britishpathe.com/) - *British Video Archive*  
+* [nfb.ca](https://www.nfb.ca/) - *Canadian Film Archive*
+* [NGA Taonga](https://ngataonga.org.nz/search-landing) or [NZOnScreen](https://www.nzonscreen.com/) - *New Zealand Video Archive* 
+* [NLS](https://www.nls.uk/), [2](https://movingimage.nls.uk/) - *Scottish Film Archive* 
+* [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - *Historic Footage / Films*
+* [StageDork](http://stagedork.com/) - *Broadway Show Recordings* 
+* [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) - *Interactive player for Black Mirror: Bandersnatch*
+* [ListenToAMovie](http://listentoamovie.com/) - *Listen to Movies* 
+* [Descriptive Audio of Movies / Shows](http://www.cheeseheadhosting.us/downloads/Descriptive%20Videos%20For%20The%20Blind/), [2](http://www.cheeseheadhosting.us/downloads.php?link=discriptive%20videos%20for%20the%20blind%20vault%202), [3](http://www.cheeseheadhosting.us/downloads.php?link=discriptive%20movies%20for%20the%20blind%20vault%203%202013%20and%20newer) - *For blind users* 
+* [NSFW Streaming Sites](https://saidit.net/s/freemediafuckyeah/wiki/index#wiki_nsfw_streaming)
+
+***
+
+## ▷ [Educational Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_educational_streaming)
+
+***
+
+# ► TV Streaming
 
 ***
 
@@ -313,47 +353,6 @@
 * [Racing HD](http://www.racinghd.net/) or /r/MotorsportsReplays - *Racing Replays* 
 * [F1 Full Races](https://f1fullraces.com/) - *F1 Replays* 
 * [Sport Video](https://www.sport-video.org.ua/) - *Sports Replays / Torrents* 
-
-***
-
-## ▷ Specialty Streaming
-
-* [RareFilmm](https://rarefilmm.com/) - *Rare Movies* 
-* [Club-MST3k](http://www.club-mst3k.com/) - *All MST3k episodes*
-* [Rifftrax Twitch](https://www.twitch.tv/rifftrax) or [RiffTrax Pluto](https://pluto.tv/live-tv/rifftrax) - *RiffTrax Live Streams*
-* [Classic Cinema Online](https://classiccinemaonline.com/), [BnWMovies](https://bnwmovies.com/) or [Dumb Classic Movies](http://www.dumb.com/movies/) - *Classic Films*
-* [TheFilmDetective](https://thefilmdetective.tv/) - *Classic Films / TV*
-* [RetroVision Media](http://www.retrovisionmedia.com/) - *Retro / Classic Films* 
-* [Wu Tang Collection](https://www.thewutangcollection.com/) - *Martial Arts Films*
-* [Effed Up Movies](https://www.effedupmovies.com/) - *Disturbing Horror Movies* 
-* [Ubu](https://ubu.com/film/) - *Short Films / Avant-Garde*
-* [LIMA](https://www.li-ma.nl/) - *Short / Experimental Films*
-* [The Library of Congress](https://www.loc.gov/film-and-videos/) - *Movies / Short Films* 
-* [Video Data Bank](https://www.vdb.org/) - *Short Films / Rare Videos* 
-* [Total Short Films](http://www.totalshortfilms.com/), [Viddsee](https://www.viddsee.com/), [MAFF](https://www.maff.tv/), [Short of the Week](https://www.shortoftheweek.com/) or [Audpop](https://audpop.com/) - *Short Films* 
-* [HuntleyArchives](https://www.huntleyarchives.com/) - *Rare / Forgotten Short Films* 
-* [Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_asian_drama_sites) - *Asian Drama Sites / English Subs*
-* [Einthusan](https://einthusan.tv/) - *South Asian Film Archive*
-* [IndianCine](https://indiancine.ma/) - *Indian Film Archive*
-* [JP-Films](https://jp-films.com/) - *Japanese Movies / TV / English Subs* 
-* [Watch HK Movies Online](https://vinspirezhk.blogspot.com/) - *Rare Chinese Movies / English Subs* 
-* [Chicago Film Archives](http://www.chicagofilmarchives.org/) - *Chicago Film Archive*
-* [Eastern European Movies](https://easterneuropeanmovies.com/) - *Eastern European Film Archive* 
-* [BFIPlayer](https://player.bfi.org.uk/free) - *British Film Archive / UK VPN Required*
-* [British Pathé](https://www.britishpathe.com/) - *British Video Archive*  
-* [nfb.ca](https://www.nfb.ca/) - *Canadian Film Archive*
-* [NGA Taonga](https://ngataonga.org.nz/search-landing) or [NZOnScreen](https://www.nzonscreen.com/) - *New Zealand Video Archive* 
-* [NLS](https://www.nls.uk/), [2](https://movingimage.nls.uk/) - *Scottish Film Archive* 
-* [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - *Historic Footage / Films*
-* [StageDork](http://stagedork.com/) - *Broadway Show Recordings* 
-* [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) - *Interactive player for Black Mirror: Bandersnatch*
-* [ListenToAMovie](http://listentoamovie.com/) - *Listen to Movies* 
-* [Descriptive Audio of Movies / Shows](http://www.cheeseheadhosting.us/downloads/Descriptive%20Videos%20For%20The%20Blind/), [2](http://www.cheeseheadhosting.us/downloads.php?link=discriptive%20videos%20for%20the%20blind%20vault%202), [3](http://www.cheeseheadhosting.us/downloads.php?link=discriptive%20movies%20for%20the%20blind%20vault%203%202013%20and%20newer) - *For blind users* 
-* [NSFW Streaming Sites](https://saidit.net/s/freemediafuckyeah/wiki/index#wiki_nsfw_streaming)
-
-***
-
-## ▷ [Educational Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_educational_streaming)
 
 ***
 

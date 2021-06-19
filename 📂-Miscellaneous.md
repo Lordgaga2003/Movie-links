@@ -297,7 +297,7 @@
 * [The MegaDrive](https://discord.gg/FQ6EaprXyr) - *Piracy / DataHoarding Discussion*
 * [/r/AnimePiracy Discord](https://discord.gg/piracy)
 * [deep dive](https://deepdive.gg/) - *Piracy / Tech / Discussion / [Discord](https://discord.gg/ZDhQkxdDT4)*
-* [RipRequests](https://reddit.com/r/riprequests) - *FLAC / MP3 / Ripping Discussion / [Discord](https://discord.gg/y4MSkdvWYg)
+* [RipRequests](https://reddit.com/r/riprequests) - *FLAC / MP3 / Ripping Discussion / [Discord](https://discord.gg/y4MSkdvWYg)*
 * [GenP](https://www.reddit.com/r/GenP) - *Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)*
 * [Torrent Community](https://t.me/TorrentCommunity) - *Telegram*
 * [The Lost Media Wiki](https://lostmediawiki.com/) / [Forum](https://forums.lostmediawiki.com/)

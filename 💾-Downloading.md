@@ -4,34 +4,9 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/AuOjyei.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/wCmGQoJ.png)** - *For mobile users*
 
 ***
-***
-
-# ► Download Forums
-
-* **[DirtyWarez](https://forum.dirtywarez.com/)** - *Forum / Video / Audio / Games / Software / Books / Comics* 
-* [PuZo](https://www.puzo.org/) - *Video / Audio / Software / Android / Games / Books / NSFW*
-* [Adit-HD](https://www.adit-hd.com/) - *Video / Audio / Games / Books* 
-* [Novanon](https://novanon.net/) - *Video / Audio / Software / Games / Magazines / Comics / Android / Books / Courses*
-* [psychodownloads](http://psychodownloads.com/forum.php) - *Video / Audio / Software / Android / Games / Roms / Books / Magazines / NSFW*
-* [Merlin Warez](https://merlinwz.com/) - *Video / Audio / Games / Software / Books / Audiobooks / Comics / Magazines* 
-* [Warez Heaven](https://www.warezheaven.com/index.php) - *Video / Audio / Software / Games / Roms / Books / NSFW*
-* [MegaDDL](http://megaddl.net/) - *Video / Audio / Software / Games / Books* 
-* [wJungle](https://wjungle.net/) - *Video / Audio / Books / Games / Android / NSFW*
-* [Sbenny's Forum](https://forum.sbenny.com/) - *Video / Audio / Software / Roms / Books / Android / [Discord](https://discord.gg/kf9FKQx)*
-* [Amader Forum](http://amaderforum.us/) - *Video / Games / Software / Android / Books / NSFW*
-* [RapidHeaven](https://rapidheaven.com/) - *Videos / Audio / Software / Games / Roms*
-* [TehParadox](https://www.tehparadox.net/) - *Video / Audio / Software / Games / Books / Magazines / Roms / Android* 
-* [Akiba-Online](https://www.akiba-online.com/) - *Japanese Media / Video / Audio / Games / Comics / NSFW*
-* [CyberPhoenix](http://www.cyberphoenix.org/forum/) - *Video / Audio / Software / Games / Roms / Books / Magazines / Comics*
-* [dreamteamdownloads1](https://www.dreamteamdownloads1.com/index.php) - *Video / Audio / Software / Games / Roms / Books / Magazines*
-* [Team OS](https://www.teamos-hkrg.com/) - *Software / Games / Books / Android*
-* [WarezBook](https://www.warezbook.org/) - *Video / Audio / Software / Games / Books* 
-* [ShareMania](http://sharemania.us/) - *Video / Audio* 
-* [Download Forum Rankings](https://dirtywarez.org/cat/forum) - *Alexa rankings*
-
 ***
 
 # ► Download Directories
@@ -54,6 +29,7 @@
 
 * **[DownloadHa](https://www.downloadha.com)** - *Video / Software / Games / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * **[SoftArchive](https://sanet.st)** or [Sanet.lc](https://sanet.lc/) - *Video / Audio / Games / Software / Android / Books / Comics / Newspapers / Magazines*
+* **[DirtyWarez](https://forum.dirtywarez.com/)** - *Forum / Video / Audio / Games / Software / Books / Comics* 
 * **[patoghu](https://patoghu.com/)** - *Video / Audio / Software / Android / Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)* 
 * **[Bitdownload](http://bitdownload.ir/)** - *Video / Audio / Software / Games / Android / Courses / [Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bitdownload_drives) / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * **[The-Eye](https://the-eye.eu/)** - *Audio / Roms / Books / Comics / Magazines / Software / [Search](https://eyedex.org/) / [Discord](https://discord.gg/the-eye)*
@@ -64,6 +40,21 @@
 * [Warez-Serbia](https://www.warez-serbia.com/) - *Video / Audio / Games / Software / Android / Books / Magazines / NSFW* 
 * [DownArchive](http://downarchive.org/) - *Video / Audio / Software / Games / Roms / Android / Books / Magazines*
 * [SceneP2P](https://www.scenep2p.com) - *Video / Audio / Games / Roms / Software / Android / Books / Magazines*
+* [PuZo](https://www.puzo.org/) - *Video / Audio / Software / Android / Games / Books / NSFW*
+* [Adit-HD](https://www.adit-hd.com/) - *Video / Audio / Games / Books* 
+* [Novanon](https://novanon.net/) - *Video / Audio / Software / Games / Magazines / Comics / Android / Books / Courses*
+* [psychodownloads](http://psychodownloads.com/forum.php) - *Video / Audio / Software / Android / Games / Roms / Books / Magazines / NSFW*
+* [Merlin Warez](https://merlinwz.com/) - *Video / Audio / Games / Software / Books / Audiobooks / Comics / Magazines* 
+* [Warez Heaven](https://www.warezheaven.com/index.php) - *Video / Audio / Software / Games / Roms / Books / NSFW*
+* [MegaDDL](http://megaddl.net/) - *Video / Audio / Software / Games / Books* 
+* [wJungle](https://wjungle.net/) - *Video / Audio / Books / Games / Android / NSFW*
+* [Sbenny's Forum](https://forum.sbenny.com/) - *Video / Audio / Software / Roms / Books / Android / [Discord](https://discord.gg/kf9FKQx)*
+* [Amader Forum](http://amaderforum.us/) - *Video / Games / Software / Android / Books / NSFW*
+* [RapidHeaven](https://rapidheaven.com/) - *Videos / Audio / Software / Games / Roms*
+* [TehParadox](https://www.tehparadox.net/) - *Video / Audio / Software / Games / Books / Magazines / Roms / Android* 
+* [Akiba-Online](https://www.akiba-online.com/) - *Japanese Media / Video / Audio / Games / Comics / NSFW*
+* [CyberPhoenix](http://www.cyberphoenix.org/forum/) - *Video / Audio / Software / Games / Roms / Books / Magazines / Comics*
+* [dreamteamdownloads1](https://www.dreamteamdownloads1.com/index.php) - *Video / Audio / Software / Games / Roms / Books / Magazines*
 * [AllYouLike](https://allyoulike.org/) - *Video / Audio Books / Magazines / Games / Roms / Software / Android / Comics / NSFW*
 * [downTURK](https://www.downturk.net/) - *Video / Audio / Games / Software / Books / Magazines / Android*
 * [ReleaseHive](https://www.releasehive.com/) - *Video / Audio / Software / Games / Books / NSFW* 
@@ -73,6 +64,8 @@
 * [MaxRelease](http://max-rls.com/) - *Video / Audio / Software / Games / Magazines*
 * [Volno](https://volno.org) - *Audio / Books / Software / Games / Android / NSFW*
 * [worldsrc](https://www.worldsrc.net/) - *Video / Audio / Games / Software / Android*
+* [Team OS](https://www.teamos-hkrg.com/) - *Software / Games / Books / Android*
+* [WarezBook](https://www.warezbook.org/) - *Video / Audio / Software / Games / Books* 
 * [Warez-World](https://warez-world.org/) - *Video / Audio / Games / Software / Android / Books / Magazines / NSFW*
 * [FreshWAP](https://www.freshwap.us/), [2](https://freshwap.cc/) - *Video / Audio / Software / Games / Android / Books / Magazines*  
 * [nulled](https://nulled.org/) - *Video / Audio / Software / Games / Books / Magazines* 
@@ -108,8 +101,9 @@
 * [Light Downloads](https://www.lightdl.xyz/) - *Video / Software / Games*   
 * [sarzamindownload](https://www.sarzamindownload.com/) - *Software / Games / Android* 
 * [FrostClick](https://www.frostclick.com/wp/) - *Video / Audio / Software / Games / Books* 
+* [ShareMania](http://sharemania.us/) - *Video / Audio* 
 * [Heidoc](https://www.heidoc.net/joomla/) - *Software / Books / Android* 
-* [Download Site Rankings](https://dirtywarez.org/cat/blog) - *Alexa rankings*
+* Alexa Rankings - [Sites](https://dirtywarez.org/cat/blog) / [Forums](https://dirtywarez.org/cat/forum) - *Alexa rankings*
 
 ***
 

@@ -224,11 +224,11 @@
 
 * **[My Abandonware](https://www.myabandonware.com/)** - *Browser Emulator / Downloads*
 * **[RetroGames](https://www.retrogames.cz/)** - *Browser Emulator*
-* [Console Living Room](https://archive.org/details/consolelivingroom) - *Browser Emulator* 
+* **[Console Living Room](https://archive.org/details/consolelivingroom)** - *Browser Emulator* 
+* **[retrogames.cc](https://www.retrogames.cc/)** - *Browser Emulator*
 * [ClassicReload](https://classicreload.com/) - *Browser Emulator*
 * [Free80sArcade](http://www.free80sarcade.com/) - *Browser Emulator*
 * [Play Classic Games](https://playclassic.games/) - *Browser Emulator*
-* [retrogames.cc](https://www.retrogames.cc/) - *Browser Emulator*
 * [Old Games Download](https://oldgamesdownload.com/) - *Roms*
 * [Classic Game Roms](https://sites.google.com/site/classicgameroms/) - *Roms*
 * [GamesNostalgia](https://gamesnostalgia.com/) - *Roms / Amiga*

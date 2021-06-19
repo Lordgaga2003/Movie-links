@@ -49,7 +49,7 @@
 
 # ► Reading Sites
 
-* **[Reading Sites Search](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** + *[Reading Sites Search 2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu)*
+* **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=c46414ccb6a943e39) - *Search Multiple Sites at once* 
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "Books / Comics / Magazines"*
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "Books / Comics / Magazines"*
 * **[Mobilism](https://forum.mobilism.org)** or [Android App](https://forum.mobilism.org/app/) - *Books / Audiobooks / Magazines / Newspapers / Comics*
@@ -135,9 +135,9 @@
 * [lesatkins](http://www.lesatkins.com/books/epubfiles/) - *Books / [Download Zip](http://www.lesatkins.com/books/downloadzip.php)*
 * [Flibusta](https://flibusta.is/) - *Books / [Onion](http://flibustahezeous3.onion/) / Requires account*
 * [DailyLit](https://dailylit.com/) - *Books*  
+* [Ebooks Searcher](https://ebook-searcher.com/) or  - *Multi-Site Book Search* 
 * [FreeBooksSifter](https://www.freebooksifter.com/) - *Free Amazon E-Book* 
 * [HundredZeros](http://hundredzeros.com/) - *Free Kindle Books* 
-* [Ebooks Searcher](https://ebook-searcher.com/) or [NotoriousYEG (350+ CSE)](https://cse.google.com/cse?cx=c46414ccb6a943e39) - *Multi eBook Site Search* 
 * [Wikibooks](https://www.wikibooks.org/) - *Wikimedia community*
 * [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - *ZeroNet Required*
 * [AvaxHome](https://avxhm.se/) - *[Leech Required](https://leechall.com/)* 

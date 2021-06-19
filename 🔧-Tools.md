@@ -1336,6 +1336,8 @@ General Reading Sites*
 * [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) - *Steam Card Automation* 
 * [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - *Steam Achievement Manager* 
 * [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) or [SteamFinder](https://steamidfinder.com/) - *Steam ID Lookup* 
+* [AugmentedSteam](https://augmentedsteam.com/) - *Steam Web Enhancement Extension* 
+* [Steam Database](https://steamdb.info/extension/) - *Adds Steam Database Link to Steam Community & Store* 
 
 ***
 

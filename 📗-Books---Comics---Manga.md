@@ -37,7 +37,7 @@
 
 # ► Calibre Libraries
 
-* **[calibre](https://calibre-ebook.com/)** - *eBook manager / downloader*
+* **[calibre](https://calibre-ebook.com/)** - *eBook Manager / Downloader*
 *  **[Calibre Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries)**
 * **[/r/opencalibre](https://reddit.com/r/opencalibre)** - *Calibre Library sharing*
 * [Shodan](https://www.shodan.io/search?query=server%3A+calibre) - *Search for Calibre Libraries*
@@ -69,6 +69,9 @@
 * [VK Serial Books & Magazines](https://vk.com/sebomag) - *Books / Magazines*
 * [Bookstagram](https://vk.com/bookstagram_eng) - *Books / Magazines* 
 * [freeforbook](https://freeforbook.com/) - *Books / Magazines / Newspapers* 
+* [29GB Mega Folder](https://mega.nz/folder/x4VG3DRL#lqecF4q2ywojGLE0O8cu4A) - *Books* 
+* [bitdl 1](http://s1.bitdl.ir/), [2](http://s2.bitdl.ir/), [3](http://s3.bitdl.ir/), [4](http://s4.bitdl.ir/), [5](http://s5.bitdl.ir/), [7](http://s7.bitdl.ir/), [8](http://s8.bitdl.ir/), [9](http://s9.bitdl.ir/), [10](http://s10.bitdl.ir/), [11](http://s11.bitdl.ir/), [13](http://s13.bitdl.ir/), [14](http://s14.bitdl.ir/) - *Books*
+* [StudyCrux](https://www.studycrux.com/) - *Books / [Telegram](https://t.me/joinchat/OrqFslALXomP5uajuXUYAA)* 
 * [Books.cat](https://books.cat/) - *Books  / Forum / Requests* 
 * [Read Any Book](https://www.readanybook.com/) - *Books*
 * [Manybooks](https://manybooks.net/)  - *Books*
@@ -81,8 +84,6 @@
 * [Only Books](https://onlybooks.org/) - *Books*
 * [16Chan Library](https://16chan.xyz/library/) - *Books*
 * [Repository z0ro](http://index-of.co.uk/) - *Books* 
-* [29GB Mega Folder](https://mega.nz/folder/x4VG3DRL#lqecF4q2ywojGLE0O8cu4A) - *Books* 
-* [StudyCrux](https://www.studycrux.com/) - *Books / [Telegram](https://t.me/joinchat/OrqFslALXomP5uajuXUYAA)* 
 * [dpgroup](https://www.dpgroup.org/) - *Books / Magazines / Children's*
 * [Ocean of EPUB](https://oceanofepub.com/) - *Books / Manga*
 * [MoJoBB](https://mojobb.com/) - *Books / Magazines*
@@ -151,14 +152,11 @@
 * [infinite story](https://infinite-story.com/) - *Interactive Fiction*
 * [Wikibooks](https://www.wikibooks.org/) - *Wikimedia community*
 * [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - *ZeroNet Required*
-* [bitdl 1](http://s1.bitdl.ir/), [2](http://s2.bitdl.ir/), [3](http://s3.bitdl.ir/), [4](http://s4.bitdl.ir/), [5](http://s5.bitdl.ir/), [7](http://s7.bitdl.ir/), [8](http://s8.bitdl.ir/), [9](http://s9.bitdl.ir/), [10](http://s10.bitdl.ir/), [11](http://s11.bitdl.ir/), [13](http://s13.bitdl.ir/), [14](http://s14.bitdl.ir/)
 * [AvaxHome](https://avxhm.se/) - *[Leech Required](https://leechall.com/)* 
 * [FreeBookSpot](http://www.freebookspot.es/default.aspx) - *Books / [Leech Required](https://filehostlist.miraheze.org/wiki/Main_Page)*
 * [zqktlwi4fecvo6ri](http://zqktlwi4fecvo6ri.onion/wiki/Libraries) - *Tor Required* 
 * [xfmro77i3lixucja](http://xfmro77i3lixucja.onion/) - *Tor Required* 
 * [The Imperial Library of Trantor](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/) - *Tor Required / [Unofficial Mirror](https://trantor.is/)*
-* [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - *Google Book Downloader w/ Proxy Support*
-* [bunken](https://github.com/laxyapahuja/bunken) - *Download eBooks directly from Goodreads*
 * [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
 * /r/opendirectories
 * /r/EBook_Resources/
@@ -912,6 +910,8 @@
 # ► Helpful Sites / Apps
 
 * [BookCut](https://github.com/costis94/bookcut) - *eBook Download Tool* 
+* [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - *Google Book Downloader w/ Proxy Support*
+* [bunken](https://github.com/laxyapahuja/bunken) - *Download eBooks directly from Goodreads*
 * [ExtractBookz](https://hub.darcs.net/JasonJAyalaP/ExtractBookz) - *Extract & Rename Ebook Files / [GitHub](https://github.com/JasonJAyalaP/ExtractBookz)*
 * [Read Shit Faster](http://readshitfaster.com/) - *Read Things Faster*
 * [Skimcast](http://www.skimcast.com/), [SummaryGenerator](https://summarygenerator.com/) or [SMMRY](https://smmry.com/) - *Summary Generator* 

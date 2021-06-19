@@ -334,7 +334,6 @@
 # ► File Leeches 
 
 * **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)**
-* [ProLeech (Nitroflare)](https://proleech.org/)
 * [@Transload (telegram)](https://t.me/transload)
 * [@deltaleechbot (teelgram)](https://t.me/deltaleechbot) 
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - *Send Premium Files to Leeches*

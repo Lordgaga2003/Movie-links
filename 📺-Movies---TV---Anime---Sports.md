@@ -70,7 +70,7 @@
 * [OkFreeMovies](https://okfreemovies.com/home) - *Movies / TV* 
 * [AllMoviesForYou](https://allmoviesforyou.co/) - *Movies / TV* 
 * [Flixtor](https://flixtor.to) or [Filme21](https://filme21.com/) - *Movies / TV / Movies Older Than 6 Months For Premium Only*
-* [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_indexes) - *Most contain videos* 
+* [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrives_.2F_open_directories) - *Movies / TV / Anime* 
 * [Tubi](https://tubitv.com) - *Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)*
 * [Kanopy](https://kanopy.com/) - *Movies / TV / Library Card Required* 
 * [PopcornFlix](https://www.popcornflix.com/) - *Movies / TV*

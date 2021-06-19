@@ -58,8 +58,8 @@
 * **[Z-Library](https://z-lib.org/)** - *Books / Comics / Educational / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_mirrors) / [Telegram Bot](https://t.me/zlibrarybot)*
 * **[The-Eye eBooks](https://the-eye.eu/public/Books/)**
 * **[eBookHunter](https://ebook-hunter.org/)** - *Books / Comics*
-* **[Telegram eBooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - *Telegram eBook Channels*
-* [IRC eBooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - *Download EBooks from IRC / [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) / [Downloader](https://github.com/aghayes/rusty_book_pirate/)*
+* **[Telegram E-Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - *Telegram E-Book Channels*
+* [IRC E-Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - *Download EBooks from IRC / [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) / [Downloader](https://github.com/aghayes/rusty_book_pirate/)*
 * **[Mobile Read](https://www.mobileread.com/)** - *E-Book / Reader Discussion Forum*
 * [Bookfi](http://en.bookfi.net/), [BookSee](https://en.booksee.org/) or [BookRe](http://bookre.org/)  - *Books*
 * [ebook3000](http://www.ebook3000.com/) - *Books / Audiobooks / Comics / Magazines / Newspapers*
@@ -143,7 +143,7 @@
 * [pdfbooks](https://pdfbooks.co.za/) - *Books* 
 * [Flibusta](https://flibusta.is/) - *Books / [Onion](http://flibustahezeous3.onion/) / Requires account*
 * [DailyLit](https://dailylit.com/) - *Books*  
-* [FreeBooksSifter](https://www.freebooksifter.com/) - *Free Amazon Ebooks* 
+* [FreeBooksSifter](https://www.freebooksifter.com/) - *Free Amazon E-Book* 
 * [Amazonaws](https://www.google.com/search?q=site%3As3.amazonaws.com+%3CSearch+term%3E+filetype%3Apdf) - *Amazon PDF Search* 
 * [HundredZeros](http://hundredzeros.com/) - *Free Kindle Books* 
 * [Ebooks Searcher](https://ebook-searcher.com/) or [NotoriousYEG (350+ CSE)](https://cse.google.com/cse?cx=c46414ccb6a943e39) - *Multi eBook Site Search* 

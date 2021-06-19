@@ -44,28 +44,28 @@
 
 ## ▷ DNS Adblocking
 
+* **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - *Network-wide DNS Adblocking / [Setup](https://github.com/klutchell/balena-adguard)* 
 * [Adguard](https://adguard.com/en/adguard-dns/overview.html) - *[Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt) / [Filter](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)*
+* [Blah DNS](https://blahdns.com/)
+* [Pi-Hole](https://pi-hole.net/) - *[Filter](https://firebog.net/), [2](https://ftpihole.com/), [3](https://github.com/hl2guide/Filterlist-for-AdGuard) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine)*
+* [Quad9](https://quad9.net/) 
+* [ahadns](https://ahadns.com/) 
+* [Adhole](https://adhole.org/) 
+* [Rethink](https://rethinkdns.com/)
 * [DNSCrypt](https://www.dnscrypt.org) - *[Manager](https://simplednscrypt.org/)*
 * [AlternateDNS](https://alternate-dns.com/index.php)
 * [Stubby](https://github.com/getdnsapi/stubby)
-* [Quad9](https://quad9.net/) 
-* [ahadns](https://ahadns.com/) 
 * [Diversion](https://diversion.ch/) 
 * [NextDNS](https://nextdns.io) - *[Email leak warning](https://redd.it/jt28e8)*
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - *Dynamic DNS Service*
-* [Rethink](https://rethinkdns.com/)
 * [Encrypted DNS Resolvers](https://www.privacytools.io/providers/dns/)
-* [Pi-Hole](https://pi-hole.net/) - *[Filter](https://firebog.net/), [2](https://ftpihole.com/), [3](https://github.com/hl2guide/Filterlist-for-AdGuard) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine)*
-* [Adhole](https://adhole.org/) 
 * [ProxyNation](https://www.proxynation.org/)
 * [nixnet DNS](https://docs.nixnet.services/DNS)
-* [Blah DNS](https://blahdns.com/)
 * [ControlD](https://controld.com/) - *DNS Manager*
 * [Spamhaus](https://www.spamhaus.org/) - *DNS Blocklists*
 * [BIND](https://gitlab.isc.org/isc-projects/bind9) - *Portable DNS Protocol*
 * [Maza](https://maza-ad-blocking.andros.dev/) - *Local DNS Adblocking* 
 * [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter/) - *DNS filter proxy*
-* [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker) - *Network-wide DNS Adblocking / [Setup](https://github.com/klutchell/balena-adguard)* 
 * [DNS Party](https://encrypted-dns.party/) - *DNS Config Profiles for Apple Devices Encrypted* 
 
 ***
@@ -85,6 +85,7 @@
 * **[Malwarebytes](https://www.malwarebytes.com/)**, [IOBit](https://www.iobit.com/en/malware-fighter.php) or  [Immunet](https://www.immunet.com) - *Anti-Malware / Antivirus*
 * **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - *Anti-Adware*
 * **[VirusTotal](https://www.virustotal.com/)**, [VirSCAN](https://www.virscan.org/), [BitBaan](https://lab.bitbaan.com/en/home), [Joe Sandbox](https://www.joesandbox.com/), [MetaDefender](https://metadefender.opswat.com/?lang=en) or [Jotti](https://virusscan.jotti.org/en) - *Analyze suspicious files / URLs / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader)* 
+* **[Hybrid Analysis](https://www.hybrid-analysis.com/)** or [Amnpardaz](https://jevereg.amnpardaz.com/) - *Scan EXE Files*
 * **[URL Void](https://www.urlvoid.com/)**, [ThreatStop](https://threatstop.com/checkip), [urlscan.io](https://urlscan.io/), [Scamadviser](https://www.scamadviser.com/), [SiteSheck](https://sitecheck.sucuri.net/), [IsLegitSite](https://www.islegitsite.com/) or [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search) - *Check Site Legitimacy*
 * [Hard_Configurator](https://hard-configurator.com/) - *GUI to manage Software Restriction Policy* 
 * [Hardentools](https://github.com/securitywithoutborders/hardentools) - *Disables Risky Windows Features*
@@ -103,7 +104,6 @@
 * [PacketTotal](https://packettotal.com/) - *PCAP / Network Analysis* 
 * [should-i-trust](https://github.com/ericalexanderorg/should-i-trust) - *Evaluates OSINT Signals for a Domain* 
 * [Phish.ly](https://phish.ly/) - *Scan Suspicious Emails*
-* [Hybrid Analysis](https://www.hybrid-analysis.com/) or [Amnpardaz](https://jevereg.amnpardaz.com/) - *Scan EXE Files*
 * [Cuckoo](https://github.com/cuckoosandbox/cuckoo) - *Automated Malware Analysis System*
 * [Any.Run](https://any.run/) - *Interactive Malware Sandbox*
 * [testsafebrowsing](https://testsafebrowsing.appspot.com/) - *Safe Browsing Testing Links* 
@@ -254,7 +254,17 @@
 * **[Tor Browser](https://www.torproject.org/)** or [Lokinet](https://lokinet.org/) - *Onion-Routed Browser / [Unblock Tor](https://i.imgur.com/bQStFyI.gifv) / [Leak Scan](https://github.com/s-rah/onionscan) / [Access Client](https://dragonfruit.network/onionfruit) / [GitHub](https://github.com/dragonfruitnetwork/onionfruit/)*
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Browsers with a focus on Privacy* 
 * **[PrivacySpy](https://privacyspy.org/)** - *Grades a Sites Privacy Policies* 
+* **[ACCOUNTKILLER](https://www.accountkiller.com/)** or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - *Find / Terminate Old Accounts* 
 * [What every Browser knows about you](https://webkay.robinlinus.com/) - *Browser Data Leak Demonstration*
+* [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - *Password Strength Checker*
+* [Password Data Breach Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)
+* [LeakedSource](https://leakedsource.ru/) - *Multiple Data Breach Checks*
+* [Vigilante.pw](http://vigilante.pw/) - *Search for sites that have been breached* 
+* [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/) or [leakpeek](https://leakpeek.com/) - *Data Breach Search Engine* 
+* [DataBunker](https://databunker.org/) - *Data Leak Prevention*
+* [RS Lookup](http://rslookup.com/) - *Check if your RuneScape data has been breached* 
+* [Canarytokens](https://canarytokens.org/generate) - *Network Breach Check* 
+* [JustGetMyData](https://justgetmydata.com/) - *Links to Obtain Your Data from Websites* 
 * [TrackingTheTrackers](https://trackingthetrackers.com/) - *Check if a website is disguising third-party trackers as first-party trackers*
 * [WhoTracksMe](https://whotracks.me/) - *Tracker Statistics / Information*  
 * [I2P](https://geti2p.net/en/) - *Encrypted Private Network Layer / [Resource Index](https://github.com/mikalv/awesome-i2p)* 
@@ -265,17 +275,7 @@
 * [webwormhole](https://github.com/saljam/webwormhole) - *Peer Authenticated WebRTC*
 * [WhatsMyUA?](https://www.whatsmyua.info/) or [WhatIsMyBrowser](https://www.whatismybrowser.com/detect/what-is-my-user-agent) - *User-Agent Detection* 
 * [Pribot](https://pribot.org/) - *Automated Analysis for Privacy Policies* 
-* [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - *Password Strength Checker*
-* [Password Data Breach Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)
-* [LeakedSource](https://leakedsource.ru/) - *Multiple Data Breach Checks*
-* [DataBunker](https://databunker.org/) - *Data Leak Prevention*
-* [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/) or [leakpeek](https://leakpeek.com/) - *Data Breach Search Engine* 
-* [Canarytokens](https://canarytokens.org/generate) - *Network Breach Check* 
 * [Pi.Alert](https://github.com/pucherot/Pi.Alert) - *Network Monitor*
-* [Vigilante.pw](http://vigilante.pw/) - *Search for sites that have been breached* 
-* [RS Lookup](http://rslookup.com/) - *Check if your RuneScape data has been breached* 
-* [ACCOUNTKILLER](https://www.accountkiller.com/) or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - *Find / Terminate Old Accounts* 
-* [JustGetMyData](https://justgetmydata.com/) - *Links to Obtain Your Data from Websites* 
 * [Google Takeout](https://takeout.google.com/) - *Google Data Request*
 * [de-google](https://www.reddit.com/r/privacy/wiki/de-google), [De-google-ify](https://degooglisons-internet.org/en/), [degoogle](https://degoogle.jmoore.dev/) or [No More Google](https://nomoregoogle.com/) - *Google App Alternatives*
 * [Crx4Chrome](https://www.crx4chrome.com/) - *Alt Google App Store*

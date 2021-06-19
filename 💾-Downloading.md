@@ -103,7 +103,7 @@
 * [FrostClick](https://www.frostclick.com/wp/) - *Video / Audio / Software / Games / Books* 
 * [ShareMania](http://sharemania.us/) - *Video / Audio* 
 * [Heidoc](https://www.heidoc.net/joomla/) - *Software / Books / Android* 
-* Alexa Rankings - [Sites](https://dirtywarez.org/cat/blog) / [Forums](https://dirtywarez.org/cat/forum) - *Alexa rankings*
+* Alexa Rankings - [Sites](https://dirtywarez.org/cat/blog) / [Forums](https://dirtywarez.org/cat/forum) 
 
 ***
 

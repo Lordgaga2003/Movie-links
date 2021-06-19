@@ -843,7 +843,7 @@ General Reading Sites*
 * [Top.gg](https://top.gg/) or [Top Bots](https://s.advaith.io/topbots) - *Discord Bots Discovery* 
 * [Discord Ban Appeals](https://github.com/patricktechn/discord-ban-appeals) - *Discord Ban Appeal Form*
 * [DSC.BIO](https://dsc.bio/) - *Make Awesome Custom Discord Bios* 
-* [Dyno](https://dyno.gg/) - *Change Discord Discriminator w/o Nitro / [How-To](https://i.imgur.com/lHRD42c.png) / [Discriminator List](https://bin.snopyta.org/?cc4e8a630615e6dd#CGcSdXhf6B1AzhjzhL8xBGLuV2jcRmhA1wKGe7TUyWmu)* 
+* [Dyno](https://dyno.gg/) - *Change Discord Discriminator w/o Nitro / [How-To](https://i.imgur.com/lHRD42c.png)* 
 * [Discord.ID](https://discord.id/) - *Lookup a Discord User or Bot ID* 
 * [Discord Markdown Cheatsheet](https://pbs.twimg.com/media/EhCUbVnWAAE5tHx?format=png&name=900x900), [2](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-) - *Discord Markdown Guide*
 * [Discord Avatar Maker](https://discord-avatar-maker.christianreich.art/) - *Make Discord Avatars* 

@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/lsePtMZ.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/rHAJbxT.png)** - *For mobile users*
 
 ***
 ***
@@ -362,210 +362,6 @@
 
 ***
 
-# ► Visual Media Sites
-
-* [BestArtBooks ](https://t.me/BESTARTBOOKS) - *Media Artbooks / Soundtracks*
-
-***
-
-## ▷ Comic Sites
-
-* **[Comic Sites Search](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)**
-* **[ReadComicsOnline](https://readcomiconline.to/)**
-* [ComicPunch](https://comicpunch.net/) 
-* [XOXO Comics](https://xoxocomics.com/) 
-* [View-Comic](https://view-comic.com/)
-* [Read Comics Online](https://readcomicsonline.ru/) 
-* [ComicExtra](https://www.comicextra.com/) or [Comic Online Free](https://comiconlinefree.net/) 
-* [GetComics](https://getcomics.info/) - *Downloads / Read Online*
-* [Comix-Load](https://comix-load.in/) - *Downloads*
-* [Zip Comic](https://www.zipcomic.com/) - *Downloads*
-* [BookDL Comic & Manga](http://booksdl.org/comics0/) - *Comics / Manga / Drive*
-* [The-Eye Comics](http://the-eye.eu/public/Comics/) - *Comic Archive* 
-* [GoComics](https://www.gocomics.com/) - *Comics Strips*
-* [Zahard](https://zahard.top/) - *WebToons*
-* [RichieRichcomicsfanclub](https://richierichcomicsfanclub.wordpress.com/) - *Richie Rich Comics* 
-* [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - *Tor required* 
-* [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - *Comic Downloading App*
-* [Tachiyomi](https://tachiyomi.org/) - *Android / Manga / Comic Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/)* 
-* [Cover](http://www.frenchfrysoftware.com/cover/) - *Manager / Reader*
-* [gazee](https://hub.docker.com/r/linuxserver/gazee/) - *Manager / Reader / Linux*
-* [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - *Manager / Reader / Android*
-* [MediaBoxHD](https://mediaboxhd.net/comic) - *Manager / Reader / Android / iOS*
-* [ComicFlow](https://github.com/swisspol/ComicFlow) - *Manager / Reader / iOS*
-* [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
-* [ComicReader](https://comicreader.netlify.app/) - *Online Comic Reader*
-
-***
-
-## ▷ Manga Sites
-
-* **[Manga Sites Search](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** + [Manga Sites Search 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0)
-* **Manga Apps - [Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_android_manga) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_manga)** - *Free manga apps / organizers*
-* **[Manga Site Index](https://piracy.moe/)** - *curated manga site list*
-* **[MangaDex](https://mangadex.org/)** - *[Download Script](https://github.com/frozenpandaman/mangadex-dl)*
-* [Anime-Sharing](http://www.anime-sharing.com/forum/) - *Anime / Manga Download Forum*
-* Madokami Manga Archive - [0-E](https://archive.org/download/Madokami.Manga.0-E), [F-K](https://archive.org/download/Madokami.Manga.F-K), [L-Q](https://archive.org/download/Madokami.Manga.L-Q), [R-Z](https://archive.org/download/Madokami.Manga.R-Z)
-* [bato](https://bato.to/) - *[Discord](https://discord.gg/7NBwcBsDph)*
-* [MangaHere](http://www.mangahere.cc)
-* [MangaKare](https://mangakare.com/) 
-* [MangaNelo](https://manganelo.com/) or [Mangakakalot](https://mangakakalot.com/)
-* [Manga4Life](https://manga4life.com/)
-* [MangaHub](https://mangahub.io/)
-* [MP4DIRECTS](https://mp4directs.com/) 
-* [MangaReader](https://www.mangareader.net/)
-* [Manga Park](https://mangapark.net/)
-* [MangaTown](https://www.mangatown.com/)
-* [FunManga](https://funmanga.com/) 
-* [ReaperScans](https://reaperscans.com/) 
-* [MangaSee](https://mangaseeonline.us/)
-* [Readmng](https://www.readmng.com/) 
-* [LoveHeaven](https://loveheaven.net/)
-* [ZinManga](https://zinmanga.com/)
-* [SenseScans](https://sensescans.com/)
-* [Mangasy](https://www.mangasy.com/)
-* [Manga Toon](https://mangatoon.mobi/)
-* [MangaOwl](https://mangaowl.net/) 
-* [MangaDoom](https://mngdoom.com/) 
-* [MangaSushi](https://mangasushi.net/)
-* [Kanjiku](https://kanjiku.net/)
-* [MangaFreak](https://w11.mangafreak.net/)
-* [MangaInn](https://mangainn.net/) 
-* [ISekaiScan](https://isekaiscan.com/)
-* [EvilFlowers](http://reader.evilflowers.com/)
-* [DeathTollScans](https://www.deathtollscans.net/)
-* [Manga Rock](https://mangarock.to/)
-* [MotoKare](https://motokare.xyz/reader/)
-* [CatManga](https://catmanga.org/)
-* [ReadManhua](https://readmanhua.net/)
-* [NineManga](http://www.ninemanga.com)
-* [MyReadingManga](https://myreadingmanga.info/)
-* [MangaWWW](http://mangawww.club/)
-* [MangaPlus](https://mangaplus.shueisha.co.jp/updates)
-* [MangaKomi](https://mangakomi.com/)
-* [KomikKid](https://www.komikid.com/)
-* [Hiperdex](https://hiperdex.com/)
-* [MangaFox](https://fanfox.net/)
-* [ComicK](https://comick.fun/)
-* [MangaFast](https://mangafast.net/)
-* [MangaKatana](https://mangakatana.com/) 
-* [Manga.Fanscans](https://manga.fascans.com/)
-* [CMReader](https://www.cmreader.info/)
-* [NiAdd](https://niadd.com/) 
-* [1stKissManga](https://1stkissmanga.com/)
-* [Mangazuki](https://mangazuki.me/) 
-* [ReadMng](https://www.readmng.com/) or [MngDoom](https://www.mngdoom.com/)
-* [NineAnime](https://www.nineanime.com/category/)
-* [WuxiaWorld](https://wuxiaworld.site/ ) - *Manga / Novels* 
-* [MANGAen](https://t.me/MANGAen) - *Manga / Telegram* 
-* [BookDL Comic & Manga](http://booksdl.org/comics0/) - *Comics / Manga / Drive*
-* [Dynasty Scans](https://dynasty-scans.com/) - *Yuri*
-* [BoysLove](https://boyslove.me/) - *Yaoi* 
-* [WebToons](https://www.webtoons.com/en/) - *Manga Webtoons*  
-* [HakuNeko](https://github.com/manga-download/hakuneko), [Comics Downloader](https://github.com/Girbons/comics-downloader), [FMD](https://sourceforge.net/projects/fmd/), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [Free Manga Downloader](https://sourceforge.net/projects/newfmd/) or [mangadownloader](https://github.com/n1mo/manga) - *Manga Downloader*
-* [AllMangasReader](http://allmangasreader.com/) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - *Organizer / Reader*
-* [Tachiyomi](https://tachiyomi.org/) - *Android / Manga / Comic Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / [Desktop](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb)* 
-* [manga-py](https://github.com/manga-py/manga-py) - *Python line manga downloader* 
-* [MangaUpdates](https://www.mangaupdates.com/) - *Manga Release Updates*  
-* [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
-* [MangaEditor](https://moeka.me/mangaEditor/) - *Online Manga Editor*
-* [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en) - *Auto Translate Manga*
-
-***
-
-## ▷ Light Novel Sites
-
-* **[Kiss Light Novels](https://kisslightnovels.info/)**
-* **[ThatNovelCorner](https://thatnovelcorner.com/)** - *Premium Light-Novels*
-* [Light Novel World](https://www.lightnovelworld.com/)
-* [Baka-Tsuki](https://www.baka-tsuki.org)
-* [Armaell's Library](https://armaell-library.net/)
-* [Novel Online Free](https://novelonlinefree.com/homepage)
-* [jNovels](https://jnovels.com/)
-* [MP4DIRECTS](https://mp4directs.com/) 
-* [English Light Novels](https://englishlightnovels.com)
-* [Tensai Translations](https://tensaitranslations.wordpress.com/)  
-* [Web Novel](https://www.webnovel.com/) 
-* [jnovels](https://jnovels.com/) 
-* [Shin Translations](https://shintranslations.com/)
-* [Novel Updates](https://www.novelupdates.com/)  
-* [Henkan Epubs](https://henkanepubs.wordpress.com/) 
-* [Novel Translations](https://lightnovelstranslations.com/)
-* [Nakimushitl](https://nakimushitl.wordpress.com/)
-* [Novel Free](https://mnovelfree.com/)
-* [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)  
-* [VolareNovels](https://www.volarenovels.com/) 
-* [Free Light Novel](https://www.freelightnovel.com/)
-* [Void Translations](https://voidtranslations.wordpress.com/) 
-* [Just Light Novels](https://justlightnovels.com/)
-* [RnDNovels ](https://www.rndnovels.com/) 
-* [MTL Novel](https://www.mtlnovel.com/)
-* [NovelFull](https://novelfull.com/)
-* [Read Light Novel ](https://www.readlightnovel.org/)
-* [Moon Bunny Cafe](https://moonbunnycafe.com/)  
-* [WuxiaWorld](https://wuxiaworld.site/ ) - *Manga / Novels* 
-* [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - *Novels / Audio Recordings*  
-* [Wuxiaworld](https://www.wuxiaworld.co/) - *Chinese Novels*  
-
-***
-
-## ▷ Magazine Sites
-
-* **[Mobilism Magazines](https://forum.mobilism.org/viewforum.php?f=123)**
-* **[PDFMagazines](https://pdfmagazines.club/)**
-* **[DownMagaz](https://downmagaz.com/)**
-* **[MagazineLib](https://magazinelib.com/)**
-* **[Newspapers Magazines](https://t.me/newspapersmagaziness)** - *Telegram* 
-* [ENMagazine](https://t.me/enmagazine) - *Telegram*
-* [Magazines4U](https://t.me/Magazines4U) - *Telegram* 
-* [newspaper_archive](https://t.me/newspaper_archive) - *Telegram*
-* [World Mags](https://www.worldmags.net/)
-* [World of Magazine](https://www.worldofmagazine.com/)
-* [PDF Magazines Download](https://pdf-magazines-download.com/)
-* [PDF Magaz](https://www.pdfmagaz.in/)
-* [eBook3000](http://www.ebook3000.com/Magazine/index.html)
-* [MagzDB](http://magzdb.org/)
-* [freemagazines](https://freemagazines.top/)
-* [MagFree](https://magfree.net/)
-* [FreeMagazinesPDF](https://freemagazinepdf.com/)
-* [PDF Magazines Archive](https://pdf-magazines-archive.com/) 
-* [freeforbook](https://freeforbook.com/) 
-* [Archive.org Magazine Rack](https://archive.org/details/magazine_rack)
-* [Archive.org Computer Magazines](https://archive.org/details/computermagazines)
-* [Aeon](https://aeon.co/) 
-* [Magzter](https://www.magzter.com/top-free-magazines)
-* [FlipHTML5](https://fliphtml5.com/exploring)
-* [MagDownload](https://magdownload.org/) 
-* [Retromags](https://www.retromags.com/) - *Retro Game Magazines* 
-* [Atari Magazines](https://www.atarimagazines.com/) - *Classic Computer Magazine Archive* 
-* [Archive Fashion for the World](https://www.archivepdf.net/) - *Fashion Magazine Archive* 
-
-***
-
-## ▷ Newspaper Sites
-
-* **[Newspaper Paywall Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser)** or [Burlesco](https://burles.co/en/) - *Bypass the paywall on online newspapers*
-* **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)**
-* **[Google Newspaper Search](https://news.google.com/newspapers)**
-* **[Newspapers Magazines](https://t.me/newspapersmagaziness)** - *Telegram* 
-* [Sanet.st](https://sanet.st/newspapers/)
-* [Elephind](https://www.elephind.com/) - *Historical Newspaper Search*
-* [EngNewspapers](https://vk.com/engnewspapers) - *Telegram*
-* [newspaper_archive](https://t.me/newspaper_archive) - *Telegram*
-* [Chronicling America](https://chroniclingamerica.loc.gov/newspapers/)
-* [Newspapers com](https://newspapers.com/)
-* [freeforbook](https://freeforbook.com/) 
-* [ThoughtCo](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
-* [Library of Congress Newspapers](https://www.loc.gov/rr/news/oltitles.html)
-* [Archive.org Newspapers](https://archive.org/details/newspapers)
-* [World-Newspapers](https://world-newspapers.com/) or [Paperboy](https://www.thepaperboy.com/) - *Online Newspaper Index*
-* [LA Times](https://latimes.newspapers.com/)
-* [Europeana Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers) - *European Historical Newspapers*
-* [abc-dl](https://github.com/king-millez/abc-dl) - *Australian Broadcasting Corporation News Archive*
-* [Newspaper Map](https://newspapermap.com/) - *Find / Translate Worldwide Newspapers*
-
-***
-
 # ► Educational Sites
 
 * **[Math Resource Guide](https://free-math-resources.netlify.app/)** - *Curated list of math resources by /u/javacoder19*
@@ -837,6 +633,210 @@
 * [BSL Dictionary](https://www.signbsl.com/) - *British Sign Language* 
 * [FreeMdict](https://freemdict.com/) - *Dictionary Downloads / [Forum](https://forum.freemdict.com/) / [Archive](https://downloads.freemdict.com/)* 
 * [pdawiki](https://www.pdawiki.com/forum/) - *Dictionary Downloads / Use WeChat for invite* 
+
+***
+
+# ► Visual Media Sites
+
+* [BestArtBooks ](https://t.me/BESTARTBOOKS) - *Media Artbooks / Soundtracks*
+
+***
+
+## ▷ Comic Sites
+
+* **[Comic Sites Search](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)**
+* **[ReadComicsOnline](https://readcomiconline.to/)**
+* [ComicPunch](https://comicpunch.net/) 
+* [XOXO Comics](https://xoxocomics.com/) 
+* [View-Comic](https://view-comic.com/)
+* [Read Comics Online](https://readcomicsonline.ru/) 
+* [ComicExtra](https://www.comicextra.com/) or [Comic Online Free](https://comiconlinefree.net/) 
+* [GetComics](https://getcomics.info/) - *Downloads / Read Online*
+* [Comix-Load](https://comix-load.in/) - *Downloads*
+* [Zip Comic](https://www.zipcomic.com/) - *Downloads*
+* [BookDL Comic & Manga](http://booksdl.org/comics0/) - *Comics / Manga / Drive*
+* [The-Eye Comics](http://the-eye.eu/public/Comics/) - *Comic Archive* 
+* [GoComics](https://www.gocomics.com/) - *Comics Strips*
+* [Zahard](https://zahard.top/) - *WebToons*
+* [RichieRichcomicsfanclub](https://richierichcomicsfanclub.wordpress.com/) - *Richie Rich Comics* 
+* [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - *Tor required* 
+* [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - *Comic Downloading App*
+* [Tachiyomi](https://tachiyomi.org/) - *Android / Manga / Comic Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/)* 
+* [Cover](http://www.frenchfrysoftware.com/cover/) - *Manager / Reader*
+* [gazee](https://hub.docker.com/r/linuxserver/gazee/) - *Manager / Reader / Linux*
+* [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - *Manager / Reader / Android*
+* [MediaBoxHD](https://mediaboxhd.net/comic) - *Manager / Reader / Android / iOS*
+* [ComicFlow](https://github.com/swisspol/ComicFlow) - *Manager / Reader / iOS*
+* [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
+* [ComicReader](https://comicreader.netlify.app/) - *Online Comic Reader*
+
+***
+
+## ▷ Manga Sites
+
+* **[Manga Sites Search](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** + [Manga Sites Search 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0)
+* **Manga Apps - [Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_android_manga) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_manga)** - *Free manga apps / organizers*
+* **[Manga Site Index](https://piracy.moe/)** - *curated manga site list*
+* **[MangaDex](https://mangadex.org/)** - *[Download Script](https://github.com/frozenpandaman/mangadex-dl)*
+* [Anime-Sharing](http://www.anime-sharing.com/forum/) - *Anime / Manga Download Forum*
+* Madokami Manga Archive - [0-E](https://archive.org/download/Madokami.Manga.0-E), [F-K](https://archive.org/download/Madokami.Manga.F-K), [L-Q](https://archive.org/download/Madokami.Manga.L-Q), [R-Z](https://archive.org/download/Madokami.Manga.R-Z)
+* [bato](https://bato.to/) - *[Discord](https://discord.gg/7NBwcBsDph)*
+* [MangaHere](http://www.mangahere.cc)
+* [MangaKare](https://mangakare.com/) 
+* [MangaNelo](https://manganelo.com/) or [Mangakakalot](https://mangakakalot.com/)
+* [Manga4Life](https://manga4life.com/)
+* [MangaHub](https://mangahub.io/)
+* [MP4DIRECTS](https://mp4directs.com/) 
+* [MangaReader](https://www.mangareader.net/)
+* [Manga Park](https://mangapark.net/)
+* [MangaTown](https://www.mangatown.com/)
+* [FunManga](https://funmanga.com/) 
+* [ReaperScans](https://reaperscans.com/) 
+* [MangaSee](https://mangaseeonline.us/)
+* [Readmng](https://www.readmng.com/) 
+* [LoveHeaven](https://loveheaven.net/)
+* [ZinManga](https://zinmanga.com/)
+* [SenseScans](https://sensescans.com/)
+* [Mangasy](https://www.mangasy.com/)
+* [Manga Toon](https://mangatoon.mobi/)
+* [MangaOwl](https://mangaowl.net/) 
+* [MangaDoom](https://mngdoom.com/) 
+* [MangaSushi](https://mangasushi.net/)
+* [Kanjiku](https://kanjiku.net/)
+* [MangaFreak](https://w11.mangafreak.net/)
+* [MangaInn](https://mangainn.net/) 
+* [ISekaiScan](https://isekaiscan.com/)
+* [EvilFlowers](http://reader.evilflowers.com/)
+* [DeathTollScans](https://www.deathtollscans.net/)
+* [Manga Rock](https://mangarock.to/)
+* [MotoKare](https://motokare.xyz/reader/)
+* [CatManga](https://catmanga.org/)
+* [ReadManhua](https://readmanhua.net/)
+* [NineManga](http://www.ninemanga.com)
+* [MyReadingManga](https://myreadingmanga.info/)
+* [MangaWWW](http://mangawww.club/)
+* [MangaPlus](https://mangaplus.shueisha.co.jp/updates)
+* [MangaKomi](https://mangakomi.com/)
+* [KomikKid](https://www.komikid.com/)
+* [Hiperdex](https://hiperdex.com/)
+* [MangaFox](https://fanfox.net/)
+* [ComicK](https://comick.fun/)
+* [MangaFast](https://mangafast.net/)
+* [MangaKatana](https://mangakatana.com/) 
+* [Manga.Fanscans](https://manga.fascans.com/)
+* [CMReader](https://www.cmreader.info/)
+* [NiAdd](https://niadd.com/) 
+* [1stKissManga](https://1stkissmanga.com/)
+* [Mangazuki](https://mangazuki.me/) 
+* [ReadMng](https://www.readmng.com/) or [MngDoom](https://www.mngdoom.com/)
+* [NineAnime](https://www.nineanime.com/category/)
+* [WuxiaWorld](https://wuxiaworld.site/ ) - *Manga / Novels* 
+* [MANGAen](https://t.me/MANGAen) - *Manga / Telegram* 
+* [BookDL Comic & Manga](http://booksdl.org/comics0/) - *Comics / Manga / Drive*
+* [Dynasty Scans](https://dynasty-scans.com/) - *Yuri*
+* [BoysLove](https://boyslove.me/) - *Yaoi* 
+* [WebToons](https://www.webtoons.com/en/) - *Manga Webtoons*  
+* [HakuNeko](https://github.com/manga-download/hakuneko), [Comics Downloader](https://github.com/Girbons/comics-downloader), [FMD](https://sourceforge.net/projects/fmd/), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [Free Manga Downloader](https://sourceforge.net/projects/newfmd/) or [mangadownloader](https://github.com/n1mo/manga) - *Manga Downloader*
+* [AllMangasReader](http://allmangasreader.com/) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - *Organizer / Reader*
+* [Tachiyomi](https://tachiyomi.org/) - *Android / Manga / Comic Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / [Desktop](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb)* 
+* [manga-py](https://github.com/manga-py/manga-py) - *Python line manga downloader* 
+* [MangaUpdates](https://www.mangaupdates.com/) - *Manga Release Updates*  
+* [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
+* [MangaEditor](https://moeka.me/mangaEditor/) - *Online Manga Editor*
+* [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en) - *Auto Translate Manga*
+
+***
+
+## ▷ Light Novel Sites
+
+* **[Kiss Light Novels](https://kisslightnovels.info/)**
+* **[ThatNovelCorner](https://thatnovelcorner.com/)** - *Premium Light-Novels*
+* [Light Novel World](https://www.lightnovelworld.com/)
+* [Baka-Tsuki](https://www.baka-tsuki.org)
+* [Armaell's Library](https://armaell-library.net/)
+* [Novel Online Free](https://novelonlinefree.com/homepage)
+* [jNovels](https://jnovels.com/)
+* [MP4DIRECTS](https://mp4directs.com/) 
+* [English Light Novels](https://englishlightnovels.com)
+* [Tensai Translations](https://tensaitranslations.wordpress.com/)  
+* [Web Novel](https://www.webnovel.com/) 
+* [jnovels](https://jnovels.com/) 
+* [Shin Translations](https://shintranslations.com/)
+* [Novel Updates](https://www.novelupdates.com/)  
+* [Henkan Epubs](https://henkanepubs.wordpress.com/) 
+* [Novel Translations](https://lightnovelstranslations.com/)
+* [Nakimushitl](https://nakimushitl.wordpress.com/)
+* [Novel Free](https://mnovelfree.com/)
+* [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)  
+* [VolareNovels](https://www.volarenovels.com/) 
+* [Free Light Novel](https://www.freelightnovel.com/)
+* [Void Translations](https://voidtranslations.wordpress.com/) 
+* [Just Light Novels](https://justlightnovels.com/)
+* [RnDNovels ](https://www.rndnovels.com/) 
+* [MTL Novel](https://www.mtlnovel.com/)
+* [NovelFull](https://novelfull.com/)
+* [Read Light Novel ](https://www.readlightnovel.org/)
+* [Moon Bunny Cafe](https://moonbunnycafe.com/)  
+* [WuxiaWorld](https://wuxiaworld.site/ ) - *Manga / Novels* 
+* [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - *Novels / Audio Recordings*  
+* [Wuxiaworld](https://www.wuxiaworld.co/) - *Chinese Novels*  
+
+***
+
+## ▷ Magazine Sites
+
+* **[Mobilism Magazines](https://forum.mobilism.org/viewforum.php?f=123)**
+* **[PDFMagazines](https://pdfmagazines.club/)**
+* **[DownMagaz](https://downmagaz.com/)**
+* **[MagazineLib](https://magazinelib.com/)**
+* **[Newspapers Magazines](https://t.me/newspapersmagaziness)** - *Telegram* 
+* [ENMagazine](https://t.me/enmagazine) - *Telegram*
+* [Magazines4U](https://t.me/Magazines4U) - *Telegram* 
+* [newspaper_archive](https://t.me/newspaper_archive) - *Telegram*
+* [World Mags](https://www.worldmags.net/)
+* [World of Magazine](https://www.worldofmagazine.com/)
+* [PDF Magazines Download](https://pdf-magazines-download.com/)
+* [PDF Magaz](https://www.pdfmagaz.in/)
+* [eBook3000](http://www.ebook3000.com/Magazine/index.html)
+* [MagzDB](http://magzdb.org/)
+* [freemagazines](https://freemagazines.top/)
+* [MagFree](https://magfree.net/)
+* [FreeMagazinesPDF](https://freemagazinepdf.com/)
+* [PDF Magazines Archive](https://pdf-magazines-archive.com/) 
+* [freeforbook](https://freeforbook.com/) 
+* [Archive.org Magazine Rack](https://archive.org/details/magazine_rack)
+* [Archive.org Computer Magazines](https://archive.org/details/computermagazines)
+* [Aeon](https://aeon.co/) 
+* [Magzter](https://www.magzter.com/top-free-magazines)
+* [FlipHTML5](https://fliphtml5.com/exploring)
+* [MagDownload](https://magdownload.org/) 
+* [Retromags](https://www.retromags.com/) - *Retro Game Magazines* 
+* [Atari Magazines](https://www.atarimagazines.com/) - *Classic Computer Magazine Archive* 
+* [Archive Fashion for the World](https://www.archivepdf.net/) - *Fashion Magazine Archive* 
+
+***
+
+## ▷ Newspaper Sites
+
+* **[Newspaper Paywall Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser)** or [Burlesco](https://burles.co/en/) - *Bypass the paywall on online newspapers*
+* **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)**
+* **[Google Newspaper Search](https://news.google.com/newspapers)**
+* **[Newspapers Magazines](https://t.me/newspapersmagaziness)** - *Telegram* 
+* [Sanet.st](https://sanet.st/newspapers/)
+* [Elephind](https://www.elephind.com/) - *Historical Newspaper Search*
+* [EngNewspapers](https://vk.com/engnewspapers) - *Telegram*
+* [newspaper_archive](https://t.me/newspaper_archive) - *Telegram*
+* [Chronicling America](https://chroniclingamerica.loc.gov/newspapers/)
+* [Newspapers com](https://newspapers.com/)
+* [freeforbook](https://freeforbook.com/) 
+* [ThoughtCo](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
+* [Library of Congress Newspapers](https://www.loc.gov/rr/news/oltitles.html)
+* [Archive.org Newspapers](https://archive.org/details/newspapers)
+* [World-Newspapers](https://world-newspapers.com/) or [Paperboy](https://www.thepaperboy.com/) - *Online Newspaper Index*
+* [LA Times](https://latimes.newspapers.com/)
+* [Europeana Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers) - *European Historical Newspapers*
+* [abc-dl](https://github.com/king-millez/abc-dl) - *Australian Broadcasting Corporation News Archive*
+* [Newspaper Map](https://newspapermap.com/) - *Find / Translate Worldwide Newspapers*
 
 ***
 

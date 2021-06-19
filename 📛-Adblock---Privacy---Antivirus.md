@@ -43,7 +43,7 @@
 ## ▷ DNS Adblocking
 
 * **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - *Network-wide DNS Adblocking / [Setup](https://github.com/klutchell/balena-adguard)* 
-* [Adguard](https://adguard.com/en/adguard-dns/overview.html) - *[Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt) / [Filter](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) / [Extension](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) *
+* [Adguard](https://adguard.com/en/adguard-dns/overview.html) - *[Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt) / [Filter](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) / [Extension](https://github.com/AdguardTeam/AdguardBrowserExtension#installation)*
 * [Blah DNS](https://blahdns.com/)
 * [Pi-Hole](https://pi-hole.net/) - *[Filter](https://firebog.net/), [2](https://ftpihole.com/), [3](https://github.com/hl2guide/Filterlist-for-AdGuard) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine)*
 * [Quad9](https://quad9.net/) 

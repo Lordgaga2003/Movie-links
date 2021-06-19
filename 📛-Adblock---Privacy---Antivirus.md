@@ -12,7 +12,6 @@
 # ► Adblocking 
 
 * **[Can You Block It?](https://canyoublockit.com/)**, **[AdBlock Tester](https://adblock-tester.com/)** or **[Ad Blocker Test](https://d3ward.github.io/toolz/src/adblock)** - *Test your adblockers*
-* [Adbox](http://raymondhill.net/ublock/adbox.html) - *Filter Test*
 * [Stop Targeting Ads at Me](https://stoptargetingads.me/) or [Simple Opt Out](https://simpleoptout.com/) - *Guides to turn off targeted ads on sites, apps, services & devices*
 * [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm), [Hosts](https://github.com/StevenBlack/hosts) or [Gas Mask](https://github.com/2ndalpha/gasmask) (Mac) - *Avoid Ads Using Hosts File* 
 * [EmailRep](http://emailrep.io/) - *Email Reputation Check, Avoid Spam*
@@ -21,7 +20,8 @@
 
 ## ▷ Adblocking Extensions
 
-* **[uBlock Origin](https://github.com/gorhill/uBlock#installation)**, [AdNauseam](https://adnauseam.io/) or [TBlock](https://tblock.codeberg.page/) - *[Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters) / [uBO Extra](https://github.com/gorhill/uBO-Extra) / [uBO Safari](https://github.com/el1t/uBlock-Safari)*
+* **[uBlock Origin](https://github.com/gorhill/uBlock#installation)**, [AdNauseam](https://adnauseam.io/) or [TBlock](https://tblock.codeberg.page/) - *[uBO Extra](https://github.com/gorhill/uBO-Extra) / [uBO Safari](https://github.com/el1t/uBlock-Safari)*
+**[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - *Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html)* 
 * **[Nano Defender](https://jspenguin2017.github.io/uBlockProtector/)**, [fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/) or [Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt) - *Prevents sites from detecting adblocker / [Test](https://blockads.fivefilters.org/) /* **WARNING** - *Do [NOT](https://www.zdnet.com/article/google-removes-two-chrome-ad-blockers-caught-collecting-user-data/) use chrome version*
 * **[uMatrix](https://github.com/gorhill/uMatrix#umatrix)**, [NoScript](https://noscript.net/) or [ScriptSafe](https://www.andryou.com/scriptsafe) - *Blocks Malicious Scripts*
 * **[Popup Blocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - *Blocks Malicious Popups & Tabs*

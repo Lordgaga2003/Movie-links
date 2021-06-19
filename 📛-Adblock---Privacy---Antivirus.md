@@ -11,6 +11,7 @@
 
 # ► Adblocking 
 
+* **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/) or [Ad Blocker Test](https://d3ward.github.io/toolz/src/adblock) - *Adblocking Test*
 * [Stop Targeting Ads at Me](https://stoptargetingads.me/) or [Simple Opt Out](https://simpleoptout.com/) - *Turn off Targeted Ads*
 * [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm), [Hosts](https://github.com/StevenBlack/hosts) or [Gas Mask](https://github.com/2ndalpha/gasmask) (Mac) - *Block Ads with Host Files* 
 
@@ -26,7 +27,6 @@
 * **[Popup Blocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - *Blocks Malicious Popups & Tabs*
 * **[Universal Bypass](https://universal-bypass.org/)**, [Ad-Link Bypasser V2](https://thebypasser.com/versions/version2.html) or [AdsBypasser](https://adsbypasser.github.io/) - *Skips Link Shorteners*
 * [Skip Redirect](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect) - *Bypass Redirects*
-* **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/) or [Ad Blocker Test](https://d3ward.github.io/toolz/src/adblock) - *Adblocking Test*
 * [Linkvertise Bypass](https://greasyfork.org/en/scripts/409156-linkvertise-bypass) or [linkvertise-bypass](https://github.com/gamb2t/linkvertise-bypass) - *Bypass Linkvertise Redirects / [Discord](https://discord.gg/cRmb8PrFdS)* 
 * [OpenVideo](https://openvideofs.github.io) - *Plays videos from streaming sites in a ad free player*
 * [Fakespot](https://www.fakespot.com/) - *Identifies Fake Reviews & Counterfeits*

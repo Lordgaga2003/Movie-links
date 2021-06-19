@@ -47,7 +47,7 @@
 * **[eBookHunter](https://ebook-hunter.org/)** - *Books / Comics*
 * **[The-Eye eBooks](https://the-eye.eu/public/Books/)**
 * **[Calibre](https://calibre-ebook.com/)** - *E-Book Manager / Downloader*
-* **Calibre Tools** - [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre), [3](https://the-eye.eu/public/Books/Calibre_Libraries/) / [Search](https://www.shodan.io/search?query=server%3A+calibre), [2](https://calishot-eng-1.herokuapp.com/), [3]https://calishot-eng-2.herokuapp.com/index-eng/summary), [4](https://calishot-eng-3.herokuapp.com/index-eng/summary), [5](https://calishot-eng-4.herokuapp.com/index-eng/summary) / [Web App](https://github.com/janeczku/calibre-web)  
+* **Calibre Tools** - [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre), [3](https://the-eye.eu/public/Books/Calibre_Libraries/) / [Search](https://www.shodan.io/search?query=server%3A+calibre), [2](https://calishot-eng-1.herokuapp.com/), [3](https://calishot-eng-2.herokuapp.com/index-eng/summary), [4](https://calishot-eng-3.herokuapp.com/index-eng/summary), [5](https://calishot-eng-4.herokuapp.com/index-eng/summary) / [Web App](https://github.com/janeczku/calibre-web)  
 * **[Telegram E-Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - *Telegram E-Book Channels*
 * **[Mobile Read](https://www.mobileread.com/)** - *E-Book / Reader Discussion Forum*
 * [Bookfi](http://en.bookfi.net/), [BookSee](https://en.booksee.org/) or [BookRe](http://bookre.org/)  - *Books*

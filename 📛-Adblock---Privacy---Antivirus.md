@@ -130,7 +130,7 @@
 * **[Encrypted Messangers](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messangers)  - *Encrypted Messaging App Index* 
 * **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)** - *Anonymous Text Verification*
 * **[Two Factor Auth](https://twofactorauth.org/)** - *List of Sites with 2FA Support*
-* [Authy](https://authy.com/) - *Two-Factor Authentication*  
+* **[Authy](https://authy.com/)** - *Two-Factor Authentication*  
 * [Obsidian](https://obsidianapp.io/) - *Mac / iOS Two-Factor Authentication*
 * [Authenticator](https://authenticator.cc/) - *Generate Two-Factor Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)* 
 * [WinAuth](https://winauth.github.io/winauth/) - *Combine Two-Factor Authenticator Services* 

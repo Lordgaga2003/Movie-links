@@ -11,6 +11,8 @@
 
 # ► Streaming Sites
 
+* **[How-to Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - *Obscure Film Hunting Guide*
+
 ## ▷ Dedicated Hosts
 
 * **[Soap2Day](https://soapgate.org/)** - *Movies / TV*
@@ -156,8 +158,7 @@
 
 * **[Streaming Sites Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - *Streaming site CSE*
 * **[Video Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_search_sites)** - *Search sites similar to YouTube*
-* **[Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - *A guide to finding rare / obscure films*
-* **[fsapi](https://fsapi.xyz/)** - *Search API, IMDb ids*
+* **[FSAPI](https://fsapi.xyz/)** - *Search API, IMDb ids*
 * **[NetU](https://netu.io/view_page.php?pid=4)** - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png), try IMDb ids*
 * [Streamy-Flix](https://streamy-flix.my-trials.ml/) - *Multi host search* 
 * [VideoSpider](https://videospider.in/) - *Host crawler, IMDb ids*

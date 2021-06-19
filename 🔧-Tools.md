@@ -1368,6 +1368,8 @@ General Reading Sites*
 * [Forge](https://files.minecraftforge.net/) or [Fabric](https://fabricmc.net/) - *Minecraft Modding API* 
 * [Nova Skin](https://minecraft.novaskin.me/) - *Minecraft Skin Editor* 
 * [Amulet](https://www.amuletmc.com/) - *Minecraft Map Editor / Viewer*
+* [Classic Minecraft](https://classic.minecraft.net/) - *Play Classic Minecraft* 
+* [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 
 
 ***
 

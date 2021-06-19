@@ -446,7 +446,8 @@
 * **[MovieParadise](https://movieparadise.org/)** - *Movies / TV*
 * **[Worlds Cinema](http://worldscinema.org/)** - *Old / Classic / Cult Films*
 * **[TopNow](http://topnow.se/)** - *Movies / [Discord](https://discord.gg/WHYmgeB)*
-* **[50TB Mega Drive](https://mega.nz/folder/spMwmDTA#qYCZT7Wq0JqoJpkVsQv36A)**, [2](https://mega.nz/folder/bswnSACT#EeW3b_CV7Es3Rbqim__pQA) - *Movies* 
+* **[50TB Mega Drive](https://mega.nz/folder/spMwmDTA#qYCZT7Wq0JqoJpkVsQv36A)**, [2](https://mega.nz/folder/bswnSACT#EeW3b_CV7Es3Rbqim__pQA), [3](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ) - *Movies* 
+* **[The Criterion Collection](https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw)** - *Movies*
 * **[Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download)** - *Many of these sites have single click downloads*
 * [RareLust](https://rarelust.com/) - *Rare Movies / NSFW* 
 * [My Duck Is Dead](http://www.myduckisdead.org/) - *Rare Movies / NSFW* 

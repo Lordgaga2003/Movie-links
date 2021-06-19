@@ -20,7 +20,7 @@
 
 ## ▷ Adblocking Extensions
 
-* **[uBlock Origin](https://github.com/gorhill/uBlock#installation)**, [AdNauseam](https://adnauseam.io/) or [TBlock](https://tblock.codeberg.page/) - *[uBO Extra](https://github.com/gorhill/uBO-Extra) / [uBO Safari](https://github.com/el1t/uBlock-Safari)*
+* **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** / [uBO Extra](https://github.com/gorhill/uBO-Extra) / [uBO Safari](https://github.com/el1t/uBlock-Safari), [AdNauseam](https://adnauseam.io/) or [TBlock](https://tblock.codeberg.page/) - *Adblockers*
 * **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - *Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html)* 
 * **[Nano Defender](https://jspenguin2017.github.io/uBlockProtector/)**, [fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/) or [Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt) - *Prevents sites from detecting adblocker / [Test](https://blockads.fivefilters.org/) /* **WARNING** - *Do [NOT](https://www.zdnet.com/article/google-removes-two-chrome-ad-blockers-caught-collecting-user-data/) use chrome version*
 * **[uMatrix](https://github.com/gorhill/uMatrix#umatrix)**, [NoScript](https://noscript.net/) or [ScriptSafe](https://www.andryou.com/scriptsafe) - *Blocks Malicious Scripts*

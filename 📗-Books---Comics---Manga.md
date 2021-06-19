@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/rHAJbxT.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/m8KqG2g.png)** - *For mobile users*
 
 ***
 ***
@@ -33,18 +33,6 @@
 * [OverDrive](https://github.com/chbrown/overdrive) - *OverDrive Audiobook Download Script*
 * [Voice](https://f-droid.org/en/packages/de.ph1b.audiobook/) or [AudioAnchor](https://f-droid.org/en/packages/com.prangesoftwaresolutions.audioanchor/) - *Android Audiobook Player* 
 
-***
-
-# ► Calibre Libraries
-
-* **[Calibre](https://calibre-ebook.com/)** - *E-Book Manager / Downloader*
-*  **[Calibre Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries)**
-* **[/r/opencalibre](https://reddit.com/r/opencalibre)** - *Calibre Library sharing*
-* [Shodan](https://www.shodan.io/search?query=server%3A+calibre) - *Search for Calibre Libraries*
-* [Calishot](https://calishot-eng-1.herokuapp.com/), [2](https://calishot-eng-2.herokuapp.com/index-eng/summary), [3](https://calishot-eng-3.herokuapp.com/index-eng/summary), [4](https://calishot-eng-4.herokuapp.com/index-eng/summary), [Non-English](https://calishot-non-eng-3.herokuapp.com/index-non-eng/summary), [2](https://calishot-non-eng-4.herokuapp.com/index-non-eng/summary) - *Search Calibre Libraries*
-* [Calibre-Web](https://github.com/janeczku/calibre-web) - *Web App for the Calibre Software*
-* [The Eye's Calibre Libraries](https://the-eye.eu/public/Books/Calibre_Libraries/) - *Calibre Libraries* 
-
 *** 
 
 # ► Reading Sites
@@ -56,8 +44,10 @@
 * **[Library Genesis](https://libgen.fun/)** - *Comics / Manga*
 * **Lib Gen Tools** - *[Desktop App](https://wiki.mhut.org/software:libgen_desktop) / [Mobile App](https://github.com/manuelvargastapia/libgen_mobile_app) / [Download Tool](https://github.com/bagaswastu/librebook) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Telegram Bot](https://t.me/BotBookClub) / [Extension](https://github.com/samj1912/Genesis) / [Python Script](https://github.com/NadalVRoMa/PyLibGen) / [Mirrors](https://whereislibgen.now.sh/), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_clones), [3](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [4](https://sguru.org/libgen-proxy/) / [Onion](http://genotypeinczgrxr.onion/) / [Backup](https://redd.it/edwi9b) / /r/libgen*
 * **[Z-Library](https://z-lib.org/)** - *Books / Comics / Educational / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_mirrors) / [Telegram Bot](https://t.me/zlibrarybot)*
-* **[The-Eye eBooks](https://the-eye.eu/public/Books/)**
 * **[eBookHunter](https://ebook-hunter.org/)** - *Books / Comics*
+* **[The-Eye eBooks](https://the-eye.eu/public/Books/)**
+* **[Calibre](https://calibre-ebook.com/)** - *E-Book Manager / Downloader*
+* **Calibre Tools** - [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre), [3](https://the-eye.eu/public/Books/Calibre_Libraries/) / [Search](https://www.shodan.io/search?query=server%3A+calibre), [2](https://calishot-eng-1.herokuapp.com/), [3]https://calishot-eng-2.herokuapp.com/index-eng/summary), [4](https://calishot-eng-3.herokuapp.com/index-eng/summary), [5](https://calishot-eng-4.herokuapp.com/index-eng/summary) / [Web App](https://github.com/janeczku/calibre-web)  
 * **[Telegram E-Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - *Telegram E-Book Channels*
 * **[Mobile Read](https://www.mobileread.com/)** - *E-Book / Reader Discussion Forum*
 * [Bookfi](http://en.bookfi.net/), [BookSee](https://en.booksee.org/) or [BookRe](http://bookre.org/)  - *Books*

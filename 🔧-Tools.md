@@ -206,7 +206,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Photovisi](https://www.photovisi.com/) - *Photo collage maker* 
 * [ASCII art creator](https://github.com/CherryPill/ASCII-art-creator) - *Use Images to Generate ASCII Art*
 * [Inpaint](https://theinpaint.com/) - *Remove Objects from Photos* 
-* [Picrew](https://picrew.me/) - *Animated Character Maker / [How-To](https://youtu.be/Oh1dTunrxWE)*  
+* [Picrew](https://picrew.me/) - *Animated Character Maker*  
 * [CLIP-GLaSS](https://colab.research.google.com/drive/1fWka_U56NhCegbbrQPt4PWpHPtNRdU49?usp=sharing#scrollTo=zvZFRZtcv8Mp) - *Image Generation Tool* 
 * [MovieMania](https://www.moviemania.io/) or [Joblo](https://www.joblo.com/movie-posters/) - *Movie Wallpaper Database* 
 * /r/LivingBackgrounds - *Animated Wallpapers* 

@@ -290,7 +290,6 @@
 * [Ru.Board](http://forum.ru-board.com/)
 * [Piracy Forum](https://pirates-forum.org/) 
 * [Babiato](https://babiato.co/) 
-* [Ripped](https://discord.gg/4bnxYvj) - *Guides / Discussion*
 * [Weboas.is Forum](https://weboas.is/forum/) - *[Chat](https://webchat.is/)*
 * [FileSharingTalk](https://filesharingtalk.com/forum.php)
 * [Fileforums](https://fileforums.com/) - *Gaming / Emulator / Data Compression Discussion*

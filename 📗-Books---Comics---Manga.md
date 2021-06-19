@@ -52,50 +52,120 @@
 * **[Reading Sites Search](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** + *[Reading Sites Search 2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu)*
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "Books / Comics / Magazines"*
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "Books / Comics / Magazines"*
-* **[Mobilism](https://forum.mobilism.org)** or [Android App](https://forum.mobilism.org/app/) - *Books / Audiobooks / Magazines / Newspapers / Comics / Fiction / Nonfiction*
-* **[Library Genesis](https://libgen.fun/)** - *Fiction / Nonfiction / Comics / Manga*
+* **[Mobilism](https://forum.mobilism.org)** or [Android App](https://forum.mobilism.org/app/) - *Books / Audiobooks / Magazines / Newspapers / Comics*
+* **[Library Genesis](https://libgen.fun/)** - *Comics / Manga*
 * **Lib Gen Tools** - *[Desktop App](https://wiki.mhut.org/software:libgen_desktop) / [Mobile App](https://github.com/manuelvargastapia/libgen_mobile_app) / [Download Tool](https://github.com/bagaswastu/librebook) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Telegram Bot](https://t.me/BotBookClub) / [Extension](https://github.com/samj1912/Genesis) / [Python Script](https://github.com/NadalVRoMa/PyLibGen) / [Mirrors](https://whereislibgen.now.sh/), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_clones), [3](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [4](https://sguru.org/libgen-proxy/) / [Onion](http://genotypeinczgrxr.onion/) / [Backup](https://redd.it/edwi9b) / /r/libgen*
-* **[Z-Library](https://z-lib.org/)** - *Books / Comics / Educational / Fiction / Nonfiction / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_mirrors) / [Telegram Bot](https://t.me/zlibrarybot)*
+* **[Z-Library](https://z-lib.org/)** - *Books / Comics / Educational / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_mirrors) / [Telegram Bot](https://t.me/zlibrarybot)*
 * **[The-Eye eBooks](https://the-eye.eu/public/Books/)**
-* **[eBookHunter](https://ebook-hunter.org/)** - *Books / Comics / Fiction / Nonfiction*
+* **[eBookHunter](https://ebook-hunter.org/)** - *Books / Comics /*
+* **[Telegram eBooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - *Telegram eBook Channels*
+* **[Mobile Read](https://www.mobileread.com/)** - *E-Book / Reader Discussion Forum*
 * **[IRC eBooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites)** - *Download EBooks from IRC / [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) / [Downloader](https://github.com/aghayes/rusty_book_pirate/)*
-* [Bookfi](http://en.bookfi.net/), [BookSee](https://en.booksee.org/) or [BookRe](http://bookre.org/)  - *Books / Fiction / Nonfiction*
-* [Project Gutenberg](https://www.gutenberg.org/) - *Historical Fiction / Nonfiction / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)*
-* [Archive.org](https://archive.org/details/texts) - *Books / Audiobooks / Magazines / Newspapers / Journals / Fiction / Nonfiction / [DL Borrow Only Books](https://i.imgur.com/y7Vl9rd.png)*
-* [EBOOKS SET 2](https://mega.nz/folder/Z1dD2YSA#XRUa1Sj9mXJHU4rh1seykg) - *Books / Fiction / Non Fiction / Drive*
-* [Books.cat](https://books.cat/) - *Books / Fiction / Non Fiction / Forum / Requests* 
-* [Read Any Book](https://www.readanybook.com/) - *Books / Fiction / Nonfiction*
-* [FreeBookSpot](http://www.freebookspot.es/default.aspx) - *Books / Fiction / Nonfiction / [Leech Required](https://filehostlist.miraheze.org/wiki/Main_Page)*
-* [Manybooks](https://manybooks.net/)  - *Books / Fiction / Nonfiction*
-* [Books-Share](https://www.books-share.com/) - *Books / Comics / Fiction / Nonfiction*
-* [eBookBB](https://ebookbb.com/)  - *Books / Fiction / Nonfiction*
-* [Ocean of PDF](https://oceanofpdf.com/) - *Books / Comics / Fiction / Nonfiction*
-* [2020ok](http://2020ok.com/)  - *Books / Comics / Fiction / Nonfiction*
-* [AllBooksWorld](https://allbooksworld.com/)  - *Books / Fiction / Nonfiction*
-* [Only Books](https://onlybooks.org/) - *Books / Fictions / Nonfiction*
-* [16Chan Library](https://16chan.xyz/library/) - *Books / Fiction / Non Fiction*
-* [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - *Google Book Downloader w/ Proxy Support*
-* [AvaxHome](https://avxhm.se/) - *[Leech Required](https://leechall.com/)* 
-* [Telegram eBooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download) - *Telegram eBook Channels*
-* [Wikibooks](https://www.wikibooks.org/) - *Wikimedia community*
-* [Ebooks Searcher](https://ebook-searcher.com/) - *Multi eBook Site Search* 
-* [Repository z0ro](http://index-of.co.uk/) - *Ebook Repository* 
-* [HundredZeros](http://hundredzeros.com/) - *Free Kindle Books* 
+* [Bookfi](http://en.bookfi.net/), [BookSee](https://en.booksee.org/) or [BookRe](http://bookre.org/)  - *Books*
+* [Project Gutenberg](https://www.gutenberg.org/) - *Historical / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)*
+* [ebook3000](http://www.ebook3000.com/) - *Books / Audiobooks / Comics / Magazines / Newspapers*
+* [Archive.org](https://archive.org/details/texts) - *Books / Audiobooks / Magazines / Newspapers / Journals / [DL Borrow Only Books](https://i.imgur.com/y7Vl9rd.png)*
+* [EBOOKS SET 2](https://mega.nz/folder/Z1dD2YSA#XRUa1Sj9mXJHU4rh1seykg) - *Books / Drive*
+* [VK Serial Books & Magazines](https://vk.com/sebomag) - *Books / Magazines*
+* [Bookstagram](https://vk.com/bookstagram_eng) - *Books / Magazines* 
+* [freeforbook](https://freeforbook.com/) - *Books / Magazines / Newspapers* 
+* [Books.cat](https://books.cat/) - *Books  / Forum / Requests* 
+* [Read Any Book](https://www.readanybook.com/) - *Books*
+* [Manybooks](https://manybooks.net/)  - *Books*
+* [pdfroom](https://pdfroom.com/) - *Books / Comics* 
+* [Books-Share](https://www.books-share.com/) - *Books / Comics*
+* [eBookBB](https://ebookbb.com/)  - *Books*
+* [Ocean of PDF](https://oceanofpdf.com/) - *Books / Comics*
+* [2020ok](http://2020ok.com/)  - *Books / Comics*
+* [AllBooksWorld](https://allbooksworld.com/)  - *Books*
+* [Only Books](https://onlybooks.org/) - *Books*
+* [16Chan Library](https://16chan.xyz/library/) - *Books*
+* [Repository z0ro](http://index-of.co.uk/) - *Books* 
+* [29GB Mega Folder](https://mega.nz/folder/x4VG3DRL#lqecF4q2ywojGLE0O8cu4A) - *Books* 
+* [StudyCrux](https://www.studycrux.com/) - *Books / [Telegram](https://t.me/joinchat/OrqFslALXomP5uajuXUYAA)* 
+* [dpgroup](https://www.dpgroup.org/) - *Books / Magazines / Children's*
+* [Ocean of EPUB](https://oceanofepub.com/) - *Books / Manga*
+* [MoJoBB](https://mojobb.com/) - *Books / Magazines*
+* [BooksToLearn](https://www.booktolearn.com) - *Books*
+* [NovelLibrary](http://novellibrary.com/) - *Books / [Drive](http://dl.novellibrary.com/)* 
+* [iBookPile](https://ibookpile.net/) - *Books*
+* [DownLoadBooks](https://downloadbooks.unblockit.dev/) - *Books*
+* [Any Books Free](http://anybooksfree.com/) - *Books*
+* [Books'Cool](https://www.bookscool.com/en/index.php) - *Books*
+* [EBooksCart](https://ebookscart.com/) - *Books*
+* [Novel12](https://novel12.com/) - *Books* 
+* [PDFDuck](https://pdfduck.com/) - *Books* 
+* [Read Print](http://www.readprint.com/) - *Books* 
+* [Global Grey](https://www.globalgreyebooks.com/index.html) - *Books* 
+* [Bookyards](https://www.bookyards.com/en/welcome) - *Books* 
+* [DigiLibraries](https://digilibraries.com/) - *Books* 
+* [FullBooks](http://www.fullbooks.com/) - *Books* 
+* [pdforigin](https://www.pdforigin.info/) - *Books* 
+* [eBook4Expert](https://ebook4expert.net/) - *Books* 
+* [Chest of Books](https://chestofbooks.com/) - *Books*
+* [All Books Hub](https://allbookshub.com/) - *Books*
+* [8ebooks](https://8ebooks.net/) - *Books / Magazines*
+* [ebooksz](https://www.ebooksz.net/) - *Books*
+* [BBooks](https://bbooks.info/) - *Books*
+* [LargePDF](https://largepdf.com/) - *Books*
+* [eBook777](https://www.ebooks777.net/) - *Books*
+* [Bibliomania](http://www.bibliomania.com/bibliomania-static/index.html) - *Books*
+* [ReadCentral](https://www.readcentral.com/) - *Books*
+* [Authorama](http://www.authorama.com/) - *Books*
+* [E-Books Directory](http://www.e-booksdirectory.com/) - *Books*
+* [Free-eBooks](https://www.free-ebooks.net/best-books) - *Books*
+* [eBookHunter.net](https://www.ebookhunter.net/) - *Books*
+* [openlibrary](https://openlibrary.org/) - *Books* 
+* [Planet eBook](https://www.planetebook.com/) - *Books*
+* [Loyal Books ](http://www.loyalbooks.com/) - *Books*
+* [PDF Stop](https://pdfstop.com/) - *Books*
+* [obooko](https://www.obooko.com/) - *Books* 
+* [Get Free eBooks](https://www.getfreeebooks.com/) - *Books* 
+* [eBooksBag](https://ebooksbag.com/) - *Books*  
+* [JustFreeBooks](https://www.justfreebooks.info/) - *Books* 
+* [Google Play Books](https://play.google.com/store/books/collection/topselling_free) - *Books* 
+* [Smashwords](https://www.smashwords.com/shelves/home/1/free/any) - *Books* 
+* [eBook Junkie](https://www.ebookjunkie.com/) - *Books*  
+* [Sharing eBook](https://www.sharingebook.com/) - *Books* 
+* [GetFreeMagz](https://getfreemagz.club/) - *Books* 
+* [eBook Lobby](http://www.ebooklobby.com/) - *Books*  
+* [Free eBooks](http://www.freebooks.com) - *Books* 
+* [CentslessBooks](https://centslessbooks.com/) - *Books* 
+* [SNEWD](https://snewd.com/) - *Books* 
+* [standardebooks](https://standardebooks.org) - *Books* 
+* [Luminist](http://www.luminist.org/archives/) - *Books* 
+* [KingAuthor](https://kingauthor.net/) - *Books* 
+* [kodges](https://www.kodges.ru/) - *Books / Use Translator*
+* [freepdfbook](http://www.freepdfbook.com/) - *Books* 
+* [lesatkins](http://www.lesatkins.com/books/epubfiles/) - *Books / [Download Zip](http://www.lesatkins.com/books/downloadzip.php)*
+* [pdfbooks](https://pdfbooks.co.za/) - *Books* 
+* [Flibusta](https://flibusta.is/) - *Books / [Onion](http://flibustahezeous3.onion/) / Requires account*
+* [DailyLit](https://dailylit.com/) - *Books*  
+* [FreeBooksSifter](https://www.freebooksifter.com/) - *Free Amazon Ebooks* 
 * [Amazonaws](https://www.google.com/search?q=site%3As3.amazonaws.com+%3CSearch+term%3E+filetype%3Apdf) - *Amazon PDF Search* 
-* [NotoriousYEG (350+ CSE)](https://cse.google.com/cse?cx=c46414ccb6a943e39) - *Custom Search Engine* 
+* [HundredZeros](http://hundredzeros.com/) - *Free Kindle Books* 
 * [The Library](https://discord.gg/mSyFJz9) or [The Great E-Library](https://discord.gg/efBxSuz) - *eBook Discord Servers* 
-* [Book Related Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist) - *Subreddits related to books*
+* [Ebooks Searcher](https://ebook-searcher.com/) or [NotoriousYEG (350+ CSE)](https://cse.google.com/cse?cx=c46414ccb6a943e39) - *Multi eBook Site Search* 
 * [Short Stories](https://short-stories.co/) - *Short Stories* 
 * [Everything2](https://everything2.com/) - *Short Stories / Poetry / Writing Help*
 * [infinite story](https://infinite-story.com/) - *Interactive Fiction*
+* [Wikibooks](https://www.wikibooks.org/) - *Wikimedia community*
+* [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - *ZeroNet Required*
+* [bitdl 1](http://s1.bitdl.ir/), [2](http://s2.bitdl.ir/), [3](http://s3.bitdl.ir/), [4](http://s4.bitdl.ir/), [5](http://s5.bitdl.ir/), [7](http://s7.bitdl.ir/), [8](http://s8.bitdl.ir/), [9](http://s9.bitdl.ir/), [10](http://s10.bitdl.ir/), [11](http://s11.bitdl.ir/), [13](http://s13.bitdl.ir/), [14](http://s14.bitdl.ir/)
+* [AvaxHome](https://avxhm.se/) - *[Leech Required](https://leechall.com/)* 
+* [FreeBookSpot](http://www.freebookspot.es/default.aspx) - *Books / [Leech Required](https://filehostlist.miraheze.org/wiki/Main_Page)*
+* [zqktlwi4fecvo6ri](http://zqktlwi4fecvo6ri.onion/wiki/Libraries) - *Tor Required* 
+* [xfmro77i3lixucja](http://xfmro77i3lixucja.onion/) - *Tor Required* 
+* [The Imperial Library of Trantor](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/) - *Tor Required / [Unofficial Mirror](https://trantor.is/)*
+* [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - *Google Book Downloader w/ Proxy Support*
 * [bunken](https://github.com/laxyapahuja/bunken) - *Download eBooks directly from Goodreads*
+* [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
 * /r/opendirectories
 * /r/EBook_Resources/
 * /r/FreeEBOOKS
 * /r/Freenookbooks/
 * /r/bookdownloads/
 * /r/KindleFreebies/
-* [More eBook Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_more_ebook_sites) - *Sites with smaller libraries* 
 
 ***
 

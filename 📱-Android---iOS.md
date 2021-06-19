@@ -122,7 +122,6 @@
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - *Booru Client / [Telegram](https://t.me/Flexbooru/161)*
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - *Article / Link Viewer*
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - *Easily Open Links in Text via Share Function*
-* [ES File Explorer](http://www.estrongs.com/) - *File Explorer* 
 * [Ponydroid](https://forum.mobilism.org/search.php?keywords=ponydroid&amp;sr=topics&amp;sf=titleonly) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - *Download file manager*
 * [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/) - *Dual-Panel File Manager*
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - *Download / Torrent Manager* 
@@ -490,7 +489,6 @@ iOS
 * [DownTube](https://github.com/MrAdamBoyd/DownTube) or [YouDown](https://apps.apple.com/sa/app/youdown/id1487658334) - *YouTube Downloader* 
 * [Grffe](https://apps.apple.com/ca/app/grffe-wallpapers/id1521368829) - *Static and Live Backgrounds* 
 * [Artpaper](https://gikken.co/artpaper) or [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - *Wallpapers*
-* [ES File Explorer](http://www.estrongs.com/) - *File Explorer* 
 * [Iterm](https://github.com/kaneki07/iterm) - *Terminal Emulator*
 * [Instdown](https://apps.apple.com/ca/app/instdown-video/id1452076756) - *Download Videos from Social Media* 
 * [FCC Speed Test](https://apps.apple.com/us/app/fcc-speed-test/id794322383) - *Internet Speed Test*

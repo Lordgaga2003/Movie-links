@@ -11,8 +11,6 @@
 
 # ► Adblocking 
 
-* **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/) or [Ad Blocker Test](https://d3ward.github.io/toolz/src/adblock) - *Test your adblockers*
-* **[Redundant Rule Checker](https://abpvn.com/ruleChecker/redundantRuleChecker.html)** - *Find Redundant AdBlock Rules*
 * [Stop Targeting Ads at Me](https://stoptargetingads.me/) or [Simple Opt Out](https://simpleoptout.com/) - *Guides to turn off targeted ads on sites, apps, services & devices*
 * [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm), [Hosts](https://github.com/StevenBlack/hosts) or [Gas Mask](https://github.com/2ndalpha/gasmask) (Mac) - *Avoid Ads Using Hosts File* 
 * [EmailRep](http://emailrep.io/) - *Email Reputation Check, Avoid Spam*
@@ -22,13 +20,14 @@
 ## ▷ Adblocking Extensions
 
 * **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** / [Extra](https://github.com/gorhill/uBO-Extra) / [Safari](https://github.com/el1t/uBlock-Safari), [AdNauseam](https://adnauseam.io/) or [TBlock](https://tblock.codeberg.page/) - *Adblockers*
-* **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - *Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html)* 
+* **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - *Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Duplicate Check](https://abpvn.com/ruleChecker/redundantRuleChecker.html)* 
 * **[Nano Defender](https://jspenguin2017.github.io/uBlockProtector/)**, [fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/) or [Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt) - *Prevent Adblocker Detection / [Test](https://blockads.fivefilters.org/) /* **WARNING** - *Do [NOT](https://www.zdnet.com/article/google-removes-two-chrome-ad-blockers-caught-collecting-user-data/) use chrome version*
 * **[SponsorBlock](https://sponsor.ajay.app/)** - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
 * **[uMatrix](https://github.com/gorhill/uMatrix#umatrix)**, [NoScript](https://noscript.net/) or [ScriptSafe](https://www.andryou.com/scriptsafe) - *Blocks Malicious Scripts*
 * **[Popup Blocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - *Blocks Malicious Popups & Tabs*
 * **[Universal Bypass](https://universal-bypass.org/)**, [Ad-Link Bypasser V2](https://thebypasser.com/versions/version2.html) or [AdsBypasser](https://adsbypasser.github.io/) - *Skips Link Shorteners*
 * [Skip Redirect](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect) - *Bypass Redirects*
+* **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/) or [Ad Blocker Test](https://d3ward.github.io/toolz/src/adblock) - *Adblocking Test*
 * [Linkvertise Bypass](https://greasyfork.org/en/scripts/409156-linkvertise-bypass) or [linkvertise-bypass](https://github.com/gamb2t/linkvertise-bypass) - *Bypass Linkvertise Redirects / [Discord](https://discord.gg/cRmb8PrFdS)* 
 * [OpenVideo](https://openvideofs.github.io) - *Plays videos from streaming sites in a ad free player*
 * [Fakespot](https://www.fakespot.com/) - *Identifies Fake Reviews & Counterfeits*

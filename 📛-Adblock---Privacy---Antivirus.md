@@ -13,7 +13,6 @@
 
 * [Stop Targeting Ads at Me](https://stoptargetingads.me/) or [Simple Opt Out](https://simpleoptout.com/) - *Turn off Targeted Ads*
 * [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm), [Hosts](https://github.com/StevenBlack/hosts) or [Gas Mask](https://github.com/2ndalpha/gasmask) (Mac) - *Block Ads with Host Files* 
-* [EmailRep](http://emailrep.io/) - *Avoid Email Spam*
 
 ***
 
@@ -359,8 +358,9 @@
 * [Scaremail](https://github.com/bengrosser/scaremail) - *Disrupt NSA Email Surveillance / [Account Gen](https://bengrosser.com/projects/scaremail/scaremail-generator/)*
 * [PGP Email Guide](https://ssd.eff.org/en/module/how-use-pgp-windows) 
 * /r/emailprivacy  - *Discussion of Email Privacy / Security / Anonymity* 
-* [Block Sender](https://blocksender.io/) - *Block unwanted emails* 
+* [Block Sender](https://blocksender.io/) - *Block Unwanted Emails* 
 * [E4ward](http://e4ward.com/) - *Spam Email Filter* 
+* [EmailRep](http://emailrep.io/) - *Email Reputation Check*
 * [torbirdy](https://trac.torproject.org/projects/tor/wiki/torbirdy) - *Connect to Mozilla Thunderbird via Tor* 
 
 ***

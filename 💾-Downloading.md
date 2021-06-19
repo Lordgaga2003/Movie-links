@@ -52,13 +52,12 @@
 
 # ► Download Sites
 
-* **[Download Site Rankings](https://dirtywarez.org/cat/blog)** - *Alexa rankings*
-* **[The-Eye](https://the-eye.eu/)** - *Audio / Roms / Books / Comics / Magazines / Software / [Search](https://eyedex.org/) / [Discord](https://discord.gg/the-eye)*
-* **[DownloadHa](https://www.downloadha.com)** - *Video / Software / Games / Android / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
+* **[DownloadHa](https://www.downloadha.com)** - *Video / Software / Games / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * **[SoftArchive](https://sanet.st)** or [Sanet.lc](https://sanet.lc/) - *Video / Audio / Games / Software / Android / Books / Comics / Newspapers / Magazines*
-* **[patoghu](https://patoghu.com/)** - *Video / Audio / Software / Android / Games / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)* 
-* [Bitdownload](http://bitdownload.ir/) - *Video / Audio / Software / Games / Android / Courses / [Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bitdownload_drives)*
-* [Uloz](https://ulozto.net/) - *Video / Audio* 
+* **[patoghu](https://patoghu.com/)** - *Video / Audio / Software / Android / Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)* 
+* **[Bitdownload](http://bitdownload.ir/)** - *Video / Audio / Software / Games / Android / Courses / [Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bitdownload_drives) / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
+* **[The-Eye](https://the-eye.eu/)** - *Audio / Roms / Books / Comics / Magazines / Software / [Search](https://eyedex.org/) / [Discord](https://discord.gg/the-eye)*
+* **[Uloz](https://ulozto.net/)** - *Video / Audio* 
 * [DDLValley](https://www.ddlvalley.me/) - *Video / Audio / Games / Roms / Software / Android / Books / Comics / Magazines*
 * [Releaselog](http://www.rlslog.net/) - *Video / Games / Roms / Software / Books / Comics / Magazines / Android*
 * [FilmSofts](https://www.filmsofts.com/) - *Video / Audio / Games / Roms / Software / Books / Comics / NSFW*
@@ -110,6 +109,7 @@
 * [sarzamindownload](https://www.sarzamindownload.com/) - *Software / Games / Android* 
 * [FrostClick](https://www.frostclick.com/wp/) - *Video / Audio / Software / Games / Books* 
 * [Heidoc](https://www.heidoc.net/joomla/) - *Software / Books / Android* 
+* [Download Site Rankings](https://dirtywarez.org/cat/blog) - *Alexa rankings*
 
 ***
 

@@ -636,7 +636,6 @@
 
 * **[Comic Sites Search](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)**
 * **[ReadComicsOnline](https://readcomiconline.to/)**
-* [ComicPunch](https://comicpunch.net/) 
 * [XOXO Comics](https://xoxocomics.com/) 
 * [View-Comic](https://view-comic.com/)
 * [Read Comics Online](https://readcomicsonline.ru/) 

@@ -636,11 +636,11 @@
 
 * **[Comic Sites Search](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)**
 * **[ReadComicsOnline](https://readcomiconline.to/)**
+* **[ComicExtra](https://www.comicextra.com/)** or [Comic Online Free](https://comiconlinefree.net/) 
+* **[GetComics](https://getcomics.info/)** - *Downloads / Read Online*
 * [XOXO Comics](https://xoxocomics.com/) 
 * [View-Comic](https://view-comic.com/)
 * [Read Comics Online](https://readcomicsonline.ru/) 
-* [ComicExtra](https://www.comicextra.com/) or [Comic Online Free](https://comiconlinefree.net/) 
-* [GetComics](https://getcomics.info/) - *Downloads / Read Online*
 * [Comix-Load](https://comix-load.in/) - *Downloads*
 * [Zip Comic](https://www.zipcomic.com/) - *Downloads*
 * [BookDL Comic & Manga](http://booksdl.org/comics0/) - *Comics / Manga / Drive*

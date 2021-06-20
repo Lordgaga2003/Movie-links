@@ -807,7 +807,7 @@ General Reading Sites*
 * [bdCompat](https://github.com/Juby210/bdCompat) - *Use BD Plugins in Powercord*
 * [Revert Rebrand](https://betterdiscord.app/theme/Revert%20Rebrand) - *Revert Discord’s Rebrand on BetterDiscord / Powercord / [GitHub](https://github.com/Goose-Nest/GT-RevertRebrand)*
 * [Unicord](https://github.com/WamWooWam/Unicord) - *Open Source Discord Client* 
-* [GooseMod](https://goosemod.com/) - *Modifiable Discord Client / [Browsers](https://github.com/AAGaming00/GooseMod-chrome)*
+* [GooseMod](https://goosemod.com/) - *Modifiable Discord Client / [Firefox](https://addons.mozilla.org/addon/goosemod-for-web/) / [Chrome](https://chrome.google.com/webstore/detail/goosemod-for-web/clgkdcccmbjmjdbdgcigpocfkkjeaeld)*
 * [OpenDiscord](https://github.com/505e06b2/OpenDiscord) - *Modifiable Discord Client*
 * [Quarrel](https://github.com/UWPCommunity/Quarrel) - *Universal Windows Platform Discord Client*
 * [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) or [WebCord](https://github.com/SpacingBat3/WebCord) - *Discord Web Client / [Discord](https://discord.gg/Vm4CwZx)*

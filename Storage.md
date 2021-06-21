@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/7RtgL8I.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/P948AJz.png)** - *For mobile users*
 
 ***
 ***
@@ -14,6 +14,16 @@
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/),
 [Chrome](https://chrome.google.com/webstore/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika), 
 [Script](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy)
+
+***
+
+#### Adblock Defenders
+
+**[Nano Defender](https://jspenguin2017.github.io/uBlockProtector/)**, [fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/), [Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt) 
+
+**WARNING** - *Do [NOT](https://www.zdnet.com/article/google-removes-two-chrome-ad-blockers-caught-collecting-user-data/) use chrome version*
+
+[Test Adblock Defender](https://blockads.fivefilters.org/)
 
 ***
 
@@ -631,6 +641,9 @@ Add the following commands to a search to manually scrape each site.
 
 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/), [MinecraftSix](https://minecraftix.com/), [9Minecraft](https://9minecraft.net/), [Planet Minecraft](https://www.planetminecraft.com/), [Modrinth](https://modrinth.com/), [MC-Mods](https://mc-mods.org/)
 
+
+
+
 ***
 
 #### Mouse Gestures
@@ -641,7 +654,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Modded Minecraft Launchers
 
-[tLauncher](https://tlauncher.org/en/), [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [SkLauncher](https://skmedix.pl/sklauncher)
+[tLauncher](https://tlauncher.org/en/), [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [SkLauncher](https://skmedix.pl/sklauncher), [OG tLauncher](https://tlaun.ch/)
 
 ***
 
@@ -1232,6 +1245,7 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 * Note - You can stream videos from these. 
 * **https://vipercloud.ga/**
 * **https://mslist.ml/0:/** - *Select Drive from menu, use telegram for searches*
+* [CloudBhadoo](https://index.hashhackers.com/) / [2](https://search.hashhackers.com/)
 * [Google Piracy Groups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_piracy_discussion_groups) - *Use these to join TeamDrives* 
 * [Google TeamDrive's](https://onehack.us/t/tds-with-tbs-of-movies-web-series-courses-games-etc/77628) - *Video / Games / Courses / Teamdrive Index*
 * [KLProjects](https://td.klprojects.tech/), [2](https://groups.google.com/g/kl-teamdrive) - *User: klprojects / PW: kltorrent* 

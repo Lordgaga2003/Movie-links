@@ -15,16 +15,16 @@
 
 ## ▷ Dedicated Hosts
 
-* **[Soap2Day](https://soapgate.org/)** - *Movies / TV*
+* **[Movies4Discord](https://discord.com/invite/XBGm36RWEs)** - *Movie Streaming & Download Bot / [Website](https://movies4discord.xyz/)*
 * **[LookMovie](https://lookmovie.io/)** - *Movies / TV*
-* **[HDBest](http://hdbest.net/)**, [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
 * **[Trailers.to](https://trailers.to/)** - *Movies / TV*  
+* **[Soap2Day](https://soapgate.org/)** - *Movies / TV*
+* **[HDBest](http://hdbest.net/)**, [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
 * **[WebOas.is](https://weboas.is/stream/)** - *Movies* 
 * **[M4uFree](https://ww1.m4ufree.com)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)*
 * **[C1NE](https://c1ne.co/)** - *Movies / TV* 
 * [SockShare](http://sockshare.ac/) - *Movies / TV / Anime / SD / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones)*
 * [NyaFilmer](https://nyafilmer.vip/), [2](https://nyafilmer1.com/), [3](https://gerryreid.com/) - *Movies / TV / JawCloud*
-* [Movies4Discord](https://discord.com/invite/XBGm36RWEs) - *Movie Streaming / Download Bot / [Website](https://movies4discord.xyz/)*
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - *Movies / TV / Anime*
 * [OpenloadMovies](https://openloadmov.net/) - *Movies / TV*
 * [Yes! Movies](https://yesmovies.ag), [Putlocker](https://ww1.putlocker.vip/) or [SolarMovie](https://www2.solarmovie.to/) - *Movies / TV / Anime*
@@ -452,6 +452,7 @@
 * [RareLust](https://rarelust.com/) - *Rare Movies / NSFW* 
 * [My Duck Is Dead](http://www.myduckisdead.org/) - *Rare Movies / NSFW* 
 * [Reviviendo Viejas Joyas](https://reviviendoviejasjoyas.blogspot.com/) - *Rare Movies / Stop Pages from Loading to use w/o Account* 
+* [Movies4Discord](https://discord.com/invite/XBGm36RWEs) - *Movie Streaming / Download Bot / [Website](https://movies4discord.xyz/)*
 * [PSARips](https://psarips.uk/) or [x265.club](https://x265.club/) - *Movies / TV* 
 * [Crazy4tv](https://crazy4tv.com/) - *Movies / TV*
 * [DDLBase](https://ddlbase.net/) - *Movies / TV*
@@ -460,7 +461,6 @@
 * [DHAKA FTP](http://103.205.233.70/), [2](http://dhakaftp.com/) - *Movies / TV*
 * [HDPopcorns](https://hdpopcorns.blog/) - *Movies*
 * [MoviesWBB](http://movieswbb.com/) - *Movie / TV*
-* [Movies4Discord](https://discord.com/invite/XBGm36RWEs) - *Movie Streaming / Download Bot / [Website](https://movies4discord.xyz/)*
 * [KatMovieHD](https://katmoviehd.nl/) - *Movies / TV / Anime*
 * [Amadei33](https://www.amadei33.com/) - *Movies / TV*  
 * [MKVBee](https://mkvbee.com/) - *Movies / TV*

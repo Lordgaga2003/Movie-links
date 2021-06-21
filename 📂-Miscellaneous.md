@@ -23,8 +23,6 @@
 * [Glitter Drag](https://github.com/harytfw/glitterdrag) - *Adds Actions on Dragging* 
 * [ScrollAnywhere](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scroll_anywhere) - *Improves Scrolling Functionality*
 * [Customizable New Tab Page](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page) - *Customize New Tab Page*
-* [Auto Tab Discard](https://add0n.com/tab-discard.html), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs), [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) or [The Great Suspender](https://github.com/aciidic/thegreatsuspender-notrack) - *Discard Inactive Tabs to Reduce Memory / CPU Usage*
-* [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - *Temporarily Snooze Tabs* 
 * [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - *Quickly Switch between Current & Recently Closed Tabs* 
 * [Always Right](https://github.com/autonome/Always-Right/) - *Always Open New Tabs to the Right* 
 * [Saka](https://saka.io/) - *Tab, History & Bookmark Search* 
@@ -33,12 +31,15 @@
 * [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - *Search Bookmarks* 
 * [phlinx](https://phlinx.com/) - *Information Search Sidebar*
 * [WebMemex](https://blog.webmemex.org/) - *Organize & Store Webpages* 
+* [Auto Tab Discard](https://add0n.com/tab-discard.html), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs), [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) or [The Great Suspender](https://github.com/aciidic/thegreatsuspender-notrack) - *Discard Inactive Tabs to Reduce Memory / CPU Usage*
+* [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - *Temporarily Snooze Tabs* 
 * [One Tab](https://www.one-tab.com/) or [TabMerger](https://lbragile.github.io/TabMerger-Extension/) - *Merge & Organize Tabs* 
 * [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn) or [Tabli](https://www.gettabli.com/) - *Tab Manager* 
 * [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups) - *Group Tabs* 
 * [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Saladict](https://saladict.crimx.com/) or [ImTranslator](https://imtranslator.net/) - *Translator* 
 * [Dictionaries](https://github.com/pnlpal/dictionaries) - *Popup Dictionary* 
-* [Zoom WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_zoom_we) - *Improves Zoom Functionality*
+* [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - *Magnify Webpages*
+* [Zoom WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_zoom_we) or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - *Improves Zoom Functionality*
 * [Print Edit WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_print_edit_we) - *Edit Pages to Make them Printable* 
 * [Mouse Gestures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mouse_gestures) - *Control Browser via Gestures*
 * [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/), [2](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - *Merges a Sites "Next" Pages*
@@ -53,12 +54,13 @@
 * [Context Search](https://github.com/odebroqueville/contextSearch), [2](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - *Search Selected Text / Multi Site Search*
 * [Clippings](https://aecreations.sourceforge.io/clippings/index.php) - *Save Frequently-Entered Text for Pasting*
 * [Auto Text Expander](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_auto_text_expander) - *Create Shortcuts to Expand & Replace Text as you Type* 
-* [CopyFish](https://ocr.space/copyfish) - *Grab Text from Images* 
 * [DontFuckWithPaste](https://github.com/jswanner/DontFuckWithPaste) - *Prevents the Blocking of Pasting into Input Fields*
 * [Absolute Enable Right Click](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_absolute_enable_right_click) - *Force Enable Right Click*
 * [Copycat](https://github.com/BlackGlory/Copycat) - *Copy Content in Multiple Formats & Markdowns* 
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - *Copy Text as Markdown* 
 * [Copy Selected Links](https://gitlab.com/Marnes/copy-selected-links) - *Copy Links from Selected Text* 
+* [CopyFish](https://ocr.space/copyfish) or [Image Reader](https://mybrowseraddon.com/image-reader.html) - *Grab Text from Images* 
+* [Text to Image](https://mybrowseraddon.com/text-to-image.html) - *Format & Save Text as a Image*
 * [Text Link](https://piro.sakura.ne.jp/xul/textlink/index.html.en) - *Make Non-Hyperlinked URL's Clickable* 
 * [Link Alert](https://www.cwesson.net/projects/LinkAlert/) - *Link Type Indicator* 
 * [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) - *Remove All Cookies* 
@@ -73,11 +75,14 @@
 * [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - *Page Change Detection / Notification* 
 * [SuperStop](https://github.com/gavinsharp/SuperStop/) - *Stop Active Animations, Videos, JS, WebSocket & XHR*
 * [Nuke Anything](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nuke_anything) - *Block/Hide Anything on a Page*  
+* [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - *Disconnect Browser from the Internet*
 * [Wayback Machine](https://github.com/internetarchive/wayback-machine-webextension), [Web Archives](https://github.com/dessant/web-archives) or [Archiveror](https://github.com/rahiel/archiveror) - *View Archived / Cached Webpages*
 * [WaybackEverywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox) - *Auto Load Archived Versions of Dead Pages*
 * [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - *Alt Twitch Player* 
 * [Wikiwand](https://www.wikiwand.com/) - *Wikipedia web / Mobile Reader* 
 * [Sticky Notes](https://blog.kumabook.tokyo/stickynotes/index.html) - *Browser Sticky Notes* 
+* [Draw on Page](https://mybrowseraddon.com/draw-on-page.html) - *Draw on Webpages*
+* [Page Edit](https://mybrowseraddon.com/page-edit.html) - *Turn Webpages into Editable Documents*
 * [Save Page WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_save_page_we), [SingleFile](https://github.com/gildas-lormeau/SingleFile) or [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - *Save Webpages as HTML* 
 * [Listly](https://www.listly.io/) - *Webpage to Spreadsheet Converter*
 * [Download all Images](https://add0n.com/save-images.html) - *Download Images From a Page*
@@ -107,7 +112,7 @@
 * [XKit](https://github.com/new-xkit/XKit) - *Make Tumblr More Usable*
 * [Extensity](https://sergiokas.github.io/Extensity/index.html) - *Quickly Enable / Disable Chrome Extensions* 
 * [CRXExtractor](https://crxextractor.com/) - *Get .CRX Chrome Extension Files* 
-* [CRX Viewer](https://github.com/Rob--W/crxviewer) - *View Extension Source Code* 
+* [CRX Viewer](https://github.com/Rob--W/crxviewer) or - *View Extension Source Code* 
 * [Breeze Duo for KDE Plasma](https://github.com/vfrico/firefox-breeze-duo) - *Breeze Theme for better KDE Integration* 
 * [WhatRuns](https://www.whatruns.com/) - *Discover what makes a site run* 
 * [Tab Session Manager](https://tab-session-manager.sienori.com/) or [Session Buddy](https://sessionbuddy.com/) - *Session Manager* 
@@ -171,6 +176,7 @@
 * [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) - *Block "Sending" & "Seen" Facebook Chat Indicators* 
 * [Mate Translate](https://gikken.co/mate-translate/chrome/) - *Translator*
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej) - *Discover Similar Webpages* 
+* [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - *View Extension Source Code* 
 
 ## ▷ Userscripts
 
@@ -186,7 +192,7 @@
 * [altsearch links](https://greasyfork.org/en/scripts/13542-altsearch-links) - *Adds search on other sites for google, bing, and yahoo*
 * [Twitch Screen Comment Scroller](https://greasyfork.org/en/scripts/376225-twitch-screen-comment-scroller) - *Auto Scroll Twitch Comments*
 * [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) - *Adds various features to Imageboards* 
-* [Google Hit Hider](https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites)) - *Block Sites from Search Results* 
+* [Google Hit Hider](https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites) - *Block Sites from Search Results* 
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - *Shows Images & Videos Behind Links & Thumbnails* 
 
 ***
@@ -215,6 +221,7 @@
 * [WAREZZ](https://piracy.now.sh/), [2](https://warezz.now.sh/), [3](https://github.com/xuac/warezz) - *Piracy Index*
 * [Neverland](http://www.neverland.ws/) - *Piracy Index* 
 * [pilssken](https://pilssken.neocities.org/warez/) - *Piracy Index* 
+* [Great Pirate List](https://ufile.io/0ln9jrmg) - *Piracy Index*
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - *Software / Tool Index*
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software Index* 
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index*
@@ -255,8 +262,8 @@
 * /r/coolgithubprojects - *Cool Projects on Github* 
 * /r/coolgitlabprojects - *Cool Projects on Gitlab*
 * [git:logs](https://www.gitlogs.com/) - *Trending GitHub Repos* 
-* [Awesome Zites](https://github.com/KevinScruff/awesome-zites) - *ZeroNet Site Index* 
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - *List of active github forks*
+* [Awesome Zites](https://github.com/KevinScruff/awesome-zites) - *ZeroNet Site Index* 
 * [PiracyBank](https://piracybank.org/websites) - *List of sites tagged for copyright, mostly dead* 
 * [Movim](https://movim.eu/) - *Decentralized Social Network* 
 * [Fediverse](https://fediverse.party/) - *Federated Social Networks*

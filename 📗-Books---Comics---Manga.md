@@ -456,8 +456,8 @@
 
 ## ▷ History Sites
 
-* **[Project Gutenberg](https://www.gutenberg.org/wiki/Main_Page)** - *Historical Fiction / Nonfiction + [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)*
-* [History](https://mega.nz/#F!dlZlDbqL!TXG5bGvWufONkrQAL7b7jA) - *Drive* 
+* **[Project Gutenberg](https://www.gutenberg.org/wiki/Main_Page)** - *Historical Fiction / Nonfiction / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)*
+* [/HIS/STORY Collection](https://mega.nz/#F!dlZlDbqL!TXG5bGvWufONkrQAL7b7jA) - *Drive* 
 * [Media History](https://mediahistoryproject.org/) - *Books / Magazines*
 * [corpus scriptorum latinorum](https://www.forumromanum.org/literature/authors_a.html) - *Latin Literature*
 * [EarlyModernTexts](http://www.earlymoderntexts.com) - *Historical Texts*

@@ -21,7 +21,7 @@
 
 * **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** / [Extra](https://github.com/gorhill/uBO-Extra) / [Safari](https://github.com/el1t/uBlock-Safari), [AdNauseam](https://adnauseam.io/) or [TBlock](https://tblock.codeberg.page/) - *Adblockers*
 * **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - *Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Duplicate Check](https://abpvn.com/ruleChecker/redundantRuleChecker.html)* 
-* **[Nano Defender](https://jspenguin2017.github.io/uBlockProtector/)**, [fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/) or [Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt) - *Prevent Adblocker Detection / [Test](https://blockads.fivefilters.org/) /* **WARNING** - *Do [NOT](https://www.zdnet.com/article/google-removes-two-chrome-ad-blockers-caught-collecting-user-data/) use chrome version*
+* **[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - *Prevent Sites from Detecting Adblockers / [Test Defenders](https://blockads.fivefilters.org/)*
 * **[SponsorBlock](https://sponsor.ajay.app/)** - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
 * **[uMatrix](https://github.com/gorhill/uMatrix#umatrix)**, [NoScript](https://noscript.net/) or [ScriptSafe](https://www.andryou.com/scriptsafe) - *Blocks Malicious Scripts*
 * **[Popup Blocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - *Blocks Malicious Popups & Tabs*
@@ -197,20 +197,22 @@
 
 ## ▷ Privacy Extensions
 
-* [**Privacy Badger**](https://privacybadger.org/) or [Privacy Possum](https://github.com/cowlicks/privacypossum) - *Blocks invisible trackers*
-* **[ClearURLs](https://github.com/ClearURLs/Addon/releases)**, [2](https://gitlab.com/KevinRoebert/ClearUrls) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - *Removes tracking elements from URLs*
-* **[LocalCDN](https://www.localcdn.org/)**, [WhatCampaign](https://addons.mozilla.org/en-US/firefox/addon/whatcampaign/), [TrackMeNot](http://trackmenot.io/) or [Decentraleyes](https://decentraleyes.org/) - *Tracking Protection*
+* **[ClearURLs](https://github.com/ClearURLs/Addon/releases)** / [2](https://gitlab.com/KevinRoebert/ClearUrls), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - *Removes tracking elements from URLs*
+* **[LocalCDN](https://www.localcdn.org/)**, [WhatCampaign](https://addons.mozilla.org/en-US/firefox/addon/whatcampaign/) or [TrackMeNot](http://trackmenot.io/) - *Tracking Protection*
+* [File Guard](https://mybrowseraddon.com/file-encryptor.html) - *File Encryption / Decryption*
 * [Trace](https://absolutedouble.co.uk/trace/) - *Privacy Toolkit* 
 * [Site Bleacher](https://github.com/wooque/site-bleacher) - *Auto remove cookies, local storages, IndexedDBs, service workers, cache storages, filesystems & webSQLs*
 * [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - *Redirects Twitter, YouTube, Instagram & Google Maps to alt interfaces*
 * [Invidition](https://codeberg.org/Booteille/Invidition) - *Redirect YouTube / Twitter requests to their alt interfaces*
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - *Redirects all YouTube links to Invidous* 
+* [Privacy Badger](https://privacybadger.org/) or [Privacy Possum](https://github.com/cowlicks/privacypossum) - *Blocks invisible trackers*
 * [Anti-Fp](https://www.cydecplatform.com/antifp.html) - *Disrupt Fingerprint Targeting*
 * [CSS Exfil Protection](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester) - *Stops CSS data exfiltration attacks*
 * [CanvasBlocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_canvasblocker) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - *Prevent Canvas Fingerprinting*
 * [First Party Isolation](https://github.com/mozfreddyb/webext-firstpartyisolation) - *Like blocking Third-party cookies, but more exhaustively*
 * [Location Guard](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_location_guard) or [Manual Geolocation](https://chrome.google.com/webstore/detail/manual-geolocation/jpiefjlgcjmciajdcinaejedejjfjgki) - *Hide Browsers Geolocation*
 * [Language Switch](https://addons.mozilla.org/en-US/firefox/addon/languageswitch/) - *Change Language Identifier*
+* [Spoof Timezone](https://add0n.com/spoof-timezone.html) - *Hide Real Timezone*
 * [Cloud Firewall](https://addons.mozilla.org/en-GB/firefox/addon/cloud-firewall/) - *Block Major Cloud Services*
 * [UglyEmail](https://uglyemail.com/) or [PixelBlock](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem/) - *Block Email Trackers* 
 * [Chameleon](https://github.com/sereneblue/chameleon), [UA Switcher & Manager](https://add0n.com/useragent-switcher.html) or [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) - *User-Agent Spoofer*

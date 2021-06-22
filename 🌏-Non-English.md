@@ -777,6 +777,7 @@
 
 * [РосКомСвобода](https://t.me/roskomsvoboda_discuss) - *Piracy Discussion Telegram*
 * [DXP](https://dxp.ru/) - *Torrent / Subtitles*
+* [TLauncher Legacy](https://tlaun.ch/) - *Minecraft Client / Cracked Minecraft*
 
 ## ▷ Downloading 
 

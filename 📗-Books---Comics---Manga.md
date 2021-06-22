@@ -348,7 +348,7 @@
 * [SimplyScripts](https://www.simplyscripts.com/) or [Scripts.com](https://scripts.com/) - *Movie / TV Scripts* 
 * [Kialo]( https://www.kialo.com/) - *Popular Debates / Discussion* 
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
-* [NSFW Reading Sites](https://saidit.net/s/freemediafuckyeah/wiki/index#wiki_nsfw_images_.2F_reading)
+* [NSFW Reading Sites](https://saidit.net/s/freemediafuckyeah/wiki/index#wiki_nsfw_images_.2F_reading) - *18+ / Account Required* 
 
 ***
 
@@ -890,7 +890,7 @@
 * [PocketBook Reader](https://play.google.com/store/apps/details?id=com.obreey.reader) - *Manager / Reader / Android*
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - *Manager / Reader / Android*
 * [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) - *PDF Reader / PC*
-* [Evince](https://wiki.gnome.org/Apps/Evince) - *PDF / DjVu Reade / Linux*
+* [Evince](https://wiki.gnome.org/Apps/Evince) - *PDF / DjVu Reader / Linux*
 * [qPDFview](https://launchpad.net/qpdfview) - *PDF Reader / PC*
 * [mupdf](https://mupdf.com/) - *PDF Reader / PC*
 * [XODO](https://www.xodo.com/) - *PDF Reader / PC / Android / iOS*
@@ -905,6 +905,7 @@
 * [All My Books](https://www.bolidesoft.com/allmybooks.html) - *Book Catalog* 
 * [Raven Reader](https://ravenreader.app/) - *Article Reader / Manager* 
 * [Cubari](https://cubari.moe/) - *Image Proxy / Reader*
+* [Reader View](https://add0n.com/chrome-reader-view.html), [EpubPress](https://epub.press/), [Reader View](https://mybrowseraddon.com/reader-view.html) or [2read](https://2read.net/) - *Open Pages in Reader View*
 
 ***
 

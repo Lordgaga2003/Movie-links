@@ -342,7 +342,7 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * **[Stremio](https://www.stremio.com/)** - *Torrent Streaming / [Addons](https://redd.it/ahd6gk) / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * **[CloudStream2](https://github.com/LagradOst/CloudStream-2)** - *Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM)*
 * **[CinemaHD](https://cinemaapk.com/)** - *Movies / TV / Anime / Chromecast*
-* **[Noyox](https://play.google.com/store/apps/details?id=com.vid.vidseed)** - *Movies / TV*
+* **[Noyox](https://play.google.com/store/apps/details?id=com.vid.vidseed)** - *Movies / TV / Code: 777*
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - *Ad Free YouTube on Android*
 * **[Cinehub](https://www.cinehub.app/)** or [Cinehub.to](https://www.cinehub.to/) - *Movies / TV / Chromecast /* **Currently Down :(**
 * [CucoTV](https://cucotv.github.io/) - *Movies / TV* 

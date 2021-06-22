@@ -298,7 +298,8 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 ## ▷ Video Tools
 
 * **[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [VLC](https://www.videolan.org/), [MPC-HC](https://mpc-hc.org/), [MPC-BE](https://www.videohelp.com/software/MPC-BE), [Pot Player](http://potplayer.daum.net/) or [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/) - *Video Players / [Codecs](http://www.codecguide.com/download_kl.htm)*
-* MPV Tools - [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [Sub Navigation](https://github.com/perogiue/mpv-scripts/releases/) / [SponsorBlock](https://github.com/po5/mpv_sponsorblock)
+* Video Player Tools - [MPV Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [MPV Sub Navigation](https://github.com/perogiue/mpv-scripts/releases/) / [MPV SponsorBlock](https://github.com/po5/mpv_sponsorblock) / [VLC Browser Control](Remote VLC Player 
+https://mybrowseraddon.com/remote-vlc-player.html) / [VLC Sub Downloader](https://github.com/exebetche/vlsub)
 * **[Media Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - *Servers to Host / Play Media* 
 * **[Video Stream Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_stream_sync)** - *Video Streaming Sync / Watch Parties*
 * **[Video Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_editors)** - *Free Video Editing Software*
@@ -424,8 +425,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Theremin](https://femurdesign.com/theremin/) - *Online Synth / Theremin* 
 * [Web Synth V2](http://aikelab.net/websynthv2/) or [TANGUY](http://tanguysynth.com/) - *Online Synthesizer*
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - *Pop Song Sample Mixer*
-* [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Voca.ro](https://voca.ro/) - *Online Audio Recorder*  
-* [Clyp](https://clyp.it/) - *Record / Share Audio Clips*
+* [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Voca.ro](https://voca.ro/) or [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Online Audio Recorder*  
 * [ShortApp](https://shortsapp.com/) - *Cut Video / Audio into Shorts* 
 * [lalal.ai](https://www.lalal.ai/) - *Split Vocal and Instrumental Tracks from music* 
 * [Get Song BPM](https://getsongbpm.com/) - *Song Tempo Database*
@@ -473,6 +473,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 ## ▷ News Tools
 
 * **[News Feed Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_news_feed_aggregators)** - *Multiple News Site Feeds*
+* [RavenReader](https://ravenreader.app/) - *News Article Manager*
 * [/m/news](https://www.reddit.com/user/nbatman/m/news/) - *News Multireddit*
 * [ABYZNews](http://www.abyznewslinks.com/), [AllYouCanRead](https://www.allyoucanread.com/) or [OnlineNewspapers](http://www.onlinenewspapers.com/index.shtml) - *Worldwide News Sites Index* 
 * [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
@@ -792,7 +793,7 @@ General Reading Sites*
 
 ## ▷ Discord Tools
 
-* **WARNING** - Chat Archivers, Deleters, Mods & 3rd Party Clients are against Discords TOS, so use at your own risk. 
+* **WARNING** - Misuse of Chat Archivers, Deleters, Mods & 3rd Party Clients is against Discords TOS, so use them at your own risk. 
 * [Disboard](https://disboard.org/), [DiscordServers](https://discordservers.com/), [Discord Street](https://discord.st/), [DiscordServers.me](https://discordservers.me/) or [Discord Me](https://discord.me/) - *Discover Discord Servers* 
 * [DiscordTools](https://discordtools.io/) - *Discord Tools*
 * [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - *Use Discord Emoji's without Nitro* 
@@ -843,6 +844,7 @@ General Reading Sites*
 * [MessageLogger V2](https://1lighty.github.io/BetterDiscordStuff/?plugin=MessageLoggerV2) - *Plugin for Better Discord to view deleted messages and the old edits on edited messages* 
 * [Top.gg](https://top.gg/) or [Top Bots](https://s.advaith.io/topbots) - *Discord Bots Discovery* 
 * [Discord Ban Appeals](https://github.com/patricktechn/discord-ban-appeals) - *Discord Ban Appeal Form*
+* [Discord Auto Upload](https://github.com/tardisx/discord-auto-upload) - *Auto Upload Screenshots*
 * [DSC.BIO](https://dsc.bio/) - *Make Awesome Custom Discord Bios* 
 * [Dyno](https://dyno.gg/) - *Change Discord Discriminator w/o Nitro / [How-To](https://i.imgur.com/lHRD42c.png)* 
 * [Discord.ID](https://discord.id/) - *Lookup a Discord User or Bot ID* 
@@ -913,8 +915,9 @@ General Reading Sites*
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - *Shows YouTube File Sizes* 
 * [h264ify](https://github.com/erkserkserks/h264ify) - *Use H.264 on YouTube* 
 * [StreamSniper](https://www.streamsniper.tv/) - *HTML5 Twitch / YouTube Stream Player* 
-* [YouTube Unlimited](https://gitlab.com/Shub_/youtube-unlimited) or [YoutubeNonStop](https://github.com/lawfx/YoutubeNonStop) - *Removes the youtube : "Video Paused, Continue Watching?"* 
+* [YouTube Unlimited](https://gitlab.com/Shub_/youtube-unlimited) or [YoutubeNonStop](https://github.com/lawfx/YoutubeNonStop) - *Removes the YouTube: "Video Paused, Continue Watching?"* 
 * [Video Resumer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_resumer) - *Automatically resumes YouTube videos from where you played them last*
+* [Equalizer for YouTube](https://mybrowseraddon.com/equalizer-for-youtube.html) - *Audio Equalizer*
 * [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - *Remove YouTube Thumbnails / Title Capitalization*
 * [RegretsReporter](https://foundation.mozilla.org/en/campaigns/regrets-reporter/) - *Report Regrettable YouTube Recommendations* 
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - *YouTube Live Stream Translator* 
@@ -1363,6 +1366,7 @@ General Reading Sites*
 * [Minehut](https://www.minehut.com/), [ScalaCube](https://scalacube.com/) or [Aternos](https://aternos.org/) - *Make Free Minecraft Servers*
 * [GeyserMC](https://geysermc.org/) - *Join Minecraft Java Servers with Bedrock Client / [Consoles](https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles)* 
 * [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization:zap:.283181/) - *Paper / Spigot Server Optimization Guide / Use Paper*
+* [mcsrvstat](https://mcsrvstat.us/) - *Server Status Updates*
 * [Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers) 
 * [Salwyrr Launcher](https://www.salwyrr.com/) or [MultiMC5-Cracked](https://github.com/AfoninZ/MultiMC5-Cracked) - *Free Premium Minecraft Launchers*
 * [Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods) - *Mod Minecraft* 

@@ -22,6 +22,7 @@
 * [Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/) or [Link Clump](https://github.com/benblack86/linkclump) - *Select & Open Multiple Links at Once* 
 * [Glitter Drag](https://github.com/harytfw/glitterdrag) - *Adds Actions on Dragging* 
 * [ScrollAnywhere](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scroll_anywhere) - *Improves Scrolling Functionality*
+* [Scroll to Top](https://mybrowseraddon.com/scroll-to-top.html) - *Scroll to Top Button on all Sites*
 * [Customizable New Tab Page](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page) - *Customize New Tab Page*
 * [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - *Quickly Switch between Current & Recently Closed Tabs* 
 * [Always Right](https://github.com/autonome/Always-Right/) - *Always Open New Tabs to the Right* 
@@ -41,14 +42,20 @@
 * [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - *Magnify Webpages*
 * [Zoom WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_zoom_we) or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - *Improves Zoom Functionality*
 * [Print Edit WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_print_edit_we) - *Edit Pages to Make them Printable* 
+* [Grammarly](https://www.grammarly.com/) - *Grammar Checker / [Free Premium](https://redd.it/kfncju)*
 * [Mouse Gestures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mouse_gestures) - *Control Browser via Gestures*
 * [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/), [2](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - *Merges a Sites "Next" Pages*
 * [Video Downloader](https://provd.net/), [DownThemAll](https://www.downthemall.org/) or [Download Helper](http://www.downloadhelper.net/) - *Download Manager*
-* [Grammarly](https://www.grammarly.com/) - *Grammar Checker / [Free Premium](https://redd.it/kfncju)*
+* [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - *Play Videos in Theater Mode*
+* [Screen Recorder](https://mybrowseraddon.com/screen-recorder.html) - *Screen Recorder*
+* [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Audio Recorder*
+* [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - *Easily Mute All Tabs*
 * [Form History Control](https://stephanmahieu.github.io/fhc-home/) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - *Formfiller Manager* 
 * [History Master](https://github.com/jiacai2050/history-master) - *Vizualize & Sync Browser History* 
 * [xBrowserSync](https://www.xbrowsersync.org/) - *Browser Syncing* 
 * [Midnight Lizard](https://midnight-lizard.org/), [Stylish](https://userstyles.org/), [Stylus](https://add0n.com/stylus.html) or [UserStyles](https://userstyles.world/) - *Custom Website Color Schemes*  
+* [Night Mode](https://mybrowseraddon.com/night-mode.html) - *Adapts Display Color to Time of Day*
+* [Screen Color Temperature](https://mybrowseraddon.com/screen-color-temperature.html) - *Adjust Screen Color Temperature*
 * [Font Changer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_webfont_changer) - *WebFont Changer* 
 * [ColorFish](https://ui.vision/colorfish) - *Color Picker* 
 * [Context Search](https://github.com/odebroqueville/contextSearch), [2](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - *Search Selected Text / Multi Site Search*
@@ -65,9 +72,8 @@
 * [Link Alert](https://www.cwesson.net/projects/LinkAlert/) - *Link Type Indicator* 
 * [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) - *Remove All Cookies* 
 * [Cookie Manager](https://github.com/laktak/vanilla-chrome), [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - *Cookie Manager* 
-* [SoundFixer](https://github.com/myfreeweb/soundfixer) - *Fixes Sites that are too Quiet*
 * [Feedbro](https://nodetics.com/feedbro/), [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS) or [Fraidycat](https://fraidyc.at/) - *RSS Feed Reader*
-* [Reader View](https://add0n.com/chrome-reader-view.html), [EpubPress](https://epub.press/) or [2read](https://2read.net/) - *Make Pages More Readable*
+* [Reader View](https://add0n.com/chrome-reader-view.html), [EpubPress](https://epub.press/), [Reader View](https://mybrowseraddon.com/reader-view.html) or [2read](https://2read.net/) - *Open Pages in Reader View*
 * [Google Unblocked](https://github.com/Ibit-to/google-unlocked) - *Uncensored Google Search*
 * [Google search link fix](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_search_link_fix) - *Prevent Search Pages from Modifying Result Links* 
 * [Link Gopher](https://sites.google.com/site/linkgopher/) or [CopyLinks++](https://github.com/MichelePezza/CopyLinksplusplus) - *Extract Links from Webpages* 
@@ -75,6 +81,8 @@
 * [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - *Page Change Detection / Notification* 
 * [SuperStop](https://github.com/gavinsharp/SuperStop/) - *Stop Active Animations, Videos, JS, WebSocket & XHR*
 * [Nuke Anything](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nuke_anything) - *Block/Hide Anything on a Page*  
+* [NSFW-Filter](https://github.com/nsfw-filter/nsfw-filter) - *Block NSFW Images*
+* [Block Image Video](https://mybrowseraddon.com/block-image-video.html) - *Block All Images & Videos*
 * [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - *Disconnect Browser from the Internet*
 * [Wayback Machine](https://github.com/internetarchive/wayback-machine-webextension), [Web Archives](https://github.com/dessant/web-archives) or [Archiveror](https://github.com/rahiel/archiveror) - *View Archived / Cached Webpages*
 * [WaybackEverywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox) - *Auto Load Archived Versions of Dead Pages*
@@ -94,9 +102,7 @@
 * [Gmail Labels as Tabs](https://tuladhar.github.io/gmail-labels-as-tabs/) - *Organize Labels as Gmail Tabs* 
 * [Native HLS](https://github.com/Palethorn/native-adaptive-streaming/) - *Allows HLS & MPEG-Dash native playback* 
 * [The Stream Detector](https://github.com/rowrawer/stream-detector/) - *Detects Playlists & Subtitles used by HLS/DASH/HDS/MSS Streams* 
-* [PronounDB](https://pronoundb.org/) - *Pronoun Extension*
 * [Happydia](https://github.com/Ademking/happydia) - *Clean Sad / Annoying Media from Social Sites* 
-* [NSFW-Filter](https://github.com/nsfw-filter/nsfw-filter) - *Block NSFW Images*
 * [Session Alive](https://github.com/arunelias/session-alive/) - *Keep Website Sessions Alive* 
 * [Caffeine](https://add0n.com/caffeine.html) - *Prevent OS From Sleeping* 
 * [Broken Link Checker](https://add0n.com/broken-link-checker.html) - *Checks Page for Broken Links* 
@@ -147,6 +153,7 @@
 * [Profile Switcher](https://addons.mozilla.org/en-US/firefox/addon/profile-switcher/) - *Profile Manager* 
 * [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) - *Separate Cookies by Profile* 
 * [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - *Switch and Override User Agent Header on Firefox Easily*
+* [SoundFixer](https://github.com/myfreeweb/soundfixer) - *Fixes Sites that are too Quiet*
 * [Mute Sites By Default](https://addons.mozilla.org/en-US/firefox/addon/mute-sites-by-default/) - *Mute All Sites by Default* 
 * [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/) - *RSS Feed Reader*
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - *Restores Firefox RSS Features*

@@ -427,7 +427,7 @@
 * [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - *Regex Based Crossword Puzzle*
 * [How to Download and Play Flash Games](https://i.imgur.com/T6huIGF.png), [2](https://www.wikihow.com/Download-a-Flash-Game)
 * To Play old Shockwave Games Install [Adobe Shockwave](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html) & [K-Meleon Browser](http://kmeleonbrowser.org/)
-* [Educational Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_educational_games)
+* [Educational Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_games)
 
 ***
 

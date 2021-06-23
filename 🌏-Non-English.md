@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/dlxPi3R.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/hKtn66r.png)** - *For mobile users*
 
 ***
 ***
@@ -1082,6 +1082,10 @@
 ## ▷ Streaming
 
 * [Động Phim](https://dongphym.net/) - *Movies / TV* 
+
+## ▷ Reading
+
+* [ShareScript ](https://sharescript.net/) - *Script / Code Index*
 
 ***
 

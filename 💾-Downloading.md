@@ -117,7 +117,6 @@
 * [Napalm FTP](https://www.searchftps.net/)
 * [filesearch.link](http://filesearch.link/)
 * [Linktury](https://www.linktury.com/) 
-* [Mega.nz](https://www.meganzsearch.com/) - *Search Mega* 
 * [MegaDownload](http://megadownload.net/) - *Search Mega* 
 * [Megasearch](http://megasearch.co/) - *Search Mega / Use Adblocker* 
 * [Hitfilesearch](https://www.hitfilesearch.com/) - *Search HitFile*

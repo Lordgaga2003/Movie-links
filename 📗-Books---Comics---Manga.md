@@ -425,7 +425,6 @@
 * [EngBookPDF](https://www.engbookspdf.com/) - *Engineering*
 * [EasyEngineering](https://easyengineering.net/) - *Engineering*
 * [EngineeringBooksPDF](https://www.engineeringbookspdf.com/) - *Engineering*
-* [EngineeringEBookspdf](https://t.me/EngineeringEBookspdf) - *Engineering*
 * [EngineeringEBooks_civil](https://t.me/EngineeringEBooks_civil) - *Civil Engineering*
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - *Electronics* 
 * [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - *Philosophy* 
@@ -436,6 +435,7 @@
 * [PickPDF](https://pickpdfs.com/) - *Medical* 
 * [MedicalStudyZone](https://medicalstudyzone.com/) - *Medical* 
 * [Lee B. Drive](https://drive.google.com/drive/u/0/mobile/folders/183tf8PmQbwgVC7HrxOZ5WQPulVd-Uomi) - *Books / Black History / Educational*
+* [Butterick’s Practical Typography](https://practicaltypography.com/) - *Typography Guide Book*
 * [Cheatography](https://cheatography.com/) - *Educational Cheat Sheets* 
 * [Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/) - *Online Learning Collections* 
 * [masterWiki](https://masterwiki.how/) - *MasterClass Classes Republished as wikiHow Articles* 

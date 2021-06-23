@@ -228,7 +228,6 @@
 * [WAREZZ](https://piracy.now.sh/), [2](https://warezz.now.sh/), [3](https://github.com/xuac/warezz) - *Piracy Index*
 * [Neverland](http://www.neverland.ws/) - *Piracy Index* 
 * [pilssken](https://pilssken.neocities.org/warez/) - *Piracy Index* 
-* [Great Pirate List](https://ufile.io/0ln9jrmg) - *Piracy Index*
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - *Software / Tool Index*
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software Index* 
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index*
@@ -244,6 +243,8 @@
 * [Mostly Free](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - *Site / Tool Index*
 * [iBiblio](https://www.ibiblio.org/) - *Site / Tool Index* 
 * [Acme](http://www.acme.com/) - *Site / Tool Index* 
+* [Free Dev stuff](https://freestuff.dev/) - *List of free tools, stuff, & services for developers*
+* [ReverseEagle](https://developers.reverseeagle.org/) - *Privacy alternatives to software for developers*
 * [Simple Tools](https://simpletools.info/doku.php) - *Simple Programs Index* 
 * [num's link list](https://soda.privatevoid.net/num/lists/web) - *Site Index* 
 * [Internet Curated](https://internetcurated.com/) - *Directory Index*
@@ -480,7 +481,7 @@
 * [FutureTimeline](https://www.futuretimeline.net/) - *Timeline of future predictions* 
 * [House creep](https://www.housecreep.com/) - *Homes With A Curious or Criminal History* 
 * [16 Personalities](https://www.16personalities.com/) - *Personality Tests*
-* [Six Triangles](https://sixtriangles.github.io/) or [8 Values](https://8values.github.io/) - *Political Alignment Test*
+* [Six Triangles](https://sixtriangles.github.io/), [9 Axes](https://9axes.github.io/) or [8 Values](https://8values.github.io/) - *Political Alignment Test*
 * [Hypochondriapp](http://hypochondriapp.io/) - *Get a terrible diagnosis for your symptoms*
 * [Cube Rule](https://cuberule.com/) - *The Cube Rule of Food* 
 * [Death Date](http://deathdate.info/) - *Calculate your day of death* 
@@ -552,6 +553,7 @@
 * [aaaaaa.....](http://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/) - *Make URL's longer... ?*
 * [Vintage Ad Browser](http://www.vintageadbrowser.com/) - *100,000+ Vintage Advertisements* 
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - *Japanese Commercial Archive*
+* [IdiotProofWebsite](http://idiotproofwebsite.com/)
 * [MotherFuckingWebsite](http://motherfuckingwebsite.com/), [BetterMotherFuckingWebsite](http://bettermotherfuckingwebsite.com/), [EvenBetterMotherFuckingWebsite](https://evenbettermotherfucking.website/) or [TheBestMotherFuckingWebsite](https://thebestmotherfuckingwebsite.co/)
 
 ***
@@ -567,6 +569,7 @@
 * [Dafont Free](https://www.dafontfree.net/) 
 * [Font Squirrel](https://www.fontsquirrel.com/)
 * [1001 Free Fonts ](https://www.1001freefonts.com/)
+* [Velvetyne](https://velvetyne.fr/)
 * [Font Library](https://fontlibrary.org/) 
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/)
 * [Lost Type Co-op](http://losttype.com/)

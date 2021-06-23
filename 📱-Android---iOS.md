@@ -169,12 +169,10 @@ App Manager
 * **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - *Repositories Index*
 * **[APKMirror](https://www.apkmirror.com/)** - *Untouched*
 * **[ModdedCentral](https://t.me/ModdedCentral)** or [ModdedPrivate](https://t.me/ModdedPrivate) - *Modded / Telegram*
-* **[M.D. Super App Store](https://www.filelinked.com/)** - *Modded Streaming App Repo, use code "85810914" in file linked*
 * **[Android FOSS](https://github.com/offa/android-foss)**, **[Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md)**, **[/r/u_Jackie7610](https://redd.it/jhtvn4)** or **[Cool FOSS](https://albertomosconi.github.io/foss-apps/)** / [GitHub](https://github.com/albertomosconi/foss-apps) - *Free and Open Source Apps for Android*
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - *Add Direct DL Links to Google Play* 
 * [F-Droid](https://f-droid.org/), [2](https://rfc2822.gitlab.io/fdroid-firefox/fdroid/repo/) - *FOSS App Repository / [Desktop](https://github.com/mvdan/fdroidcl) / [Alt Client](https://github.com/kitsunyan/foxy-droid) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)* 
 * [F-Droid Repositories](https://t.me/fdroidrepos) - *List of F-Droid Repositories*
-* [FileLinked Codes](https://reviewvpn.com/best-filelinked-codes/), [2](https://iptvapks.com/filelinked-codes/) - *Use [FileLinked](https://www.filelinked.com/)* 
 * [IzzyOnDroid](https://android.izzysoft.de/applists.php) - *App Repository / [F-Droid](https://apt.izzysoft.de/fdroid/index.php)* 
 * [Haoict Repository](https://haoict.github.io/cydia/) - *App Repository*
 * [DivestOS](https://divestos.org/fdroid/unofficial/), [2](https://divestos.org/fdroid/official/) - *App Repository*
@@ -501,6 +499,7 @@ iOS
 * [Mematic](https://www.mematic.net/) - *Meme Creator* 
 * [Reface](https://reface.app/) - *Create Face Swap Videos* 
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
+* [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - *Control Android TV Box with iPhone*
 
 ***
 
@@ -509,7 +508,6 @@ iOS
 * **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - *Open Source iOS App Index* 
 * [TeamOS](https://www.teamos-hkrg.com/) - *Forum* 
 * [AppDB](https://appdb.to/) - *iOS Apps* 
-* [TestFlight](https://testflight.apple.com/join/MLL0nUqr), [2](https://testflight.apple.com/join/C5iIPelB) - *Test iOS Apps*
 * [iPALibrary](https://gitlab.com/Shub_/ipa-library/-/tree/master/Library) - *Hacked/Tweaked iOS App Library* 
 * [Streamiza](https://t.me/streamiza) - *Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)*
 * [iPhoneCake](https://www.iphonecake.com/) - *Cracked Apps*

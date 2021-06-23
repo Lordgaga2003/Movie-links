@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/QxSWdJ1.png)** - *For mobile users*
+**[Table of Contents](https://i.ibb.co/txWkGNT/Screenshot-2021-06-23-at-03-34-05-edu-FREEMEDIAHECKYEAH.png)** - *For mobile users*
 
 ***
 ***
@@ -13,7 +13,9 @@
 
 ***
 
-# ► Educational Streaming
+# ► Streaming
+
+## ▷ Courses
 
 * **[Coursera](https://www.coursera.org/)** - *Courses*
 * **[edX](https://www.edx.org/)** - *Courses*
@@ -34,19 +36,34 @@
 * [DigitalGarage](https://learndigital.withgoogle.com/digitalgarage/courses) - *Courses* 
 * [Lagunita](https://online.stanford.edu/lagunita-learning-platform) - *Courses* 
 * [Hillsdale College](https://online.hillsdale.edu/) - *Courses* 
+* [LearnOutLoud](https://www.learnoutloud.com/) - *Documentaries / Courses*
 * [Class Central](https://www.classcentral.com/) - *Search for Courses*
 * [cs1000](https://cs1000.vercel.app/) - *Educational Video Playlists* 
+* UC Berkeley Webcast project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://lbry.tv/@UCBerkeley:d?) - *Video Lectures*
+* [Mathispower4u](http://www.mathispower4u.com/) - *Math Tutorials*
+* [PatrickJMT](http://patrickjmt.com/) - *Math Tutorials*
+* [SchoolYourself](http://schoolyourself.org/) - *Math Tutorials*
+* [mathhelp](https://www.mathhelp.com/) - *Math Tutorials*
+* [mathonline](http://mathonline.wikidot.com/) - *Math Tutorials*
+* [brighstorm](https://www.brightstorm.com/) - *Test Prep*
+* [O'Reilly](https://www.oreilly.com/) - *Tech / Programming / infinite free trial by clearing cookies / making new account*
+* [pad.ma](https://pad.ma/) - *Text-annotated Videos* 
+* [How to Become a Computer Science Engineer](https://laconicml.com/computer-science-engineer-mit-university/) - *Free Computer Science Lectures* 
 * [UdemyFreeCourses](https://udemyfreecourses.org/) - *Udemy Courses*
 * [TutsNode](https://tutsnode.net/) - *Udemy Courses*
 * /r/udemyfreebies - *Udemy Courses*
+* [Discounted-Udemy-Course-Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller) - *Automatically Enroll in Udemy Courses*
 * [Nocourses](https://nocourses.com/) - *Udemy Coupons / Courses* 
 * [Online Courses Tracker](https://comidoc.net/) - *Udemy Coupons / Courses*
 * [SmartyBro](https://smartybro.com/) - *Udemy Coupons / Courses* 
 * [Udemy Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons) - *Udemy Coupon Sites*
 * [UdemyEnrollEverywhere](https://github.com/keethesh/UdemyEnrollEverywhere) - *Auto-Grab Udemy Coupons*
 * [GUdemyBot](https://t.me/GUdemyBot) - *Udemy Coupon Bot* 
-* [Discounted-Udemy-Course-Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller) - *Automatically Enroll in Udemy Courses*
-* [How to Become a Computer Science Engineer](https://laconicml.com/computer-science-engineer-mit-university/) - *Free Computer Science Lectures* 
+
+***
+
+## ▷ Documentaries
+
 * [LearnOutLoud](https://www.learnoutloud.com/) - *Documentaries / Courses*
 * [Top Documentary Films](https://topdocumentaryfilms.com/) - *Documentaries*
 * [Ihavenotv](https://ihavenotv.com/) - *Documentaries*
@@ -59,19 +76,12 @@
 * [Films For Action](https://www.filmsforaction.org/) - *Documentaries* 
 * [Documentary Addict](https://documentaryaddict.com/) - *YouTube Documentaries*
 * /r/Documentaries 
-* UC Berkeley Webcast project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://lbry.tv/@UCBerkeley:d?) - *Video Lectures*
-* [Mathispower4u](http://www.mathispower4u.com/) - *Math Tutorials*
-* [PatrickJMT](http://patrickjmt.com/) - *Math Tutorials*
-* [SchoolYourself](http://schoolyourself.org/) - *Math Tutorials*
-* [mathhelp](https://www.mathhelp.com/) - *Math Tutorials*
-* [mathonline](http://mathonline.wikidot.com/) - *Math Tutorials*
-* [brighstorm](https://www.brightstorm.com/) - *Test Prep*
-* [O'Reilly](https://www.oreilly.com/) - *Tech / Programming / infinite free trial by clearing cookies / making new account*
-* [pad.ma](https://pad.ma/) - *Text-annotated video material* 
 
 ***
 
-# ► Educational Downloading
+# ► Downloading
+
+## ▷ Courses
 
 * **[freesoff](https://freesoff.com/)** - *Courses*
 * **[TutFlix](https://tutflix.com/)** - *Courses / Mega Host* 
@@ -119,8 +129,6 @@
 * [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
 * [Udemy - Cybersecurity Collection](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD) - *Cyber Security Courses*
 * [CHFI](https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg) - *Computer Hacking Forensic Courses*
-* [Documentary.su](https://documentary.su/) - *Documentaries / Forum*
-* [Docuwiki](https://docuwiki.net/) - *Documentaries / [Emule required](https://www.emule-project.net/)*
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - *Download videos from Coursera* 
 * [Skillshare DL Guide](https://i.imgur.com/AIENK0K.png) - *Download videos from Skillshare*
 * [skillsharefree](https://t.me/skillsharefree) - *Skillshare Courses / Telegram* 
@@ -128,9 +136,16 @@
 * [UdemyCourseGrabber](https://github.com/keethesh/UdemyCourseGrabber) - *Find Udemy Course Download Link*
 * [Udacimak](https://github.com/udacimak/udacimak) - *Udacity Nanodegree / Course Downloader*
 
+## ▷ Documentaries
+
+* [Documentary.su](https://documentary.su/) - *Documentaries / Forum*
+* [Docuwiki](https://docuwiki.net/) - *Documentaries / [Emule required](https://www.emule-project.net/)*
+
 ***
 
-# ► Educational Torrenting 
+# ► Torrenting 
+
+## ▷ Courses
 
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - *Get a VPN before torrenting*
 * [Course Club](https://courseclub.me/) - *Courses*
@@ -151,12 +166,15 @@
 * [Free All Course](https://freeallcourse.com/) - *Udemy Courses* 
 * [FreeCourseStock](http://freecoursestock.com/) - *Udemy Courses* 
 * [Pimp My Money](https://pimpmymoney.net/) - *Digital Marketing Courses* 
+
+## ▷ Documentaries
+
 * [Videoneat](https://www.videoneat.com/) - *Documentaries*
 * [MVGroup](https://forums.mvgroup.org/) - *Documentaries*
 
 ***
 
-# ► [Educational Reading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_sites)
+# ► [Reading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_sites)
 
 ***
 
@@ -177,6 +195,65 @@
 ***
 
 ## ▷ [Reference Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_reference_sites)
+
+***
+
+# ► Games
+
+* **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - *Educational Games Index*
+* **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
+* [Starfall](https://www.starfall.com/) - *Educational Games*
+* [Funbrain](https://www.funbrain.com/games) - *Educational Games*
+* [Cool Math Games](https://www.coolmathgames.com/) - *Math Games* 
+* [iCivics](https://www.icivics.org/games) - *Browser Games about U.S. Laws*
+
+***
+
+# ► Math
+
+* **[Awesome Math](https://github.com/rossant/awesome-math)** - *Math Resource Index*
+* **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - *List of interactive math sites*
+* **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - *Sites with Multiple Calculators* 
+* **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - *Advanced Calculator*
+* **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://photomath.app/en/), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) - *Math Problem Solver with Steps / [Symbolab Pro](https://pastebin.com/wA3QQkCj)*
+* [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - *Matrix Calculator*
+* [Weboasis Convert](https://weboas.is/convert/) - *Conversion Calculators*
+* [Unit Conversion](https://conversao.net/eng/) - *Online Unit Converter* 
+* [Desmos](https://www.desmos.com/) - *Graphing Calculator* 
+* [fxSolver](https://www.fxsolver.com/) - *Engineering & Scientific Calculator*
+* [Online Math Tools](https://onlinemathtools.com/) - *Multiple Math Tools*
+* [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
+* [IXL Learning](https://au.ixl.com/math/) - *Math Practice / Quizzes*
+* [Project Euler](https://projecteuler.net/) - *Math / Programming Problems*
+
+***
+
+# ► Space
+
+* /r/Space - *Space Subreddit*
+* [Space Dashboard](https://spacedashboard.com/) - *Space Live Stream Dashboard* 
+* [ISS Sim](https://iss-sim.spacex.com/) - *ISS Docking Simulator* 
+* [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - *Apollo in Real Time* 
+* [Moon.Nasa](https://moon.nasa.gov/) - *Explore the Moon* 
+* [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - *Interactive Index of Moons* 
+* [Helioviewer](https://www.helioviewer.org/) - *Sun Visualization Tool* 
+* [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - *Solar System Scale Model*
+* [3DSolarSystem](https://theskylive.com/3dsolarsystem) - *3D Solar System Simulator* 
+* [100,000 Stars](https://stars.chromeexperiments.com/) - *Interactive 3D Star Visualization*
+
+***
+
+# ► Virtual Tours
+
+* [Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/) - *Online Learning Collections / Tours* 
+* [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - *Natural History Museum Virtual Tour* 
+* [Chauvet Cave](https://archeologie.culture.fr/chauvet/en/explore-cave/) - *Chauvet-Pont-d'Arc Cave Virtual Tour* 
+* [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - *Spitfire Mark IX Cockpit Interactve Panorama* 
+* [Explore Pharaoh Ramesses VI Tomb](https://my.matterport.com/show/?m=NeiMEZa9d93) - *Pharaoh Ramesses VI Tomb Virtual Tour*
+
+***
+
+# ► [Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_learning_.2F_cheatsheets)
 
 ***
 
@@ -214,28 +291,18 @@
 
 ***
 
-# ► [Development Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_learning_.2F_cheatsheets)
-
-***
-
 # ► Educational Tools
 
 * **[The Free Learning List](https://freelearninglist.org/)** - *Free Educational Sites / Tool Index* 
-* **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - *Sites with Multiple Calculators* 
-* **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - *List of interactive math sites*
 * **[Awesome Research](https://github.com/emptymalei/awesome-research)** - *Research Tools Index* 
-* **[Cymath](https://www.cymath.com/)** or [Symbolab](https://www.symbolab.com/) - *Math Problem Solver with Steps / [Symbolab Pro](https://pastebin.com/wA3QQkCj)*
 * **[PhET](https://phet.colorado.edu/)** - *STEM / Interactive*
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Infinite trial by clearing cookies & making new account*
-* **[Microsoft Math Solver](https://math.microsoft.com/)** - *Math Solver*
 * **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
 * [Learn Anything](https://learn-anything.xyz/) - *Interactive Learning Map* 
 * [Explorabl.es](https://explorabl.es/) - *Interactive Learning / Lessons* 
-* [Awesome Math](https://github.com/rossant/awesome-math) - *Math Resource Index*
-* /r/educationalgifs  - *Learn With Gifs* 
+* /r/educationalgifs  - *Learn With GIFs* 
 * [KausalFlow](https://tools.kausalflow.com/) - *Academic Research Tools* 
 * [Zotero](https://www.zotero.org/) - *Research Organization Tool* 
-* [Katacoda](https://www.katacoda.com/) - *Interactive / Programming / Tech* 
 * [PaperRater](https://www.paperrater.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - *Grade School Educational Tools*
 * [Stublio](https://stublio.com/) - *Keep Track of what you're Studying* 
@@ -244,19 +311,10 @@
 * [Periodic Stats](https://periodicstats.com/), [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/) or [Ptable](https://ptable.com/) - *Interactive Periodic Table* 
 * [Images-Of-Elements](https://images-of-elements.com/) - *Periodic Table With Images*
 * [amrita olabs](https://amrita.olabs.edu.in/) - *Science Practicals / Theory / Animations / Simulations* 
-* [Online Math Tools](https://onlinemathtools.com/) - *Multiple Math Tools*
-* [fxSolver](https://www.fxsolver.com/), [PhotoMath](https://photomath.app/en/) or [Mathway](https://www.mathway.com/) - *Math Equation Solver / Help* 
 * [Get Unstuck](https://socratic.org/) - *Homework Answers / Help* 
-* [Quizlet](https://quizlet.com/) - *Quizes / Study Material*
+* [Quizlet](https://quizlet.com/) - *Quizzes / Study Material*
 * [OpenSyllabus](https://opensyllabus.org/) - *Syllabus* 
 * [Edpuzz Ninja](https://edpuzz.ninja/) - *Educational Puzzle Solving Tool* 
-* [IXL Learning](https://au.ixl.com/math/) - *Math Practice / Quizzes*
-* [SpeedCrunch](https://speedcrunch.org/) - *Advanced Calculator*
-* [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - *Algebra Calculator* 
-* [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - *Matrix Calculator*
-* [Weboasis Convert](https://weboas.is/convert/) - *Conversion Calculators*
-* [Unit Conversion](https://conversao.net/eng/) - *Online Unit Converter* 
-* [Desmos](https://www.desmos.com/) - *Graphing Calculator* 
 * [Slader](https://www.slader.com/) - *Homework Answers and Solutions*
 * [LabXchange](https://www.labxchange.org/) - *Science / Interactive*
 * [AskNature](https://asknature.org/) - *Natural Strategies / Solutions* 
@@ -268,22 +326,8 @@ https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.white
 * [Anki](https://apps.ankiweb.net/) - *Flash Card Tool*
 * [Wolfram Cloud](https://www.wolframcloud.com/) - *Computational intelligence*
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
-* [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - *Physics simulations / animations*
+* [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - *Physics Simulations / Animations*
 * [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - *Physics Tools* 
-* [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - *Solar System Scale Model*
-* [3DSolarSystem](https://theskylive.com/3dsolarsystem) - *3D Solar System Simulator* 
-* [100,000 Stars](https://stars.chromeexperiments.com/) - *Interactive 3D Star Visualization*
-* [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - *Interactive Index of Moons* 
-* [Moon.Nasa](https://moon.nasa.gov/) - *Explore the moon* 
-* [Helioviewer](https://www.helioviewer.org/) - *Sun Visualization Tool* 
-* [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - *Apollo in Real Time* 
-* [Space Dashboard](https://spacedashboard.com/) - *Space Live Stream Dashboard* 
-* [ISS Sim](https://iss-sim.spacex.com/) - *ISS Docking Simulator* 
-* [Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/) - *Online Learning Collections / Tours* 
-* [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - *Natural History Museum Virtual Tour* 
-* [Chauvet Cave](https://archeologie.culture.fr/chauvet/en/explore-cave/) - *Chauvet-Pont-d'Arc Cave Virtual Tour* 
-* [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - *Spitfire Mark IX Cockpit Interactve Panorama* 
-* [Explore Pharaoh Ramesses VI Tomb](https://my.matterport.com/show/?m=NeiMEZa9d93) - *Pharaoh Ramesses VI Tomb Virtual Tour*
 * [Theban Mapping Project](https://thebanmappingproject.com/) - *Valley of the Kings Map* 
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
 * [LizardPoint](https://lizardpoint.com/) - *Geography Quizzes* 
@@ -291,17 +335,15 @@ https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.white
 * [Seeing Theory](https://seeing-theory.brown.edu/) - *Interactive Probability / Statistics Lessons* 
 * [VirtualTrebuchet](http://virtualtrebuchet.com/) - *Trebuchet Simulator* 
 * [Traffic Simulation](https://traffic-simulation.de/) - *Traffic Flow Simulation* 
-* [NSTMF](https://lab.nstmf.org/) - *Gravity / Sound / Image Processing Edu tools* 
 * [Ray Optics Simulation](https://ricktu288.github.io/ray-optics/) - *Light Reflection / Refraction Simulator*
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) - *Mineralogy Index* 
 * [OneZoom](http://www.onezoom.org/) - *Tree of Life Explorer* 
 * [Wikispecies](https://species.wikimedia.org/) - *Species Directory* 
 * [Ocearch](https://www.ocearch.org/?list) - *Track Marine Life*
 * [The Deep Sea](https://neal.fun/deep-sea/) - *Interactive Deep Sea Life Guide* 
-* [Life Under the Ice](https://lifeundertheice.org/) - *View Microscopic Microbes*
+* [Life Under the Ice](https://lifeundertheice.org/) - *View Antarctic Microbes*
 * [Xeno-Canto](https://www.xeno-canto.org/) or [Birdnet](https://birdnet.cornell.edu/) - *Bird Sound Index / Identifier* 
 * [Algodoo](http://www.algodoo.com/) - *Interactive Physics Tool*
-* [EbookFoundation Interactive Programming Tuts](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md) - *Interactive Programming Tutorials* 
 * [nanoHUB](https://nanohub.org/) - *Nanotechnology Tool Index*
 * [Vocabulary.ugent](http://vocabulary.ugent.be/) - *Vocabulary Test* 
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/) - *Learn about Logical Fallacies* 
@@ -314,16 +356,7 @@ https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.white
 * [Old Computer Museum](http://oldcomputers.net/) - *Computer History / Info* 
 * [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Information Service* 
 * [Sideways Dictionary](https://sidewaysdictionary.com/) - *Common Computer Terms Explained Simply*
+* [SciGen](https://pdos.csail.mit.edu/archive/scigen/) - *CS Paper Generator*
 * [Future Vision BIE](https://hemanthrajhemu.github.io/) - *VTU Study Materials*
 * [P2PU](https://www.p2pu.org/) - *Join Learning Groups Using Free Courses*
-
-***
-
-# ► Educational Games
-
-* **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - *Educational Games Index*
-* **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
-* [Starfall](https://www.starfall.com/) - *Educational Games*
-* [Funbrain](https://www.funbrain.com/games) - *Educational Games*
-* [Cool Math Games](https://www.coolmathgames.com/) - *Math Games* 
-* [iCivics](https://www.icivics.org/games) - *Browser Games about U.S. Laws*
+* [RateMyProfessor](https://www.ratemyprofessors.com/) - *Professor Ratings*

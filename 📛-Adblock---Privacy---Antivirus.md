@@ -295,7 +295,7 @@
 * [nitter](https://nitter.net/) - *Twitter frontend*
 * [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/) or [teddit](https://teddit.net/), [2](https://codeberg.org/teddit/teddit) - *Reddit Frontends*
 * [Metalune](https://translate.metalune.xyz/) / [2](https://gtranslate.metalune.xyz/) - *Google Translate Frontend* 
-* [Cusdis](https://cusdis.com/) - *Privacy-Focused Blog / [GitHub](https://github.com/djyde/cusdis)*
+* [Cusdis](https://cusdis.com/) - *Privacy-Focused Comment System / [GitHub](https://github.com/djyde/cusdis)*
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - *Reddit / Twitter Auto Post Delete*
 * [Forget](https://forget.codl.fr/) - *Twitter / Mastodon Auto Post Delete*
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - *Delete Twitter Likes / Favorites* 

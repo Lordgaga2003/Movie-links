@@ -149,7 +149,7 @@
 
 ## ▷ Downloading Apps
 
-* **[Deemix](https://download.deemix.workers.dev/0:/pyweb/win64/)** - *FLAC / MP3 / /r/deemix / [Alpha DL's](https://t.me/deemixalpha) / [Telegram](https://t.me/deemixcommunity) / [ARL](https://archive.is/aQ3JA)*
+* **[Deemix](https://deemix.app/)** - *FLAC / MP3 / /r/deemix / [Telegram](https://t.me/deemixcommunity) / [ARL](https://archive.is/aQ3JA)*
 * **[Freezer](https://freezer.life/)** - *MP3 / FLAC* 
 * **[YouTube to MP3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - *Telegram audio download channels*
@@ -176,10 +176,13 @@
 
 * **[Audio Download Sites Search](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** + [Audio Download Sites 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w)
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "audio"*
+* **[RipRequests](https://reddit.com/r/riprequests)** - *FLAC / MP3 / Ripping Discussion / [Discord](https://discord.gg/y4MSkdvWYg)*
 * **[Free MP3 Download](https://free-mp3-download.net/)** - *Search / MP3 / FLAC*
+* **[Mudome](https://mudome.org/)** - *MP3 / FLAC*
 * [Plus Premieres](https://www.pluspremieres.ws/) - *iTunes M4A*
 * [iPlusFree](http://www7.iplusfree.org/) - *iTunes M4A* 
 * [iTDMusic](https://itdmusic.in/) - *iTunes M4A* 
+* [The Last Disaster](https://thelastdisaster.vip/), [2](https://thelastdisaster.org/) - *MP3 / FLAC*
 * [SongsLover](https://songslover.vip/) - *MP3*
 * [FreshRemix](http://freshremix.ru/) - *MP3*
 * [nodata](https://nodata.tv/) - *MP3*
@@ -192,21 +195,18 @@
 * [Music4NewGen](https://music4newgen.org/) - *MP3* 
 * [NetNaija](https://www.thenetnaija.com/) - *MP3* 
 * [DeadPulpit](https://www.deadpulpit.com/) - *MP3*
-* [The Last Disaster](https://thelastdisaster.vip/) - *MP3*
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - *MP3*
 * [74.136.132.35](http://74.136.132.35/MUSIC/ORIG/) - *MP3 / Drive*
 * [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3 / Drive* 
 * [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3 / Drive*
 * [Kyan's Music](https://drive.google.com/drive/folders/1J6VVfN-iD6DLEMIC1kLETcc5f8ENoJs0) - *MP3 / Drive*
 * [NewAlbum.club](https://newalbum.club/) - *MP3 Search*
-* [RipRequests](https://reddit.com/r/riprequests) - *FLAC / MP3 / Ripping Discussion / [Discord](https://discord.gg/y4MSkdvWYg)
 * [FLAC Attack](https://flacattack.net/) - *FLAC*
 * [24Flac.net](https://24flac.net/) - *FLAC*
 * [Flac Music](https://flachdmusic.org/) - *FLAC*
 * [Lossless-Music](https://lossless-music.org/) - *FLAC*
 * [Flaccat](https://flaccat.com/) - *FLAC*
 * [Losslessma](https://losslessma.net/) - *FLAC*
-* [Mudome](https://mudome.org/) - *MP3 / FLAC*
 * [ubdn](http://ubdn.me/) - *MP3 / FLAC* 
 * [IntMusic](https://intmusic.net/) - *MP3 / FLAC*  
 * [Gangster](https://gangster.su/) - *MP3 / FLAC*  

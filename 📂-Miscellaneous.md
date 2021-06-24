@@ -76,6 +76,7 @@
 * [Reader View](https://add0n.com/chrome-reader-view.html), [EpubPress](https://epub.press/), [Reader View](https://mybrowseraddon.com/reader-view.html) or [2read](https://2read.net/) - *Open Pages in Reader View*
 * [Google Unblocked](https://github.com/Ibit-to/google-unlocked) - *Uncensored Google Search*
 * [Google search link fix](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_search_link_fix) - *Prevent Search Pages from Modifying Result Links* 
+* [Restore Classic Google Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_restore_classic_google_icons)
 * [Link Gopher](https://sites.google.com/site/linkgopher/) or [CopyLinks++](https://github.com/MichelePezza/CopyLinksplusplus) - *Extract Links from Webpages* 
 * [Survol](https://survol.me/) - *Preview Links* 
 * [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - *Page Change Detection / Notification* 
@@ -106,7 +107,6 @@
 * [Session Alive](https://github.com/arunelias/session-alive/) - *Keep Website Sessions Alive* 
 * [Caffeine](https://add0n.com/caffeine.html) - *Prevent OS From Sleeping* 
 * [Broken Link Checker](https://add0n.com/broken-link-checker.html) - *Checks Page for Broken Links* 
-* [Restore Classic Google Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_restore_classic_google_icons)
 * [ViewImage](https://github.com/bijij/ViewImage) or [Make GIS Great Again](https://github.com/devunt/make-gis-great-again) - *Adds Back "View Image" Button to Google Image Search* 
 * [Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search) - *Reverse Image Search Extensions / Sites*
 * [NooBox](https://ainoob.com/en/project/noobox) - *Reverse Image Search, Extract Images, Screenshot & Search* 
@@ -308,6 +308,7 @@
 * [Weboas.is Forum](https://weboas.is/forum/) - *[Chat](https://webchat.is/)*
 * [FileSharingTalk](https://filesharingtalk.com/forum.php)
 * [Fileforums](https://fileforums.com/) - *Gaming / Emulator / Data Compression Discussion*
+* [X-Forum](https://xforum.tech/) - *Discussion / Piracy / Guides*
 * [Pirate Haven](https://pirate-haven.github.io/) - *Guides / Discussion / [Discord](https://discord.gg/JWqrdfN9Y8)*
 * [The MegaDrive](https://discord.gg/FQ6EaprXyr) - *Piracy / DataHoarding Discussion*
 * [/r/AnimePiracy Discord](https://discord.gg/piracy)
@@ -364,7 +365,7 @@
 * **[FMHY Curated Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - *Multireddits curated by FMHY memebers*
 * [StumblingOn](https://stumblingon.com/), [Stumbled](https://stumbled.cc/), [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/), [JumpStick](https://jumpstick.app/), [OpenBulkURL](https://openbulkurl.com/random/) or [random](https://random.new/) - *Takes you to a Random Site*
 * [NeverThink](https://neverthink.tv/) - *Watch Random Memes / Videos* 
-* [Neal.fun](https://neal.fun/) - *Sites / Games*
+* [Neal.fun](https://neal.fun/) or [JenniferDewalt](https://jenniferdewalt.com/) - *Sites / Games*
 * [Just For Fun](https://justforfun.io/) or [Andrew Marsh](http://andrewmarsh.com/software) - *Coding Project Showcase* 
 * [Trippy shit Mega List](https://triptoysfor.me/) - *Fun trippy stuff* 
 * [Bimble Space](https://in.bimble.space/toys) - *Multiple Toys / Art Tools* 
@@ -422,6 +423,7 @@
 * [Work at Dunder Mifflin](https://workatdundermifflin.com/) - *Listen to the Sounds of Dunder Mifflin* 
 * [Skynet](http://pierrepapierciseaux.net/.skynet/?lang=en) - *View Websites like they're from the 90's*
 * [Toonami Remastered](https://www.toonamiremastered.com/) - *Remastered Toonami Content* 
+* [Random Comic Generator 3.0](https://explosm.net/rcg) - *Explosm Random Comic Generator*
 * [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - *How well do you recognize hit songs?*
 * [Themes.moe](https://themes.moe/) - *Anime Opening / Theme Search*
 * [GeekPrank](https://geekprank.com/) - *Windows Pranks*
@@ -542,19 +544,20 @@
 * [SecretRickRoll](https://www.secretrickroll.com/) - *Custom Rick Roll Generator* 
 * [The Fed](https://thefed.app/) - *Central Banking Game* 
 * [Money printer go BRRR](https://brrr.money/) - *Print it, baby!* 
+* [info.cern](http://info.cern.ch/) - *First Website on the Internet* 
 * [Nested](http://orteil.dashnet.org/nested) - *Explore the Universe in a File System* 
 * [Pornolize](https://pornolize.com/) - *Make Inappropriate Versions of Webpages* 
-* [info.cern](http://info.cern.ch/) - *First Website on the Internet* 
 * [Checkboxes](http://www.jezzamon.com/checkboxes/index.html) - *Check Boxes* 
-* [isitnight](https://www.isitnight.com/) - *Determine if it is night* 
 * [Make-A-Wish Foundation](https://discord.gg/pZZ3STQZ9Y) - *100% Real Make-A-Wish*
 * [Is It A Cat?](https://isitacat.com/) - *Cat Image Detector* 
 * [The.Matrix-ASCII](http://takeovertheworld.org/matrix/) - *The Matrix Encoded in Text*
-* [aaaaaa.....](http://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/) - *Make URL's longer... ?*
 * [Vintage Ad Browser](http://www.vintageadbrowser.com/) - *100,000+ Vintage Advertisements* 
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - *Japanese Commercial Archive*
+* [isitnight](https://www.isitnight.com/) - *Determine if it is night* 
+* [Watching Grass Grow](https://www.watching-grass-grow.com/) - *Watch grass grow.*
 * [IdiotProofWebsite](http://idiotproofwebsite.com/)
 * [MotherFuckingWebsite](http://motherfuckingwebsite.com/), [BetterMotherFuckingWebsite](http://bettermotherfuckingwebsite.com/), [EvenBetterMotherFuckingWebsite](https://evenbettermotherfucking.website/) or [TheBestMotherFuckingWebsite](https://thebestmotherfuckingwebsite.co/)
+* [aaaaaa.....](http://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/) - *Make URL's longer... ?*
 
 ***
 

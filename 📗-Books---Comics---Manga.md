@@ -178,6 +178,7 @@
 * [Balwin of Library](https://ufdc.ufl.edu/baldwin/all/thumbs) 
 * [Read.gov](http://www.read.gov/books/) 
 * [Classic Literature](https://classic-literature.co.uk/) 
+* [Classics.mit](http://classics.mit.edu/index.html)
 * [uBooks](https://www.ubooks.pub/)
 * [sherlock-holm.es](https://sherlock-holm.es/) - *Complete Sherlock Holmes Canon*
 
@@ -193,6 +194,8 @@
 
 ## ▷ Cooking Sites
 
+* [Copy Me That](https://www.copymethat.com/) or [Spoonacular](https://spoonacular.com/food-api) - *Recipe Manager*
+* [Just the Recipe](https://www.justtherecipe.app/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - *Copy Ingredients & Directions from Recipe Pages* 
 * [cookEbooks](http://cookebooks.info/) - *Cookbooks*
 * [The-Eye Food](https://the-eye.eu/public/Books/Food/) - *Cookbooks* 
 * [YudhaCookbook](https://www.yudhacookbook.my.id/) - *Cookbooks*
@@ -203,6 +206,7 @@
 * [Epicurious](https://www.epicurious.com/) - *Recipe Search* 
 * [Recipe Search](https://recipe-search.typesense.org/) - *Recipe Search* 
 * [Recipe Retrieve](https://reciperetrieve.com/) - *Recipe Search*
+* [DotNom](http://www.dotnom.com/) - *Recipe Search*
 * [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - *Food Image to Recipe Tool* 
 * [TasteAtlas](https://www.tasteatlas.com/) - *Recipe Map* 
 * [Cooking YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cooking_youtube_channels)
@@ -234,17 +238,7 @@
 * [Chef2Chef](https://www.chef2chef.net/) - *Cooking Lessons* 
 * [TheCulinaryCook](https://theculinarycook.com/) - *Cooking Lessons* 
 * [Food Chemistry Course](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter), [2](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matte-2)
-* [EatThisMuch](https://www.eatthismuch.com/) - *Diet App / Tool* 
-* [Baking Calculators](https://bakingcalculators.com/) - *Measurement System Conversion Calculators*
-* [Spoonacular](https://spoonacular.com/food-api) - *Food API for Meal Planning / Recipes* 
-* [Just the Recipe](https://www.justtherecipe.app/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - *Grab Ingredients & Directions from Recipe Page* 
-* [is-vegan](https://github.com/hmontazeri/is-vegan) - *Vegan Food App* 
 * [auto-soylent](https://github.com/nick/auto-soylent) - *Automatic Soylent recipe generator* 
-* [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - *SF Food Truck App* 
-* [node-ubereats](https://github.com/jzarca01/node-ubereats) - *WIP API for Uber Eats* 
-* [node-deliveroo](https://github.com/jzarca01/node-deliveroo) - *API for Deliveroo* 
-* [PizzaDash](https://github.com/mynamebrody/pizzadash) - *Turn Amazon Dash Button into Pizza Delivery Button* 
-* [McBroken](https://mcbroken.com/) - *Check if McDonalds Ice Cream Machines are Broken*
 * [recipesseo](https://www.recipesseo.com/ingredients) - *Common Ingredients in Recipes Analyzer* 
 * [/m/food](https://www.reddit.com/user/Siryonkee/m/food/) - *Food Multireddit*
 * /r/Cooking - *Cooking Discussion / Tips*
@@ -252,7 +246,15 @@
 * /r/recipes - *Share recipes*
 * /r/AskCulinary - *Get Cooking Advice* 
 * /r/IndianFood - *Indian Food Recipes / Tips*
+* [EatThisMuch](https://www.eatthismuch.com/) - *Diet App / Tool* 
 * [Still Tasty](https://www.stilltasty.com/) or [EatByDate](http://www.eatbydate.com/) - *Shelf Life Guides* 
+* [Baking Calculators](https://bakingcalculators.com/) - *Measurement System Conversion Calculators*
+* [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - *SF Food Truck App* 
+* [node-ubereats](https://github.com/jzarca01/node-ubereats) - *WIP API for Uber Eats* 
+* [node-deliveroo](https://github.com/jzarca01/node-deliveroo) - *API for Deliveroo* 
+* [PizzaDash](https://github.com/mynamebrody/pizzadash) - *Turn Amazon Dash Button into Pizza Delivery Button* 
+* [is-vegan](https://github.com/hmontazeri/is-vegan) - *Vegan Food App* 
+* [McBroken](https://mcbroken.com/) - *Check if McDonalds Ice Cream Machines are Broken*
 * [HackTheMenu](http://hackthemenu.com/) - *Fast Food Secret Menu Items* 
 
 ***
@@ -344,7 +346,7 @@
 * [Retro Game Strategy Guides](https://archive.org/details/Tekken3PrimasOfficialStrategyGuide1998) - *700 Retro Game Strategy Guides* 
 * [Erowid](https://www.erowid.org/) - *Psychoactive Information Index*
 * [The-Eye Psychedelics](https://the-eye.eu/public/Psychedelics/Psychedelic%20Praxis%20Library%203.0/)
-* [The Trove](https://thetrove.is/) - *Books / Fantasy / RPG*
+* [The Trove](https://thetrove.is/) - *Books / Fantasy / RPG / [Wayback Machine](https://web.archive.org/web/20210614215400/https://thetrove.is/), [2](https://web.archive.org/web/20210430220147/https://thetrove.is/)*
 * [SimplyScripts](https://www.simplyscripts.com/) or [Scripts.com](https://scripts.com/) - *Movie / TV Scripts* 
 * [Kialo]( https://www.kialo.com/) - *Popular Debates / Discussion* 
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
@@ -385,6 +387,7 @@
 * [Educational Archive](http://s2.bitdownload.ir/)
 * [Heaven](https://drive.google.com/drive/folders/1hxe7Des-ooQpamAtjyR7CX-k_hyqlQ7Q)
 * [Uloz Archive](https://uloz.to/folder/8fpAg2rwEcYh/name/Large-Book-Collection) 
+* [Wikiversity](https://www.wikiversity.org/) - *Learning Resources, Guides, Quizzes, Tools & More*
 * [OpenEdition](https://www.openedition.org/) - *Educational Books / Journals* 
 * [Saylor Academy](https://learn.saylor.org/) - *Courses* 
 * [eBookers](https://t.me/ebookers) - *Telegram*  
@@ -427,6 +430,7 @@
 * [EngineeringBooksPDF](https://www.engineeringbookspdf.com/) - *Engineering*
 * [EngineeringEBooks_civil](https://t.me/EngineeringEBooks_civil) - *Civil Engineering*
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - *Electronics* 
+* [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - *Electronics Schematics & Simulations*
 * [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - *Philosophy* 
 * [APAOnline](https://www.apaonline.org/) - *Philosophy* 
 * [Philosophy Drive](https://mega.nz/folder/MQBRHBJA#L_on3h-XUrtbc719UaMygw) - *Philosophy* 
@@ -609,6 +613,7 @@
 * [NinjaWords](http://ninjawords.com/ ) - *Dictionary* 
 * [WikiDiff](https://wikidiff.com/) - *Difference Between Any Words* 
 * [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - *Search for Words Using Their Meanings* 
+* [Tip of my Tounge](https://chir.ag/projects/tip-of-my-tongue/) - *Find Words you Can't Remember*
 * [TheIdioms](https://www.theidioms.com/) - *Idiom Dictionary* 
 * [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/) - *Dictionary of Sorrows* 
 * [TagDef](https://tagdef.com/en/) - *Social Media Tag Dictionary* 
@@ -647,6 +652,7 @@
 * [The-Eye Comics](http://the-eye.eu/public/Comics/) - *Comic Archive* 
 * [GoComics](https://www.gocomics.com/) - *Comics Strips*
 * [Zahard](https://zahard.top/) - *WebToons*
+* [Random Comic Generator 3.0](https://explosm.net/rcg) - *Explosm Random Comic Generator*
 * [RichieRichcomicsfanclub](https://richierichcomicsfanclub.wordpress.com/) - *Richie Rich Comics* 
 * [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - *Tor required* 
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - *Comic Downloading App*
@@ -750,6 +756,7 @@
 * [Tensai Translations](https://tensaitranslations.wordpress.com/)  
 * [Web Novel](https://www.webnovel.com/) 
 * [jnovels](https://jnovels.com/) 
+* [Just Light Novels](https://www.justlightnovels.com/)
 * [Shin Translations](https://shintranslations.com/)
 * [Novel Updates](https://www.novelupdates.com/)  
 * [Henkan Epubs](https://henkanepubs.wordpress.com/) 

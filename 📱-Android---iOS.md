@@ -49,7 +49,8 @@
 * [SuperFreezZ](https://f-droid.org/en/packages/superfreeze.tool.android) - *Freeze App Background Activities* 
 * [SnoopSnitch](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/) - *Check Mobile Network Security* 
 * [FairEmail](https://play.google.com/store/apps/details?id=eu.faircode.email) - *Open Source, Privacy Oriented Email for Android / [f-Droid](https://f-droid.org/packages/eu.faircode.email/)*
-* [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - *System wide tor for android*
+* [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - *Tor Proxy*
+* [TorServices](https://f-droid.org/packages/org.torproject.torservices/) - *Tor App Proxy / [GitLab](https://gitlab.com/guardianproject/torservices)*
 * [Mull](https://divestos.org/fdroid/official?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467), [DuckDuckGo Privacy Browser](https://duckduckgo.com/app), [BiscuitBrowser](https://github.com/CookieJarApps/BiscuitBrowser), [SmartCookieWeb](https://smartcookieweb.com/), [2](https://github.com/CookieJarApps/SmartCookieWeb-preview) / [YTDL](https://github.com/CookieJarApps/VideoDL) or [Privacy Browser](https://f-droid.org/en/packages/com.stoutner.privacybrowser.standard/) - *Privacy-Focused Browser* 
 * [Barinsta](https://barinsta.austinhuang.me/en/latest/) - *Privacy Based Instagram Client*
 * [GrapheneOS](https://grapheneos.org/) - *Privacy and security focused mobile OS*
@@ -94,7 +95,8 @@
 * **[android-security-awesome](https://github.com/ashishb/android-security-awesome)** - *Android security resources* 
 * **[Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers) - *Normal Web Browsers*
 * [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi](https://kiwibrowser.com/) or [Lightning](https://github.com/anthonycr/Lightning-Browser) - *Android only Browsers* 
-* [Android eBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *eBook / Audiobook readers* 
+* [eBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *eBook / Audiobook Readers* 
+* [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - *Note Taking Apps*
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - *Debloat non-rooted Androids*
 * [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - *File / URL Virus Scanner* 
 * [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app ) - *Libgen Mobile App* 
@@ -116,7 +118,7 @@
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) - *Google Camera Ports / [Telegram](https://t.me/googlecameraport)*
 * [CutTheCord](https://gitdab.com/distok/cutthecord), [Treecord](https://github.com/Treecord/Treecord or [Aliucord](https://github.com/Aliucord/Aliucord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
-* [Nekogram X](https://github.com/NekoX-Dev/NekoX) - *Telegram Client*
+* [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - *Telegram Client*
 * [FluffyChat](https://fluffychat.im/en/) - *Matrix Client*
 * [SubwayTooter](https://github.com/tateisu/SubwayTooter) or [Tusky](https://tusky.app/) - *Mastodon Client* 
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - *Booru Client / [Telegram](https://t.me/Flexbooru/161)*
@@ -145,6 +147,7 @@ App Manager
 * [K-9 Mail](https://k9mail.app/) - *Email Client* 
 * [Mathway](https://play.google.com/store/apps/details?id=com.bagatrix.mathway.android&amp;) or [PhotoMath](https://photomath.app/en/) - *Math Equation Solver / Help* 
 * [Get Unstuck](https://socratic.org/) - *Homework Answers / Help* 
+* [Tasks](https://tasks.org/) - *To-Do List / Reminders*
 * [Dailly](https://github.com/hydroxion/dailly/) - *Create, manage & track your daily goals*
 * [unhabits](https://github.com/iSoron/uhabits) - *Bad Habit Tracker*
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack) - *Fitness Tracker*
@@ -529,12 +532,13 @@ iOS
 * [iPASpot](https://ipaspot.app/) - *Hacked / Tweaked iOS Apps* 
 * [iPABox](https://apps.ipabox.store/ipalibrary/index.html) - *Hacked / Tweaked iOS Apps* 
 * [iosninja](https://iosninja.io/ipa-library) - *App Sideload Files*
+* [TestFlight](https://testflight.apple.com/) - *Test Beta Apps / [Links](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/)*
 
 ***
 
 # ► iOS Audio
 
-* **[Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580)** - *Streaming*
+* **[Spotify++](https://ipaspot.app/categories/tweakedapps.html)** (JB Required) or **[Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580)** - *Streaming*
 * [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151) - *Streaming*
 * [Deezer](https://apps.apple.com/app/deezer/id292738169) - *Streaming*
 * [Musi](https://apps.apple.com/us/app/musi-simple-music-streaming/id591560124) - *Streaming* 

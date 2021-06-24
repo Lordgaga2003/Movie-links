@@ -686,6 +686,7 @@ General Reading Sites*
 * [Cyber](https://cyber.page/) - *Hash Search Engine* 
 * [Hunter.io](https://hunter.io/) - *Business Email Address Search*
 * [ImportYeti](https://www.importyeti.com/) - *Search U.S. Customs Shipment Records* 
+* [googler](https://github.com/jarun/googler) - *Search Google through your Terminal *
 * [Whoogle](https://benbusby.com/projects/whoogle-search/) - *Self-Hosted Search Engine*
 * [grep.app](https://grep.app/) - *Git Repo Search*
 * [useful-forks](https://useful-forks.github.io/) - *GitHub Fork Search* 

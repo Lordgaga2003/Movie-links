@@ -34,7 +34,6 @@
 * [ElAmigos](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
 * [Black Box Repack](http://www.blackboxrepack.com/) 
 * [Ova Games](http://www.ovagames.com/)
-* [GameTrex](https://gametrex.com/) 
 * [GamesDrive](https://gamesdrive.net/) - *[Discord](https://discord.gg/PKFAnduGtA)*
 * [Rihno Games](https://rihnogames.com/)
 * [SEHS Gamess](https://www.sehsgames.com/)
@@ -42,20 +41,17 @@
 * [Games Flix](https://gamesflix.net/) 
 * [LegendaryRepacks](http://legendaryrepacks.simplesite.com/) - *[Discord](https://discord.gg/RUSNHSk) / Adblock & Universal Bypass Required*
 * [TOPXGAME](https://topxgame.com/)
-* [GamesMountain](https://gamesmountain.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [LiGHT Repack Archive](https://drive.google.com/drive/folders/1q4lRUnwVhMQuakl1yM8OH1Je9_92LpXE)
 * [DLFox](https://www.dlfox.com/)
-* [ApunKaGames](https://www.apunkagames.biz/) 
 * [Dirty Games](https://www.dirtygames.xyz/)
 * [MineRocker Repacks](https://minerocker-repacksite.000webhostapp.com/) - *[Discord](https://discord.gg/T3kqPaPWvR)* 
 * [CrackHub](https://crackhub.site/) - *[Discord](https://discord.gg/T669D6weqt)*
-* [CyNiCAL Repacks](http://eatmyassplease.great-site.net/) - *[Discord](https://discord.gg/GjX9YeNWSe)*
-* [GOGUnlocked](https://gogunlocked.com/)
 * [SPiKY Repacks](https://discord.gg/ZHC6pffMz2) - *[GamesDrive Uploader](https://gamesdrive.co/)*
 * [Ali213](https://ali213.net/) - *May Require VPN / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [pc_game_down](https://t.me/pc_game_down) - *Telegram*
 * [g4u](https://g4u.to/) - *Password: 404*
+* [ApunKaGames](https://www.apunkagames.biz/) 
 * [AllGamesForYou](https://agfy.co/) - *[Discord](https://discord.gg/KHYuPABbnP)*
 * [FreeGamesHub](https://freegameshub.co/) - *[Discord](https://discord.gg/8YZTkmGPra) / AGFY Uploads*
 * [Steam Cracked](https://steamcracked.co/) - *[Discord](https://discord.gg/mFSrMKjbQg) / AGFY Uploads*
@@ -99,7 +95,6 @@
 * [RePack.info](https://repack.info/)
 * [Free GoG PC Games](https://freegogpcgames.com/)
 * [Xatab Repack](https://b.otxataba.net/), [2](https://x5.xatab-repack.com/)
-* [AllTorrents](https://alltorrents.co/)
 * [Tuttop](https://tuttop.com/) 
 * [Pleasuredome](http://www.pleasuredome.org.uk/)
 * [Dirty Games](https://www.dirtygames.xyz/)
@@ -107,6 +102,7 @@
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win/)
+* [AllTorrents](https://alltorrents.co/) - *They rec utorrent, but we'd avoid using it*
 * [stv](https://gitgud.io/Blank/stv) - *Encrypted Magnet Links*
 * [Ali213](https://ali213.net/) - *May Require VPN / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 
@@ -188,7 +184,6 @@
 * [Retro Gaming](https://mega.nz/folder/ZuRigCwA#5d_K9lRKUXdeaDMog84MGg) - *Roms / Drive / 3GB*
 * [90.230.15.92](http://90.230.15.92/) - *Roms* 
 * [Many Dumped Games](https://archive.org/details/@manydumpedgames) - *Roms*
-* [Alvro Tradmark Cat](http://alvro.trademark.cat/) - *Roms / ISOs*
 * [Nintendo Retro Mega-Pack](https://mega.nz/folder/AdRVCaBZ#bvaOPyNae8N24lquCNen4Q) - *Roms / Nintendo*
 * [PS1 Collection](https://archive.org/details/redumpSonyPlaystationAmericaGames02October2017), [2](https://archive.org/details/@john_mr_smith?sort=titleSorter) - *Roms / PS1*
 * [PS2 Collection](https://archive.org/details/RedumpSonyPS2NTSCU), [2](https://archive.org/details/RedumpSonyPS2NTSCUPart2), [3](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01), [4](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part2), [5](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part3), [6](https://archive.org/details/redumpSonyPlaystation2UsaGames2018Aug01Part4) - *Roms / PS2*
@@ -246,7 +241,9 @@
 * [Remakes Reloaded](http://www.reloaded.org/) - *Remakes of Classics*
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - *Roms / Arcade / Retro / [Discord](https://discord.gg/rH9wRpu2vh)* 
 * [Wad Archive](https://wad-archive.com/) - *83k WAD Files*
+* [Classic Games](https://classicdosgames.com/) - *Classic & Retro Game Archive*
 * [Old Game Finer](http://www.oldgamesfinder.com/?) - *Classic Game Search Engine*
+* [The Interactive Fiction Page](http://www.cs.cmu.edu/~wsr/IF/) - *Interactive Fiction Games*
 * [BuildGDX](https://m210.duke4.net/) or [RAZE](https://github.com/coelckers/Raze/) - *Oldschool Shooter Engine / [Discord](https://discord.gg/zZw2eq3n7G)* 
 * [OpenRA](https://openra.net/) - *Command & Conquer Recreation* 
 * [Classic Warcraft 3 Installers](https://www.removeddit.com/r/Piracy/comments/ewdlnd/for_anyone_looking_for_the_actual_classic/) 

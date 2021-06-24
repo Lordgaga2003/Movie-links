@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/P948AJz.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/UoFJUb2.png)** - *For mobile users*
 
 ***
 ***
@@ -102,6 +102,10 @@
 #### Alternative Twitch Player
 
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/twitch_5/), [Chrome](https://chrome.google.com/webstore/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf)
+
+#### Android Note Apps
+
+[xaviertobin](https://play.google.com/store/apps/details?id=com.xaviertobin.noted), [colornote](https://www.colornote.com/), [notion](https://www.notion.so/), [joplinapp](https://joplinapp.org/), [standardnotes](https://standardnotes.org/), [zoho](https://www.zoho.com/notebook/), [getupnote](https://play.google.com/store/apps/details?id=com.getupnote.android), [onenote](https://support.microsoft.com/en-us/office/microsoft-onenote-for-android-46b4b49d-2bef-4746-9c30-6abb5e20b688), [markor](https://fossdroid.com/a/markor.html)
 
 ***
 
@@ -295,7 +299,7 @@
 
 #### File Download Managers
 
-**[JDownloader](https://jdownloader.org/jdownloader2)** / [Dark Theme](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/), [IDM](https://filecr.com/?s=Internet+Download+Manager+%28IDM%29) / [Trial Reset](https://github.com/J2TEAM/idm-trial-reset), [XDM](https://github.com/subhra74/xdm), [2](https://subhra74.github.io/xdm/), [pyLoad](https://pyload.net/), [wfdownloader](https://www.wfdownloader.xyz/), [Mipony](https://www.mipony.net/), [EagleGet](http://www.eagleget.com/), [massivedl](https://github.com/dimkouv/massivedl), [Free Download Manager](https://www.freedownloadmanager.org/) / [2](https://sourceforge.net/projects/freedownload/), [uGet](https://ugetdm.com/) / [Extension](https://github.com/ugetdm/uget-integrator), [Persepolis](https://persepolisdm.github.io/), [DownZemAll](https://setvisible.github.io/DownZemAll/)
+**[JDownloader](https://jdownloader.org/jdownloader2)** / [Dark Theme](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/), [IDM](https://filecr.com/?s=Internet+Download+Manager+%28IDM%29) / [Trial Reset](https://github.com/J2TEAM/idm-trial-reset), [XDM](https://github.com/subhra74/xdm), [2](https://subhra74.github.io/xdm/), [pyLoad](https://pyload.net/), [wfdownloader](https://www.wfdownloader.xyz/), [Mipony](https://www.mipony.net/), [EagleGet](http://www.eagleget.com/), [massivedl](https://github.com/dimkouv/massivedl), [Free Download Manager](https://www.freedownloadmanager.org/) / [2](https://sourceforge.net/projects/freedownload/), [uGet](https://ugetdm.com/) / [Extension](https://github.com/ugetdm/uget-integrator), [Persepolis](https://persepolisdm.github.io/), [DownZemAll](https://setvisible.github.io/DownZemAll/), [Motrix](https://www.motrix.app/) / [GitHub](https://github.com/agalwood/Motrix)
 
 ***
 
@@ -303,7 +307,7 @@
 
 **File Syncing Programs**
 
-[lftp](https://lftp.tech/), [keybase](https://book.keybase.io/docs/files), [dropbox](https://www.dropbox.com/), [syncthing](https://syncthing.net/), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/), [WinSCP](https://winscp.net/eng/index.php), [freefilesync](https://freefilesync.org/)
+[dropbox](https://www.dropbox.com/), [file.pizza](https://file.pizza/), [lftp](https://lftp.tech/), [keybase](https://book.keybase.io/docs/files), [syncthing](https://syncthing.net/), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/), [WinSCP](https://winscp.net/eng/index.php), [freefilesync](https://freefilesync.org/)
 
 **Multi Host Uploaders**
 
@@ -582,7 +586,7 @@
 
 #### Live Webcams
 
-[EarthCam](https://www.earthcam.com/), [Explore](https://explore.org/), [Opentopia](http://www.opentopia.com/), [The Webcam Network](https://www.the-webcam-network.com/), [Insecam](https://www.insecam.org/), [OpenStreetCam](https://openstreetcam.org/map), [IP-24](https://ip-24.net/list.php), [WebcamGalore](https://www.webcamgalore.com/), [WebcamTaxi](https://www.webcamtaxi.com/en/), [WorldCams](https://worldcams.tv/), [WorldCam](https://worldcam.eu/), [BalticLiveCam](https://balticlivecam.com/), [SkylineWebcams](https://www.skylinewebcams.com/en.html), [CamStreaner](https://camstreamer.com/live), /r/controllablewebcams / [Discord](https://discord.gg/wdjtevG), [CamVista](https://www.camvista.com/), [Fisgonia](http://www.fisgonia.com/), [PicTimo](https://www.pictimo.com/), [WXYZWebcams](http://wxyzwebcams.com/), [Windy Webcams](https://www.windy.com/-Webcams/webcams), [Insecam](http://www.insecam.org/en/), [Airport Webcams](https://airportwebcams.net/) (Airports), [Africam](https://www.africam.com/wildlife/live-african-wildlife-safari-streams) (Wildlife), [TFLJamCams](https://www.tfljamcams.net/) (London Traffic)
+[EarthCam](https://www.earthcam.com/), [Explore](https://explore.org/), [Opentopia](http://www.opentopia.com/), [The Webcam Network](https://www.the-webcam-network.com/), [Insecam](https://www.insecam.org/), [OpenStreetCam](https://openstreetcam.org/map), [IP-24](https://ip-24.net/list.php), [WebcamGalore](https://www.webcamgalore.com/), [WebcamTaxi](https://www.webcamtaxi.com/en/), [WorldCams](https://worldcams.tv/), [WorldCam](https://worldcam.eu/), [BalticLiveCam](https://balticlivecam.com/), [SkylineWebcams](https://www.skylinewebcams.com/en.html), [CamStreaner](https://camstreamer.com/live), /r/controllablewebcams / [Discord](https://discord.gg/wdjtevG), [CamVista](https://www.camvista.com/), [Fisgonia](http://www.fisgonia.com/), [PicTimo](https://www.pictimo.com/), [WXYZWebcams](http://wxyzwebcams.com/), [explore.org](https://explore.org/livecams), [Windy Webcams](https://www.windy.com/-Webcams/webcams), [Insecam](http://www.insecam.org/en/), [Airport Webcams](https://airportwebcams.net/) (Airports), [Africam](https://www.africam.com/wildlife/live-african-wildlife-safari-streams) (Wildlife), [TFLJamCams](https://www.tfljamcams.net/) (London Traffic)
 
 ***
 
@@ -700,7 +704,7 @@ Add the following commands to a search to manually scrape each site.
 
 ####  Music Libraries / Players
 
-**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [Tauon Music Box](https://tauonmusicbox.rocks/) (linux), [Lollypop](https://wiki.gnome.org/Apps/Lollypop) (gnome), [GoneMAD](https://gonemadmusicplayer.blogspot.com/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/)
+**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [Tauon Music Box](https://tauonmusicbox.rocks/) (linux), [Lollypop](https://wiki.gnome.org/Apps/Lollypop) (gnome), [GoneMAD](https://gonemadmusicplayer.blogspot.com/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/), [Strawberry](https://www.strawberrymusicplayer.org/)
 
 ***
 
@@ -802,7 +806,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Pastebins
 
-**[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**, **[disroot](https://bin.disroot.org/)**, **[rentry](https://rentry.co/)**, [TextBin](https://textbin.xyz/), [ybin](https://ybin.me/), [PrivateBin](https://privatebin.info/directory/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [0bin](https://0bin.net/), [ZeroBin](http://www.zerobinqmdqd236y.onion/), [Hastebin](https://hastebin.com/), [paste2](https://paste2.org/), [anonpaste](https://anonpaste.org/), [bin.idrix](https://bin.idrix.fr/), [zerobin](https://zerobin.net/), [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.co/), [del.dog](https://del.dog/), [cryptobin](https://cryptobin.co/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/)
+**[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**, **[disroot](https://bin.disroot.org/)**, **[rentry](https://rentry.co/)**, [TextBin](https://textbin.xyz/), [ybin](https://ybin.me/), [PrivateBin](https://privatebin.info/directory/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [0bin](https://0bin.net/), [ZeroBin](http://www.zerobinqmdqd236y.onion/), [Hastebin](https://hastebin.com/), [paste2](https://paste2.org/), [anonpaste](https://anonpaste.org/), [bin.idrix](https://bin.idrix.fr/), [zerobin](https://zerobin.net/), [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.co/), [cryptobin](https://cryptobin.co/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/)
 
 ***
 
@@ -810,7 +814,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Sites**
 
-**[Sejda](https://www.sejda.com/)**, [iLovePDF](https://www.ilovepdf.com/), [Smallpdf](https://smallpdf.com/), [PDF24](https://tools.pdf24.org/en/), [PDFCandy](https://pdfcandy.com/), [SodaPDF](https://online.sodapdf.com/), [PDFonFly](https://pdfonfly.com/)
+**[Sejda](https://www.sejda.com/)**, [iLovePDF](https://www.ilovepdf.com/), [Smallpdf](https://smallpdf.com/), [PDF24](https://tools.pdf24.org/en/), [PDFCandy](https://pdfcandy.com/), [SodaPDF](https://online.sodapdf.com/), [PDFonFly](https://pdfonfly.com/), [PDFShelter](https://pdfshelter.com/)
 
 **Programs** 
 
@@ -1018,9 +1022,21 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
+#### Piracy Site Proxies
+
+[Unblocked](https://unblocked.how/), [Unblockit](https://unblockit.dev/) / [2](https://unblocked-pw.github.io/) / [3](https://unblockit.eu/) / [4](http://unblocked.to/), [UnblockAll](https://unblockall.org/), [Site Unblocked](https://siteunblocked.info/), [Knaben's Proxy List](https://knaben.info/)
+
+***
+
 #### Popup Blocker Links
 
 [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/) (firefox), [Popup Blocker Strict](https://add0n.com/popup-blocker.html) (Other browsers)
+
+***
+
+#### Proxy Lists
+
+**[PROXY List](https://github.com/TheSpeedX/PROXY-List)**, [Free-Proxy-List](https://free-proxy-list.net/), [Proxy-Daily](https://proxy-daily.com/), [Cool-Proxy](https://www.cool-proxy.net/), [free-proxies](https://scrapingant.com/free-proxies/)
 
 ***
 
@@ -1068,7 +1084,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Restore Classic Google Icons
 
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/classic-google-icons/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search), [Chrome](https://chrome.google.com/webstore/detail/restore-old-google-icons/iellnmonjokmoagdlggagdmfjgpiahmb/)
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/classic-google-icons/), [Chrome](https://chrome.google.com/webstore/detail/restore-old-google-icons/iellnmonjokmoagdlggagdmfjgpiahmb/)
 
 ***
 
@@ -1622,7 +1638,7 @@ Good for finding classic, obscure & short films.
 
 #### Windows 10 Debloater
 
-**[Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater)**, [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/), [win10script](https://github.com/ChrisTitusTech/win10script), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/), [BloatBox](https://github.com/builtbybel/bloatbox) 
+[Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/), [win10script](https://github.com/ChrisTitusTech/win10script), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/), [BloatBox](https://github.com/builtbybel/bloatbox) 
 
 ***
 

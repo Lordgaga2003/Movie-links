@@ -11,8 +11,6 @@
 
 # ► Streaming Sites
 
-* **[How-to Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - *Obscure Film Hunting Guide*
-
 ## ▷ Dedicated Hosts
 
 * **[MoviesforDiscord](https://discord.com/invite/XBGm36RWEs)** - *Movie Streaming & Download Bot / [Website](https://movies4discord.xyz/)*
@@ -158,7 +156,9 @@
 
 * **[Streaming Sites Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - *Streaming site CSE*
 * **[Video Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_search_sites)** - *Search sites similar to YouTube*
+* **[How-to Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - *Obscure Film Hunting Guide*
 * **[FSAPI](https://fsapi.xyz/)** - *Search API, IMDb ids*
+* **[IMDbStream](https://imdbstream.xyz/)** - *Search API, IMDb ids*
 * **[NetU](https://netu.io/view_page.php?pid=4)** - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png), try IMDb ids*
 * [Streamy-Flix](https://streamy-flix.my-trials.ml/) - *Multi host search* 
 * [VideoSpider](https://videospider.in/) - *Host crawler, IMDb ids*
@@ -166,7 +166,6 @@
 * [ApiMDB](https://apimdb.net/) - *Search API, IMDb ids*
 * [VPlus.ucoz](http://vplus.ucoz.com/) - *Search API, IMDb ids* 
 * [123movies](https://api.123movie.cc/) - *Search API, IMDb ids*
-* [IMDbStream](https://imdbstream.xyz/) - *Search API, IMDb ids*
 * [1movietv](https://1movietv.com/) - *Search API, IMDb ids* 
 * [2Embed](https://www.2embed.ru/) - *Search API, IMDb ids* 
 * [VidSrc](https://vidsrc.me/) - *Search API, IMDb ids*
@@ -198,12 +197,15 @@
 * [Watch HK Movies Online](https://vinspirezhk.blogspot.com/) - *Rare Chinese Movies / English Subs* 
 * [Chicago Film Archives](http://www.chicagofilmarchives.org/) - *Chicago Film Archive*
 * [Eastern European Movies](https://easterneuropeanmovies.com/) - *Eastern European Film Archive* 
-* [BFIPlayer](https://player.bfi.org.uk/free) - *British Film Archive / UK VPN Required*
+* [BFIPlayer](https://player.bfi.org.uk/free) or [BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) - *British Film Archive / UK VPN Required*
 * [British Pathé](https://www.britishpathe.com/) - *British Video Archive*  
 * [nfb.ca](https://www.nfb.ca/) - *Canadian Film Archive*
+* [NFSA](https://www.nfsa.gov.au/) - *Australian Film Archive*
 * [NGA Taonga](https://ngataonga.org.nz/search-landing) or [NZOnScreen](https://www.nzonscreen.com/) - *New Zealand Video Archive* 
 * [NLS](https://www.nls.uk/), [2](https://movingimage.nls.uk/) - *Scottish Film Archive* 
+* [Northern Ireland Screen](https://digitalfilmarchive.net/) - *Irish Film Archive*
 * [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - *Historic Footage / Films*
+* [Prelinger Archives](http://www.panix.com/~footage/) - *Ephemeral Films [Archive](https://archive.org/details/prelinger)*
 * [StageDork](http://stagedork.com/) - *Broadway Show Recordings* 
 * [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) - *Interactive player for Black Mirror: Bandersnatch*
 * [ListenToAMovie](http://listentoamovie.com/) - *Listen to Movies* 
@@ -314,8 +316,8 @@
 * [animetoon](http://www.animetoon.org/) - *Anime / Cartoons* 
 * [thewatchcartoononline](https://www.thewatchcartoononline.tv/), [wcostream](https://www.wcostream.com/), [wcoforever](https://www.wcoforever.com/ ) or [WCO](https://www.wco.tv/) - *Anime / Cartoons* 
 * [Otaku-Streamers](https://otaku-streamers.com/) - *Sub (Account Required)* 
-* [Funimation](https://www.funimation.com/shows/free/) - *Free w/ Ads Sub / Dub* 
-* [CrunchyRoll](https://www.crunchyroll.com/videos/anime) - *Free w/ Ads Sub / Dub* 
+* [Funimation](https://www.funimation.com/shows/free/) - *Sub / Dub* 
+* [CrunchyRoll](https://www.crunchyroll.com/videos/anime) - *Sub / Dub* 
 
 ***
 
@@ -694,6 +696,7 @@
 * [FlickChart](https://www.flickchart.com/) - *Rank your movies*
 * [Tastoid](https://www.tastoid.com/) - *Mood Based Recommendations* 
 * [BestSimilar](https://bestsimilar.com/) - *Movie Recommendations* 
+* [Movies Capstone Project](https://github.com/rounakbanik/movies) - *Movie Recommendations* 
 * [FilmFish](https://www.film-fish.com/) - *Movie & TV Recommendations* 
 * [Suggest Me Movie](https://www.suggestmemovie.com/) - *Movie Recommendations*
 * [MovieSync](https://movie-sync-app.web.app/) - *Movie Recommendations* 
@@ -702,6 +705,7 @@
 * [Cinetrii](https://cinetrii.com/) - *Discover Movies with Similar Themes* 
 * [DateNightMovies](https://datenightmovies.com/) - *Get Recommendations Based on 2 Movies* 
 * [imdb-compare-shows](https://daumann.github.io/imdb-compare-shows/) - *Compare TV Shows by IMDB ratings*
+* [MRQE](https://www.mrqe.com/) - *Movie Review Search Engine*
 * [TV Chart](https://tvchart.benmiz.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - *TV Show Episode Ratings Graph*
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Greatest 100 Lists*
 * [ReelScary](http://www.reelscary.com/) - *Movies Rated by Scariness* 
@@ -715,9 +719,9 @@
 * [Anime Notifier](https://notify.moe/) - *Anime List, Tracker, Database & Notifier* 
 * [Tiaga](https://github.com/erengy/taiga) - *Anime Tracking Program* 
 * [arm-server](https://github.com/BeeeQueue/arm-server) - *Map Anime ID's between AniList, AniDB, MAL & Kitsu* 
-* [GoGetSpoiled](https://gogetspoiled.com/) - *Random Movie Spoilers* 
+* [Chronology of Animation](http://www.animated-divots.net/chronst.html) - *Animation History / Index*
 * [Movie-Censorship](https://www.movie-censorship.com/) - *Compare Alternate Versions of Media* 
-* [Movies Capstone Project](https://github.com/rounakbanik/movies) - *Movie Recommendation Tool* 
+* [GoGetSpoiled](https://gogetspoiled.com/), [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [Spollywood](https://www.spollywood.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - *Movie Spoilers* 
 
 ***
 
@@ -838,3 +842,4 @@
 * [trace.moe](https://trace.moe/) - *Anime Scene Reverse Image Search*
 * [Awesome ACG](https://github.com/soruly/awesome-acg) - *Anime Tool Index* 
 * [Anilinks](https://anilinks.neocities.org/) - *Anime Related Site Index*
+* [Spoiler Protection 2.0](https://spoilerprotection.wecdev.com/) - *Keyword / Spoiler Blocker*

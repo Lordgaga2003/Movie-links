@@ -25,10 +25,12 @@
 * [Deluge](https://www.deluge-torrent.org/) - *[Screenshot](https://i.imgur.com/RbQUHpF.png)*
 * Deluge Tools - [Plugins](https://dev.deluge-torrent.org/wiki/Plugins) / [Auto-Remove](https://github.com/omaralvarez/deluge-autoremoveplus) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
 * [Tixati](https://tixati.com/) - *[Screenshot](https://i.imgur.com/joYQzTw.png)* 
+* [Motrix](https://motrix.app/) - *[Screenshot](https://i.imgur.com/Zrw6l8q.png) / [GitHub](https://github.com/agalwood/Motrix)*
 * [Picotorrent](https://picotorrent.org/) - *[Screenshot](https://i.imgur.com/46oF1iD.png)*
 * [FrostWire](https://www.frostwire.com/) - *[Screenshot](https://i.imgur.com/3wJSJmg.png)*
 * [Tornado](https://tornado-torrent.gitlab.io/) - *[Screenshot](https://i.imgur.com/H3mvifU.png)*
 * [BiglyBT](https://www.biglybt.com/) - *[Screenshot](https://i.imgur.com/Gopf4tZ.png)* 
+* [Free Download Manager](https://www.freedownloadmanager.org/) - *[Sourceforge](https://sourceforge.net/projects/freedownload/)*
 * [Tribler](https://www.tribler.org/) - *Tor-inspired Client / [Screenshot](https://i.imgur.com/IzmanCf.png) / [Github](https://github.com/Tribler/tribler)*
 * [aria2](https://aria2.github.io/) - *Terminal Torrent Client / [Screenshot](https://i.imgur.com/KV0pSjt.png) / [Github](https://github.com/aria2/aria2)*
 * [mtorrent](https://github.com/nektro/mtorrent) - *Terminal Torrent Client* 

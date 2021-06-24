@@ -114,6 +114,9 @@
 * [Christmas Share](https://mega.nz/#F!rrJyDQIa!-QJeJqVThi_uC9DTLX4ElA) - *Courses / Drive* 
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - *Courses / Tutorials* 
 * [FreetutsDownload.com](https://freetutsdownload.com/) - *Courses / GDrive Host* 
+* [Lynda Courses](https://bin.snopyta.org/?efe32fb96a945857#GQL7q4hyKjCeB6WLbpq94S12BEwh5JWc4apjmb7RE4SU) - *Lynda Courses / Drive / pw: fmhy*
+* [LyndaFree](https://t.me/lyndafree) - *Lynda Courses / Telegram*
+* [Gate Academy Courses](https://mega.nz/folder/7moVUSAK#cw5VVM-L4WmtwXE30in6nw) - *Gate Academy Courses / Drive*
 * [Giga Course](https://gigacourse.com/) - *Udemy Courses / Drive* 
 * [Udemy 24](https://udemy24.com/) - *Udemy courses* 
 * [FreeCourseWeb](http://freecourseweb.com/) - *Udemy Courses* 
@@ -238,8 +241,9 @@
 * [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - *Interactive Index of Moons* 
 * [Helioviewer](https://www.helioviewer.org/) - *Sun Visualization Tool* 
 * [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - *Solar System Scale Model*
-* [3DSolarSystem](https://theskylive.com/3dsolarsystem) - *3D Solar System Simulator* 
+* [3DSolarSystem](https://theskylive.com/3dsolarsystem) - *Solar System Simulator* 
 * [100,000 Stars](https://stars.chromeexperiments.com/) - *Interactive 3D Star Visualization*
+* [SpaceEngine](http://spaceengine.org/) - *Universe Simulator*
 
 ***
 
@@ -313,7 +317,7 @@
 * [amrita olabs](https://amrita.olabs.edu.in/) - *Science Practicals / Theory / Animations / Simulations* 
 * [Get Unstuck](https://socratic.org/) - *Homework Answers / Help* 
 * [Quizlet](https://quizlet.com/) - *Quizzes / Study Material*
-* [OpenSyllabus](https://opensyllabus.org/) - *Syllabus* 
+* [OpenSyllabus](https://opensyllabus.org/) or [SyllabusFinder](https://www.syllabusfinder.com/) - *Syllabus Search / Info*
 * [Edpuzz Ninja](https://edpuzz.ninja/) - *Educational Puzzle Solving Tool* 
 * [Slader](https://www.slader.com/) - *Homework Answers and Solutions*
 * [LabXchange](https://www.labxchange.org/) - *Science / Interactive*

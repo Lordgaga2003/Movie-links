@@ -98,6 +98,7 @@
 * [420.moe](https://420.moe/) - *420 Radio* 
 * [Listen To The Clouds](http://listentothe.cloud/) or [LiveATC](https://www.liveatc.net/) - *Air Traffic Radio Chatter* 
 * [Broadcastify](https://www.broadcastify.com/) - *Live Emergency, Aircraft & Rail Feeds* 
+* [morsecode.me](http://morsecode.me/) - *Morse Code Radio / Communication*
 * [Worldwide Radio](http://forums.mozillazine.org/viewtopic.php?t=3039738) - *Radio Extension* 
 * [ListenLater](https://www.listenlater.fm/) - *Turn Articles into Podcasts* 
 * [ListenBox](https://listenbox.app/) - *Turn YouTube Video into Podcasts*
@@ -165,7 +166,7 @@
 * [smd](https://github.com/artyshko/smd) - *Download Spotify Songs / Linux*
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - *Bandcamp Downloader*
 * [SoundCloud Downloader](https://github.com/NotTobi/soundcloud-dl), [Klickaud](https://www.klickaud.co/), [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837-local-soundcloud-downloader) or [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/) - *Soundcloud Downloader*
-* [streamrip](https://github.com/nathom/streamrip) - *Qobuz, Tidal, Deezer & SoundCloud Downloader*
+* [streamrip](https://github.com/nathom/streamrip) - *Deezer & SoundCloud Downloader*
 * [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - *Audio Command Line Download Tool*
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - *VK MP3 Search Tool* 
 * [fetch-audio-from-fm](https://github.com/zhenze12345/fetch-audio-from-fm) - *Download FM Site Audio* 

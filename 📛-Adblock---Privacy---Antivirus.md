@@ -43,7 +43,7 @@
 ## ▷ DNS Adblocking
 
 * **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - *Network-wide DNS Adblocking / [Setup](https://github.com/klutchell/balena-adguard)* 
-* [Adguard](https://adguard.com/en/adguard-dns/overview.html) - *[Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt) / [Filter](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) / [Extension](https://github.com/AdguardTeam/AdguardBrowserExtension#installation)*
+* [Adguard](https://adguard.com/en/adguard-dns/overview.html) - *[Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt) / [Filters](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole), [2](https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/content_blocker.txt) / [Extension](https://github.com/AdguardTeam/AdguardBrowserExtension#installation)*
 * [Blah DNS](https://blahdns.com/)
 * [Pi-Hole](https://pi-hole.net/) - *[Filter](https://firebog.net/), [2](https://ftpihole.com/), [3](https://github.com/hl2guide/Filterlist-for-AdGuard) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine)*
 * [Quad9](https://quad9.net/) 
@@ -129,11 +129,12 @@
 * **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)** - *Anonymous Text Verification*
 * **[Two Factor Auth](https://twofactorauth.org/)** - *List of Sites with 2FA Support*
 * **[Authy](https://authy.com/)** or [WinAuth](https://winauth.github.io/winauth/) - *Two-Factor Authentication*  
-* [Obsidian](https://obsidianapp.io/) - *Mac / iOS Two-Factor Authentication*
+* [Obsidian](https://obsidianapp.io/) - *OS X/ iOS Two-Factor Authentication*
 * [Authenticator](https://authenticator.cc/) - *Generate Two-Factor Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)* 
 * [Surveillance Self-Defense](https://ssd.eff.org/), [Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/), [The New Oil](https://thenewoil.xyz/index.html) or [Security In A Box](https://securityinabox.org/en/) - *Privacy & Safety Guides / Tools* 
 * [Privacy.Sexy](https://privacy.sexy/) - *Privacy Scripts* 
 * [Team Elite](https://www.te-home.net/) - *Security Software*
+* [macOS Security Tools](https://github.com/ashishb/osx-and-ios-security-awesome) - *OS X Security Tools*
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - *CyberSecurity Tool Index*
 * [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - *Anti-Censorship tool index* 
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - *Linux Privacy Guide* 
@@ -249,7 +250,7 @@
 
 ## ▷ Browser Tools
 
-* **[ffprofile](https://ffprofile.com/)**, **[ghacks-user.js](https://github.com/arkenfox/user.js)**, [firefox-debloat](https://github.com/amq/firefox-debloat), [pyllyukko](https://github.com/pyllyukko/user.js/) / [2](https://github.com/pyllyukko/user.js/) - *Privacy hardened Firefox profile tool / [user.js warning](https://i.imgur.com/ZMQJHwC.png)*
+* **[ffprofile](https://ffprofile.com/)**, **[ghacks-user.js](https://github.com/arkenfox/user.js)**, [firefox-debloat](https://github.com/amq/firefox-debloat), [pyllyukko](https://github.com/pyllyukko/user.js/) / [2](https://github.com/pyllyukko/user.js/) - *Privacy hardened Firefox / [user.js warning](https://i.imgur.com/ZMQJHwC.png)*
 * **[Tor Browser](https://www.torproject.org/)** or [Lokinet](https://lokinet.org/) - *Onion-Routed Browser / [Unblock Tor](https://i.imgur.com/bQStFyI.gifv) / [Leak Scan](https://github.com/s-rah/onionscan) / [Access Client](https://dragonfruit.network/onionfruit) / [GitHub](https://github.com/dragonfruitnetwork/onionfruit/)*
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Browsers with a focus on Privacy* 
 * **[Password Data Breach Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
@@ -377,11 +378,11 @@
 # ► VPN
 
 * **[VPN Comparison Guide](https://www.safetydetectives.com/best-vpns/#comparison)**, [2](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml) - *Ranks VPNs Based on Privacy Polices & More*
-* **[Self-Hosted VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/selfhost-vpn)** - *Self hosted VPN guide by /u/Kaxry*
 * **[Mullvad](https://mullvad.net/)** - *[Pricing](https://i.imgur.com/LfjZ9G3.png) / [More Info](https://i.imgur.com/SNkzNV7.png) / [NetNS](https://github.com/chutz/mullvad-netns)*
-* **[ProtonVPN](https://protonvpn.com)** - *[Pricing](https://i.imgur.com/hkhZGg1.png) / [More Info](https://i.imgur.com/RZqOXKH.png) - Note that you can't torrent with the free version*
+* **[Proton](https://protonvpn.com)** - *[Pricing](https://i.imgur.com/hkhZGg1.png) / [More Info](https://i.imgur.com/RZqOXKH.png) - Note that you can't torrent with the free version*
 * **[Windscribe](https://windscribe.com)** - *[Pricing](https://i.imgur.com/D7015rq.png) / [More Info](https://i.imgur.com/qmdyfp6.png) / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites) / free version available / [Chrome](https://chrome.google.com/webstore/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/windscribe/)*
 * **[Surfshark](https://surfshark.com/)** - *[Pricing](https://i.imgur.com/YaiKjpX.png) / [More Info](https://i.imgur.com/IPBVPNA.png)*
+* **[WireGuard](https://www.wireguard.com/)** - *VPN Tunnel*
 * **[Riseup](https://riseup.net/en/vpn)** - *Free VPN* 
 * [Perfect Privacy](https://www.perfect-privacy.com/) - *[Pricing](https://i.imgur.com/Rtfwu2t.png) / [More Info](https://i.imgur.com/Y9MRLcg.png)*
 * [IVPN](https://www.ivpn.net/) - *[Pricing](https://i.imgur.com/Iq92wOO.png) / [More Info](https://i.imgur.com/8MDJoYQ.png)*
@@ -389,9 +390,7 @@
 * [Trust.Zone](https://trust.zone/) - *[Pricing](https://i.imgur.com/PsRa8GD.png) / [More Info](https://i.imgur.com/zryWzqX.png)*
 * [blackVPN](https://www.blackvpn.com/) - *[Pricing](https://i.imgur.com/uqMeG0b.png) / [More Info](https://i.imgur.com/5U3qjoF.png)*
 * [VPNSecure](https://www.vpnsecure.me/) - *[Pricing](https://i.imgur.com/BnuqpBS.png) / [More Info](https://i.imgur.com/sJffRnZ.png)*
-* [OVPN](https://www.ovpn.com/en) - *[Pricing](https://i.imgur.com/CEh6OfY.png) / [More Info](https://i.imgur.com/upEEM7H.png)*
 * [Tailscale](https://tailscale.com/) - *[Pricing](https://i.imgur.com/6lMwcSQ.png)*
-* [VPN Mozilla](https://vpn.mozilla.org/) - *[Pricing](https://i.imgur.com/VWMl772.png)*
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - *VPN Extension / 3GB Free / [Pricing](https://i.imgur.com/ZdDexDa.png)* 
 * [Mozilla FPN](https://fpn.firefox.com/) - *VPN Extension / [Pricing](https://i.imgur.com/wW5rVO2.png) / Mullvad Servers*
 * [WireHole](https://github.com/IAmStoxe/wirehole) - *Wireguard VPN w/ Adblocking Capabilities* 
@@ -405,12 +404,13 @@
 * [Sentinel](https://sentinel.co/) - *Free VPN / /r/SENT / [Guide](https://youtu.be/Iaa7Jwd5sy8)* 
 * [FreePN](https://www.freepn.org/) - *Free Open Source P2P VPN* 
 * [TunnelBear](https://www.tunnelbear.com/) - *Free VPN / 500mb only*
-* [OpenVPN](https://openvpn.net/) or [WireGuard](https://www.wireguard.com/) - *VPN Client / Requires .ovpn Config / [u/Kaxry's .ovpn config](https://discordapp.com/channels/667897677752696878/670273928924495882/726439753230188618)* 
+* [OpenVPN](https://openvpn.net/) - *VPN Tunnel* 
 * [FREEVPN.gg](https://freevpn.gg/) - *Free VPN List*
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
 * [PiVPN](https://pivpn.io/) - *Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)* 
 * [Enterprise](https://pritunl.com/) - *VPN Server* 
+* [Self-Hosted VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/selfhost-vpn) - *Self hosted VPN guide by /u/Kaxry*
 * [Streisand](https://github.com/StreisandEffect/streisand) - *Anti-Censorship VPN Setup*  
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
 * /r/allvpncoupons - *VPN Coupon Subreddit* 
@@ -439,14 +439,9 @@
 
 ## ▷ Proxy Sites
 
-* **[Free-Proxy-List](https://free-proxy-list.net/)**, [Proxy-Daily](https://proxy-daily.com/), [PROXY List](https://github.com/TheSpeedX/PROXY-List), [Cool-Proxy](https://www.cool-proxy.net/) or [free-proxies](https://scrapingant.com/free-proxies/) - *Proxy List*
-* [Unblocked](https://unblocked.how/) - *Piracy Site Proxies* 
-* [Unblockit](https://unblockit.dev/), [2](https://unblocked-pw.github.io/), [3](https://unblockit.eu/), [4](http://unblocked.to/) - *Piracy Site Proxies*
-* [UnblockAll](https://unblockall.org/) - *Piracy Site Proxies*
-* [Site Unblocked](https://siteunblocked.info/) - *Piracy Site Proxies*
-* [Knaben's Proxy List](https://knaben.info/) - *Piracy Site Proxies*
-* [Torrents.io](https://torrents.io/proxy/) - *Torrent Site Proxies*
-* [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container) - *Torrent Site Proxies*
+* **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)** - *Lists of Proxies*
+* **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
+* [Torrents.io](https://torrents.io/proxy/) or [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container) - *Torrent Site Proxies*
 * [ProxySite](https://www.proxysite.com/)
 * [Hide.me](https://hide.me/en/proxy)
 * [KProxy](https://www.kproxy.com/)

@@ -104,6 +104,7 @@
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
 * [CourseDown](https://coursedown.com/) - *Courses* 
 * [5G GYAN](https://www.5ggyan.com/) - *Courses* 
+* [Open-Video](https://open-video.org/) - *Courses / Documentaries*
 * [FreeCourseLechz](https://t.me/joinchat/AAAAAEeZL9jF22ZREqka2g) - *Courses / Telegram* 
 * [CourseInDrive](https://t.me/CourseInDrive) - *Courses / Telegram* 
 * [Free Open Source knowledge](https://t.me/free_open_source_knowledge) - *Courses / Telegram* 
@@ -143,6 +144,7 @@
 
 * [Documentary.su](https://documentary.su/) - *Documentaries / Forum*
 * [Docuwiki](https://docuwiki.net/) - *Documentaries / [Emule required](https://www.emule-project.net/)*
+* [Open-Video](https://open-video.org/) - *Courses / Documentaries*
 
 ***
 

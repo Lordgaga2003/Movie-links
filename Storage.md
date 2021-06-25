@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/UoFJUb2.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/0rA8R5p.png)** - *For mobile users*
 
 ***
 ***
@@ -239,7 +239,7 @@
 
 #### Compression Programs
 
-**[Conversion Tutorial Index](https://fileforums.com/showthread.php?t=96782)**, **[7-zip](https://www.7-zip.org/)**, [win-rar](https://www.win-rar.com/) / [Remove Popup](http://cooltricksb.blogspot.com/2015/03/how-to-remove-40-days-trial-period.html?m=1), [peazip](https://peazip.github.io/), [jZip](https://www.jzip.com/), [Unzip Online](https://unzip-online.com/en), [kgbarchiver](https://github.com/RandallFlagg/kgbarchiver), [Pigz](https://zlib.net/pigz/), [GNU Gzip](http://www.gnu.org/software/gzip/), [ezyZip](https://www.ezyzip.com/), [FreeARC](https://sourceforge.net/projects/freearc/) / [FreeARC 0.666](https://www68.zippyshare.com/v/qZUpSdVT/file.html), [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135), [p7zip](https://github.com/jinfeihan57/p7zip), [Razorx](https://fileforums.com/showthread.php?t=103577&highlight=Razorx), [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer)
+**[Conversion Tutorial Index](https://fileforums.com/showthread.php?t=96782)**, **[7-zip](https://www.7-zip.org/)**, [win-rar](https://www.win-rar.com/) / [Remove Popup](http://cooltricksb.blogspot.com/2015/03/how-to-remove-40-days-trial-period.html?m=1), [peazip](https://peazip.github.io/), [jZip](https://www.jzip.com/), [Unzip Online](https://unzip-online.com/en), [kgbarchiver](https://github.com/RandallFlagg/kgbarchiver), [Pigz](https://zlib.net/pigz/), [GNU Gzip](http://www.gnu.org/software/gzip/), [ezyZip](https://www.ezyzip.com/), [FreeARC](https://sourceforge.net/projects/freearc/) / [FreeARC 0.666](https://www68.zippyshare.com/v/qZUpSdVT/file.html), [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135), [p7zip](https://github.com/jinfeihan57/p7zip), [Razorx](https://fileforums.com/showthread.php?t=103577&highlight=Razorx), [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer), [compress](https://github.com/clowdhaus/compress) (GitHib Actions)
 
 ***
 
@@ -252,6 +252,12 @@
 #### Customizable New Tab Page
 
 [NightTab](https://github.com/zombieFox/nightTab), [hexagonTab](https://github.com/zombieFox/hexagonTab), [CaretTab](https://www.carettab.com/), [mesmerized](https://mesmerized.me/), [Bonjourr](https://bonjourr.fr/), [Perfect Home](https://github.com/perfect-things/perfect-home), [yet another speed dial](https://github.com/conceptualspace/yet-another-speed-dial), [Tabliss](https://tabliss.io/)
+
+***
+
+#### Down Site Checkers
+
+**[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)**, **[IsItDownRightNow](https://www.isitdownrightnow.com/)**, [IsThisServiceDown](https://istheservicedown.com/), [down.com](https://down.com/, [DownDetector](https://downdetector.com/) 
 
 ***
 
@@ -1060,7 +1066,13 @@ Add the following commands to a search to manually scrape each site.
 
 #### Radio Streaming Sites
 
-[Radio](https://www.radio.com/stations), [cmd.fm](https://cmd.to/fm), [Jango](https://www.jango.com/), [RadioTunes](https://www.radiotunes.com/), [JetSetRadio](https://jetsetradio.live/), [Live365](https://live365.com/), [AccuRadio](https://www.accuradio.com/), [Earbits](https://www.earbits.com/), [LiveXLive](https://www.livexlive.com/), [Indie Shuffle](https://www.indieshuffle.com/), [Online-Radio](https://online-radio.cc/), [dubbeh](https://radio.dubbeh.net/), [Online Radio Box](https://onlineradiobox.com/), [Radio Paradise](https://radioparadise.com/), [Live Online Radio](https://liveonlineradio.net/), [Core](https://coreradio.ru/), [Upbeat](https://upbeat.pw/), [Simulation.fm](https://simulation.fm/), [lainchan](https://lainchan.org/radio)
+**Live Radio** 
+
+[iHeartRadio](https://www.iheart.com/), [Radio.com](https://www.radio.com/stations), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/)
+
+**Internet Radio** 
+
+[CoreRadio](https://coreradio.ru/listen), [CMD](https://cmd.to/fm), [lainchan](https://lainchan.org/radio), [JetSetRadio](https://jetsetradio.live/), [LivexLive](https://www.livexlive.com/), [RadioParadise](https://radioparadise.com/), [IndieSHuffle](https://www.indieshuffle.com/), [UpBeat](https://upbeat.pw/), [You42](https://www.you42.com/), [Jango](https://www.jango.com/), [RadioTunes](https://www.radiotunes.com/), [Live365](https://live365.com/), [AccuraRadio](https://www.accuradio.com/), [Radio.dubbeh](https://radio.dubbeh.net/)
 
 ***
 
@@ -1492,7 +1504,17 @@ Downlaod from deezer also supports playlist from Spotify
 
 #### Torrent to GDrive
 
-**[Light Cloud](https://t.me/lightzcloud)**, [KL torrent](https://t.me/kltorrent), [Torrent Bots](https://t.me/TorrentBots), [TorrentXbot](https://t.me/TorrentXbot), [torrentdrive_bot](https://t.me/torrentdrive_bot), [tgpublicdrive](https://t.me/tgpublicdrive), [publicdrive](https://t.me/publicdrive), [Mirror-Bot](https://github.com/KenHV/Mirror-Bot), [Torrent2Drive](https://t.me/torrent_2_drive), [Colab-Hacks Bot](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) / [GitHub](https://github.com/PradyumnaKrishna/Colab-Hacks)
+**Telegram**
+
+**[Light Cloud](https://t.me/lightzcloud)**, [KL torrent](https://t.me/kltorrent), [Torrent Bots](https://t.me/TorrentBots), [TorrentXbot](https://t.me/TorrentXbot), [torrentdrive_bot](https://t.me/torrentdrive_bot), [tgpublicdrive](https://t.me/tgpublicdrive), [publicdrive](https://t.me/publicdrive), [Torrent2Drive](https://t.me/torrent_2_drive)
+
+**Bots** 
+
+[Torrent all-in-one bot](https://github.com/patheticGeek/torrent-aio-bot), [Codemaster](https://github.com/mohitjoshi155/Codemaster), [Mirror-Bot](https://github.com/KenHV/Mirror-Bot)
+
+**Collab**
+
+**[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** / [GitHub](https://github.com/biplobsd/OneClickRun), [Colab-Hacks Bot](https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Torrent%20Downloader/Torrent%20Downloader.ipynb) / [GitHub](https://github.com/PradyumnaKrishna/Colab-Hacks), [Torrent Downloader](https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Torrent%20Downloader/Torrent%20Downloader.ipynb), [MasterColab](https://colab.research.google.com/github/yunooooo/Master-Colab/blob/master/Master-Colab.ipynb%20https:/github.com/yunooooo/Master-Colab), [QBit to Gdrive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) / [GitHub](https://github.com/xavy-13/qbittorrent)
 
 *** 
 
@@ -1561,6 +1583,18 @@ Downlaod from deezer also supports playlist from Spotify
 #### Video Hosting Sites
 
 [mixdrop](https://mixdrop.co/), [vudeo (8tb)](https://vudeo.net/), [abcvideo (300gb)](https://abcvideo.cc/ ), [clipwatching](https://clipwatching.com/), [vidyard](https://www.vidyard.com/), [streamzz](http://streamzz.to/), [streamtape](https://streamtape.com/), [doodstream](https://doodstream.com/), [aparat](https://aparat.cam/), [supervideo](https://supervideo.tv/), [ninjastream](https://ninjastream.to/), [youdbox](https://youdbox.com/), [streamplay](http://streamplay.to/), [cloudvideo](https://cloudvideo.tv/), [jetload](https://jetload.net/), [mystream](https://mystream.to/), [powvideo](http://powvideo.net/), [upstream](https://upstream.to/), [videobin](https://videobin.co/), [vidlox](https://vidlox.me/), [streamable](https://streamable.com/), [vup](https://vup.to/), [abyss](https://abyss.to/), [NetU](https://netu.io/view_page.php?pid=4), [voe.sx](https://voe.sx/), [videy](https://videy.co/), [wolfstream](https://wolfstream.tv/), [flashx](https://flashx.pw/), [userload](https://userload.co/), [vidcloud](https://vidcloud.co/ ), [vidoza](https://vidoza.net/), [youdbox](https://youdbox.net/)
+
+***
+
+#### Video Players
+
+**Players**
+
+**[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [VLC](https://www.videolan.org/), [MPC-HC](https://mpc-hc.org/), [MPC-BE](https://www.videohelp.com/software/MPC-BE), [Pot Player](http://potplayer.daum.net/), [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/) 
+
+**Tools**
+
+[Codecs](http://www.codecguide.com/download_kl.htm) / [MPV Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [MPV Sub Navigation](https://github.com/perogiue/mpv-scripts/releases/) / [MPV SponsorBlock](https://github.com/po5/mpv_sponsorblock) / [VLC Browser Control](https://mybrowseraddon.com/remote-vlc-player.html) / [VLC Sub Downloader](https://github.com/exebetche/vlsub) / [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) / [MPC-DiscordRPC](https://github.com/angeloanan/MPC-DiscordRPC)
 
 ***
 

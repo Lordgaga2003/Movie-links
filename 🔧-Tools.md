@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/rJ5hvLF.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/uqcWUZ4.png)** - *For mobile users*
 
 ***
 *** 
@@ -299,9 +299,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 
 ## ▷ Video Tools
 
-* **[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [VLC](https://www.videolan.org/), [MPC-HC](https://mpc-hc.org/), [MPC-BE](https://www.videohelp.com/software/MPC-BE), [Pot Player](http://potplayer.daum.net/) or [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/) - *Video Players / [Codecs](http://www.codecguide.com/download_kl.htm)*
-* Video Player Tools - [MPV Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [MPV Sub Navigation](https://github.com/perogiue/mpv-scripts/releases/) / [MPV SponsorBlock](https://github.com/po5/mpv_sponsorblock) / [VLC Browser Control](Remote VLC Player 
-https://mybrowseraddon.com/remote-vlc-player.html) / [VLC Sub Downloader](https://github.com/exebetche/vlsub)
+* **[Video Players / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_players)** - *Video Players & Tools*
 * **[Media Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - *Servers to Host / Play Media* 
 * **[Video Stream Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_stream_sync)** - *Video Streaming Sync / Watch Parties*
 * **[Video Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_editors)** - *Free Video Editing Software*
@@ -318,7 +316,7 @@ https://mybrowseraddon.com/remote-vlc-player.html) / [VLC Sub Downloader](https:
 * [DMVideo](https://dmvideo.download/) - *DailyMotion Video Downloader* 
 * [GetFVid](https://www.getfvid.com/) or [FBDown](https://fbdown.net/) - *Facebook Video Downloader* 
 * [RipTok](https://github.com/adamsatyr/RipTok) - *Tik-Tok Channel Bulk Downloader*
-* [How to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/) 
+* [How to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/)
 * [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/) 
 * [FFmpeg](https://ffmpeg.org/) - *Record, convert and stream audio & video / [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom)*
 * [ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot) or [File2videoconvbot](https://t.me/File2videoconvbot) - *File to Video Telegram Bots* 
@@ -532,7 +530,7 @@ https://mybrowseraddon.com/remote-vlc-player.html) / [VLC Sub Downloader](https:
 * **[Edu Email](https://i.imgur.com/pxBcRcZ.png)** - *How To Get Free edu email Address*
 * **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)** - *Host Sites for Free*
 * **[Consuming The World](https://weboas.is/forum/index.php?topic=656.0)** - *RSS Feed List / Guide*
-* **[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)**, **[IsItDownRightNow](https://www.isitdownrightnow.com/)**, [IsThisServiceDown](https://istheservicedown.com/) or [DownDetector](https://downdetector.com/) - *Check if a Site is Down*
+* **[Check if Sites are Down](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_down_site_checkers)** - *Check if a site is down for just you or everyone* 
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - *Test Internet Speed*
 * [OONI](https://ooni.org/) - *Test Site Blocking / Network Speed*
 * [ISP Logger](https://isplogger.com/) - *Internet Performance Monitor* 
@@ -838,9 +836,10 @@ General Reading Sites*
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - *Discord Rich Presence Manager*
 * [iTunes-Discord-RP](https://github.com/kkevinm/iTunes-Discord-RP) - *iTunes Rich Presence* 
 * [Foo_Discord_Rich](https://github.com/TheQwertiest/foo_discord_rich) - *FooBar2000 Rich Presence*
-* [mpv-discordRPC](https://github.com/cniw/mpv-discordRPC) - *MPV Rich Presence* 
+* [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) - *MPV Rich Presence* 
+* [MPC-DiscordRPC)](https://github.com/angeloanan/MPC-DiscordRPC) - *MPC Rich Presence*
 * [Discord.io](https://discord.io/) or [dsc.gg](https://dsc.gg/) - *Create Custom Discord Invites*
-* [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot) - *1337x Discord Bot* 
+* [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot) - *1337x Discord Bot / Selhosted* 
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter), [Discord History Tracker](https://dht.chylex.com/), [discord-archiver](https://github.com/nektro/discord-archiver) or [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper) - *Archive / Export Discord Chats* 
 * [Discord Style](https://www.discord.style/) - *Discord Server Templates*
 * [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/)
@@ -991,7 +990,7 @@ General Reading Sites*
 * **[Windows Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/pirate-windows)**, [2](https://rentry.co/windows_for_retards)
 * **[Windows ISO's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - *Download Windows*
 * **[Windows 10 Activation Guide](https://rentry.co/ActivateWin10)**, [2](https://redd.it/er3fon), [3](https://msguides.com/), [4](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation)
-* **[Windows Activation Scripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation_scripts)** 
+* **[Windows Activation Scripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation_scripts)** - *Windows / Office Activation*
 * **[WizTree](https://wiztreefree.com/)**, [WinDirStat](https://windirstat.net/), [diskover](https://github.com/shirosaidev/diskover), [baobab](https://github.com/GNOME/baobab), [2](https://gitlab.gnome.org/GNOME/baobab), [HDSentinel](https://www.hdsentinel.com/) or [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - *Disk Usage Analyzer*
 * [Windows Optimization Guide](https://rentry.co/fwt#optimize-offline) - *Friendly Windows Thread / [Video](https://youtu.be/pJTCwSX9Ym8)* 
 * [Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)
@@ -1110,6 +1109,7 @@ General Reading Sites*
 * [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) - *Analyze System Log Files* 
 * [DependecyWalker](https://www.dependencywalker.com/) or [Dependencies](https://github.com/lucasg/Dependencies) - *View Application Dependencies* 
 * [store.rg](https://store.rg-adguard.net/) - *Microsoft Store Link Generator* 
+* [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - *Identify why your PC isn't Windows 11 ready*
 
 ***
 
@@ -1141,6 +1141,7 @@ General Reading Sites*
 * **[File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - *Tool to Share / Sync Files*
 * **[File Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_download_managers)** - *Programs to help manage downloads*
 * **[File Conversion Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_conversion_tools)** - *Tools to convert files*
+* **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** - *Google Drive Tools Colab / [GitHub](https://github.com/biplobsd/OneClickRun) / [Features](https://i.imgur.com/hEHM7Vy.png)*
 * **[OpenWith](https://www.openwith.org/)** or [File.org](https://file.org/) - *Programs to Open any File Extension* 
 * **[TeamDrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_generators)** - *Create google teamdrives*
 * **[Onedrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)** - *Generate Microsoft 1tb Onedrives / Free Office 365* 
@@ -1311,12 +1312,8 @@ General Reading Sites*
 * [DS4Windows](http://ds4windows.com/) or [InputMapper](https://inputmapper.com/) - *DS4 Tool* 
 * [Lowkey](https://lowkey.gg/) - *Record / Screenshot Gameplay* 
 * [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
-* [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
-* [Nexus Mods](https://www.nexusmods.com/), [ZagruzkaMods](https://zagruzkamods.com/), [CurseForge](https://www.curseforge.com/) or [ModDB](https://moddb.com/) - *Game Mods* 
-* [Plutonium](https://plutonium.pw/) - *Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)* 
-* [IW4x / IW6x](https://xlabs.dev/) - *COD MW2 Mod Project* 
-* [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - *Battlefield Mod Projects*
 * [Project Era](https://erafn.glitch.me/#downloads) - *Play Old Fortnite Seasons*
+* [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
 * [tModLoader](https://www.tmodloader.net/) - *Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)*
 * [TEdit](http://binaryconstruct.com/games/tedit) - *View / Edit Terraria Maps*
 * [Terrasavr](https://yal.cc/r/terrasavr/) - *Terraria Character Editor*
@@ -1328,13 +1325,25 @@ General Reading Sites*
 * [Medal](https://medal.tv/) - *Nvidia Shadowplay for non Nicosia cards* 
 * [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - *Desktop Implementation of Steam's Mobile Authenticator* 
 * [Achievement Watcher](https://github.com/xan105/Achievement-Watcher) - *Achievement File Parser, Notifications & Playtime Tracker* 
-* [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - *Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)*
 * [How to Download and Play Flash Games](https://i.imgur.com/T6huIGF.png), [2](https://www.wikihow.com/Download-a-Flash-Game)
 * To Play old Shockwave Games Install [Adobe Shockwave](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html) & [K-Meleon Browser](http://kmeleonbrowser.org/)
 * [How To Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
 * [AltCtrls](https://altctrls.info/) - *Custom Controller Crafting Resources*
+* [Gamesoft](http://www.gamesoft.com/) - *Gaming News Feed Manager*
 
 *** 
+
+## ▷ Game Mods
+
+* **[ModDB](https://moddb.com/)**, [Nexus Mods](https://www.nexusmods.com/), [ZagruzkaMods](https://zagruzkamods.com/) or [CurseForge](https://www.curseforge.com/) - *Game Mods* 
+* [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
+* [Plutonium](https://plutonium.pw/) - *Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)* 
+* [IW4x / IW6x](https://xlabs.dev/) - *COD MW2 Mod Project* 
+* [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - *Battlefield Mod Projects*
+* [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - *Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)*
+* [tModLoader](https://www.tmodloader.net/) - *Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)*
+
+***
 
 ## ▷ Steam Tools
 

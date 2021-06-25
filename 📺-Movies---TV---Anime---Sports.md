@@ -154,7 +154,7 @@
 
 ## ▷ Search Hosts
 
-* **[Streaming Sites CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - *Streaming site CSE*
+* **[Streaming Sites CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)**
 * **[Video Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_search_sites)** - *Search sites similar to YouTube / [CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)*
 * **[How-to Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - *Obscure Film Hunting Guide*
 * **[FSAPI](https://fsapi.xyz/)** - *Search API, IMDb ids*
@@ -237,7 +237,7 @@
 
 ## ▷ Anime Streaming
 
-* **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) - *Search multiple sites at once*
+* **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
 * **[/r/AnimePiracy Index](https://piracy.moe/)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
 * **[9Anime](https://www12.9anime.to/)** or [9anime.ru](https://www12.9anime.ru/) - *Sub / Dub / [Mirrors](https://9anime.zone/) / [Use Filter](https://redd.it/c330dx)*
 * **[Anime Twist](https://twist.moe/)** - *Sub / [Discord](https://discord.gg/Ea3Mq9n)*

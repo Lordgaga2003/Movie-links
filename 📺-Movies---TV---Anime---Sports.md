@@ -210,7 +210,7 @@
 * [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) - *Interactive player for Black Mirror: Bandersnatch*
 * [ListenToAMovie](http://listentoamovie.com/) - *Listen to Movies* 
 * [Descriptive Audio of Movies / Shows](http://www.cheeseheadhosting.us/downloads/Descriptive%20Videos%20For%20The%20Blind/), [2](http://www.cheeseheadhosting.us/downloads.php?link=discriptive%20videos%20for%20the%20blind%20vault%202), [3](http://www.cheeseheadhosting.us/downloads.php?link=discriptive%20movies%20for%20the%20blind%20vault%203%202013%20and%20newer) - *For blind users* 
-* [NSFW Streaming Sites](https://saidit.net/s/freemediafuckyeah/wiki/index#wiki_nsfw_streaming) - *18+ / Account Required* 
+* [NSFW Streaming Sites](https://saidit.net/s/freemediafuckyeah/wiki/index) *18+ / Account Required*
 
 ***
 
@@ -709,6 +709,7 @@
 * [TV Chart](https://tvchart.benmiz.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - *TV Show Episode Ratings Graph*
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Greatest 100 Lists*
 * [ReelScary](http://www.reelscary.com/) - *Movies Rated by Scariness* 
+* [Based on the Book](https://www.mymcpl.org/books-movies-music/read/based-on-the-book) - *List of Movies Based on Books*
 * [What is My Movie?](https://www.whatismymovie.com/) - *Describe a film you remember / want to see*
 * [QuoDB](http://www.quodb.com/) - *Find Movies via Quotes*
 * [AniTrakt](https://anitrakt.huere.net/) - *Trakt / MyAnimeList Sync*
@@ -721,6 +722,7 @@
 * [arm-server](https://github.com/BeeeQueue/arm-server) - *Map Anime ID's between AniList, AniDB, MAL & Kitsu* 
 * [Chronology of Animation](http://www.animated-divots.net/chronst.html) - *Animation History / Index*
 * [Movie-Censorship](https://www.movie-censorship.com/) - *Compare Alternate Versions of Media* 
+* [MovieMap](http://www.themoviemap.com/), [ReelStreets](https://www.reelstreets.com/), [Movie-Locations](http://www.movie-locations.com/), [WhereDidTheyFilmThat](http://www.wheredidtheyfilmthat.co.uk/), [British-Film-Locations](http://www.british-film-locations.com/) - *Film Location Maps*
 * [GoGetSpoiled](https://gogetspoiled.com/), [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [Spollywood](https://www.spollywood.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - *Movie Spoilers* 
 
 ***

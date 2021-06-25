@@ -52,11 +52,8 @@
 * [pc_game_down](https://t.me/pc_game_down) - *Telegram*
 * [g4u](https://g4u.to/) - *Password: 404*
 * [ApunKaGames](https://www.apunkagames.biz/) 
-* [AllGamesForYou](https://agfy.co/) - *[Discord](https://discord.gg/KHYuPABbnP)*
-* [FreeGamesHub](https://freegameshub.co/) - *[Discord](https://discord.gg/8YZTkmGPra) / AGFY Uploads*
-* [Steam Cracked](https://steamcracked.co/) - *[Discord](https://discord.gg/mFSrMKjbQg) / AGFY Uploads*
-* [LibreGameWiki](https://libregamewiki.org/List_of_games) - *Free Open-Source Games* 
-* [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - *Freeware Games Index*
+* [FreeToGame](https://www.freetogame.com/games) or [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - *F2P Games*
+* [LibreGameWiki](https://libregamewiki.org/List_of_games) - *FOSS Games* 
 * [itch.io](https://itch.io/games/new-and-popular/featured/free) or [Game Jolt](https://gamejolt.com/games?price=free) - *Indie Games* 
 * [Open Source Game Clones](https://osgameclones.com/) - *Game Clones*
 * [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes) - *Game Remakes* 
@@ -223,6 +220,7 @@
 * **[retrogames.cc](https://www.retrogames.cc/)** - *Browser Emulator*
 * [ClassicReload](https://classicreload.com/) - *Browser Emulator*
 * [Free80sArcade](http://www.free80sarcade.com/) - *Browser Emulator*
+* [Retro Uprising](http://www.retrouprising.com/) - *Browser Emulator*
 * [Play Classic Games](https://playclassic.games/) - *Browser Emulator*
 * [Old Games Download](https://oldgamesdownload.com/) - *Roms*
 * [Classic Game Roms](https://sites.google.com/site/classicgameroms/) - *Roms*
@@ -244,6 +242,7 @@
 * [Classic Games](https://classicdosgames.com/) - *Classic & Retro Game Archive*
 * [Old Game Finer](http://www.oldgamesfinder.com/?) - *Classic Game Search Engine*
 * [The Interactive Fiction Page](http://www.cs.cmu.edu/~wsr/IF/) - *Interactive Fiction Games*
+* [Necromanthus](https://necromanthus.com/) - *3D Shockwave Games*
 * [BuildGDX](https://m210.duke4.net/) or [RAZE](https://github.com/coelckers/Raze/) - *Oldschool Shooter Engine / [Discord](https://discord.gg/zZw2eq3n7G)* 
 * [OpenRA](https://openra.net/) - *Command & Conquer Recreation* 
 * [Classic Warcraft 3 Installers](https://www.removeddit.com/r/Piracy/comments/ewdlnd/for_anyone_looking_for_the_actual_classic/) 
@@ -294,6 +293,7 @@
 * [Crazy Games](https://www.crazygames.com/)
 * [Nicky Case](https://ncase.me/) 
 * [Gamepix](https://www.gamepix.com/)
+* [MiniGames](https://www.minigames.com/)
 * [Game Top](https://www.gametop.com/online/index.html)
 * [Foddy](http://www.foddy.net/category/games/browser/)
 * [ALFY](https://www.alfy.com/)
@@ -305,6 +305,7 @@
 * [Disney LOL](https://lol.disney.com/games/)
 * [Lego Games](https://www.lego.com/en-us/kids/games)
 * [Friv](https://friv.com/), [2](https://web.archive.org/web/*/Friv.com)
+* [FlyOrDie](http://www.flyordie.com/) - *Multiplayer Browser Games*
 * [Ninjakiwi](https://ninjakiwi.com/) - *Browser Games / Bloons / Multiplayer*
 * [Games on GitHub](https://github.com/leereilly/games) - *GitHub Hosted Games*
 * [Nekogames](http://nekogames.jp/) - *Japanese Games* 
@@ -369,6 +370,7 @@
 * [AI Dungeon](https://play.aidungeon.io/main/landing) - *Text Adventure*
 * [A Dark Room](http://adarkroom.doublespeakgames.com/) - *Text Adventure*
 * [Addventure](http://addventure.com/addventure/) - *Text Adventure*
+* [The Never Ending Quest](https://www.sir-toby.com/extend-a-story/story-1/code/read.php) - *Text Adventure*
 * [Too Many Chefs](https://www.toomanychefs.party/) - *Text-Based Coop Cooking Game* 
 * [skribbl](https://skribbl.io/) or [Gartic](https://gartic.io/) - *Drawing / Guessing Game / Multiplayer*
 * [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - *Alchemy Game*
@@ -410,7 +412,7 @@
 * [FindTwin](https://github.com/klimaleksus/FindTwin) - *Find the Twins* 
 * [Find the Invisible Cow](http://www.findtheinvisiblecow.com/) - *Find an Invisible Cow with Sound*
 * [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - *Solve a Rubix Cube* 
-* [Board Game Online](https://www.boardgame-online.com/) or [FunNode](https://www.funnode.com/) - *Board Games* 
+* [Board Game Online](https://www.boardgame-online.com/), [Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games) or [FunNode](https://www.funnode.com/) - *Board Games* 
 * [Alternate History Simulator](http://abw.blue/) - *Write alternate history* 
 * [NationStates](https://www.nationstates.net/) - *Nation Simulation Game* 
 * [247 Free Poker](https://www.247freepoker.com/) - *Simple Poker Online* 
@@ -448,7 +450,6 @@
 # ► Request Games
 
 * **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)**
-* [AllGames4You](https://agfy.co/request-game-updates/)
 * [cyberphoenix](http://www.cyberphoenix.org/forum/forum/54-requests/)
 * [TehParadox](https://www.tehparadox.net/requests/)
 * [pirates-forum](https://pirates-forum.org/Forum-Requests) 

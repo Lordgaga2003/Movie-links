@@ -350,7 +350,6 @@
 * [SimplyScripts](https://www.simplyscripts.com/) or [Scripts.com](https://scripts.com/) - *Movie / TV Scripts* 
 * [Kialo]( https://www.kialo.com/) - *Popular Debates / Discussion* 
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
-* [NSFW Reading Sites](https://saidit.net/s/freemediafuckyeah/wiki/index#wiki_nsfw_images_.2F_reading) - *18+ / Account Required* 
 
 ***
 
@@ -465,13 +464,16 @@
 * [Media History](https://mediahistoryproject.org/) - *Books / Magazines*
 * [corpus scriptorum latinorum](https://www.forumromanum.org/literature/authors_a.html) - *Latin Literature*
 * [EarlyModernTexts](http://www.earlymoderntexts.com) - *Historical Texts*
-* [Early English Books](https://quod.lib.umich.edu/e/eebogroup/) - *Historical Texts / Books* 
+* [Early English Books](https://quod.lib.umich.edu/e/eebogroup/) - *Historical Texts / Books*
+* [Making of America](https://quod.lib.umich.edu/m/moa/ ) - *American History*
 * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) - *Classic / Greek / Roman / Arabic / Germanic*
 * [Athena](http://athena.unige.ch/athena/) - *Greek / History*
 * [Sarantakos](https://www.sarantakos.com/keimena.html) - *Greek (Modern)*
 * [Project Laurens Jz Coster](https://cf.hum.uva.nl/dsp/ljc/) - *Classic / Dutch*
 * [biblior](https://biblior.net/) - *French / English / Geography / History / Tales*
 * [ In Parenthesis](https://www.yorku.ca/inpar/) - *Historic Tales*
+* [Folk Texts](http://www.pitt.edu/~dash/folktexts.html) - *Historical Folklore / Mythology*
+* [FairyTalez](https://fairytalez.com/) - *Historical Folklore / Fairy Tales*
 * [Italian Women Writers](http://artflsrv02.uchicago.edu/cgi-bin/philologic/navigate.pl?iww.0) - *Classic / Italian*
 * [CELT](https://celt.ucc.ie/) - *Irish / History / Literature / Politics*
 * [textfiles.com](http://textfiles.com/) - *1980's Text File Index*

@@ -67,7 +67,7 @@
 
 * **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - *Podcasts & Radio*
 * **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - *Podcasts*
-* [Radio Streaming Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_radio_streaming_sites) - *Radio*
+* [Radio Streaming Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_radio_streaming_sites) - *Radio Sites*
 * [Listen Notes](https://www.listennotes.com/) - *Podcast Search Engine* 
 * [iHeartRadio](https://www.iheart.com/) - *Podcasts / Radio*
 * [Mixcloud](https://www.mixcloud.com/) - *Podcasts / Radio*

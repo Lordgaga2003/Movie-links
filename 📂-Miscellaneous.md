@@ -239,6 +239,7 @@
 * [The More You Know](https://marckoxx.github.io/) - *Site / Tool Index*
 * [GoodSites](https://www.goodsites.tech/) -  *Site / Tool Index* 
 * [Peelopaalu](https://peelopaalu.neocities.org/) - *Site / Tool Index*
+* [RefDesk](https://www.refdesk.com/facts.html) - *Site / Tool Index*
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
 * [Mostly Free](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - *Site / Tool Index*
 * [iBiblio](https://www.ibiblio.org/) - *Site / Tool Index* 

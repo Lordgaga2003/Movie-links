@@ -154,8 +154,8 @@
 
 ## ▷ Search Hosts
 
-* **[Streaming Sites Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - *Streaming site CSE*
-* **[Video Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_search_sites)** - *Search sites similar to YouTube*
+* **[Streaming Sites CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - *Streaming site CSE*
+* **[Video Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_search_sites)** - *Search sites similar to YouTube / [CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)*
 * **[How-to Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - *Obscure Film Hunting Guide*
 * **[FSAPI](https://fsapi.xyz/)** - *Search API, IMDb ids*
 * **[IMDbStream](https://imdbstream.xyz/)** - *Search API, IMDb ids*
@@ -220,7 +220,7 @@
 
 # ► TV Streaming
 
-* **[TV Streaming Sites Search](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)**
+* **[TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)**
 * **[Noxx](https://noxx.is)** - *TV*
 * **[Rinzry](https://rinzry.stream/)** - *TV / Anime / [Request](https://discord.com/invite/XBGm36RWEs)*
 * **[GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search)** - *TV / Anime*
@@ -237,7 +237,7 @@
 
 ## ▷ Anime Streaming
 
-* **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [Anime Streaming CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) - *Search multiple sites at once*
+* **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) - *Search multiple sites at once*
 * **[/r/AnimePiracy Index](https://piracy.moe/)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
 * **[9Anime](https://www12.9anime.to/)** or [9anime.ru](https://www12.9anime.ru/) - *Sub / Dub / [Mirrors](https://9anime.zone/) / [Use Filter](https://redd.it/c330dx)*
 * **[Anime Twist](https://twist.moe/)** - *Sub / [Discord](https://discord.gg/Ea3Mq9n)*
@@ -439,7 +439,7 @@
 
 # ► Download Sites
 
-* **[Video Download Sites Search](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** + [Video Download Sites 2](https://cse.google.com/cse?cx=89f2dfcea452fc451)
+* **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451)
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "video"*
 * **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - *Download videos from streaming sites*
 * **[pahe.ph](http://pahe.ph/)** - *Movies / TV / Anime / HD / [Discord](https://discord.gg/33P8hpR)*
@@ -547,7 +547,7 @@
 ## ▷ Anime Downloading
 
 * **[/r/AnimePiracy Index](https://piracy.moe/)** - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
-* **[Anime Download Sites Search](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
+* **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
 * **[AnimeKaizoku](https://animekaizoku.com/)**
 * **[hi10anime](https://hi10anime.com/)**
 * **[AnimeBatchDDL](https://animebatchddl.wordpress.com/)** - *[Discord](https://discord.gg/h5pGByTZ9Z) / [Drive](https://animebatchddl.code-geass.workers.dev/0:/), [2](https://animebatchddl.lelouch-vi-britannia.workers.dev/0:/), [3](https://animebatchddl.seisei-ruten.workers.dev/0:/), [4](https://animebatchddl.lelouch-lamperouge.workers.dev/0:/)*
@@ -619,7 +619,7 @@
 # ► Torrent Sites
 
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - *Get a VPN before torrenting*
-* **[Video Torrent Sites Search](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**
+* **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "video"*
 * **[TopNow](http://topnow.se/)** - *Movies / [Discord](https://discord.gg/WHYmgeB)*
 * **[EZTV](https://eztv.re/)** - *TV / Anime*
@@ -645,7 +645,7 @@
 ## ▷ Anime Torrenting 
 
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - *Get a VPN before torrenting*
-* **[Anime Torrent Sites Search](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)**
+* **[Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)**
 * **[nyaa](https://nyaa.si/)**, [2](http://nyaa.iss.one/), [3](http://meowinjapanese.cf/) - *[Scrape Tool](https://github.com/natanbc/nyaasi)*
 * **[Anidex](https://anidex.info/)**
 * **[Hi10Anime](https://hi10anime.com/)**

@@ -361,7 +361,7 @@
 * **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - *NBA / NFL*
 * **[WebOas.is TV](http://streamwat.ch/)** - *TV / Sports*
 * [Stream2Watch](https://www.stream2watch.is/) - *TV / Sports*
-* [Awesome IPTV](https://github.com/iptv-org/awesome-iptv), [2](https://github.com/iptv-org/iptv) - IPTV Resources / [Free IPTV Trick](https://iptvtrick.blogspot.com/2020/04/the-iptv-exploit.html) / [Kodi app](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client)
+* [Awesome IPTV](https://github.com/iptv-org/awesome-iptv), [2](https://github.com/iptv-org/iptv) - IPTV Resources / [Kodi app](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client)
 * [m3u Index](https://m3u4u.com/), [HLSCat](https://hlscat.com/), [2](https://iptvcat.net/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Plex + Emby Proxy](https://xteve.de/)
 * [123TV](http://123tvnow.com/) - *TV / Sports*
 * [streamlive](https://www.streamlive.to/) - *TV / Sports*

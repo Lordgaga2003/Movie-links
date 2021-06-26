@@ -306,6 +306,8 @@
 * [Lego Games](https://www.lego.com/en-us/kids/games)
 * [Friv](https://friv.com/), [2](https://web.archive.org/web/*/Friv.com)
 * [FlyOrDie](http://www.flyordie.com/) - *Multiplayer Browser Games*
+* [JKLM.FUN](https://jklm.fun/) - *Multiplayer Browser Games*
+* [JackBox.tv](https://jackbox.tv/) - *Multiplayer Browser Games*
 * [Ninjakiwi](https://ninjakiwi.com/) - *Browser Games / Bloons / Multiplayer*
 * [Games on GitHub](https://github.com/leereilly/games) - *GitHub Hosted Games*
 * [Nekogames](http://nekogames.jp/) - *Japanese Games* 

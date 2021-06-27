@@ -837,7 +837,7 @@ General Reading Sites*
 * [iTunes-Discord-RP](https://github.com/kkevinm/iTunes-Discord-RP) - *iTunes Rich Presence* 
 * [Foo_Discord_Rich](https://github.com/TheQwertiest/foo_discord_rich) - *FooBar2000 Rich Presence*
 * [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) - *MPV Rich Presence* 
-* [MPC-DiscordRPC)](https://github.com/angeloanan/MPC-DiscordRPC) - *MPC Rich Presence*
+* [MPC-DiscordRPC](https://github.com/angeloanan/MPC-DiscordRPC) - *MPC Rich Presence*
 * [Discord.io](https://discord.io/) or [dsc.gg](https://dsc.gg/) - *Create Custom Discord Invites*
 * [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot) - *1337x Discord Bot / Selhosted* 
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter), [Discord History Tracker](https://dht.chylex.com/), [discord-archiver](https://github.com/nektro/discord-archiver) or [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper) - *Archive / Export Discord Chats* 

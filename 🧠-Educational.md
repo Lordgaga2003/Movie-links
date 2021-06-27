@@ -64,17 +64,17 @@
 
 ## ▷ Documentaries
 
-* [LearnOutLoud](https://www.learnoutloud.com/) - *Documentaries / Courses*
-* [Top Documentary Films](https://topdocumentaryfilms.com/) - *Documentaries*
-* [Ihavenotv](https://ihavenotv.com/) - *Documentaries*
-* [Documentary Streaming](https://documentary-streaming.com/) - *Documentaries* 
-* [Media Burn Archive](https://mediaburn.org/) - *Documentaries* 
-* [DocumentaryHeaven](https://documentaryheaven.com/) - *Documentaries*
-* [Documentary Mania](https://www.documentarymania.com/) - *Documentaries* 
-* [ThoughtMaybe](https://thoughtmaybe.com/) - *Documentaries* 
-* [Folkstreams](https://www.folkstreams.net/) - *Documentaries* 
-* [Films For Action](https://www.filmsforaction.org/) - *Documentaries* 
-* [Documentary Addict](https://documentaryaddict.com/) - *YouTube Documentaries*
+* [LearnOutLoud](https://www.learnoutloud.com/)
+* [Top Documentary Films](https://topdocumentaryfilms.com/) 
+* [Ihavenotv](https://ihavenotv.com/) 
+* [Documentary Streaming](https://documentary-streaming.com/)
+* [Media Burn Archive](https://mediaburn.org/)
+* [DocumentaryHeaven](https://documentaryheaven.com/)
+* [Documentary Mania](https://www.documentarymania.com/) 
+* [ThoughtMaybe](https://thoughtmaybe.com/) 
+* [Folkstreams](https://www.folkstreams.net/) 
+* [Films For Action](https://www.filmsforaction.org/) 
+* [Documentary Addict](https://documentaryaddict.com/)
 * /r/Documentaries 
 
 ***
@@ -142,9 +142,9 @@
 
 ## ▷ Documentaries
 
-* [Documentary.su](https://documentary.su/) - *Documentaries / Forum*
-* [Docuwiki](https://docuwiki.net/) - *Documentaries / [Emule required](https://www.emule-project.net/)*
-* [Open-Video](https://open-video.org/) - *Courses / Documentaries*
+* [Documentary.su](https://documentary.su/)
+* [Docuwiki](https://docuwiki.net/) - *[Emule required](https://www.emule-project.net/)*
+* [Open-Video](https://open-video.org/)
 
 ***
 
@@ -174,8 +174,8 @@
 
 ## ▷ Documentaries
 
-* [Videoneat](https://www.videoneat.com/) - *Documentaries*
-* [MVGroup](https://forums.mvgroup.org/) - *Documentaries*
+* [Videoneat](https://www.videoneat.com/)
+* [MVGroup](https://forums.mvgroup.org/) 
 
 ***
 
@@ -207,10 +207,17 @@
 
 * **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - *Educational Games Index*
 * **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
-* [Starfall](https://www.starfall.com/) - *Educational Games*
-* [Funbrain](https://www.funbrain.com/games) - *Educational Games*
-* [Cool Math Games](https://www.coolmathgames.com/) - *Math Games* 
-* [iCivics](https://www.icivics.org/games) - *Browser Games about U.S. Laws*
+* [Starfall](https://www.starfall.com/)
+* [ABCya!](https://www.abcya.com/)
+* [Funbrain](https://www.funbrain.com/games)
+* [Prongo](https://prongo.com/)
+* [RoomRecess](https://www.roomrecess.com/)
+* [TurtleDiary](https://www.turtlediary.com/)
+* [SheppardSoftware](https://www.sheppardsoftware.com/web_games_menu.htm)
+* [Cool Math Games](https://www.coolmathgames.com/)
+* [The Problem Site](https://www.theproblemsite.com/) - *Problems / Puzzles/ Games*
+* [PuzzlaMaker](http://www.vtaide.com/png/puzzles.htm) - *Educational Puzzles*
+* [iCivics](https://www.icivics.org/games) - *U.S. Law Learning Games*
 
 ***
 
@@ -319,6 +326,9 @@
 * [amrita olabs](https://amrita.olabs.edu.in/) - *Science Practicals / Theory / Animations / Simulations* 
 * [Get Unstuck](https://socratic.org/) - *Homework Answers / Help* 
 * [Quizlet](https://quizlet.com/) - *Quizzes / Study Material*
+* [TurtleDiary](https://www.turtlediary.com/) - *Quizzes / Lessons / Games*
+* [The Problem Site](https://www.theproblemsite.com/) - *Problems / Puzzles/ Games*
+* [LateralPuzzles](http://www.lateralpuzzles.com/) - *Lateral Thinking Puzzles*
 * [OpenSyllabus](https://opensyllabus.org/) or [SyllabusFinder](https://www.syllabusfinder.com/) - *Syllabus Search / Info*
 * [Edpuzz Ninja](https://edpuzz.ninja/) - *Educational Puzzle Solving Tool* 
 * [Slader](https://www.slader.com/) - *Homework Answers and Solutions*

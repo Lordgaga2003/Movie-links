@@ -53,7 +53,7 @@
 * [Form History Control](https://stephanmahieu.github.io/fhc-home/) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - *Formfiller Manager* 
 * [History Master](https://github.com/jiacai2050/history-master) - *Vizualize & Sync Browser History* 
 * [xBrowserSync](https://www.xbrowsersync.org/) - *Browser Syncing* 
-* [Midnight Lizard](https://midnight-lizard.org/), [Stylish](https://userstyles.org/), [Stylus](https://add0n.com/stylus.html) or [UserStyles](https://userstyles.world/) - *Custom Website Color Schemes*  
+* [Midnight Lizard](https://midnight-lizard.org/), [Stylus](https://add0n.com/stylus.html), [Stylish](https://userstyles.org/) / [2](https://uso.kkx.one/) or [UserStyles](https://userstyles.world/) - *Custom Website Color Schemes*  
 * [Night Mode](https://mybrowseraddon.com/night-mode.html) - *Adapts Display Color to Time of Day*
 * [Screen Color Temperature](https://mybrowseraddon.com/screen-color-temperature.html) - *Adjust Screen Color Temperature*
 * [Font Changer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_webfont_changer) - *WebFont Changer* 
@@ -237,6 +237,7 @@
 * [cata-list](https://cata-list.github.io/) - *Site / Tool Index* 
 * [Prospector](https://www.prospector.cz/) - *Site / Tool Index* 
 * [The More You Know](https://marckoxx.github.io/) - *Site / Tool Index*
+* [WebOrama](http://www.petergh.f2s.com/) - *Site / Tool Index*
 * [GoodSites](https://www.goodsites.tech/) -  *Site / Tool Index* 
 * [Peelopaalu](https://peelopaalu.neocities.org/) - *Site / Tool Index*
 * [RefDesk](https://www.refdesk.com/facts.html) - *Site / Tool Index*
@@ -244,6 +245,7 @@
 * [Mostly Free](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - *Site / Tool Index*
 * [iBiblio](https://www.ibiblio.org/) - *Site / Tool Index* 
 * [Acme](http://www.acme.com/) - *Site / Tool Index* 
+* [NYPL Best of the Web](https://www.nypl.org/collections/nypl-recommendations/best-of-web) - *Site Index*
 * [Free Dev stuff](https://freestuff.dev/) - *List of free tools, stuff, & services for developers*
 * [ReverseEagle](https://developers.reverseeagle.org/) - *Privacy alternatives to software for developers*
 * [Simple Tools](https://simpletools.info/doku.php) - *Simple Programs Index* 
@@ -254,6 +256,7 @@
 * [Wikimedia](https://www.wikimedia.org/) - *All Wikimedia Sources*  
 * [Clone Wars](https://gourav.io/clone-wars) - *Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars)* 
 * [Appscope](https://appsco.pe/) or [Electron](https://www.electronjs.org/apps) - *Web App Index*
+* [CloudTrip](http://cloudtrip.com/) - *Cloud App Index*
 * [State of the DApps](https://www.stateofthedapps.com/) - *Blockchain App Index* 
 * [Pointless Sites](https://www.pointlesssites.com/) - *Pointless Site Index*
 * [DeepWebLinks](https://deepweblinks.net/directories/) - *Deep Web Directories*

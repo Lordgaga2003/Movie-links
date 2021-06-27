@@ -1056,10 +1056,12 @@ General Reading Sites*
 * [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit) - *Presentation Utility / Zoom Tool*
 * [Deskreen](http://deskreen.com/) - *Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen)* 
 * [JumpShare](https://jumpshare.com/) - *File, Screenshot & Video Sharing* 
-* [AnyDesk](https://anydesk.com/), [Parsec](https://parsec.app/) [TeamViewer](https://www.teamviewer.com/en-us/) or [NoMachine](https://www.nomachine.com/) - *Remote Desktop Clients*
-* [WindowsRDP](https://github.com/itznik/WindowsRDP) - *Free Remote Desktop Protocol / [Guide](https://rentry.co/WindowsRDP)*
+* [AnyDesk](https://anydesk.com/), [Parsec](https://parsec.app/), [TeamViewer](https://www.teamviewer.com/en-us/) or [NoMachine](https://www.nomachine.com/) - *Remote Desktop Clients*
+* [WindowsRDP](https://github.com/itznik/WindowsRDP) - *Free RDP / [Guide](https://rentry.co/WindowsRDP)*
+* [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - *Free Ubuntu VNC*
 * [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - *Free Google Colab Code Server & RDP*
 * [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) - *Free Google Colab VPS on 25GB RAM*
+
 * [mRemoteNG](https://mremoteng.org/) - *Remote Connections Manager* 
 * [Collab-VM](http://computernewb.com/collab-vm/) - *Control Collaborative Virtual Machines* 
 * [Chocolatey](https://chocolatey.org/) - *Windows Package Manager* 
@@ -1172,6 +1174,7 @@ General Reading Sites*
 * [MegaBox](https://github.com/ALIILAPRO/megabox) - *Get Direct Links from Mega* 
 * [Mega-to-Google-Drive](https://github.com/cheems/Mega-to-Google-Drive) - *Transfer Files from Mega to GDrive*
 * [Torrent2Drive](https://t.me/torrent_2_drive) - *Transfer Files from DDL Sites to GDrive*
+* [GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) - *GoIndex to GDrive Downloader*
 * [gd-utils](https://github.com/roshanconnor123/gd-utils) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - *Google Drive Limit Bypass* 
 * [Google-Drive-Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index), [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - *Google Drive Index*
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - *Host Direct Links on GDrive* 
@@ -1330,6 +1333,7 @@ General Reading Sites*
 * [How To Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
 * [AltCtrls](https://altctrls.info/) - *Custom Controller Crafting Resources*
 * [Gamesoft](http://www.gamesoft.com/) - *Gaming News Feed Manager*
+* [WordPlays](https://www.wordplays.com/) - *Cheat at Scrabble, Words with Friends & Crossword Puzzles*
 
 *** 
 

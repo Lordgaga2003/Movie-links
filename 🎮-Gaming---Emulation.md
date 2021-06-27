@@ -66,7 +66,8 @@
 * [Macgamefiles](http://www.macgamefiles.com/) - *Mac Games*
 * [de.linuxgame.cn](https://de.linuxgame.cn/) - *Linux Games* 
 * [The-Eye Linux](https://the-eye.eu/public/Games/Linux/) - *Linux Games*
-* [Gload](https://gload.cc/) - *German DDL site*
+* [The KDE Games Center](https://games.kde.org/) - *Linux Games*
+* [Gload](https://gload.cc/) - *Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [GoodOldDownloads Backup](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view)
 * [PCGames-Download Backup](https://1fichier.com/?hy7lsbep6bqtu4loy1j6)
 * [CsWaRzOnE](https://www.cswarzone.com/) - *Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)*
@@ -306,9 +307,11 @@
 * [Disney Games](https://lol.disney.com/games/), [2](https://disneynow.com/all-games)
 * [Lego Games](https://www.lego.com/en-us/kids/games)
 * [Friv](https://friv.com/), [2](https://web.archive.org/web/*/Friv.com)
+* [PlayingCards](https://playingcards.io/) - *Multiplayer Browser Games*
 * [FlyOrDie](http://www.flyordie.com/) - *Multiplayer Browser Games*
 * [JKLM.FUN](https://jklm.fun/) - *Multiplayer Browser Games*
 * [JackBox.tv](https://jackbox.tv/) - *Multiplayer Browser Games*
+* [Playok](https://www.playok.com/) - *Multiplayer Browser Games*
 * [Ninjakiwi](https://ninjakiwi.com/) - *Browser Games / Bloons / Multiplayer*
 * [Games on GitHub](https://github.com/leereilly/games) - *GitHub Hosted Games*
 * [Nekogames](http://nekogames.jp/) - *Japanese Games* 
@@ -433,6 +436,7 @@
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - *Online Jigsaw Puzzles*
 * [Menneske](https://www.menneske.no/eng/) - *Number Puzzles* 
 * [BestCrosswords](https://www.bestcrosswords.com/), [USAToday](https://games.usatoday.com/games/uclick-crossword) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - *Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)*
+* [Shooty Ship Pumpkin Smash](https://www.thepointless.com/apps/shooty-ship-pumpkin-smash/index.html) - *Shoot Pumpkins*
 * [How to Download and Play Flash Games](https://i.imgur.com/T6huIGF.png), [2](https://www.wikihow.com/Download-a-Flash-Game)
 * To Play old Shockwave Games Install [Adobe Shockwave](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html) & [K-Meleon Browser](http://kmeleonbrowser.org/)
 * [Educational Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_games)

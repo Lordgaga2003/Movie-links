@@ -417,7 +417,7 @@
 * [r.sine.com](https://r.sine.com/index) - *Random Images on Refresh, Some NSFW*
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - *Create a Dancing Character* 
 * [Gifypet](https://gifypet.neocities.org/) - *Create Your Own Cute Pet* 
-* [Akinator](https://en.akinator.com/) - *20 Questions for characters and people*
+* [20Q](http://www.20q.net/) or [Akinator](https://en.akinator.com/) - *20 Questions*
 * [70's TV Simulator](https://www.my70stv.com/), [80's](https://www.my80stv.com/), [90's](https://www.my90stv.com/) or [00's TV Simulator](https://www.my00stv.com/)
 * [Neave.tv](https://neave.tv/) - *TV without context* 
 * [The Office Stare Machine](http://theofficestaremachine.com/) - *The Office Video Emotions* 
@@ -525,7 +525,9 @@
 * [BirdSounds](https://experiments.withgoogle.com/ai/bird-sounds/view/) - *Thousands of Bird Sounds Visualized* 
 * [BumpWorthy](https://www.bumpworthy.com/) - *Adult Swim Bumps* 
 * [Google Doodles](https://www.google.com/doodles?q=interactive) - *Interactive Google Doodles*
+* [Word Blanks](https://www.wordblanks.com/) - *Online Mad Libs*
 * [Fact Directory](https://fact.directory/) - *Facts & Trivia For Every Topic* 
+* [Fun Trivia](https://www.funtrivia.com/) - *Trivia*
 * [theOtaku](http://theotaku.com/quizzes) - *Anime Personality Quizzes* 
 * [Three.js](https://threejs.org/) - *JavaScript 3D library* 
 * [Pokémon Fusion](https://pokemon.alexonsager.net/) - *Fuse Pokémon*

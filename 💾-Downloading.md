@@ -207,6 +207,8 @@
 * [Softpedia](https://www.softpedia.com/) - *Software* 
 * [Enderman's Website](https://malwat.ch/software) - *Software* 
 * [Software Informer](https://software.informer.com/) - *Software* 
+* [FreewareWeb](http://www.freewareweb.com/) - *Software*
+* [Freeware Directory](http://www.freewaredirectory.net/) - *Software*
 * [LO4D](https://www.lo4d.com/) - *Software* 
 * [ListOfFreeWare](https://listoffreeware.com/) - *Software*  
 * [Downloadastro](https://en.downloadastro.com/) - *Software* 

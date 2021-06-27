@@ -294,6 +294,7 @@
 * [Nicky Case](https://ncase.me/) 
 * [Gamepix](https://www.gamepix.com/)
 * [MiniGames](https://www.minigames.com/)
+* [Gaming Wonderland](https://www.gamingwonderland.com/)
 * [Game Top](https://www.gametop.com/online/index.html)
 * [Foddy](http://www.foddy.net/category/games/browser/)
 * [ALFY](https://www.alfy.com/)
@@ -302,7 +303,7 @@
 * [Flash by Night](http://flashbynight.com/) 
 * [Cartoon Network Games](https://www.cartoonnetwork.com/games/index.html)
 * [WBKidsGo](https://www.wbkidsgo.com/)
-* [Disney LOL](https://lol.disney.com/games/)
+* [Disney Games](https://lol.disney.com/games/), [2](https://disneynow.com/all-games)
 * [Lego Games](https://www.lego.com/en-us/kids/games)
 * [Friv](https://friv.com/), [2](https://web.archive.org/web/*/Friv.com)
 * [FlyOrDie](http://www.flyordie.com/) - *Multiplayer Browser Games*
@@ -337,8 +338,10 @@
 * [AllBad.Cards](https://allbad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - *Cards Against Humanity Online* 
 * [Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards) - *Card Games Index*
 * [WorldOfCardGames](https://worldofcardgames.com/) - *Card Games*
+* [Mah-Jongg](https://www.mah-jongg.ch/) - *Mahjongg Solitaire Games*
 * [Mexican Train](https://mexicantrain.online/) - *Domino Train Game*
 * [SlaveHack2](http://slavehack2.com/) - *Hacking Game*
+* [GameKnot Chess](https://gameknot.com/) - *Multiplayer Chess*
 * [Chesses](https://pippinbarr.github.io/chesses/) - *Multiple Styles of Chess* 
 * [lichess](https://lichess.org/), [WebChess](http://chess.delorie.com/) or [Chess.com](https://www.chess.com/) - *Chess Platform* 
 * [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - *1k Chess Game* 
@@ -367,12 +370,8 @@
 * [ConnectTheStars](https://connectthestars.xyz/) - *Connect Stars through Movies*
 * [Blaseball](https://www.blaseball.com/) - *Odd Baseball Simulation Game* 
 * [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) - *Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)*
-* [iFiction](https://www.ifiction.org/) - *Text Adventure Index*
-* [Pac-Txt](http://www.pactxt.com/) - *Pac-Man Themed Text Adventure*
-* [AI Dungeon](https://play.aidungeon.io/main/landing) - *Text Adventure*
-* [A Dark Room](http://adarkroom.doublespeakgames.com/) - *Text Adventure*
-* [Addventure](http://addventure.com/addventure/) - *Text Adventure*
-* [The Never Ending Quest](https://www.sir-toby.com/extend-a-story/story-1/code/read.php) - *Text Adventure*
+* [Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures) - *Interactive Text Adventures*
+* [Amazeworld](http://www.amazeworld.com/) - *Interactive Webmazes*
 * [Too Many Chefs](https://www.toomanychefs.party/) - *Text-Based Coop Cooking Game* 
 * [skribbl](https://skribbl.io/) or [Gartic](https://gartic.io/) - *Drawing / Guessing Game / Multiplayer*
 * [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - *Alchemy Game*
@@ -408,24 +407,32 @@
 * [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - *Survive Waves of UFOs* 
 * [Doodle Cricket](https://doodlecricket.github.io/index.html#/) - *Play simplified cricket as a cricket* 
 * [Impossible Rush](http://tanksw.com/impossible-rush/) - *Reflex Testing Game*
-* [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) - *Incremental Clicker*   
+* [Incremental Games Plaza](https://plaza.dsolver.ca/) or [Almost Idle](http://almostidle.com/) - *Incremental Games Index*
+* [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](http://orteil.dashnet.org/experiments/cookie/), [WarClicks](https://warclicks.com/), [Merry Clickmas](http://www.digitalchestnut.com/merryclickmas/) - *Incremental Clicker*   
 * [Piccolo](https://piccolo.click/web/) - *Othello AI* 
 * [PlayTicTacToe](https://playtictactoe.org/) - *Tic-Tac-Toe* 
 * [FindTwin](https://github.com/klimaleksus/FindTwin) - *Find the Twins* 
 * [Find the Invisible Cow](http://www.findtheinvisiblecow.com/) - *Find an Invisible Cow with Sound*
 * [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - *Solve a Rubix Cube* 
 * [Board Game Online](https://www.boardgame-online.com/), [Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games) or [FunNode](https://www.funnode.com/) - *Board Games* 
-* [Alternate History Simulator](http://abw.blue/) - *Write alternate history* 
+* [KDice](http://www.kdice.com/) - *Multiplayer Dice War*
+* [Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee) - *Yahtzee Sites Collection*
+* [GPRO](https://www.gpro.net/gb/gpro.asp) - *Multiplayer F1 Manager Game*
+* [Miniconomy](https://www.miniconomy.com/) - *Multiplayer Economy Game*
+* [Alternate History Simulator](http://abw.blue/) - *Write Alternate History* 
 * [NationStates](https://www.nationstates.net/) - *Nation Simulation Game* 
+* [Football War Room](http://www.footballwarroom.com/) - *Football Ownership Simulator*
 * [247 Free Poker](https://www.247freepoker.com/) - *Simple Poker Online* 
 * [Cookie Consent Speed.Run](https://cookieconsentspeed.run/) - *Cookie Disabling Game*
 * [CandyBox](https://candybox2.github.io/) - *Candy Eating Game* 
 * [BTShip](https://github.com/hairarrow/btship) - *Typescript Boat Game*
+* [Maze](https://www.epgsoft.com/maze/) - *Maze Generator*
 * [Sokoban](https://suppilulemur.neocities.org/) - *Box Moving Puzzle Game / Zelda-Themed*
 * [Blocks](https://theblocks.netlify.app/) - *Puzzle Game* 
 * [Game about Squares](http://gameaboutsquares.com/) - *Puzzle Game*
+* [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - *Online Jigsaw Puzzles*
 * [Menneske](https://www.menneske.no/eng/) - *Number Puzzles* 
-* [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - *Regex Based Crossword Puzzle*
+* [BestCrosswords](https://www.bestcrosswords.com/), [USAToday](https://games.usatoday.com/games/uclick-crossword) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - *Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)*
 * [How to Download and Play Flash Games](https://i.imgur.com/T6huIGF.png), [2](https://www.wikihow.com/Download-a-Flash-Game)
 * To Play old Shockwave Games Install [Adobe Shockwave](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html) & [K-Meleon Browser](http://kmeleonbrowser.org/)
 * [Educational Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_games)

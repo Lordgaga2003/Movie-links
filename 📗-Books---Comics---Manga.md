@@ -601,7 +601,7 @@
 * **[Wikipedia](https://www.wikipedia.org/)** - *Encyclopedia*
 * **[Wiktionary](https://en.wiktionary.org)** or [EtymOnline](https://www.etymonline.com/) - *Etymologies*
 * **[Wikiquote](https://en.wikiquote.org)** - *Quote database*
-* **[UrbanDictionary](https://www.urbandictionary.com/)** or [Slangit](https://slangit.com/) - *Slang Word / Phrase Dictionary*
+* **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - *Slang Word / Phrase Dictionary*
 * [Webopedia](https://www.webopedia.com/) - *Tech Dictionary*
 * [WordReference](https://www.wordreference.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi Language Dictionary Index*
@@ -609,6 +609,7 @@
 * [Britannica](https://www.britannica.com/) - *Encyclopedia*
 * [Encyclopedia](https://www.encyclopedia.com/) - *Encyclopedia*
 * [Abbreviations](https://www.abbreviations.com/) - *Abbreviations* 
+* [Chat Words Dictionary](https://chatworddictionary.com/) - *Chat Abbreviations*
 * [Fandom](https://www.fandom.com/) - *Wiki Hosting Service* 
 * [Wolfram Alpha](https://www.wolframalpha.com/) - *Searchable Knowledgebase*
 * [Dictionary](https://www.dictionary.com/) - *Dictionary / Thesaurus*
@@ -617,6 +618,7 @@
 * [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - *Search for Words Using Their Meanings* 
 * [Tip of my Tounge](https://chir.ag/projects/tip-of-my-tongue/) - *Find Words you Can't Remember*
 * [TheIdioms](https://www.theidioms.com/) - *Idiom Dictionary* 
+* [Lexipedia](http://www.lexipedia.com/) - *Word Connections*
 * [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/) - *Dictionary of Sorrows* 
 * [TagDef](https://tagdef.com/en/) - *Social Media Tag Dictionary* 
 * [KnowYourMeme](https://knowyourmeme.com/) - *Meme Database*

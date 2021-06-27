@@ -612,6 +612,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [StockBrowser](https://stackbrowser.com/) - *Multi Web App Browser*
 * [Tripgen](https://orph.link/tripgen) - *Image Board Trip Code Generator* 
 * [Slideshow-Deslidefier](http://deslide.clusterfake.net/) - *View Slideshows All At Once* 
+* [divr.it](https://dlvrit.com/) - *Social Media Automation Tool*
 * [tumblr-crawler](https://github.com/ZenulAbidin/tumblr-crawler) - *Download tumblr photos/videos* 
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils) - *Tumblr Utilities* 
 * [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch) - *Imageboard Thread Watcher* 
@@ -941,6 +942,7 @@ General Reading Sites*
 ## ▷ Twitter Tools
 
 * **[TweetBeaver](https://tweetbeaver.com/)** or [TwopCharts](https://twopcharts.com/) - *Multiple Twitter Tools* 
+* /r/Twitter - *Twitter Subreddit*
 * [Twitonomy](https://www.twitonomy.com/) - *Twitter Dashboard / Analytics* 
 * [TweetDeck](https://tweetdeck.twitter.com/) - *Twitter Dashboard*
 * [BackTweets](http://backtweets.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - *Search Twitter* 
@@ -973,6 +975,7 @@ General Reading Sites*
 * [Yotter](https://yotter.kavin.rocks/) - *Twitter Frontend* 
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) or [Forget](https://forget.codl.fr/) - *Twitter Auto Post Delete*
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - *Delete Twitter Likes / Favorites* 
+* [Unfavinator](http://unfavinator.com/) - *Delete Twitter Favorites*
 * [TweetDelete](https://tweetdelete.net/) or [TweetEraser](https://www.tweeteraser.com/) - *Delete Twitter Posts in Bulk* 
 * [Fix Twitter Links](https://openuserjs.org/scripts/lucio-martinez/Fix_Twitter_links) - *Unshorten Twitter Feed URLs* 
 * [Twidere](https://github.com/TwidereProject/Twidere-Android) - *Ad-Free Twitter App*

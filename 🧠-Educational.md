@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.ibb.co/txWkGNT/Screenshot-2021-06-23-at-03-34-05-edu-FREEMEDIAHECKYEAH.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/flBSPQG.png)** - *For mobile users*
 
 ***
 ***
@@ -154,7 +154,6 @@
 
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - *Get a VPN before torrenting*
 * [Course Club](https://courseclub.me/) - *Courses*
-* [Free Courses Online](https://www.freecoursesonline.me/) - *Courses*
 * [FreeCourseSite](http://freecoursesite.com/) - *Courses*
 * [GetFreeCourses](https://getfreecourses.co/) - *Courses*
 * [TutsGalaxy](https://tutsgalaxy.org/) - *Courses*
@@ -301,6 +300,11 @@
 * [BSL Dictionary](https://www.signbsl.com/) - *British Sign Language* 
 * [Language Drops](https://languagedrops.com/) - *Language Learning App / [Premium](https://forum.mobilism.org/search.php?keywords=drops&sr=topics&sf=titleonly)*
 * [Manji](https://github.com/Livinglist/Manji) - *Language Learning / Japanese / Kanji*
+* [PolyGlot](http://polyglots.free.fr/) - *Linguistic Teaching Software*
+
+***
+
+# ► [Music Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_learning_tools)
 
 ***
 
@@ -316,7 +320,7 @@
 * /r/educationalgifs  - *Learn With GIFs* 
 * [KausalFlow](https://tools.kausalflow.com/) - *Academic Research Tools* 
 * [Zotero](https://www.zotero.org/) - *Research Organization Tool* 
-* [PaperRater](https://www.paperrater.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
+* [PaperRater](https://www.paperrater.com/), [CopyScape](https://www.copyscape.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - *Grade School Educational Tools*
 * [Stublio](https://stublio.com/) - *Keep Track of what you're Studying* 
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - *UPSC Telegram Channels* 

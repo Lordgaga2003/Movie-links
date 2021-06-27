@@ -13,7 +13,7 @@
 
 ## ▷ Dedicated Hosts
 
-* **[MoviesforDiscord](https://discord.com/invite/XBGm36RWEs)** - *Movie Streaming & Download Bot / [Website](https://movies4discord.xyz/)*
+* **[MoviesforDiscord](https://discord.com/invite/XBGm36RWEs)** - *Movies / TV / [Website](https://movies4discord.xyz/)*
 * **[LookMovie](https://lookmovie.io/)** - *Movies / TV*
 * **[Trailers.to](https://trailers.to/)** - *Movies / TV*  
 * **[Soap2Day](https://soapgate.org/)** - *Movies / TV*

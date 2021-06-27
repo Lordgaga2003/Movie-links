@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/0rA8R5p.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/eqXOC0u.png)** - *For mobile users*
 
 ***
 ***
@@ -233,7 +233,7 @@
 
 #### Conversational Chatbots
 
-[Replika](https://replika.ai/), [Mitsuku](https://www.pandorabots.com/mitsuku/), [cleverbot](https://www.cleverbot.com/), [eviebot](https://www.eviebot.com/en/), [rose](http://ec2-54-215-197-164.us-west-1.compute.amazonaws.com/speech.php), [jabberwacky](http://www.jabberwacky.com/), [Kajiwoto](https://kajiwoto.com/) (ai builder), [God](http://www.dumb.com/god/)
+[Replika](https://replika.ai/), [Mitsuku](https://www.pandorabots.com/mitsuku/), [cleverbot](https://www.cleverbot.com/), [eviebot](https://www.eviebot.com/en/), [rose](http://ec2-54-215-197-164.us-west-1.compute.amazonaws.com/speech.php), [jabberwacky](http://www.jabberwacky.com/), [Kajiwoto](https://kajiwoto.com/) (ai builder), [God](http://www.dumb.com/god/), [Talk-Bot](http://www.frontiernet.net/~wcowart/index.shtml), [Madam Zena](http://www.madamzena.com/)
 
 ***
 
@@ -535,6 +535,12 @@
 
 * irc://irc.undernet.org/bookz
 * irc://irc.irchighway.net/ebooks
+
+***
+
+#### Jigsaw Puzzles
+
+[jigidi](https://www.jigidi.com/), [jigsawonline](https://jigsawonline.net/), [jigsawplanet](https://www.jigsawplanet.com/), [puzzlefactory](https://puzzlefactory.pl/en), [epuzzle](https://www.epuzzle.info/en), [dkmgames](https://dkmgames.com/Jigsaw/), [jigzone](http://www.jigzone.com/), [jigcardgallery](http://www.jigcardgallery.com/), [justjigsawpuzzles](https://justjigsawpuzzles.com/)
 
 ***
 
@@ -1499,6 +1505,12 @@ Downlaod from deezer also supports playlist from Spotify
 * [SciFiMovies4U](https://t.me/SciFiMovies4U) - *Sci-Fi Movies* 
 * [GDrive Movies Download](https://t.me/Google_drive_download_movies) - *Movies / TV* 
 * [Request_movies_series_bot](https://t.me/Request_movies_series_bot) - *TV*
+
+***
+
+#### Text Adventures
+
+[iFiction](https://www.ifiction.org/) (Index), [Pac-Txt](http://www.pactxt.com/), [AI Dungeon](https://play.aidungeon.io/main/landing), [A Dark Room](http://adarkroom.doublespeakgames.com/), [Addventure](http://addventure.com/addventure/), [The Never Ending Quest](https://www.sir-toby.com/extend-a-story/story-1/code/read.php) 
 
 ***
 

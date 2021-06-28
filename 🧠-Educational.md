@@ -280,6 +280,7 @@
 * [refold.la](https://refold.la/roadmap) - *Language Learning Guide* 
 * [Learn English Online](http://www.learn-english-online.org/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - *Learn English*
 * [MyLanguages](http://mylanguages.org/) - *Grammar / Vocabulary Language Learning*
+* [Vocatra](https://esite.ch/vocatra/) - *Vocabulary Trainer*
 * [EnglishAccentMap](https://www.englishaccentsmap.com/) - *English Accent Videos / Map* 
 * [paralleltext](http://paralleltext.io/) - *Learn Languages by Reading Translated Books Parallel* 
 * [HelloTalk](https://www.hellotalk.com/) - *Learn Languages by Chatting to Native Speakers* 
@@ -304,7 +305,18 @@
 
 ***
 
-# ► [Music Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_learning_tools)
+# ► Music Learning
+
+* [OpenSong](http://www.opensong.org/) - *Track Lyrics, Chords, Sheets & more*
+* [Learning Music](https://learningmusic.ableton.com/)
+* [Teoria](https://www.teoria.com/index.php) - *Music Theory*
+* [LightNote](https://www.lightnote.co/) - *Music Theory*
+* [Pianu](https://pianu.com/) - *Piano*
+* [FretFlip](https://fretflip.com/guitar-scales) - *Guitar*
+* [Songsterr](https://www.songsterr.com/) - *Guitar*
+* [Guitarsix](https://guitarsix.com/) - *Guitar*
+* [LearningSynths](https://learningsynths.ableton.com/) - *Synthesizers*
+* [A-Complete-UTAU-Tutorial-For-Beginners](https://www.quotev.com/story/9299060/A-Complete-UTAU-Tutorial-For-Beginners) - *UTAU Tutorial*
 
 ***
 
@@ -331,6 +343,7 @@
 * [Get Unstuck](https://socratic.org/) - *Homework Answers / Help* 
 * [Quizlet](https://quizlet.com/) - *Quizzes / Study Material*
 * [TurtleDiary](https://www.turtlediary.com/) - *Quizzes / Lessons / Games*
+* [BrainPOP Jr.](https://jr.brainpop.com/) - *Quizzes / Animations*
 * [The Problem Site](https://www.theproblemsite.com/) - *Problems / Puzzles/ Games*
 * [LateralPuzzles](http://www.lateralpuzzles.com/) - *Lateral Thinking Puzzles*
 * [OpenSyllabus](https://opensyllabus.org/) or [SyllabusFinder](https://www.syllabusfinder.com/) - *Syllabus Search / Info*
@@ -343,7 +356,7 @@
 * [AWW](https://awwapp.com/), [OpenBoard](https://openboard.ch/
 https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
 * [app.diagrams](https://app.diagrams.net/), [RawGraphs](https://rawgraphs.io/), [yEd Live](https://www.yworks.com/yed-live/) or [Gephi](https://gephi.org/) - *Graph / Diagram Creator*  
-* [Anki](https://apps.ankiweb.net/) - *Flash Card Tool*
+* [Anki](https://apps.ankiweb.net/) or [Flashcard Machine](https://www.flashcardmachine.com/) - *Flash Card Tool*
 * [Wolfram Cloud](https://www.wolframcloud.com/) - *Computational intelligence*
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
 * [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - *Physics Simulations / Animations*

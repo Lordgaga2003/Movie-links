@@ -12,7 +12,7 @@
 # ► Download Games
 
 * **[Game Download Sites Search](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)** - *Search multiple sites at once*
-* **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/dZWwhUy), [2](https://discord.gg/5AsChT2WCd)*
+* **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)*
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "games" or "roms"*
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)**
 * **[Masquerade Repacks](https://masquerade.site/)** - *[Discord](https://discord.gg/HP5sQ6c)*
@@ -81,7 +81,7 @@
 # ► Torrent Games
 
 * **[Game Torrent Sites Search](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** - *Search multiple sites at once*
-* **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download & Torrent Sites*
+* **[r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)** - *Trusted Game Download & Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)*
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "games" or "roms"*
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)**
 * **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
@@ -177,7 +177,8 @@
 * [TheRomDepot](https://theromdepot.com/) - *Roms*
 * [@Storage_Manager](https://archive.org/details/@storage_manager) - *Roms / Zip* 
 * [FinalBurn Neo](https://archive.org/details/2020_01_06_fbn) - *Roms / Zip* 
-* [Everdrive](https://archive.org/details/latest-everdrive-pack-2020-04-16) - *Roms / Zip* 
+* [Everdrive](https://archive.org/details/latest-everdrive-pack-2020-04-16) - *Roms / Zip*
+* [1,000+ Roms](https://mega.nz/file/61hDlYjQ#VQSjdEkNy9TzRbgFQd2-gWSz6w5eEh67xe2tnpmhj50 ) - *Roms / Zip*
 * [各种模拟器rom游戏](https://drive.google.com/drive/folders/1hzkgLcDsgzwbw7PP7rySDBTEuPEQov9g) - *Roms / Drive / 10TB* 
 * [Retro Gaming](https://mega.nz/folder/ZuRigCwA#5d_K9lRKUXdeaDMog84MGg) - *Roms / Drive / 3GB*
 * [90.230.15.92](http://90.230.15.92/) - *Roms* 
@@ -235,8 +236,9 @@
 * [NEC & Turbografx Collection](https://archive.org/details/NEC_PC_Engine_CD-ROM2_System_and_TurboGrafx-CD_2016_Reference_Set_Redump_Validated_ROMs) - *Roms / Nec / Turbo*
 * [Neo Kobe Collection](https://archive.org/details/NeoKobe-NecPc-98012017-11-17), [2](https://archive.org/details/Neo_Kobe_NEC_PC-8801_2016-02-25) - *Roms / Neo Kobe*
 * [pc-98](https://mega.nz/folder/F59WkSqQ#quGKSFIswBgv0rxAAaF8Pg) - *PC-98 Games*
-* [eXoDOS](https://exodos.the-eye.eu/), [DOSGamesLibrary](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS Haven](http://www.doshaven.eu/), [The Software Library](https://archive.org/details/softwarelibrary_msdos) or [Best Old Games](http://www.bestoldgames.net/eng/) - *DOS Games*
+* [eXoDOS](https://exodos.the-eye.eu/), [DOSGamesLibrary](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS Haven](http://www.doshaven.eu/), [LiquidDoom](http://dos.liquiddoom.net/), [The Software Library](https://archive.org/details/softwarelibrary_msdos) or [Best Old Games](http://www.bestoldgames.net/eng/) - *DOS Games*
 * [Abandonia](http://www.abandonia.com/) - *DOS Games / Classic / Abandonware*
+* [XTCabandonware](http://www.xtcabandonware.com/) - *Abandonware*
 * [Remakes Reloaded](http://www.reloaded.org/) - *Remakes of Classics*
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - *Roms / Arcade / Retro / [Discord](https://discord.gg/rH9wRpu2vh)* 
 * [Wad Archive](https://wad-archive.com/) - *83k WAD Files*

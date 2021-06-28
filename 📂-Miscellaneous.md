@@ -78,6 +78,7 @@
 * [Google search link fix](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_search_link_fix) - *Prevent Search Pages from Modifying Result Links* 
 * [Restore Classic Google Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_restore_classic_google_icons)
 * [Link Gopher](https://sites.google.com/site/linkgopher/) or [CopyLinks++](https://github.com/MichelePezza/CopyLinksplusplus) - *Extract Links from Webpages* 
+* [Linkpack](https://www.linkpack.io/) - *Save Links to Dropbox*
 * [Survol](https://survol.me/) - *Preview Links* 
 * [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - *Page Change Detection / Notification* 
 * [SuperStop](https://github.com/gavinsharp/SuperStop/) - *Stop Active Animations, Videos, JS, WebSocket & XHR*
@@ -305,6 +306,7 @@
 * /r/trackers 
 * /r/usenet 
 * /r/CrackSupport - *Piracy / Gaming / Cracking Discussion / [Discord](https://discord.gg/eTsaTNpsxj)*
+* [PGames](https://discord.gg/dZWwhUy) - *Piracy / Gaming / Discord*
 * [CS.RIN.RU](https://cs.rin.ru/forum)
 * [Ru.Board](http://forum.ru-board.com/)
 * [Piracy Forum](https://pirates-forum.org/) 

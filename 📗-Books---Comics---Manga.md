@@ -13,18 +13,25 @@
 
 * **[Audiobook Sites Search](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)**
 * **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
-* **[Audiobook Bay](http://audiobookbay.net/)**, [2](http://audiobookbay.nl/), [3](http://www.audiobookbayabb.com/) - *Torrents / [Extension](https://addons.mozilla.org/en-US/firefox/addon/audiobookbay-magnet-assistant/)*
+* **[Audiobook Bay](http://audiobookbay.ws/)**, [2](http://audiobookbay.nl/), [3](http://www.audiobookbayabb.com/), [4](http://www.theaudiobookbay.com/) - *Torrents / [Extension](https://addons.mozilla.org/en-US/firefox/addon/audiobookbay-magnet-assistant/)*
 * **[Tokybook](https://tokybook.com/)** - *Listen Online*
 * **[Top 1,000 Audiobooks](https://mega.nz/folder/yvoQTKCL#cHzM6YY3JU3b65OzxecnmA)** - *Audiobooks / Drive*
-* [Audiobooks](https://hotaudiobooks.com) - *Listen Online* 
+* [Audiobook Drive](https://drive.google.com/drive/folders/1IsJTH4ElUg4fjngDNUlM1KPFmpfD_tl9) - *Audiobooks / Drive* 
+* [HotAudiobooks](https://hotaudiobooks.com) - *Listen Online* 
+* [Audiobooks For Soul](https://audiobookforsoul.net/) - *Listen Online*
+* [HDAudiobook](https://hdaudiobook.com/) - *Listen Online*
+* [BigAudiobooks](https://bigaudiobooks.net/) - *Listen Online*
+* [BookAudiobook](https://bookaudiobook.com/) - *Listen Online*
+* [GoodAudiobook](https://goodaudiobook.com/) - *Listen Online*
+* [Audiobook Slab](https://audiobookslab.com/) - *Listen Online*
 * [AudioBook Reviews](https://audiobookreviews.com/) 
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks) 
 * [Golden Audiobooks](https://goldenaudiobooks.com/)
 * [LoudLit](http://loudlit.org/) 
 * [Librivox](https://librivox.org/)  
 * [AudioBB](https://audiobb.com/)
+* [xAudiobooks](https://audiobooks.cloud/)
 * [AppAudiobooks](https://appaudiobooks.com/)
-* [Audiobook Drive](https://drive.google.com/drive/folders/1IsJTH4ElUg4fjngDNUlM1KPFmpfD_tl9) - *30 GB* 
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - *Poetry*
 * [Audiobooks Unleashed](https://audiobooksunleashed.com/) - *Audiobook codes*
 * /r/audiobooksonyoutube
@@ -115,6 +122,7 @@
 * [GetFreeMagz](https://getfreemagz.club/) - *Books* 
 * [eBook Lobby](http://www.ebooklobby.com/) - *Books*  
 * [Free eBooks](http://www.freebooks.com) - *Books* 
+* [GrayCity](https://graycity.net/) - *Books*
 * [CentslessBooks](https://centslessbooks.com/) - *Books* 
 * [SNEWD](https://snewd.com/) - *Books* 
 * [Luminist](http://www.luminist.org/archives/) - *Books* 
@@ -221,6 +229,7 @@
 * [Curlie Cooking](https://curlie.org/en/Home/Cooking/) - *Recipes* 
 * [PunchFork](https://www.punchfork.com/) - *Recipes*
 * [Based Cooking](https://based.cooking/) - *Recipes*
+* [Food Network Recipes](https://www.foodnetwork.com/recipes) - *Recipes*
 * [1337-Noms-The-Hacker-Cookbook](https://hacker-cookbook.herokuapp.com/) - *Recipes* 
 * [CookBook](https://github.com/jlinder/cookbook) - *Recipes* 
 * [Wikibook Cookbooks](https://en.wikibooks.org/wiki/Category:Cookbook) - *Recipes* 
@@ -461,6 +470,7 @@
 
 * **[Project Gutenberg](https://www.gutenberg.org/wiki/Main_Page)** - *Historical Fiction / Nonfiction / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)*
 * [/HIS/STORY Collection](https://mega.nz/#F!dlZlDbqL!TXG5bGvWufONkrQAL7b7jA) - *Drive* 
+* [Historical Audiobooks Collection](https://mega.nz/folder/utchyAAK#GTVl1fINpekEch95xj8Fmg) - *Audiobooks / Drive*
 * [Media History](https://mediahistoryproject.org/) - *Books / Magazines*
 * [corpus scriptorum latinorum](https://www.forumromanum.org/literature/authors_a.html) - *Latin Literature*
 * [EarlyModernTexts](http://www.earlymoderntexts.com) - *Historical Texts*

@@ -173,6 +173,7 @@
 * [Crocovid](http://crocovid.com/) - *Multi host search*
 * [Manually Scrape Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manually_scrape_sites) - *Scrape sites manually using a search engine*
 * [Stream IMDb](https://github.com/4L00/TemperMonkey-Scripts/) - *Add Stream Site Search Buttons to IMDb Pages*
+* [PlayPhrase](https://playphrase.me/) or [Yarn](https://yarn.co/) - *Clip Quote Search Engine*
 
 ***
 
@@ -374,7 +375,6 @@
 * [Cricfree](https://cricfree.sc/) - *Sports* 
 * [Ripple.stream](http://ripple.stream/) - *Sports* 
 * [GiveMeRedditStreams](https://givemeredditstreams.com/) - *Sports* 
-* [FromHot](https://fromhot.to/) - *Sports* 
 * [StreamonSport](https://www.streamonsport.info/) - *Sports*
 * [SportSala](https://www.sportsala.cc/) or [123Cric](https://www.123cric.com/) - *Sports*
 * [Pluto](http://pluto.tv/live-tv) - *TV / Sports*

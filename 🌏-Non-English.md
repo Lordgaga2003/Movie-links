@@ -329,9 +329,10 @@
 
 ## ▷ Reading
 
-* [Dokumen](https://dokumen.pub/) - *Books / Fiction / Non Fiction* 
+* [Dokumen](https://dokumen.pub/) - *Books
 * [VK Serial Books & Magazines](https://vk.com/sebomag) - *Books / Magazines* 
-* [ebook-hell](https://ebook-hell.to/) - *Books / Fiction / Non Fiction / Magazines / NSFW / Use adblocker* 
+* [EBook Land](http://www.ebook-land.cc/index.php) - *Books / Magazines*
+* [ebook-hell](https://ebook-hell.to/) - *Books / Magazines / NSFW / Use adblocker* 
 * [DownMagaz](https://de.downmagaz.net/) - *Magazines / NSFW* 
 * [Hoerbuch](https://hoerbuch.us/) - *Audiobooks*
 
@@ -590,8 +591,9 @@
 
 * [Awesome AI channels](https://github.com/AminTaheri23/Awesome-AI-telegram-gp-and-channel) - *Persian Telegram Bot Index* 
 * [iranzirnevis](https://iranzirnevis.com/) - *Subtitles* 
-* [](https://bin.disroot.org/?85b66e37980b245e#DRbHouuNMfXGRdqPs68y6nGLULhHdvdXzuPdDmBxsyi2) - *Free VPN / Telegram*
+* [Free VPN Telegram Channels](https://bin.disroot.org/?85b66e37980b245e#DRbHouuNMfXGRdqPs68y6nGLULhHdvdXzuPdDmBxsyi2) - *Free VPN / Telegram*
 * [netsanjplus](https://netsanjplus.ir/) - *Iranian ISP Internet Quality Guide*
+* [Targoman](http://targoman.ir/) - *Translator / [GitHub](https://github.com/targoman)*
 
 ## ▷ Downloading
 
@@ -680,7 +682,8 @@
 * [FarsiLand](https://farsiland.com/) - *Movies / TV* 
 * [LiveFarsi](https://www.livefarsi.com/live-tv.html) - *Movies / TV / Live*
 * [Anten.ir](https://www.anten.ir/) - *Live / TV / Sports* 
-* [PersianTVLive](http://www.persiantvlive.com/) - *Live / TV*
+* [PersianTVLive](http://www.persiantvlive.com/) - *Live TV*
+* [Sepehr](https://sepehr.irib.ir/) - *Live TV*
 
 ## ▷ Reading
 
@@ -717,6 +720,7 @@
 
 * [wolnelektury](https://wolnelektury.pl/) - *Books / Fiction* 
 * [Audiobook PL](https://audiobookpl.tumblr.com/) - *Audiobooks*
+* [K1n013f0ur's Pastebin](https://pastebin.com/u/k1n013f0ur) - *Audiobooks*
 * [doci.pl](https://doci.pl/) - *Documents* 
 * [docer.pl](https://docer.pl/) - *Documents* 
 
@@ -757,6 +761,7 @@
 ## ▷ Reading
 
 * [Le Livros](https://lelivros.love/) - *Books* 
+* [Tudo De Bom em Audiolivros](https://tudodebomemaudiobooks.blogspot.com/) - *Audiobooks*
 
 ***
 
@@ -911,8 +916,7 @@
 * [militera](http://militera.org/) - *Military History* 
 * [Playing Soviet](https://commons.princeton.edu/soviet/) - *Children's Books*
 * [CyberLeninka](https://cyberleninka.ru/) - *Articles / Educational / Scientific / Legal*  
-* [Baza Knig](https://baza-knig.ru/), [Bibl](https://m.bibl.us/), [Knizhkin](https://knizhkin.net/), [Aknigi Online](https://aknigionline.ru/), [A Book Club](http://abook-club.ru/) - *Audiobooks*
-* [Аудиокниги Клуб](https://akniga.org/) - *Browser Audiobooks*
+* [Baza Knig](https://baza-knig.ru/), [Аудиокниги Клуб](https://akniga.org/), [A-Book](https://a-book.info/), [Bibl](https://m.bibl.us/), [Knizhkin](https://knizhkin.net/), [Aknigi Online](https://aknigionline.ru/), [A Book Club](http://abook-club.ru/), [Bibl.us](https://bibl.us/) - *Audiobooks*
 
 ***
 

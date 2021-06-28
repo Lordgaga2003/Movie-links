@@ -124,7 +124,7 @@
 
 ## ▷ Privacy Tools
 
-* **[Privacy Tools / Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_tools)** - *Privacy Tools / Service Indexes*
+* **[Privacy Tools / Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_tools)** - *Indexes of Privacy Tools / Services*
 * **[Encrypted Messangers](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messangers)  - *Encrypted Messaging App Index* 
 * **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)** - *Anonymous Text Verification*
 * **[Two Factor Auth](https://twofactorauth.org/)** - *List of Sites with 2FA Support*
@@ -173,7 +173,7 @@
 * [Tails](https://tails.boum.org/) or [Qubes](https://www.qubes-os.org/) - *OS that protects privacy / avoids censorship*
 * [Mofolinux](https://mofolinux.com/) - *Privacy Focused Linux OS*
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - *Run a Oracle VM on TailsOS*
-* [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/) - *Stop telemetry data leaks*
+* [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/) - *Stop Telemetry Data Leaks*
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - *Track Torrent Download Leaks*
 * [Safing](https://safing.io/) - *Monitor Network / Block Trackers*
 * [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html) or [GlassWire](https://www.glasswire.com/) - *Firewall / Network Monitor* 
@@ -268,10 +268,11 @@
 * [TrackingTheTrackers](https://trackingthetrackers.com/) - *Check if a website is disguising third-party trackers as first-party trackers*
 * [WhoTracksMe](https://whotracks.me/) - *Tracker Statistics / Information*  
 * [I2P](https://geti2p.net/en/) - *Encrypted Private Network Layer / [Resource Index](https://github.com/mikalv/awesome-i2p)* 
-* [NothingPrivate](https://www.nothingprivate.ml/), [Device Info](https://www.deviceinfo.me/), [Privacy Test](https://privacy.net/analyzer/) or [BrowserAudit](https://browseraudit.com/) - *Browser Data Leak Test*
-* [BrowserLeaks](https://browserleaks.com/), [Comparitech](https://www.comparitech.com/privacy-security-tools/dns-leak-test/), [WhatLeaks](https://whatleaks.com/), [Do I leak?](https://www.doileak.com/) or [DNS Leak Test](https://www.dnsleaktest.com/)  - *IP / DNS Leak Tests*
+* [NothingPrivate](https://www.nothingprivate.ml/), [Device Info](https://www.deviceinfo.me/), [Privacy Test](https://privacy.net/analyzer/), [IPX](https://ipx.ac/run) or [BrowserAudit](https://browseraudit.com/) - *Browser Data Leak Test*
+* [IP / DNS Leak Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_dns_leak_tests) - *Test for IP & DNS Leaks*
 * [DNSCookie](http://dnscookie.com/) - *Identify Related Network Flows*
-* [Turn off IPv6 to Prevent Leaks](https://www.itechguides.com/disable-ipv6-windows-10/) - *[IPv6 Leak Test](https://ip6.nl/)* 
+* [Turn off IPv6 to Prevent Leaks](https://www.itechguides.com/disable-ipv6-windows-10/) - *[IPv6 Leak Test](https://ip6.nl/), [2](https://test-ipv6.com/)* 
+* [Voidsec](https://ip.voidsec.com/) or [WebRTC Leak Test](https://www.expressvpn.com/webrtc-leak-test) - *WebRTC Leak Test*
 * [webwormhole](https://github.com/saljam/webwormhole) - *Peer Authenticated WebRTC*
 * [WhatsMyUA?](https://www.whatsmyua.info/) or [WhatIsMyBrowser](https://www.whatismybrowser.com/detect/what-is-my-user-agent) - *User-Agent Detection* 
 * [Pribot](https://pribot.org/) - *Automated Analysis for Privacy Policies* 

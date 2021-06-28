@@ -135,7 +135,7 @@
 * [RClone](https://github.com/x0b/rcx) - *Multi-Site Cloud Storage File Manage*
 * [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard) - *Transfer Files between Devices*
 * [Omega Launcher](https://github.com/otakuhqz/omega), [Unlauncher](https://github.com/jkuester/unlauncher) or [Ratio](https://blloc.com/) - *App Launcher* 
-* [App Manager](https://muntashirakon.github.io/AppManager/) - *Manage Apps*
+* [App Manager](https://muntashirakon.github.io/AppManager/), [2](https://github.com/MuntashirAkon/AppManager) - *Manage Apps*
 App Manager 
 * [iFont](https://play.google.com/store/apps/details?id=com.kapp.ifont) - *Android Font Installer*
 * [Eruda](https://pastebin.com/7qSZXjDS) - *Console for mobile browsers / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Github](https://github.com/liriliri/eruda)* 

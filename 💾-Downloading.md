@@ -183,6 +183,7 @@
 * [AIOsetup](https://t.me/aiosetup) - *Software / Telegram* 
 * [raymondfreesoftware](https://sites.google.com/site/raymondfreesoftware/) *Software / [Telegram](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)* 
 * [ALTERNATIVES](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md) - *Lightweight Software Index*
+* [Rarewares](https://www.rarewares.org/) - *Rare Software*
 * [RADIXX11](https://radixx11rce2.blogspot.com/), [Izofile](https://izofile.com/), [Soft2Ev](https://www.soft2ev.com/), [CrackedFine](https://crackedfine.com/), [Keygen Fortress](https://t.me/keygen_fortress) or [Serials](https://www.serials.ws/) - *Software Keys / Patches*
 * [Software Heritage](https://www.softwareheritage.org/) - *Software Source Code Archive* 
 * [balenaHub](https://hub.balena.io/) - *Raspberry Pi Software* 
@@ -209,6 +210,7 @@
 * [Software Informer](https://software.informer.com/) - *Software* 
 * [FreewareWeb](http://www.freewareweb.com/) - *Software*
 * [Freeware Directory](http://www.freewaredirectory.net/) - *Software*
+* [FreewareStop](https://www.freewarestop.com/) - *Software*
 * [LO4D](https://www.lo4d.com/) - *Software* 
 * [ListOfFreeWare](https://listoffreeware.com/) - *Software*  
 * [Downloadastro](https://en.downloadastro.com/) - *Software* 
@@ -225,7 +227,7 @@
 * [WSL-Programs](https://github.com/ethanhs/WSL-Programs) - *Windows Subsystem for Linux Programs*
 * [WinWorldPC](https://winworldpc.com/) - *Abandonware / Classic Operating Systems* 
 * [The Vintage Software Collection](https://archive.org/details/vintagesoftware) - *Vintage Software*
-* [Portapps](https://portapps.io/), [FC Portables](https://www.fcportables.com/), [Portable Freeware](https://www.portablefreeware.com/), [TheHouseOfPortable](https://thehouseofportable.com/) or [PortableApps](https://portableapps.com/) - *Portable Apps for USB / SD / External Storage*
+* [Portapps](https://portapps.io/), [FC Portables](https://www.fcportables.com/), [Portable Freeware](https://www.portablefreeware.com/), [TheHouseOfPortable](https://thehouseofportable.com/), [freeportablesoftwares](https://sites.google.com/site/freeportablesoftwares/) or [PortableApps](https://portableapps.com/) - *Portable Apps for USB / SD / External Storage*
 * [KDE's Applications](https://apps.kde.org/education) - *Linux Apps* 
 
 ***

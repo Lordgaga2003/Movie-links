@@ -232,7 +232,23 @@
 * [Food Network Recipes](https://www.foodnetwork.com/recipes) - *Recipes*
 * [1337-Noms-The-Hacker-Cookbook](https://hacker-cookbook.herokuapp.com/) - *Recipes* 
 * [CookBook](https://github.com/jlinder/cookbook) - *Recipes* 
-* [Wikibook Cookbooks](https://en.wikibooks.org/wiki/Category:Cookbook) - *Recipes* 
+* [Wikibook Cookbooks](https://en.wikibooks.org/wiki/Category:Cookbook) - *Recipes*
+* [Culinary](http://www.culinary.net/) - *Recipes*
+* [Cookpad](https://cookpad.com/us) - *Recipes*
+* [RecipeChart](https://www.recipechart.com/) - *Recipes*
+* [FoodGeeks](https://foodgeeks.com/) - *Recipes*
+* [MyRecipeMagic](https://www.myrecipemagic.com/) - *Recipes*
+* [SparkPeople](https://recipes.sparkpeople.com/) - *Recipes*
+* [KeyIngridient](https://www.keyingredient.com/) - *Recipes*
+* [RecipeArchive](http://www.recipearchive.com/) - *Recipes*
+* [Alastra](http://recipes2.alastra.com/) - *Recipes*
+* [RobbieHaf](http://recipes.robbiehaf.com/) - *Recipes*
+* [WhatsCookingAmerica](https://whatscookingamerica.net/Menu/MenuIndex.htm) - *Recipes*
+* [MJW](http://www.cs.cmu.edu/~mjw/recipes/) - *Recipes*
+* [BetterRecipes](https://www.bestrecipes.com.au/) - *Recipes*
+* [Astray](https://www.astray.com/recipes/) - *Recipes*
+* [FarmlandFoods](https://www.farmlandfoods.com/recipes/) - *Recipes*
+* [RecipeLand](https://recipeland.com/) - *Recipes*
 * [Budget Bytes](https://www.budgetbytes.com/) - *Cheap Recipes*
 * [Jack Monroe](https://cookingonabootstrap.com/) - *Cheap Recipes*
 * [What the Fuck Should I Make for Dinner?](http://www.whatthefuckshouldimakefordinner.com/) - *Random Recipes* 
@@ -583,11 +599,12 @@
 * [NASA NTRS](https://ntrs.nasa.gov/search.jsp) - *NASA Documents*
 * [Ariadne](http://ariadne2.isti.cnr.it/) - *Archaeological Datasets* 
 * [Aesthetics Archive](https://contempaesthetics.org/) - *Aesthetics Articles / Notes Contemporary*
-* [DocDownloader](https://docdownloader.com/) - *[Scribd](https://www.scribd.com/) Document Downloader* 
 * [CourtListerner](https://www.courtlistener.com/recap/) - *Pacer Documents*
 * [Aleph](https://github.com/alephdata/aleph ) - *Document Index Tool*
 * [Dataset Search](https://datasetsearch.research.google.com/) - *Dataset Search Google* 
 * [PDF / Doc Search Engine](https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0) 
+* [DocDownloader](https://docdownloader.com/) - *[Scribd](https://www.scribd.com/) Document Downloader* 
+* [ZealDocs](https://zealdocs.org/) - *Documentation Reader*
 
 ***
 
@@ -642,6 +659,7 @@
 * [BSL Dictionary](https://www.signbsl.com/) - *British Sign Language* 
 * [FreeMdict](https://freemdict.com/) - *Dictionary Downloads / [Forum](https://forum.freemdict.com/) / [Archive](https://downloads.freemdict.com/)* 
 * [pdawiki](https://www.pdawiki.com/forum/) - *Dictionary Downloads / Use WeChat for invite* 
+* [Goldendict](http://www.goldendict.org/) - *Dictionary Program*
 
 ***
 
@@ -787,9 +805,11 @@
 * [NovelFull](https://novelfull.com/)
 * [Read Light Novel ](https://www.readlightnovel.org/)
 * [Moon Bunny Cafe](https://moonbunnycafe.com/)  
+* [Book Smelting Bot](https://t.me/epub_smelter_bot) - *Telegram / Bot*
 * [WuxiaWorld](https://wuxiaworld.site/ ) - *Manga / Novels* 
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - *Novels / Audio Recordings*  
 * [Wuxiaworld](https://www.wuxiaworld.co/) - *Chinese Novels*  
+* [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [QuickNovel](https://github.com/LagradOst/QuickNovel) or [Novel-Grabber](https://github.com/Flameish/Novel-Grabber) - *Light-Novel Downloader*
 
 ***
 
@@ -946,5 +966,5 @@
 * [HowLongToRead](https://howlongtoread.com/) - *Find out how long a book takes to read*
 * [FanFicFare](https://github.com/JimmXinu/FanFicFare) - *Generate eBooks from Stories / Fanfiction*
 * [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - *Turn Webpages into eBooks*
-* [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler) - *Generate eBooks from Novels*
+* [Sigil Ebook](https://sigil-ebook.com/) - *Epub Editor*
 * [FiveFilters](https://www.fivefilters.org/) - *Multiple Article Accessibility Tools*

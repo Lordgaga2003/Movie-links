@@ -339,7 +339,7 @@
 * [IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0) - *Games* 
 * [IndieGala](https://freebies.indiegala.com/) - *Games*
 * [ClaimFreeGames](https://claimfreegames.com/) - *Games* 
-* [Epic Games Free](https://www.epicgames.com/store/en-US/free-games) - *Games*
+* [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - *Games*
 * /r/googleplaydeals - *Paid apps* 
 * [Android App Sales](https://t.me/androidappsales) - *Paid apps / Telegram* 
 * [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - *Paid apps*
@@ -349,7 +349,6 @@
 * [AppSumo Freebies](https://appsumo.com/tools/freebies/) - *Apps*
 * [FreeCycle](https://www.freecycle.org/) - *People giving away free stuff*
 * [Dolly Parton’s Imagination Library](https://imaginationlibrary.com/) - *Book Gifting Program (For Children)*
-* [Epic Free Games](https://t.me/epicfreegames) - *Telegram*
 * [FreeSteamOffers_Bot](https://t.me/FreeSteamOffers_Bot/) - *Telegram*
 * /r/eFreebies 
 * /r/FreeGameFindings 
@@ -373,12 +372,13 @@
 * [NeverThink](https://neverthink.tv/) - *Watch Random Memes / Videos* 
 * [Neal.fun](https://neal.fun/) or [JenniferDewalt](https://jenniferdewalt.com/) - *Sites / Games*
 * [Just For Fun](https://justforfun.io/) or [Andrew Marsh](http://andrewmarsh.com/software) - *Coding Project Showcase* 
-* [Trippy shit Mega List](https://triptoysfor.me/) - *Fun trippy stuff* 
+* [Trippy shit Mega List](https://triptoysfor.me/) or [Mr.doob](https://mrdoob.com/) - *Toys & Experiments* 
 * [Bimble Space](https://in.bimble.space/toys) - *Multiple Toys / Art Tools* 
+* [Kamogo](https://www.kamogo.com/faq/) - *Useless Web Apps*
 * [MoodLight](https://www.moodlight.org/) - *Turn Screen into Strobe Light*
 * [Drinking Game Zone](https://drinkinggamezone.com/) - *Drinking Games Encyclopedia* 
 * [Drinkify](http://drinkify.org/) - *Picks Drinks Based on Songs* 
-* [Activity Suggestion](https://www.activitysuggestion.com/) or [bored.solutions](https://bored.solutions/) - *Activity Suggestions* 
+* [Activity Suggestion](https://www.activitysuggestion.com/), [Things to Do](https://randomthingstodo.com/) or [bored.solutions](https://bored.solutions/) - *Activity Suggestions* 
 * [Human Benchmark](https://humanbenchmark.com/) - *Brain Games & Cognitive Tests* 
 * [David.li](http://david.li/) - *Physics Games*
 * [sandspiel.club](https://sandspiel.club/) - *Falling Sand Physics Sandbox* 
@@ -411,7 +411,10 @@
 * [Inspirograph](https://nathanfriend.io/inspirograph/) - *Inspirograph Tool*
 * [SpirographN](http://seedcode.com/SpirographN/sgn.html) - *Spirograph Tool*
 * [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) - *Spiral Art Generator* 
+* [Periodicity](https://williamhoza.com/periodicity/) - *Harmonic Motion Patterns*
 * [Cubes.io](http://cubes.io/) - *Cellular Automata* 
+* [05x5](https://csh.bz/line/05x5.html) - *Rainbow Pattern Generator*
+* [Chaos Equations](https://chaos-equations.glitch.me/?p=LBMRMS) - *Chaos Equation Visualizations*
 * [Dots-Converter](https://loveeevee.github.io/Dots-Converter/dots-draw.html) - *Draw with Dots*
 * [Super Forumula](https://superformula.club/) - *Shape Creation Tool* 
 * [paint.wtf](https://paint.wtf/) - *Have an AI Judge your Art* 
@@ -421,6 +424,7 @@
 * [cachemonet](http://cachemonet.com/) - *Randomly Generated GIFs/ Backgrounds* 
 * [r.sine.com](https://r.sine.com/index) - *Random Images on Refresh, Some NSFW*
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - *Create a Dancing Character* 
+* [CAT BOUNCE!](https://cat-bounce.com/) - *Bounce Cats*
 * [Gifypet](https://gifypet.neocities.org/) - *Create Your Own Cute Pet* 
 * [20Q](http://www.20q.net/) or [Akinator](https://en.akinator.com/) - *20 Questions*
 * [70's TV Simulator](https://www.my70stv.com/), [80's](https://www.my80stv.com/), [90's](https://www.my90stv.com/) or [00's TV Simulator](https://www.my00stv.com/)
@@ -438,6 +442,10 @@
 * [No Paint](https://nopaint.art/) - *Press "Paint" if you like what you see, "No" if you don't* 
 * [PointerPointer](https://pointerpointer.com/) - *Get Your Pointer Pointed At* 
 * [BubblesPop](https://bubblespop.netlify.app/) - *Pop Bubble Wrap* 
+* [Smash The Walls](https://smashthewalls.com/) - *Smash Walls*
+* [Petting](http://oos.moxiecode.com/js_webgl/fur/index_petting.html) - *Fur Simulator*
+* [Spider 2 Hammertime](http://oos.moxiecode.com/js_webgl/spiders_2_hammertime/) - *Murder Spiders*
+* [Slap Kirk](https://www.slapkirk.com/) - *Slap Captain Kirk*
 * [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - *Realistic-looking fake versions of things* 
 * [ThisPersonDoesNotExist](https://www.thispersondoesnotexist.com/) - *People That Don't Exist*
 * [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) - *Words That Don't Exist* 
@@ -474,15 +482,21 @@
 * [Nightmare Machine](http://nightmare.mit.edu/) - *Scary AI generated imagery*
 * [Botnik](https://botnik.org/) - *Word Remixer* 
 * [Objection](https://objection.lol/) - *Ace Attorney Objecting on Your Behalf !* 
+* [Blue Ball Machine 2](https://blueballmachine2.ytmnd.com/) - *Full Page Chain Reaction Machine*
 * [Library of Babel](https://libraryofbabel.info/) - *Every Book of Past, Present, and Future*
+* [xrDinosaurs](https://www.xrdinosaurs.com/) - *VR Dino Park*
 * [Hubs by Mozzila](https://hubs.mozilla.com/) - *VRChat-like hangout room (PC & PCVR)* 
 * [Land Lines](https://lines.chromeexperiments.com/) - *Explore Google Earth via Gestures* 
 * [April Fools Day On The Web](https://aprilfoolsdayontheweb.com/) - *Find April Fools Pranks played by Websites* 
 * [DrivingSimulator](https://framesynthesis.com/drivingsimulator/maps/) - *2D Driving Simulator* 
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - *Steer through the Suez Canal*
+* [Moments of Happiness](https://moments.epic.net/) - *Animated WebGL Animals*
 * [What Happened in my Birthyear](http://whathappenedinmybirthyear.com/) - *Find out what happened on your birthyear* 
 * [WTM](https://whatthemovie.com/) - *Guess Movie from Screenshot* 
+* [Kittenwar!](http://www.kittenwar.com/) - *Rate Kittens*
 * [LMGTFY](http://www.lmgtfy.com/), [Just Google](https://www.just-google.it/), [Just Fucking Google](https://www.just-fucking-google.it/) or [GIYBF](http://giybf.com/) - *Remind People that Google Exists* 
+* [The GIF Pronunciation Page](http://www.olsenhome.com/gif/) - *How to Pronouce "GIF"*
+* [RPS101](http://www.umop.com/rps101.htm) - *101 Gesture Rock-Paper-Scissors*
 * [Localingual](https://localingual.com/) - *Listen to International Dialects / Languages* 
 * [HeyFromTheFuture](https://heyfromthefuture.com/) - *What people wish they knew at your age*
 * [Fake Text Message](https://ifaketextmessage.com/) - *Make Fake Text Conversation* 
@@ -490,8 +504,10 @@
 * [House creep](https://www.housecreep.com/) - *Homes With A Curious or Criminal History* 
 * [16 Personalities](https://www.16personalities.com/) - *Personality Tests*
 * [Six Triangles](https://sixtriangles.github.io/), [9 Axes](https://9axes.github.io/) or [8 Values](https://8values.github.io/) - *Political Alignment Test*
+* [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - *Test of Patience*
 * [Hypochondriapp](http://hypochondriapp.io/) - *Get a terrible diagnosis for your symptoms*
 * [Cube Rule](https://cuberule.com/) - *The Cube Rule of Food* 
+* [EverySecond](https://everysecond.io/) - *Visualize Per Second Data*
 * [Death Date](http://deathdate.info/) - *Calculate your day of death* 
 * [Where's George?](https://www.wheresgeorge.com/) - *Currency Tracking Project* 
 * [Fontbutts](https://fontbutts.netlify.app/) - *Create Butts with different fonts*
@@ -503,6 +519,7 @@
 * [Chris Shier](https://www.csh.bz/) - *Canvas Animations / GIFs* 
 * [StaggeringBeauty](http://www.staggeringbeauty.com/) - *Wiggle a Worm, Have a Seizure* 
 * [Keep calm and poke me.](https://calm.ovh/) - *Poke & Pull* 
+* [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en) - *Lead a Blob Opera*
 * [Pixels Fighting](http://pixelsfighting.com/) - *Watch A Pixel Battle* 
 * [Generative Engine](https://experiments.runwayml.com/generative_engine/) - *Text to Image generator* 
 * [lofi-player](https://magenta.tensorflow.org/lofi-player) - *Create your own music room* 
@@ -559,6 +576,7 @@
 * [Make-A-Wish Foundation](https://discord.gg/pZZ3STQZ9Y) - *100% Real Make-A-Wish*
 * [Is It A Cat?](https://isitacat.com/) - *Cat Image Detector* 
 * [The.Matrix-ASCII](http://takeovertheworld.org/matrix/) - *The Matrix Encoded in Text*
+* [sCandyBars](https://scandybars.com/) - *Candy Bar Photo Blog*
 * [Vintage Ad Browser](http://www.vintageadbrowser.com/) - *100,000+ Vintage Advertisements* 
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - *Japanese Commercial Archive*
 * [isitnight](https://www.isitnight.com/) - *Determine if it is night* 

@@ -138,7 +138,7 @@
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - *CyberSecurity Tool Index*
 * [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - *Anti-Censorship tool index* 
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - *Linux Privacy Guide* 
-* [Element](https://element.io/), [qTox](https://qtox.github.io/), [Utopia](https://u.is/en/), [Jami](https://jami.net/), [Tox](https://tox.chat/) or [Wickr](https://wickr.com/) - *Encrypted Messaging / Video Calls* 
+* [Element](https://element.io/) / [Themes](https://github.com/aaronraimist/element-themes), [qTox](https://qtox.github.io/), [Utopia](https://u.is/en/), [Jami](https://jami.net/), [Tox](https://tox.chat/), [Bitmask](https://bitmask.net/) or [Wickr](https://wickr.com/) - *Encrypted Messaging / Video Calls* 
 * [Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)
 * [PGPgram](https://github.com/tallero/PGPgram) - *GPG Encrypted Telegram Backups*
 * [Cryptodog](http://doggyfipznipbaia.onion/) or [torbitamzta34aai](http://torbitamzta34aai.onion/) - *Anonymous Chat Room / .onion*  
@@ -207,6 +207,7 @@
 * [Invidition](https://codeberg.org/Booteille/Invidition) - *Redirect YouTube / Twitter requests to their alt interfaces*
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - *Redirects all YouTube links to Invidous* 
 * [Privacy Badger](https://privacybadger.org/) or [Privacy Possum](https://github.com/cowlicks/privacypossum) - *Blocks invisible trackers*
+* [Anti-Grabify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anti-grabify) - *Block IP Grabbers*
 * [Anti-Fp](https://www.cydecplatform.com/antifp.html) - *Disrupt Fingerprint Targeting*
 * [CSS Exfil Protection](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester) - *Stops CSS data exfiltration attacks*
 * [CanvasBlocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_canvasblocker) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - *Prevent Canvas Fingerprinting*

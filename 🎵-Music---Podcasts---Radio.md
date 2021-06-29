@@ -66,7 +66,7 @@
 ## ▷ Podcasts / Radio
 
 * **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - *Podcasts & Radio*
-* **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - *Podcasts*
+* **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - *Podcasts / [RSS](https://github.com/timdorr/spotifeed)*
 * [Radio Streaming Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_radio_streaming_sites) - *Radio Sites*
 * [Listen Notes](https://www.listennotes.com/) - *Podcast Search Engine* 
 * [iHeartRadio](https://www.iheart.com/) - *Podcasts / Radio*
@@ -124,6 +124,7 @@
 * [Soundrown](http://soundrown.com/) - *Ambient* 
 * [A Soft Murmur](https://asoftmurmur.com/) - *Ambient* 
 * [Nature Mixer](https://naturemixer.com/) - *Ambient* 
+* [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - *Ambient*
 * [MoodTurn](http://moodturn.com/) - *Ambient*
 * [Ambient Mixer](https://www.ambient-mixer.com/) - *Ambient / Music* 
 * [Calm](https://app.www.calm.com/) - *Meditation / Sleep Music* 

@@ -60,6 +60,7 @@
 * [ReleaseHive](https://www.releasehive.com/) - *Video / Audio / Software / Games / Books / NSFW* 
 * [rlsbb](http://rlsbb.ru/) - *Video / Audio / Games / Software / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker)*
 * [0dayhome](https://0dayhome.net/) - *Video / Audio / Games / Software / Books / Magazines*
+* [DownDuck](http://www.downduck.com/) - *Video / Audio / Software / Games / Books / Magazines*
 * [0DayDDL](https://0dayddl.com/) - *Video / Audio / Games / Software / Books / Magazines*
 * [MaxRelease](http://max-rls.com/) - *Video / Audio / Software / Games / Magazines*
 * [Volno](https://volno.org) - *Audio / Books / Software / Games / Android / NSFW*
@@ -153,11 +154,11 @@
 * **[freesoff](https://freesoff.com/)** - *Software / Courses*
 * **[nsane.down](https://www.nsaneforums.com/)**
 * **[LRepacks](https://lrepacks.net/)** - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
+* **[AppNee](https://appnee.com/)**
 * [YasDL](https://yasdl.com/) - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [ShareAppCrack](https://shareappscrack.com/) - *Software / Courses*
 * [downloadly](https://downloadly.ir/) - *Software / Courses*
 * [PiratePC](https://piratepc.me/) - *[Discord](https://discord.gg/QhaKfHwWmV)*
-* [AppNee](https://appnee.com/)
 * [Softotornix](https://softotornix.com/)
 * [AIOWares](https://www.aiowares.com/) 
 * [Mr. SzzS](https://www.youtube.com/channel/UCcf3dtQFVb5zfy0jGYNpA0w)

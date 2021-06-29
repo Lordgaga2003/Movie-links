@@ -26,11 +26,13 @@
 * [TimeAndDate](https://www.timeanddate.com/) - *Clocks / Calendars* 
 * [Epoch Converter](https://www.epochconverter.com/) - *Epoch & Unix Timestamp Conversion Tools* 
 * [How Many Days Since](http://howmanydayssince.net/) or [How Many Days Until](https://howmanydaysuntil.co/) - *Calculate days since a date*
-* [MindMup](https://www.mindmup.com/) or [MindMapp](https://mindmapp.cedoor.dev/app) - *Mind Mapping Tool* 
+* [MindMup](https://www.mindmup.com/), [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) or [MindMapp](https://mindmapp.cedoor.dev/app) - *Mind Mapping Tool* 
 * [Grocy](https://grocy.info/) - *Grocery / Household Management Tool*
 * [Volmarg](https://volmarg.github.io/) - *Personal Management Tool*
 * [Focalboard](https://www.focalboard.com/) - *Project Management Tool*
 * [Onym](https://guide.onym.co/) - *Tools / Resources for Naming Things*
+* [Cost 2 Drive](https://beta.costtodrive.com/) - *Gas Calculator* 
+* [WorldTaxiMeter](https://www.worldtaximeter.com/) - *Taxi Fare Calculator*
 * [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - *Bedtime Calculator* 
 * [Simple Science Fitness](https://ss.fitness/calculators) - *Fitness Calculators* 
 * [eXHALeR](https://www.xhalr.com/) - *Yoga / Meditation Breathing Tool* 
@@ -50,10 +52,13 @@
 * [PackageTrack](https://packagetrack.com/) - *Track Multiple Shipping Services*
 * [WhatDog](https://www.bing.com/visualsearch/Microsoft/WhatDog) - *Dog Breed Identification Tool* 
 * [tusk](https://tusk.page/) - *Give & Receive Anonymous Feedback* 
+* [Gramps](https://gramps-project.org/blog/) - *Genealogy Research Tool*
+* [DreamForth](http://www.dreamforth.com/) - *Dream Interpretations*
 * [My Car Makes Noise](http://mycarmakesnoise.com/) - *Diagnose Car Problems via Sounds* 
 * [Safe Substance](https://safesubstance.com/) - *Drug Combination Info / Harm Reduction* 
 * [Stolen Camera Finder](https://www.stolencamerafinder.com/) - *Find Stolen Cameras* 
 * [Thingiverse](https://www.thingiverse.com/) - *3D Printer Files* 
+* [Sweet Home 3D](http://www.sweethome3d.com/) - *Interior Design App*
 * [SlidesGo](https://slidesgo.com/) - *Google Slides / Powerpoint Templates* 
 * [QR Tiger](https://www.qrcode-tiger.com/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - *QR Code Generator* 
 * [QRpicture](https://www.qrpicture.com/) - *Picture to QR Code Converter* 
@@ -74,15 +79,18 @@
 * [TextSlave](https://www.textslave.com/), [Text Mechanic](https://textmechanic.com/) or [NimbleText](https://nimbletext.com/Live) - *Online Text Editors* 
 * [KiloDoc](https://www.kilodoc.com/) - *Online Document Editor* 
 * [Nute](https://nute.app/) - *Quickly Make & Save Text Files*
+* [ZealDocs](https://zealdocs.org/) - *Documentation Reader*
 * [Lyx](https://www.lyx.org/) - *LaTeX Editor*
 * [Detexify](http://detexify.kirelabs.org/classify.html) - *Handwritten LaTeX Symbol Recognition*
 * [QuillBot AI](https://quillbot.com/) - *Paraphrasing Tool* 
 * [phraseup](http://www.phraseup.com/) - *Autocomplete Common Phrases* 
 * [PaperRater](https://www.paperrater.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - *Annotation Tools / Resources*
-* [DeepL](https://www.deepl.com/), [Metalune](https://translate.metalune.xyz/) / [2](https://gtranslate.metalune.xyz/), [Libretranslate](https://libretranslate.com/) / [2](https://github.com/uav4geo/LibreTranslate), [Lingva](https://lingva.ml/), [Nice Translator](https://nicetranslator.com/) or [Yandex.Translate](https://translate.yandex.com/) - *Translator* 
+* [DeepL](https://www.deepl.com/), [Metalune](https://translate.metalune.xyz/) / [2](https://gtranslate.metalune.xyz/), [Libretranslate](https://libretranslate.com/) / [2](https://github.com/uav4geo/LibreTranslate), [Translate.com](https://www.translate.com/), [Lingva](https://lingva.ml/), [Nice Translator](https://nicetranslator.com/) or [Yandex.Translate](https://translate.yandex.com/) - *Translator* 
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - *Document Translator* 
 * [LingoJam](https://lingojam.com/) - *Create Translator*
+* [Poedit](https://poedit.net/) - *Translation Editor*
+* [OmegaT](https://omegat.org/) - *Translation Memory Tool*
 * [SoftMyList](https://sortmylist.com/) - *Sort / Clean Lists*
 * [Count Duplicates](https://www.somacon.com/p568.php) or [MyNikko](http://www.mynikko.com/tools/tool_duplicateremover.html)- *Count / Remove Duplicates in a List*
 * [Count Wordsworth](http://countwordsworth.com/) - *Count Words in a List* 
@@ -93,7 +101,7 @@
 https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB)* 
 * [Glory Todo Desktop](https://github.com/yessGlory17/glory_todo_desktop) or [OpenToDoList](https://gitlab.com/rpdev/opentodolist) - *To-Do App* 
 * [Notion](https://www.notion.so/) - *Notes / Tasks / Wikis / Databases*
-* [LibreOffice](https://www.libreoffice.org/), [FreeOffice](https://www.freeoffice.com/en/), [Office Tool Plus](https://otp.landian.vip/en-us/) or [OpenOffice](https://www.openoffice.org) - *Office Suite*
+* [LibreOffice](https://www.libreoffice.org/), [FreeOffice](https://www.freeoffice.com/en/), [Office Tool Plus](https://otp.landian.vip/en-us/), [SSuite](https://www.ssuitesoft.com/software/ssuiteexcalibur.htm) or [OpenOffice](https://www.openoffice.org) - *Office Suite*
 * [Office 365 Activation / Tutorial](https://youtu.be/ScL4qjE5-TE) + *[Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)*
 * [OfficeRTool](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/) - *Office 2016 Activation Tool* 
 * [OfficeDocs](https://www.offidocs.com/) - *Runs Desktop / Mobile Apps Online*
@@ -108,6 +116,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [I or l?](https://iorl.info/) - *Is it an uppercase "i", or is it a lowercase "L"?*
 * [CopyChar](https://copychar.cc/) or [Cool Symbol](https://coolsymbol.com/) - *Copy & Paste Symbols*
 * [Honk.moe](https://honk.moe/tools.html) - *Text Generators*
+* [randSeq](http://www.dave-reed.com/Nifty/randSeq.html) - *Random Letter Sequence Generator*
 * [The Ransomizer](http://www.ransomizer.com/) - *Ransom Note Generator / Message Encryption*
 * [InfoEncrypt](https://www.infoencrypt.com/) - *Encrypt / Decrypt Text* 
 * [quipqiup](https://www.quipqiup.com/) - *Cryptogram Solver* 
@@ -164,9 +173,12 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [Gifs paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/) or [Animated Images](https://www.animatedimages.org/) - *Download GIFs* 
 * [petpet](https://benisland.neocities.org/petpet/) - *Headpatting GIF Maker*
 * [GifPrint](http://gifprint.com/) - *Turn GIFs Into Flipbooks* 
+* [FlagWaver](https://krikienoid.github.io/flagwaver/) - *Create Moving Flag GIFs*
 * [Gifski](https://gif.ski/) - *GIF Encoder*
-* [DrMemes](https://www.drmemes.com/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - *Meme Generator* 
-* [FontIcon](https://gauger.io/fonticon/) or [Favic-o-Matic](https://favicomatic.com/) - *Favicon Generator* 
+* [DrMemes](https://www.drmemes.com/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - *Meme Maker* 
+* [Frinkiac](https://frinkiac.com/) - *Simpsons Meme Maker*
+* [Morbotron](https://morbotron.com/) - *Futurama Meme Maker*
+* [FontIcon](https://gauger.io/fonticon/)[PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [IconsFlow](https://iconsflow.com/) or [Favic-o-Matic](https://favicomatic.com/) - *Icon / PFP Makers* 
 * [IrfanView](https://www.irfanview.com/), [nomacs](https://nomacs.org/), [ImageGlass](https://imageglass.org/) or [PicView](https://github.com/Ruben2776/PicView) - *Image Viewer* 
 * [Piwigo](https://piwigo.org/) - *Photo Manager / Viewer*
 * [Pinry](https://docs.getpinry.com/ ) - *Image Tiling Board*
@@ -185,6 +197,11 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Logo Makr](https://logomakr.com/), [Logoshi](https://www.logoshi.com/) or [ACME](https://acme.com/labelmaker/) - *Logo Creator* 
 * [stripegenerator](http://www.stripegenerator.com/) - *Stripe Generator* 
 * [BannerEasy](https://www.bannereasy.com) - *Create Custom Banners*
+* [Band-Flyers](https://band-flyers.com/) - *Band Flyer Creator*
+* [Quote Maker](https://quotescover.com/) - *Quote Picture Generator*
+* [The Wood Workshop](http://spiralgraphics.biz/ww_overview.htm) - *Wood Texture Editor / Creator*
+* [PlantStudio](https://www.kurtz-fernhout.com/summary_plantstudio.html) - *Plant Model / Illustration Creator*
+* [Anaglyph Maker](https://www.stereoeye.jp/software/index_e.html) - *Make 3D Images*
 * [Dummy Image](https://dummyimage.com/) - *Dynamic Dummy Image Generator* 
 * [inkscape](https://inkscape.org/) or [Excalidraw](https://excalidraw.com/) - *Drawing* 
 * [PicTriev](http://www.pictriev.com/) - *Find Look-Alike Images* 
@@ -211,6 +228,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [ASCII art creator](https://github.com/CherryPill/ASCII-art-creator) - *Use Images to Generate ASCII Art*
 * [Inpaint](https://theinpaint.com/) - *Remove Objects from Photos* 
 * [Picrew](https://picrew.me/) - *Animated Character Maker*  
+* [PicFont](https://picfont.com/) - *Add Text to Images*
 * [CLIP-GLaSS](https://colab.research.google.com/drive/1fWka_U56NhCegbbrQPt4PWpHPtNRdU49?usp=sharing#scrollTo=zvZFRZtcv8Mp) - *Image Generation Tool* 
 * [MovieMania](https://www.moviemania.io/) or [Joblo](https://www.joblo.com/movie-posters/) - *Movie Wallpaper Database* 
 * /r/LivingBackgrounds - *Animated Wallpapers* 
@@ -222,7 +240,8 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [CleanPNG](https://www.cleanpng.com/) or [OpenClipart](https://openclipart.org/) - *PNG Images / Clipart* 
 * [PSDGraphics](https://www.psdgraphics.com/) - *PSD Files*
 * [Artbreeder](https://artbreeder.com/) - *Image Discovery / Combining*
-* [Free Vector Sites](https://onehack.us/t/get-download-free-vectors-45-sites-to-grab-vectors/96104) - *Download vector images* 
+* [Free Vector Sites](https://onehack.us/t/get-download-free-vectors-45-sites-to-grab-vectors/96104) - *Vector Images* 
+* [Placeit](https://placeit.net/) - *Image Templates*
 * [Worldvectorlogo](https://worldvectorlogo.com/) - *Brand Logos*
 * [Bendodson](https://bendodson.com/projects/itunes-artwork-finder/), [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) - *Find multimedia artwork*
 * [FanArt](https://fanart.tv/) - *Fan Made Posters / Logos* 
@@ -230,7 +249,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [CC0 Textures](https://cc0textures.com/) - *Textures for 3D Models* 
 * [Generated Photos](https://generated.photos/) - *AI Generated Model Photos*
 * [Blender](https://www.blender.org/) - *Open Source 3D Modeler / 2D Animation / Video Editor*
-* [Spline](https://spline.design/) or [Art of Illusion](http://aoi.sourceforge.net/) - *3D Modeling / Art Design Tool*
+* [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/) or [Art of Illusion](http://aoi.sourceforge.net/) - *3D Modeling / Art Design Tool*
 * [MakeHuman](http://www.makehumancommunity.org/) - *3D Humanoid Modeler*
 * [FaceMaker](http://facemaker.uvrg.org/) - *Face / Avatar Generator* 
 * [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - *AI Art Generation Guide*
@@ -254,7 +273,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [text2img](https://master.ayra.ch/text2img/) - *Convert Text to Image*
 * [Bigjpg](https://bigjpg.com/), [ImageUpscaler](https://imageupscaler.com/) or [waifu2x](https://github.com/nagadomi/waifu2x) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/tanakamura/waifu2x-converter-cpp), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/), [5](https://waifu2x.me/), [6](https://waifu2x.udp.jp/) - *Image Upscaler  / [Guide](https://i.imgur.com/55s8sU5.png)*
 * [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - *Scale Pixel Art w/o Quality Loss*   
-* [Capture2Text](http://capture2text.sourceforge.net/), [Online OCR](https://www.onlineocr.net/), [NewOCR](https://www.newocr.com/), [OCR.SPACE](https://ocr.space/) or [OnlineOCR](https://www.onlineocr.net/) - *Image to Text* 
+* [Capture2Text](http://capture2text.sourceforge.net/), [Online OCR](https://www.onlineocr.net/), [IMG2TXT](http://img2txt.com/), [NewOCR](https://www.newocr.com/), [OCR.SPACE](https://ocr.space/) or [OnlineOCR](https://www.onlineocr.net/) - *Image to Text* 
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - *Find out what a font is from a image*
 * [Visual Recognition](https://visual-recognition-code-pattern.ng.bluemix.net/) - *Analyzes Images for Scenes, Objects, Text ect.* 
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - *Image Color Scatter Plot* 
@@ -346,7 +365,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/) - *MKVExtract GUI* 
 * [MKV-Optimizer](https://www.videohelp.com/software/MKV-Optimizer) - *Remove Audio Tracks from MKV Files* 
 * [MakeMKV](https://www.makemkv.com/) - *Create MKV From Blu-Ray / DVD* 
-* [Alcohol Soft](https://www.alcohol-soft.com/) - *CD / DVD Burning*
+* [ImgBurn](https://www.imgburn.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - *CD / DVD Burning*
 * [DVDFab](https://www.dvdfab.cn/free.htm) - *Free DVD Related Programs* 
 * [h265ize](https://github.com/FallingSnow/h265ize) - *HEVC encoder* 
 * [Unscreen](https://www.unscreen.com/) - *Remove Video Background* 
@@ -360,6 +379,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Mixkit](https://mixkit.co/), [Coverr](http://coverr.co/) or [Mazwai](https://mazwai.com/) - *Stock Videos / Templates* 
 * [Anime4K](https://github.com/bloc97/Anime4K) - *Anime Video Upscaler* 
 * [Video Vault](https://www.bravenewtech.org/) - *Video Preservation Tool* 
+* [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - *Duplicate Video Finder*
 * [WebcamTests](https://webcamtests.com/) - *Test your Webcam*
 * [VougueAI](https://vogueai.aml.fynd.com/) - *Extract Fashion Designs from Videos* 
 * [Widevine L3 Decryptor](https://github.com/tomer8007/widevine-l3-decryptor/tree/ed8a97745c69b8cc0fc7f59cec9474b216b49e16) - *Bypass Widevine DRM*
@@ -422,7 +442,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [JummBox](https://jummbus.bitbucket.io/) - *Create Chiptune Melodies* 
 * [Acid Machine 2](http://errozero.co.uk/acid-machine/) - *Acid Techno Machine*
 * [Roland 808303.studio](https://808303.studio/) - *Online Drum Machine / TB-303 Bass Synth* 
-* [iO-808](https://io808.com/) - *Online Drum Machine*
+* [iO-808](https://io808.com/) or [Hammmerhead](http://www.threechords.com/hammerhead/) - *Online Drum Machine*
 * [orDrumbox](https://www.ordrumbox.com/) - *Drum Machine*
 * [Dot Piano](https://dotpiano.com/) - *Online Piano*
 * [MK-1](https://ericrosenbaum.github.io/MK-1/) - *Online Sampling Keyboard*
@@ -492,24 +512,24 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 
 ## ▷ Map Tools
 
-* **[DuckDuckGo](https://duckduckgo.com/?q=maps&ia=web&iaxm=maps)**, [Yandex](https://yandex.com/maps/), [Google](https://www.google.com/maps/), [Bing](https://www.bing.com/maps), [Wego.Here](https://wego.here.com/) or [OrganicMaps](https://organicmaps.app/) - *Maps / Satellite Views* 
-* /r/MapPorn - *Map Subreddit*
+* **[DuckDuckGo](https://duckduckgo.com/?q=maps&ia=web&iaxm=maps)**, [Yandex](https://yandex.com/maps/), [Google](https://www.google.com/maps/), [Bing](https://www.bing.com/maps), [Wego.Here](https://wego.here.com/), [Terrafly](http://www.terrafly.com/) or [OrganicMaps](https://organicmaps.app/) - *Maps / Satellite Views* 
+* [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - *Earth Viewer*
 * [OpenStreetMap](https://www.openstreetmap.org/) - *Street Map* 
 * [MapChannels](https://www.mapchannels.com/) - *Mapping / Navigation Tools* 
 * [OldMapsOnline](https://www.oldmapsonline.org/) - *Historical Maps Tool* 
 * [Map Crunch](https://www.mapcrunch.com/) or [RandomStreetView](https://randomstreetview.com/) - *Random Street View*
 * [Mapillary](https://www.mapillary.com/) - *Street-Level Imagery* 
+* [Loc Maps](https://www.loc.gov/collections/general-maps/) - *Historical Maps*
 * [1940's.nyc](https://1940s.nyc/) - *Explore 1940's New York* 
 * [Snap Map](https://map.snapchat.com/) - *Snap Chat Map*
 * [Flickr Map](https://www.flickr.com/map/) - *Flickr Map*
 * [U Meet Me Here!](https://www.umeetmehere.com/) - *Find Closest Point Between Two Locations*
-* [Cost 2 Drive](https://beta.costtodrive.com/) - *Gas Calculator* 
-* [Maps We Love](https://www.esri.com/en-us/maps-we-love/gallery) - *Multiple Maps* 
+* [Maps We Love](https://www.esri.com/en-us/maps-we-love/gallery), [CoolMaps](https://coolmaps.esri.com/#0) or /r/MapPorn - *Multiple Maps* 
 * [Windy](https://www.windy.com/) - *Wind Map* 
 * [Wikimapia](http://wikimapia.org/) - *Online Editable Map*
 * [MapChart](https://mapchart.net/) - *Create Custom Maps* 
+* [Mobac](https://mobac.sourceforge.io/) - *Mobile Atlas Creator*
 * [City Generator](https://probabletrain.itch.io/city-generator) - *City Map Generator* 
-* [CoolMaps](https://coolmaps.esri.com/#0) - *Multiple Maps* 
 * [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Map* 
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - *List / Map of Active Volcanoes*
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - *Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)*
@@ -550,6 +570,8 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [CertAlert](https://certalert.net/) - *Alerts you when a TLS/SSL Certificate Expires* 
 * [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - *Check which IPFS Gateways are online* 
 * [lew.la](https://lew.la/) - *Reddit video DL, YT to MP3 & More Tools* 
+* [Emojipedia](https://emojipedia.org/) - *Emoji Index*
+* [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - *Party Parrot Emojis*
 * [you-get](https://github.com/soimort/you-get) - *Download Media Contents from Webpages* 
 * [EdgeDeflector](https://github.com/da2x/EdgeDeflector) - *Force Open Default Browser*
 * [Got Your Back](https://github.com/jay0lee/got-your-back) - *Backup Gmail Messages* 
@@ -570,6 +592,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Web.Telegram](https://web.telegram.org/), [2](https://webk.telegram.org/), [3](https://webz.telegram.org/) - *Telegram Web Client*
 * [Jitsi](https://desktop.jitsi.org/index.html), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone) or [Briefing](https://brie.fi/ng) - *Video Chat* 
 * [Jam](https://jam.systems/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - *Voice Chat* 
+* [IMumble](https://www.imumble.nl/) - *Voice Chat Server*
 * [Speak After Click](https://speakafter.click/) - *Click to Speak Voice Chat* 
 * [Telegram Email](https://t.me/etlgr_bot) - *Send / Receive Emails via Telegram* 
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://www.nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - *Scheduled sending and email reminders* 
@@ -736,7 +759,7 @@ General Reading Sites*
 * [QR Code Generator](https://www.qr-code-generator.com/) - *QR Code Generator For URLs / Text* 
 * [Flashify](https://github.com/GodsMoon/Flashify) - *Open URL in different browser*
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - *Custom way to handle urls*
-* [Dead Link Checker](https://www.deadlinkchecker.com/) or [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php) - *Broken Link Checker*
+* [Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy), [Dead Link Checker](https://www.deadlinkchecker.com/) or [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php) - *Broken Link Checker*
 * [W.A.R. Links Checker Premium](http://usa.x10host.com/mybb/showthread.php?tid=88) - *Checks If File Links are Alive or Not*
 * [SafeLinking](https://safelinking.net/), [UpToLink](https://uptolink1.com/), [BrBushare](https://brbushare.xyz/) or [ShortLinkto](https://shortlinkto.top/) - *Link Protectors* 
 * [WhoIsRequest](https://whoisrequest.com/) - *Domain History, Reverse IP/NS Lookups & more* 
@@ -812,6 +835,7 @@ General Reading Sites*
 * [emoji.gg](https://emoji.gg/) or [KEE](https://kellphy.com/projects/apps/kee.html) - *Discord Emotes* 
 * [Distok](http://distok.top/stickers/) - *Discord Stickers as GIFs* 
 * [Discord Sticker Viewer](https://sticker-view.vercel.app/) - *View / Search Discord Stickers*
+* [DiscordBanners](https://discordbanners.com/) - *Free Custom Banners*
 * [Better Discord](http://betterdiscord.app/) - *Modifiable Discord Client / [Plugins](https://rauenzi.github.io/BetterDiscordAddons/), [2](https://mwittrien.github.io/) / [Themes](https://www.limeshark.dev/editor), [2](https://gibbu.me/editor) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd), [2](https://discord.gg/sbA3xCJ)*
 * [Ripcord](https://cancel.fm/ripcord/) - *Lighweight Discord & Slack Client / [Themes](https://web.archive.org/web/20210116022920/https://tmad40.blue/ripcord_color_schemes.html) / [Binary Patcher](https://github.com/geniiii/patcher) / [Better Notifications](https://github.com/efskap/discord-notify)*
 * [Powercord](https://powercord.dev/) - *Anti-Telemetry Discord Addon / [CSS](https://discord.gg/QfGXuvy6Qn) / [Plugins](https://github.com/topics/powercord-plugin) / [Embed Generator](https://github.com/TheShadowGamer/safe-embed-generator). [2](https://github.com/ThykeAdams/-PowerCord-Embedify) / [Theme Converter](https://cr3atable.github.io/Powerconvert) / [Premid](https://github.com/MulverineX/premid-powercord) / [Dark Theme](https://github.com/zespire/dark-theme) / [Pronouns](https://github.com/cyyynthia/pronoundb-powercord)*
@@ -875,12 +899,14 @@ General Reading Sites*
 * [DiskCord](https://github.com/5ut/DiskCord) - *Host Files on External Sites to share via Discord*
 * [discord-logo](http://nntin.github.io/discord-logo) - *Discord Animated Logo Generator / [Discord](https://discord.gg/gDHs8AV)*
 * [Discord Branding](https://discord.com/branding) - *Discord Branding Information Page / [Archive](https://web.archive.org/web/20210513004910/https://discord.com/branding)*
+* [Displace](https://discord.gg/displace) - *Discord Community Management Chat*
 * [Discord Moderator Academy](https://discord.com/moderation) - *Discord Moderator Guide / [Exam](https://discord.com/moderation/exam)*
 * [SnowStamp](https://pixelatomy.com/snow-stamp/) - *Convert Discord Snowflakes to Timestamps*
 * [ddpe](https://ddpe.androz2091.fr/) - *Discord Data Package Explorer / [GitHub](https://github.com/Androz2091/discord-data-package-explorer)*
 * [Discord InfluxDB exporter](https://github.com/terorie/discord-influx) - *Export Discord Metrics to InfluxDB*
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - *Datamining Discord changes from the JS files*
 * [Discord.sale](https://discord.sale/) - *Discord Client Build Info*
+* [discasset](https://github.com/Commandtechno/discasset), [2](https://gitlab.com/derpystuff/discasset) - *Discord Asset Grabber *
 * [Hypesquad](https://cdn.discordapp.com/attachments/668986791797325824/844589771653382194/unknown.png) - *Get a Discord Profile Badge*
 
 ***
@@ -948,9 +974,11 @@ General Reading Sites*
 
 * **[TweetBeaver](https://tweetbeaver.com/)** or [TwopCharts](https://twopcharts.com/) - *Multiple Twitter Tools* 
 * /r/Twitter - *Twitter Subreddit*
+* [Awesome Twitter Bots](https://github.com/amandeepmittal/awesome-twitter-bots) - *Twitter Bot Index*
 * [Twitonomy](https://www.twitonomy.com/) - *Twitter Dashboard / Analytics* 
 * [TweetDeck](https://tweetdeck.twitter.com/) - *Twitter Dashboard*
 * [BackTweets](http://backtweets.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - *Search Twitter* 
+* [Twishort](https://twishort.com/) - *Make Longer Tweets*
 * [Thread Reader App](https://threadreaderapp.com/) - *Unroll Twitter threads / Search* 
 * [Treeverse](https://treeverse.app/) - *Twitter Conversation Visualizer* 
 * [Trends Map](https://www.trendsmap.com/) or [MentionMap](https://mentionmapp.com/) - *Trending Twitter Hashtags / Topics*
@@ -1006,10 +1034,12 @@ General Reading Sites*
 * [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), /r/buildapc or [NZXTBld](https://www.letsbld.com/) - *PC Building Sites / [Discord](https://discord.gg/buildapc)*
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - *GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)*
 * [r/TechSupport](https://www.reddit.com/r/techsupport/) - *Tech Support Discussion / [Discord](https://discord.gg/2EDwzWa)* 
+* [Office License Isn't Genuine](https://infohost.github.io/office-license-is-not-genuine) - *Fix Office Activation Issues*
 * [Rufus](https://rufus.ie/), [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) or [WoeUSB](https://github.com/WoeUSB/WoeUSB) - *Create Bootable USB Drives*  
 * [Easy2Boot](https://www.easy2boot.com/) - *Boot Directly from ISO's* 
 * [balenaEtcher](https://balena.io/etcher) - *Flash OS Image SD / USB*
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - *Preinstallation Environment* 
+* [CD Key Reader](http://www.cathonian.com/software/cd-keyreader/) - *Find Key used to Install Windows*
 * [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) or [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - *Extended Windows 7 Updates* 
 * [SmartWindows](https://smartwindows.app/) - *Create / Restore Windows Profiles* 
 * [VirtualBox](https://www.virtualbox.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - *Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)*
@@ -1019,12 +1049,16 @@ General Reading Sites*
 * [AATU](https://amdaputuningutility.com/) - *Ryzen Mobile Laptop Tuning Utility*
 * [NBFC](https://github.com/hirschmann/nbfc) - *Laptop Fan Control*
 * [WizTree](https://wiztreefree.com/), [WinDirStat](https://windirstat.net/), [diskover](https://github.com/shirosaidev/diskover), [baobab](https://github.com/GNOME/baobab), [2](https://gitlab.gnome.org/GNOME/baobab), [HDSentinel](https://www.hdsentinel.com/) or [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - *Disk Usage Analyzer*
+* [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - *Disk Benchmarking Tool*
+* [MyFavoriteGadgets](https://www.myfavoritegadgets.info/) - *System Monitors*
 * [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - *Windows System Utilities* 
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](http://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - *Process Monitor*
+* [SpeedFan](http://www.almico.com/speedfan.php) - *Hardware Monitor*
 * [Process Lasso](https://bitsum.com/) - *CPU Optimization* 
 * [CPUid](https://www.cpuid.com/softwares/cpu-z.html) - *System Information Tool* 
 * [HWiNFO](https://www.hwinfo.com/) - *Hardware Analysis, Monitoring and Reporting*
 * [phwmon](https://gitlab.com/o9000/phwmon) - *System Tray Hardware Monitor*
+* [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - *Startup Program Monitor*
 * [Open Shell](https://open-shell.github.io/Open-Shell-Menu/), [2](https://github.com/Open-Shell/Open-Shell-Menu) or [SystemTrayMenu](http://hofknecht.eu/systemtraymenu) / [GitHub](https://github.com/Hofknecht/SystemTrayMenu) - *Improved Start Menu* 
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - *Classic Start Menu* 
 * [Search Deflector](https://github.com/spikespaz/search-deflector) - *Change Cortana Search Engine / Browser*
@@ -1032,6 +1066,7 @@ General Reading Sites*
 * [pyWinContext](https://github.com/VodBox/pyWinContext) - *Custom Context Menu Manager* 
 * [Killer](https://github.com/ntaraujo/killer) or [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - *Improved Task Manager / [Discord](https://discord.gg/MKG6qgJ964)*
 * [All Tasks Toolbar](https://winaero.com/create-all-tasks-god-mode-toolbar-windows-10/) - *Create All Tasks God Mode Toolbar in Win 10* 
+* [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm) - *Windows Manager*
 * [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - *Add Everything Support to Taskbar* 
 * [Hyper](https://github.com/nodgear/Hyperbar) or [Awesome](https://github.com/nodgear/Awesome) - *Taskbar Replacement*
 * [Clover](http://en.ejie.me/) or [QTTabBar](http://qttabbar.wikidot.com/) - *Windows Explorer Tabs*
@@ -1040,10 +1075,11 @@ General Reading Sites*
 * [Multi Commander](http://multicommander.com/) - *Multi-Tabbed File Manager*
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - *Quickly Change Power Schemes*
 * [Wox](http://www.wox.one/) / [GitHub](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - *Keystroke Launcher* 
-* [ArsClip](http://www.joejoesoft.com/vcms/97/), [Ditto Clipboard Manager](https://ditto-cp.sourceforge.io/), [clipboardmemo](https://gitlab.com/fabrom/clipboardmemo), [CopyQ](https://hluk.github.io/CopyQ/) or [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots) - *Clipboard Manager* 
+* [ArsClip](http://www.joejoesoft.com/vcms/97/), [Ditto Clipboard Manager](https://ditto-cp.sourceforge.io/), [clipboardmemo](https://gitlab.com/fabrom/clipboardmemo), [CopyQ](https://hluk.github.io/CopyQ/), [Free Clipboard Viewer](https://freeclipboardviewer.com/) or [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots) - *Clipboard Manager* 
 * [clip](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/clip) - *Redirects Command Output from Command Line to Clipboard*
 * [Almond](https://almond.stanford.edu/) - *Virtual Assistant*
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - *Voice Assistant*
+* [Jarvis](https://acwtechnologies.co.uk/software/jarvis-lite) - *Voice Commands*
 * [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client), [Mycroft](https://mycroft.ai/) or [Home Assistant](https://www.home-assistant.io/) - *Home Assistant Client*
 * [Cerebro App](https://cerebroapp.com/) or [Zazu App](http://zazuapp.org/) - *System Productivity Booster*
 * [Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - *Automate Tasks*
@@ -1071,6 +1107,7 @@ General Reading Sites*
 * [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - *Free Google Colab Code Server & RDP*
 * [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) - *Free Google Colab VPS on 25GB RAM*
 * [mRemoteNG](https://mremoteng.org/) - *Remote Connections Manager* 
+* [Netmaker](https://gravitl.com/netmaker) - *Create Virtual Network*
 * [Collab-VM](http://computernewb.com/collab-vm/) - *Control Collaborative Virtual Machines* 
 * [Chocolatey](https://chocolatey.org/) - *Windows Package Manager* 
 * [TopGrade](https://github.com/r-darwish/topgrade) - *Package Manager Update Automation* 
@@ -1119,6 +1156,7 @@ General Reading Sites*
 * [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) - *Analyze System Log Files* 
 * [DependecyWalker](https://www.dependencywalker.com/) or [Dependencies](https://github.com/lucasg/Dependencies) - *View Application Dependencies* 
 * [store.rg](https://store.rg-adguard.net/) - *Microsoft Store Link Generator* 
+* [amogOS](https://github.com/jostroOS/amogOS) - *Rasberry Pi OS*
 * [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - *Identify why your PC isn't Windows 11 ready*
 
 ***
@@ -1207,6 +1245,7 @@ General Reading Sites*
 * [FolderClone](http://www.folderclone.com/) - *Clone / Backup Folders*
 * [Borg](https://www.borgbackup.org/) - *Deduplicating File Archiver / Backup* 
 * [BackupPC](https://backuppc.github.io/backuppc/) or [Duplicati](https://www.duplicati.com/) - *File Backup System* 
+* [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) - *Web-Based File Browser*
 * [DocDroid](https://www.docdroid.net/) or [Securedrop](https://securedrop.org/) - *Document Sharing Tool*
 * [Browsemonkey](https://github.com/shukriadams/browsemonkey) - *Take Snapshots of File Systems* 
 * [Save to Drive](https://savetogoogledrive.herokuapp.com/) - *Save Files to GDrive without account*   
@@ -1321,6 +1360,8 @@ General Reading Sites*
 * [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/), [HexHTML](https://hextml.playest.net/) or [MapTool](https://www.rptools.net/?page=maptool) - *Map Making Software* 
 * [Adventurer's Codex](https://adventurerscodex.com) -  *Online D&D 5e Campaign Manager / System*
 * [DS4Windows](http://ds4windows.com/) or [InputMapper](https://inputmapper.com/) - *DS4 Tool* 
+* [ViGEmBus](https://github.com/ViGEm/ViGEmBus) - *DS4 / 360 Controller Emulator*
+* [DsHidMini](https://github.com/ViGEm/DsHidMini) - *Use PS3 Controllers on Windows [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)*
 * [Lowkey](https://lowkey.gg/) - *Record / Screenshot Gameplay* 
 * [FalseKeystrokes V1](https://mega.nz/file/9bwzlSjA#k7mNScRcOXoRIIIihZMzG385n4eR8s8aixf8PHx04fc) / [V2](https://mega.nz/file/ZPxE3AbL#RRFR5JuG-HXJimcE78Ncnapzw0aYbw5b5Cx43-EAX3s) - *Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)*
 * [Project Era](https://erafn.glitch.me/#downloads) - *Play Old Fortnite Seasons*
@@ -1328,6 +1369,7 @@ General Reading Sites*
 * [tModLoader](https://www.tmodloader.net/) - *Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)*
 * [TEdit](http://binaryconstruct.com/games/tedit) - *View / Edit Terraria Maps*
 * [Terrasavr](https://yal.cc/r/terrasavr/) - *Terraria Character Editor*
+* [TerrColab](https://github.com/AndreVuillemot160/TerrColab) - *Host Collab based Terraria Server / [.ipynb](https://colab.research.google.com/github/AndreVuillemot160/TerrColab/blob/main/TerrColab.ipynb)*
 * [Low Specs Experience](https://ragnotechpowered.com/) - *Game Optimization Program* 
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) or [Netch](https://github.com/netchx/Netch/) - *Online Game Acceleration Proxy*
 * [protondb](https://www.protondb.com/) or [Lutris](https://lutris.net/) - *Play Windows games on Linux*

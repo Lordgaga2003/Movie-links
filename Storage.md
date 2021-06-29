@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/UrTWJLg.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/Gd9OqDN.png)** - *For mobile users*
 
 ***
 ***
@@ -106,6 +106,12 @@
 #### Android Note Apps
 
 [xaviertobin](https://play.google.com/store/apps/details?id=com.xaviertobin.noted), [colornote](https://www.colornote.com/), [notion](https://www.notion.so/), [joplinapp](https://joplinapp.org/), [standardnotes](https://standardnotes.org/), [zoho](https://www.zoho.com/notebook/), [getupnote](https://play.google.com/store/apps/details?id=com.getupnote.android), [onenote](https://support.microsoft.com/en-us/office/microsoft-onenote-for-android-46b4b49d-2bef-4746-9c30-6abb5e20b688), [markor](https://fossdroid.com/a/markor.html)
+
+***
+
+#### Anti-Grabify 
+
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/anti-grabify/) / [Chrome](https://chrome.google.com/webstore/detail/anti-grabify/mdiikcjojbiohaoechokgkdiodcfokpn)
 
 ***
 
@@ -1238,7 +1244,7 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 
 #### Stock Photo Sites
 
-**[GetPaidStock](https://getpaidstock.com/), [Downloader.la](https://downloader.la/), [EveryPixel](https://www.everypixel.com/)**, [Png.is](https://png.is/tool/findstock), [Unsplash](https://unsplash.com), [Nohat](https://nohat.cc/), [Pexels](https://www.pexels.com/), [PixaBay](https://pixabay.com/), [PNGIMG (png)](https://pngimg.com/), [Shutter](https://t.me/Shutter) (Telegram), [Shutterstock Premium](https://t.me/shutterstockpremium) (Telegram), [Free Shutterstock](https://t.me/freeshutter), (Telegram), [freestockphotos](https://t.me/freestockphotos) (Telegram), [PSD](https://t.me/psd_vector_eps_mockup_stocks) (Telegram), [StockSnap](https://stocksnap.io/), [allthefreestock](https://allthefreestock.com/), [altphotos](https://altphotos.com/), [chamberofcommerce](https://www.chamberofcommerce.org/findaphoto/), [goodfreephotos](https://www.goodfreephotos.com/), [imagebase](http://imagebase.net/), [morguefile](https://morguefile.com/photos), [desirefx](https://www.desirefx.me/category/stock_images/), [gfxmountain](http://gfxmountain.com/stock-photos/), [all-free-download](https://all-free-download.com/free-photos/), [compfight](http://compfight.com/), [creativity103](http://creativity103.com/), [photopin](http://photopin.com/), [photos8](https://photos8.com/), [reshot](https://www.reshot.com/), [creativecommons](https://search.creativecommons.org/), [DreamsTime](https://www.dreamstime.com/free-photos), [OpenAccess](https://www.si.edu/OpenAccess), [LibreStock](http://librestock.com/), [FreeImages](https://www.freeimages.com/), [PixelMob](https://pixelmob.co/), [sharedvn](https://www.sharedvn.net/) (shutterstock downloader)
+**[GetPaidStock](https://getpaidstock.com/), [Downloader.la](https://downloader.la/), [EveryPixel](https://www.everypixel.com/)**, [Png.is](https://png.is/tool/findstock), [Unsplash](https://unsplash.com), [Nohat](https://nohat.cc/), [Pexels](https://www.pexels.com/), [PixaBay](https://pixabay.com/), [PNGIMG (png)](https://pngimg.com/), [Shutter](https://t.me/Shutter) (Telegram), [Shutterstock Premium](https://t.me/shutterstockpremium) (Telegram), [Free Shutterstock](https://t.me/freeshutter), (Telegram), [freestockphotos](https://t.me/freestockphotos) (Telegram), [PSD](https://t.me/psd_vector_eps_mockup_stocks) (Telegram), [StockSnap](https://stocksnap.io/), [allthefreestock](https://allthefreestock.com/), [altphotos](https://altphotos.com/), [chamberofcommerce](https://www.chamberofcommerce.org/findaphoto/), [goodfreephotos](https://www.goodfreephotos.com/), [imagebase](http://imagebase.net/), [morguefile](https://morguefile.com/photos), [desirefx](https://www.desirefx.me/category/stock_images/), [gfxmountain](http://gfxmountain.com/stock-photos/), [all-free-download](https://all-free-download.com/free-photos/), [compfight](http://compfight.com/), [creativity103](http://creativity103.com/), [photopin](http://photopin.com/), [photos8](https://photos8.com/), [reshot](https://www.reshot.com/), [creativecommons](https://search.creativecommons.org/), [DreamsTime](https://www.dreamstime.com/free-photos), [OpenAccess](https://www.si.edu/OpenAccess), [LibreStock](http://librestock.com/), [FreeImages](https://www.freeimages.com/), [PixelMob](https://pixelmob.co/), [StorySet](https://storyset.com/), [sharedvn](https://www.sharedvn.net/) (shutterstock downloader)
 
 ***
 
@@ -1324,7 +1330,7 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 
 #### Temp Email Sites
 
-**[smailpro](https://smailpro.com/)** (gmail), [Gmailnator](https://www.gmailnator.com/) (gmail), [10 Minute Mail](https://temp-mail.org/en/10minutemail), [Temp Mail](https://temp-mail.org/), [cs.email](https://www.cs.email/), [maildrop](https://maildrop.cc/), [mailinator](https://www.mailinator.com/), [10minutemail](https://10minutemail.com/), [spamgourmet](https://www.spamgourmet.com/), [tempmail.ninja](https://tempmail.ninja/), [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) (Addon), [getnada](https://getnada.com/), [tempinbox](http://tempinbox.com), [disposable](https://github.com/0x19/disposable), [anonbox](https://anonbox.net/), [youdabomb](https://tempmail.youdabomb.social/), [Generator.email](https://generator.email/), [kuku](https://m.kuku.lu/), [Trashmail](https://redd.it/gpo1ni) (Telegram), [TrashEmail](https://t.me/trashemail_bot) (Telegram), [grrmail](http://grrmailb3fxpjbwm.onion/) (tor), [Email on Deck](https://www.emailondeck.com/), [temp-mails](https://www.temp-mails.com/), [Mohmal](https://www.mohmal.com/en), [Mohmal](https://www.mohmal.com/en), [tempmail](https://github.com/sdushantha/tmpmail) (terminal), [Temp Mail](https://rapidapi.com/Privatix/api/temp-mail) (api), [xkx](https://xkx.me/), [33mail](https://33mail.com/), [Guerillamail](https://www.guerrillamail.com/), [vipmail](https://vipmail.cyou/), [edumail](https://edumail.icu/), [Mail.tm](https://mail.tm/en), [1tb](https://www.1tb.fun/), [temporarymail](https://temporarymail.com/), [FakeMailGenerator](http://www.fakemailgenerator.com/), [tempmailo](https://tempmailo.com/), [10minutesemail](https://10minutesemail.net/), [emailondeck](http://emailondeck.com/)
+**[smailpro](https://smailpro.com/)** (gmail), [Gmailnator](https://www.gmailnator.com/) (gmail), [10 Minute Mail](https://temp-mail.org/en/10minutemail), [Temp Mail](https://temp-mail.org/), [cs.email](https://www.cs.email/), [maildrop](https://maildrop.cc/), [mailinator](https://www.mailinator.com/), [10minutemail](https://10minutemail.com/), [spamgourmet](https://www.spamgourmet.com/), [tempmail.ninja](https://tempmail.ninja/), [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) (Addon), [getnada](https://getnada.com/), [tempinbox](http://tempinbox.com), [disposable](https://github.com/0x19/disposable), [anonbox](https://anonbox.net/), [youdabomb](https://tempmail.youdabomb.social/), [Generator.email](https://generator.email/), [kuku](https://m.kuku.lu/), [Trashmail](https://redd.it/gpo1ni) (Telegram), [TrashEmail](https://t.me/trashemail_bot) (Telegram), [grrmail](http://grrmailb3fxpjbwm.onion/) (tor), [Email on Deck](https://www.emailondeck.com/), [temp-mails](https://www.temp-mails.com/), [Mohmal](https://www.mohmal.com/en), [Mohmal](https://www.mohmal.com/en), [tempmail](https://github.com/sdushantha/tmpmail) (terminal), [Temp Mail](https://rapidapi.com/Privatix/api/temp-mail) (api), [xkx](https://xkx.me/), [33mail](https://33mail.com/), [Guerillamail](https://www.guerrillamail.com/), [vipmail](https://vipmail.cyou/), [edumail](https://edumail.icu/), [Mail.tm](https://mail.tm/en), [1tb](https://www.1tb.fun/), [temporarymail](https://temporarymail.com/), [FakeMailGenerator](http://www.fakemailgenerator.com/), [tempmailo](https://tempmailo.com/), [10minutesemail](https://10minutesemail.net/), [emailondeck](http://emailondeck.com/), [inboxkitten](https://inboxkitten.com/)
 
 ***
 
@@ -1580,7 +1586,7 @@ Downlaod from deezer also supports playlist from Spotify
 
 #### Video Editors
 
-[Lightworks](https://www.lwks.com/), [Olive](https://www.olivevideoeditor.org/), [VirtualDub2](https://sourceforge.net/projects/vdfiltermod/files/), [LosslessCut](https://github.com/mifi/lossless-cut), [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Shotcut](https://shotcut.org/), [FreeMake](https://www.freemake.com/how_to/free_movie_maker), [EZVid](https://www.ezvid.com/), [OpenShot](https://www.openshot.org/), [Shotcut](https://www.shotcut.org/), [HitFilm](https://fxhome.com/product/hitfilm-express)
+[Lightworks](https://www.lwks.com/), [Olive](https://www.olivevideoeditor.org/), [VirtualDub2](https://sourceforge.net/projects/vdfiltermod/files/), [LosslessCut](https://github.com/mifi/lossless-cut), [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Shotcut](https://shotcut.org/), [FreeMake](https://www.freemake.com/how_to/free_movie_maker), [EZVid](https://www.ezvid.com/), [OpenShot](https://www.openshot.org/), [Shotcut](https://www.shotcut.org/), [HitFilm](https://fxhome.com/product/hitfilm-express), [kdenlive](https://kdenlive.org/en/)
 
 ***
 

@@ -115,6 +115,7 @@
 * [MoviesHD](https://movieshd.co/) - *Movies / TV* 
 * [Dogeflix](https://dogeflix.net/) - *Movies / TV* 
 * [Best-Movies](https://best-movies.watch/) - *Movies*
+* [YesHD](https://yeshd.net/) - *Movies / TV*
 * [UWatchFree](https://www.uwatchfree.mn/) - *Movies / TV*  
 * [FlixPad](https://flixpad.net/) - *Movies / TV* 
 * [MovieWeTrust](https://moviewetrust.co/) - *Movies / TV / Anime* 

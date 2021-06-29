@@ -373,7 +373,7 @@ Add "huhu.to", "bs.to" or "oha.to"*
 RSS Player*
 * [mobi24](https://www.mobi24.net) - *Anime / Cartoons / Drama / Manga*
 * [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv) or [MX Player](https://forum.mobilism.org/search.php?keywords=Mx+player&amp;terms=all&amp;author=Balatan&amp;sc=1&amp;sf=titleonly&amp;sr=topics&amp;sk=t&amp;sd=d&amp;st=0&amp;ch=300&amp;t=0&amp;submit=Search) - *Video Player*
-* [Twire](https://f-droid.org/packages/com.perflyst.twire/), [Xtra](https://play.google.com/store/apps/details?id=com.github.exact7.xtra&amp;hl=en_US&amp;gl=US) or [TwitchMod](https://github.com/nopbreak/TwitchMod) - *Modded Ad Free Twitch Client* 
+* [Twire](https://f-droid.org/packages/com.perflyst.twire/), [Xtra](https://play.google.com/store/apps/details?id=com.github.exact7.xtra&amp;hl=en_US&amp;gl=US), [multiChat](https://play.google.com/store/apps/details?id=org.mchatty) or [TwitchMod](https://github.com/nopbreak/TwitchMod) - *Ad Free Twitch* 
 * [Android TV Mod](https://t.me/androidtvmod) - *Android TV / Fire TV / Fire Stick / Mods / Telegram*  
 * [Smart YouTube TV](https://smartyoutubetv.github.io/) - *Ad-Free YouTube client for set-top boxes and Android-based TVs*
 * [Great Courses Plus Premium](https://onehack.us/t/get-the-great-courses-plus-premium-android/92613) - *Courses*
@@ -391,6 +391,7 @@ RSS Player*
 * [AnimeDLR](https://cyberneticlifeform.wixsite.com/cylonu87/animedlr) + *[Discord](https://discord.com/invite/wKxRqKc)*
 * [AnimeUltima](https://www1.animeultima.to/app) + *[Discord](https://discord.gg/T3sDrtf)*
 * [AnimeBoya](https://github.com/Tu2l/AnimeBoya)
+* [Aniyomi](https://github.com/jmir1/aniyomi)
 * [Animebay](https://animebay.tech/)
 * [AnimeFanz Tube](https://apkpure.com/anime-fanz-tube/com.animefanzapp.tube) - *Anime*
 * [Animezone](https://animezone.info/) - *Anime / [GitHub](https://github.com/spyderbibek/Anime-Zone)* 

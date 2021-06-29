@@ -213,7 +213,9 @@
 * [RoomRecess](https://www.roomrecess.com/)
 * [TurtleDiary](https://www.turtlediary.com/)
 * [SheppardSoftware](https://www.sheppardsoftware.com/web_games_menu.htm)
-* [Cool Math Games](https://www.coolmathgames.com/)
+* [Cool Math Games](https://www.coolmathgames.com/) - *Math Games*
+* [Math Game Time](https://www.mathgametime.com/) - *Math Games*
+* [Hooda Math](https://www.hoodamath.com/) - *Math Games*
 * [The Problem Site](https://www.theproblemsite.com/) - *Problems / Puzzles/ Games*
 * [PuzzlaMaker](http://www.vtaide.com/png/puzzles.htm) - *Educational Puzzles*
 * [iCivics](https://www.icivics.org/games) - *U.S. Law Learning Games*
@@ -229,7 +231,7 @@
 * **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://photomath.app/en/), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) - *Math Problem Solver with Steps / [Symbolab Pro](https://pastebin.com/wA3QQkCj)*
 * [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - *Matrix Calculator*
 * [Weboasis Convert](https://weboas.is/convert/) - *Conversion Calculators*
-* [Unit Conversion](https://conversao.net/eng/) - *Online Unit Converter* 
+* [Unit Conversion](https://conversao.net/eng/) or [ConvertAll](https://convertall.bellz.org/) - *Unit Converter* 
 * [Desmos](https://www.desmos.com/) - *Graphing Calculator* 
 * [fxSolver](https://www.fxsolver.com/) - *Engineering & Scientific Calculator*
 * [Online Math Tools](https://onlinemathtools.com/) - *Multiple Math Tools*
@@ -302,12 +304,14 @@
 * [Language Drops](https://languagedrops.com/) - *Language Learning App / [Premium](https://forum.mobilism.org/search.php?keywords=drops&sr=topics&sf=titleonly)*
 * [Manji](https://github.com/Livinglist/Manji) - *Language Learning / Japanese / Kanji*
 * [PolyGlot](http://polyglots.free.fr/) - *Linguistic Teaching Software*
+* [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - *Language Identification Test*
 
 ***
 
 # ► Music Learning
 
 * [OpenSong](http://www.opensong.org/) - *Track Lyrics, Chords, Sheets & more*
+* [LilyPond](http://lilypond.org/) - *Music Engraving Program*
 * [Learning Music](https://learningmusic.ableton.com/)
 * [Teoria](https://www.teoria.com/index.php) - *Music Theory*
 * [LightNote](https://www.lightnote.co/) - *Music Theory*
@@ -346,6 +350,7 @@
 * [BrainPOP Jr.](https://jr.brainpop.com/) - *Quizzes / Animations*
 * [The Problem Site](https://www.theproblemsite.com/) - *Problems / Puzzles/ Games*
 * [LateralPuzzles](http://www.lateralpuzzles.com/) - *Lateral Thinking Puzzles*
+* [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - *The Trolley Problem*
 * [OpenSyllabus](https://opensyllabus.org/) or [SyllabusFinder](https://www.syllabusfinder.com/) - *Syllabus Search / Info*
 * [Edpuzz Ninja](https://edpuzz.ninja/) - *Educational Puzzle Solving Tool* 
 * [Slader](https://www.slader.com/) - *Homework Answers and Solutions*
@@ -355,7 +360,7 @@
 * [AMCharts](https://live.amcharts.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - *Chart Creator*
 * [AWW](https://awwapp.com/), [OpenBoard](https://openboard.ch/
 https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
-* [app.diagrams](https://app.diagrams.net/), [RawGraphs](https://rawgraphs.io/), [yEd Live](https://www.yworks.com/yed-live/) or [Gephi](https://gephi.org/) - *Graph / Diagram Creator*  
+* [app.diagrams](https://app.diagrams.net/), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [yEd Live](https://www.yworks.com/yed-live/) or [Gephi](https://gephi.org/) - *Graph / Diagram Creator*  
 * [Anki](https://apps.ankiweb.net/) or [Flashcard Machine](https://www.flashcardmachine.com/) - *Flash Card Tool*
 * [Wolfram Cloud](https://www.wolframcloud.com/) - *Computational intelligence*
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
@@ -367,6 +372,7 @@ https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.white
 * [The True Size](https://thetruesize.com/) - *Compare Country Size* 
 * [Seeing Theory](https://seeing-theory.brown.edu/) - *Interactive Probability / Statistics Lessons* 
 * [VirtualTrebuchet](http://virtualtrebuchet.com/) - *Trebuchet Simulator* 
+* [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - *Pendulum Simulator*
 * [Traffic Simulation](https://traffic-simulation.de/) - *Traffic Flow Simulation* 
 * [Ray Optics Simulation](https://ricktu288.github.io/ray-optics/) - *Light Reflection / Refraction Simulator*
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) - *Mineralogy Index* 

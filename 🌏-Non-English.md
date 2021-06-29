@@ -363,9 +363,11 @@
 
 # ► Hebrew 
 
+* [AB-Maps](https://www.abmaps.com/) - *Map Tool*
+
 ## ▷ Streaming
 
-* [sdarot.tv](https://sdarot.tv/) - *TV / Anime*
+* [sdarot.tv](https://sdarot.tv/) - *TV / Anime / [Mirrors](https://rentry.co/mnvfw)*
 * [JFC](https://jfc.org.il/) - *Movies*
 
 ***
@@ -420,6 +422,7 @@
 * [gaana](https://gaana.com/) - *Music*
 * [hungama](https://www.hungama.com/music/) - *Music*
 * [jiosaavn](https://www.jiosaavn.com/) - *Music*
+* [PikaShow](https://shinchan.pages.dev/) - *Android / Movies / TV*
 
 ## ▷ Reading
 

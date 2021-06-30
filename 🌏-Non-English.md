@@ -275,7 +275,7 @@
 * [awesome-german-piracy](https://github.com/SeppPenner/awesome-german-piracy) - *collection of German sites*
 * [RR.Topliste](https://toplist.raidrush.ws/) - *Piracy Sites List* 
 * [Tarnkappe](https://forum.tarnkappe.info/) - *Piracy Discussion + [Telegram](https://t.me/Tarnkappe_info)*
-* [xrel](https://www.xrel.to/) - *Scene Release Tracker* 
+* [xrel](https://www.xrel.to/) - *Scene Release & P2P Tracker* 
 
 ## ▷ Downloading 
 

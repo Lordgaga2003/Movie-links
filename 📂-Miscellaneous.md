@@ -131,6 +131,7 @@
 
 * [Firefox Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) - *Prevent Firefox Memory Leaks* 
+* [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) - *Firefox Hidden Settings*
 * [keyconfig](https://addons.palemoon.org/addon/keyconfig/) - *Firefox Key Binds* 
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - *Multiple Link Related Actions* 
 * [FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/) - *Multiple Tab Related Actions*
@@ -372,7 +373,7 @@
 * [NeverThink](https://neverthink.tv/) - *Watch Random Memes / Videos* 
 * [Neal.fun](https://neal.fun/) or [JenniferDewalt](https://jenniferdewalt.com/) - *Sites / Games*
 * [Just For Fun](https://justforfun.io/) or [Andrew Marsh](http://andrewmarsh.com/software) - *Coding Project Showcase* 
-* [Trippy shit Mega List](https://triptoysfor.me/) or [Mr.doob](https://mrdoob.com/) - *Toys & Experiments* 
+* [Trippy shit Mega List](https://triptoysfor.me/), [Neave](https://codepen.io/neave) or [Mr.doob](https://mrdoob.com/) - *Toys & Experiments* 
 * [Bimble Space](https://in.bimble.space/toys) - *Multiple Toys / Art Tools* 
 * [Kamogo](https://www.kamogo.com/faq/) - *Useless Web Apps*
 * [MoodLight](https://www.moodlight.org/) - *Turn Screen into Strobe Light*
@@ -396,10 +397,12 @@
 * [Pokemon Showdown](https://pokemonshowdown.com/) - *Pokemon Battle Simulation* 
 * [This Is Sand](https://thisissand.com/) - *Make Sand Art* 
 * [Orb.Farm](https://orb.farm/) - *Virtual Aquatic Ecosystem* 
+* [MarbleRun](https://www.marblerun.at/) - *Create Marble Courses*
 * [Bouncy Balls](https://bouncyballs.org/) or [Balls Simulation](http://ricktu288.github.io/balls-simulation/) - *Ball Physics Simulator*
 * [Fluid Simulation WebGL](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) or [WebGL Fluid Experiment](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) - *Fluid Simulation*
 * [WebGL Water](http://madebyevan.com/webgl-water/) - *Water Simulation* 
 * [Origami Simulator](https://origamisimulator.org/) - *Origami Simulation* 
+* [Fold & Cut](https://www.onemotion.com/fold-cut-paper/) - *Make Digital Paper Snowflakes*
 * [Neonflames](https://29a.ch/sandbox/2011/neonflames/) - *Draw Nebula* 
 * [WaveEQ](https://quazikb.github.io/WaveEq/index.html) - *Real-Time Wave Tracing* 
 * [Leapy Grid](https://codepen.io/Godje/full/mOzpEY/) - *Play with Rainbow Grid* 
@@ -421,6 +424,7 @@
 * [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - *Click & Drag Windows Errors* 
 * [Our World of Text](https://ourworldoftext.com/) or [Your World of Text](https://www.yourworldoftext.com/) - *Infinite grid of text editable by anyone*
 * [pixels.land](https://pixels.land/) - *Infinite Pixel Art online*  
+* [Genetic Cars 2](https://rednuht.org/genetic_cars_2/) - *Random 2D Car Generator*
 * [cachemonet](http://cachemonet.com/) - *Randomly Generated GIFs/ Backgrounds* 
 * [r.sine.com](https://r.sine.com/index) - *Random Images on Refresh, Some NSFW*
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - *Create a Dancing Character* 
@@ -446,6 +450,7 @@
 * [Petting](http://oos.moxiecode.com/js_webgl/fur/index_petting.html) - *Fur Simulator*
 * [Spider 2 Hammertime](http://oos.moxiecode.com/js_webgl/spiders_2_hammertime/) - *Murder Spiders*
 * [Slap Kirk](https://www.slapkirk.com/) - *Slap Captain Kirk*
+* [Slide Ventura](https://slideventura.com/) - *Ace Ventura Sliding Door Simulator*
 * [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - *Realistic-looking fake versions of things* 
 * [ThisPersonDoesNotExist](https://www.thispersondoesnotexist.com/) - *People That Don't Exist*
 * [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) - *Words That Don't Exist* 
@@ -468,6 +473,7 @@
 * [Judgey](http://playjudgey.com/) - *Judge A Book By Its Cover* 
 * [Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/) - *Things you didn't know you wanted*
 * [Draw a Stickman](https://drawastickman.com/) - *Stickman Adventure* 
+* [World Draw](https://world-draw.appspot.com/draw) - *Draw the World Together*
 * [Scratch](https://scratch.mit.edu/) - *Create Animations / Games* 
 * [Iceberger](https://joshdata.me/iceberger.html) - *Draw an Iceberg, See how it Floats*
 * [Paper Plotter](https://felixboiii.github.io/paper-plotter/) - *Create 3D plots out of paper* 

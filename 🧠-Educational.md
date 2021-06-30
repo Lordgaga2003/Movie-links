@@ -215,6 +215,7 @@
 * [SheppardSoftware](https://www.sheppardsoftware.com/web_games_menu.htm)
 * [Cool Math Games](https://www.coolmathgames.com/) - *Math Games*
 * [Math Game Time](https://www.mathgametime.com/) - *Math Games*
+* [Math is Fun](https://www.mathsisfun.com/games/index.html) - *Math Games*
 * [Hooda Math](https://www.hoodamath.com/) - *Math Games*
 * [The Problem Site](https://www.theproblemsite.com/) - *Problems / Puzzles/ Games*
 * [PuzzlaMaker](http://www.vtaide.com/png/puzzles.htm) - *Educational Puzzles*
@@ -237,6 +238,7 @@
 * [Online Math Tools](https://onlinemathtools.com/) - *Multiple Math Tools*
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
 * [IXL Learning](https://au.ixl.com/math/) - *Math Practice / Quizzes*
+* [Math is Fun](https://www.mathsisfun.com/) - *Math Tutorials / Puzzles / Games*
 * [Project Euler](https://projecteuler.net/) - *Math / Programming Problems*
 
 ***
@@ -253,6 +255,7 @@
 * [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - *Solar System Scale Model*
 * [3DSolarSystem](https://theskylive.com/3dsolarsystem) - *Solar System Simulator* 
 * [100,000 Stars](https://stars.chromeexperiments.com/) - *Interactive 3D Star Visualization*
+* [ESO](https://www.eso.org/public/images/eso1242a/zoomable/), [Hubble](https://esahubble.org/images/heic1502a/zoomable/), [Hubble 2](https://esahubble.org/images/heic1901a/zoomable/) - *Massive Zoomable Telescope Photos*
 * [SpaceEngine](http://spaceengine.org/) - *Universe Simulator*
 
 ***
@@ -349,6 +352,7 @@
 * [TurtleDiary](https://www.turtlediary.com/) - *Quizzes / Lessons / Games*
 * [BrainPOP Jr.](https://jr.brainpop.com/) - *Quizzes / Animations*
 * [The Problem Site](https://www.theproblemsite.com/) - *Problems / Puzzles/ Games*
+* [PuzzlePrime](https://www.puzzleprime.com/) - *Problems / Puzzles*
 * [LateralPuzzles](http://www.lateralpuzzles.com/) - *Lateral Thinking Puzzles*
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - *The Trolley Problem*
 * [OpenSyllabus](https://opensyllabus.org/) or [SyllabusFinder](https://www.syllabusfinder.com/) - *Syllabus Search / Info*

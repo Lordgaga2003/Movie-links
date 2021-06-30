@@ -487,7 +487,7 @@
 
 #### Image Editing Software
 
-**[Gimp](https://www.gimp.org/)** / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP), [2](https://github.com/cttynul/gimpshop-reloaded), [PhotoDemon](https://github.com/tannerhelland/PhotoDemon), [Paint.net](https://www.getpaint.net/index.html), [Glimpse](https://glimpse-editor.github.io/), [Photoscape](http://www.photoscape.org/), [PhotoFiltre](http://www.photofiltre.com/), [Polarr](https://www.polarr.com/), [ImageMagick](http://www.imagemagick.org/script/index.php), [Pinta Project](https://www.pinta-project.com/), [RawTherapee](https://rawtherapee.com/)
+**[Gimp](https://www.gimp.org/)** / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP), [2](https://github.com/cttynul/gimpshop-reloaded), [PhotoDemon](https://github.com/tannerhelland/PhotoDemon), [Paint.net](https://www.getpaint.net/index.html), [Glimpse](https://glimpse-editor.github.io/), [Photoscape](http://www.photoscape.org/), [PhotoFiltre](http://www.photofiltre.com/), [Polarr](https://www.polarr.com/), [ImageMagick](http://www.imagemagick.org/script/index.php), [Pinta Project](https://www.pinta-project.com/), [RawTherapee](https://rawtherapee.com/), [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) (VS Code)
 
 ***
 
@@ -1508,7 +1508,7 @@ Downlaod from deezer also supports playlist from Spotify
 
 #### Text Adventures
 
-[iFiction](https://www.ifiction.org/) (Index), [Pac-Txt](http://www.pactxt.com/), [AI Dungeon](https://play.aidungeon.io/main/landing), [A Dark Room](http://adarkroom.doublespeakgames.com/), [Addventure](http://addventure.com/addventure/), [The Never Ending Quest](https://www.sir-toby.com/extend-a-story/story-1/code/read.php) 
+[iFiction](https://www.ifiction.org/) (Index), [Pac-Txt](http://www.pactxt.com/), [AI Dungeon](https://play.aidungeon.io/main/landing), [A Dark Room](http://adarkroom.doublespeakgames.com/), [Addventure](http://addventure.com/addventure/), [The Never Ending Quest](https://www.sir-toby.com/extend-a-story/story-1/code/read.php), [The Text Adventure](https://kevan.org/wikitext/), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/) 
 
 ***
 
@@ -1550,7 +1550,7 @@ Downlaod from deezer also supports playlist from Spotify
 
 **Lessons** - **[TypingSoft](https://typingsoft.com/)** (Index), [keybr](https://www.keybr.com/), [Monkey Type](https://monkeytype.com/), [Typing.com](https://www.typing.com/), [Colemak Academy](https://www.colemak.academy/), [klavaro](https://klavaro.sourceforge.io/), [TIPP10](https://www.tipp10.com/), [RapidTyping](https://rapidtyping.com/), [TypeLit.io](https://www.typelit.io/) (Novels), [Typing Club](https://www.typingclub.com/), [Ratatype](https://www.ratatype.com/), [JustType](http://www.greatis.com/utilities/justtype/), [Rasyti](https://www.blueseal.eu/rasyti/), [SoloTyping](http://solotyping.com/?locale_id=2), [TypingBolt](https://www.typingbolt.com/), [AmpheType](https://code.google.com/archive/p/amphetype/), [Stamina](https://typingsoft.com/stamina.htm),[goodtyping](https://www.goodtyping.com/), [10fastfingers](https://10fastfingers.om/), [Typing-Fingers](http://www.typing-fingers.com/), [Typing Arena](http://www.typingarena.com/), [TechTypingTutor](https://sourceforge.net/projects/tachtypingtutor/), [Tipp10](https://www.tipp10.com/en/), [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) (Mac), [KTouch](https://apps.kde.org/en/ktouch)  (Linux)
 
-**Games** - [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/)
+**Games** - [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [NitroType](https://www.nitrotype.com/)
 
 ***
 

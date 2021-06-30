@@ -86,7 +86,7 @@
 * [phraseup](http://www.phraseup.com/) - *Autocomplete Common Phrases* 
 * [PaperRater](https://www.paperrater.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - *Annotation Tools / Resources*
-* [DeepL](https://www.deepl.com/), [Metalune](https://translate.metalune.xyz/) / [2](https://gtranslate.metalune.xyz/), [Libretranslate](https://libretranslate.com/) / [2](https://github.com/uav4geo/LibreTranslate), [Translate.com](https://www.translate.com/), [Lingva](https://lingva.ml/), [Nice Translator](https://nicetranslator.com/) or [Yandex.Translate](https://translate.yandex.com/) - *Translator* 
+* [DeepL](https://www.deepl.com/), [Metalune](https://translate.metalune.xyz/) / [2](https://gtranslate.metalune.xyz/), [Papago](https://papago.naver.com/), [Libretranslate](https://libretranslate.com/) / [2](https://github.com/uav4geo/LibreTranslate), [Translate.com](https://www.translate.com/), [Lingva](https://lingva.ml/), [Nice Translator](https://nicetranslator.com/) or [Yandex.Translate](https://translate.yandex.com/) - *Translator* 
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - *Document Translator* 
 * [LingoJam](https://lingojam.com/) - *Create Translator*
 * [Poedit](https://poedit.net/) - *Translation Editor*
@@ -114,7 +114,8 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - *Text Tone Detection* 
 * [R2bEEaton's Phonetic Reverser](https://spea.cc/backwards/) - *Sentence / Word Reverser* 
 * [I or l?](https://iorl.info/) - *Is it an uppercase "i", or is it a lowercase "L"?*
-* [CopyChar](https://copychar.cc/) or [Cool Symbol](https://coolsymbol.com/) - *Copy & Paste Symbols*
+* [CopyChar](https://copychar.cc/), [Copy Paste Dump](https://c.r74n.com/) or [Cool Symbol](https://coolsymbol.com/) - *Copy & Paste Unicode Symbols*
+* [Donger List](http://dongerlist.com/) - *600+ Unicode Emoticons* 
 * [Honk.moe](https://honk.moe/tools.html) - *Text Generators*
 * [randSeq](http://www.dave-reed.com/Nifty/randSeq.html) - *Random Letter Sequence Generator*
 * [The Ransomizer](http://www.ransomizer.com/) - *Ransom Note Generator / Message Encryption*
@@ -130,7 +131,6 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [The Death Generator](https://deathgenerator.com/) - *Video Game Text Generator* 
 * [Pixel Speech Bubble](https://pixelspeechbubble.com/) - *Create Pixel Speech Bubbles* 
 * [Acme Caption](https://acme.com/caption/) - *Caption Creator* 
-* [Donger List](http://dongerlist.com/) - *600+ Unicode Emoticons* 
 * [SimpleWriter](https://xkcd.com/simplewriter/) - *Simple Words Writing Tool* 
 * [SVGBob Editor](https://ivanceras.github.io/svgbob-editor/) - *Convert ASCII Diagrams to SVG Images* 
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
@@ -179,7 +179,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [Frinkiac](https://frinkiac.com/) - *Simpsons Meme Maker*
 * [Morbotron](https://morbotron.com/) - *Futurama Meme Maker*
 * [FontIcon](https://gauger.io/fonticon/)[PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [IconsFlow](https://iconsflow.com/) or [Favic-o-Matic](https://favicomatic.com/) - *Icon / PFP Makers* 
-* [IrfanView](https://www.irfanview.com/), [nomacs](https://nomacs.org/), [ImageGlass](https://imageglass.org/) or [PicView](https://github.com/Ruben2776/PicView) - *Image Viewer* 
+* [IrfanView](https://www.irfanview.com/), [XnView](https://www.xnview.com/en/), [nomacs](https://nomacs.org/), [ImageGlass](https://imageglass.org/) or [PicView](https://github.com/Ruben2776/PicView) - *Image Viewer* 
 * [Piwigo](https://piwigo.org/) - *Photo Manager / Viewer*
 * [Pinry](https://docs.getpinry.com/ ) - *Image Tiling Board*
 * [darktable](https://www.darktable.org/) - *Virtual Lighttable & Darkroom*
@@ -308,7 +308,7 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [DeepSort](https://github.com/CorentinB/DeepSort/) - *Image Tagger* 
 * [Flicker-Download](https://github.com/beaufour/flickr-download) - *Flickr Scraper* 
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - *Grab YouTube Thumbnails* 
-* [Librephotos](https://github.com/LibrePhotos/librephotos) or [Ownphotos](https://github.com/hooram/ownphotos/) - *Self-Hosted Google Photos Alternative* 
+* [Librephotos](https://github.com/LibrePhotos/librephotos), [Photoprism](https://github.com/photoprism/photoprism), [Photoview](https://github.com/photoview/photoview) or [Ownphotos](https://github.com/hooram/ownphotos/) - *Self-Hosted Google Photo Manager* 
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) - *Automatically Organize / Search Photos*
 * [BetaFace](https://www.betaface.com/demo.html) or [Face Recognition](https://github.com/ageitgey/face_recognition) - *Facial Recognition* 
 * [The Rasterbator](https://rasterbator.net/) - *Wall Art Generator* 
@@ -638,6 +638,8 @@ https://github.com/martinstoeckli/SilentNotes) - *Note Taking / To-Do App / [Fir
 * [woob](https://woob.tech/) - *Use Sites Without a Browser*
 * [Lightspark](https://lightspark.github.io/) - *Open-Source Flash Player*
 * [StockBrowser](https://stackbrowser.com/) - *Multi Web App Browser*
+* [Firemin](https://www.rizonesoft.com/downloads/firemin/) - *Prevent Firefox Memory Leaks* 
+* [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) - *Firefox Hidden Settings*
 * [Tripgen](https://orph.link/tripgen) - *Image Board Trip Code Generator* 
 * [Slideshow-Deslidefier](http://deslide.clusterfake.net/) - *View Slideshows All At Once* 
 * [divr.it](https://dlvrit.com/) - *Social Media Automation Tool*
@@ -880,6 +882,7 @@ General Reading Sites*
 * [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/adversarialtools/discord-delete), [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) or [QuickDeleteMessages](https://u.nu/9i9jk) - *Delete Discord Messages* 
 * [MessageLogger V2](https://1lighty.github.io/BetterDiscordStuff/?plugin=MessageLoggerV2) - *Plugin for Better Discord to view deleted messages and the old edits on edited messages* 
 * [Top.gg](https://top.gg/) or [Top Bots](https://s.advaith.io/topbots) - *Discord Bots Discovery* 
+* [Discord Reputation](https://discordrep.com/) - *Prevent Discord Fraud*
 * [Discord Ban Appeals](https://github.com/patricktechn/discord-ban-appeals) - *Discord Ban Appeal Form*
 * [Discord Auto Upload](https://github.com/tardisx/discord-auto-upload) - *Auto Upload Screenshots*
 * [DSC.BIO](https://dsc.bio/) - *Make Awesome Custom Discord Bios* 
@@ -1043,6 +1046,7 @@ General Reading Sites*
 * [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) or [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - *Extended Windows 7 Updates* 
 * [SmartWindows](https://smartwindows.app/) - *Create / Restore Windows Profiles* 
 * [VirtualBox](https://www.virtualbox.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - *Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)*
+* [Windows Sandbox](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview) - *Sandbox Environment*
 * [WinCDEmu](https://wincdemu.sysprogs.org/) - *CD/DVD/BD Emulator*  
 * [SpeedyFox](https://crystalidea.com/speedyfox) - *Optimize Program Performance*  
 * [CCStopper](https://github.com/E-Soda/CCStopper) - *Stop Background Adobe Apps*
@@ -1101,7 +1105,7 @@ General Reading Sites*
 * [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit) - *Presentation Utility / Zoom Tool*
 * [Deskreen](http://deskreen.com/) - *Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen)* 
 * [JumpShare](https://jumpshare.com/) - *File, Screenshot & Video Sharing* 
-* [AnyDesk](https://anydesk.com/), [Parsec](https://parsec.app/), [TeamViewer](https://www.teamviewer.com/en-us/) or [NoMachine](https://www.nomachine.com/) - *Remote Desktop Clients*
+* [AnyDesk](https://anydesk.com/), [RustDesk](https://rustdesk.com/), [Parsec](https://parsec.app/), [TeamViewer](https://www.teamviewer.com/en-us/) or [NoMachine](https://www.nomachine.com/) - *Remote Desktop Clients*
 * [WindowsRDP](https://github.com/itznik/WindowsRDP) - *Free RDP / [Guide](https://rentry.co/WindowsRDP)*
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - *Free Ubuntu VNC*
 * [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - *Free Google Colab Code Server & RDP*
@@ -1238,7 +1242,7 @@ General Reading Sites*
 * [IPFS](https://ipfs.io/) - *P2P Hypermedia Protocol / [Extension](https://github.com/ipfs-shipyard/ipfs-companion)* 
 * [Awesome-IPFS](https://github.com/ipfs/awesome-ipfs) - *IPFS Resource Index* 
 * [Dreamcrafter](https://www.dreamcrafter.dev/) - *File Manager*
-* [RClone](https://rclone.org/), [2](https://github.com/rclone/rclone), [Rethink Files](https://rethink.software/, [RaiDrive](https://www.raidrive.com/), [Air Explorer](https://airexplorer.net/en/), [MultiCloud](https://www.multcloud.com/) or [gclone](https://github.com/donwa/gclone) - *Multi-Site Cloud Storage File Manager / [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20)* 
+* [RClone](https://rclone.org/), [2](https://github.com/rclone/rclone), [Rethink Files](https://rethink.software/), [RaiDrive](https://www.raidrive.com/), [Air Explorer](https://airexplorer.net/en/), [MultiCloud](https://www.multcloud.com/) or [gclone](https://github.com/donwa/gclone) - *Multi-Site Cloud Storage File Manager / [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20)* 
 * [AutoRclone](https://drive.google.com/file/d/11yrXPUfWEP6bAeIw0fibjr-JxeWa-1Da/) / [GitHub](https://github.com/xyou365/AutoRclone) - *Create Google Service Accounts for RClone*
 * [Cyberduck](https://cyberduck.io/) - *Libre Server / Cloud Storage Browser*
 * [myDrive](https://mydrive-storage.com/) - *Open-Source Cloud File Storage*
@@ -1254,6 +1258,7 @@ General Reading Sites*
 * [gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink) - *GDrive File Direct Link Generator*
 * [UptoTGbot](https://t.me/UptoTGbot), [Files Web Server](https://t.me/webdownload_bot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot) or [UploadDxbot](https://t.me/UploadDxbot) - *Upload Files to Telegram*  
 * [UploadBots](https://t.me/UploadBots) - *List of Telegram Upload Bots*
+* [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - *Fix OneDrive Zip Files >4gb*
 * [Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/), [AllDup](http://www.alldup.info/) - *Duplicate File Finder* 
 * [TMSU](https://github.com/oniony/TMSU) or [SuperTag](https://github.com/amoffat/supertag) - *Tag-Based Filesystem* 
 * [Advanced Renamer](https://www.advancedrenamer.com/), [theRenamer](http://therenamer.com/), [Hydrus](https://hydrusnetwork.github.io/hydrus/), [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/), [tinyMediaManager](https://www.tinymediamanager.org/), [Bruji](https://www.bruji.com/) or [mnamer](https://github.com/jkwill87/mnamer), [Szyszka](https://github.com/qarmin/szyszka) or [MediaMonkey](https://www.mediamonkey.com/) - *Bulk File Renamer / Organizer*
@@ -1331,6 +1336,7 @@ General Reading Sites*
 
 * **[GoG Galaxy](https://www.gog.com/galaxy)**, [Launchbox](https://www.launchbox-app.com/), [GameHub](https://tkashkin.tk/projects/gamehub/) / [GitHub](https://github.com/tkashkin/GameHub), [Playnite](https://playnite.link/) or [chad_launcher](https://gitlab.com/Gnurur/chad_launcher) - *Game Library / Launcher*
 * **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)** - *Game Requirements Test* 
+* /r/CrackWatch, [SteamCrackStatus](https://steamcrackedgames.com/) /[Discord](https://discord.gg/8hhTZUDPu9) / /r/SteamCrackedGames* or [CrackSnoop](https://github.com/CrackSnoop/cracksnoop) - *Scene Release Trackers / [Discord](https://discord.gg/d9StxkknwX)*
 * [find-PlayDate](https://www.find-playdate.com/) - *Find People to Play Games With* 
 * [Before I Play](http://www.beforeiplay.com/) - *Tips for any Game* 
 * [Fraps](https://fraps.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - *FPS Benchmarking Utility*
@@ -1342,7 +1348,6 @@ General Reading Sites*
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - *DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)*
 * [Parsec](https://parsec.app/) - *Play games from your PC remotely* 
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - *Controller Connectivity Testers*
-* /r/CrackWatch or [CrackSnoop](https://github.com/CrackSnoop/cracksnoop) - *Scene release tracker / [Discord](https://discord.gg/d9StxkknwX)*
 * [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/) or [softether](https://www.softether.org/) - *Play Pirated Multiplayer Games*
 * [CnCNet](https://cncnet.org/) - *Multiplayer Command & Conquer* 
 * [Online Fix](https://online-fix.me/) - *Online Game Cracks / [Discord](https://discord.gg/yExgFYncMD)* 

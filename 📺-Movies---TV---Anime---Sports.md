@@ -441,7 +441,7 @@
 
 # ► Download Sites
 
-* **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451)
+* **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "video"*
 * **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - *Download videos from streaming sites*
 * **[pahe.ph](http://pahe.ph/)** - *Movies / TV / Anime / HD / [Discord](https://discord.gg/33P8hpR)*
@@ -485,6 +485,7 @@
 * [FlixSeries](https://flixseries.club/) - *TV* 
 * [MiCineHD](https://www.micinehd.com/) - *Movies / TV* 
 * [MoviesVerse](https://moviesverse.net/) - *Movies / TV*
+* [TVindexer](https://tvindexer.com/) - *Movies / TV / Anime*
 * [SeriesVault](https://seriesvault.tk/) - *TV* 
 * [MoviezAddiction](https://moviezaddiction.me/) - *Movies / TV* 
 * [10StarHD](https://10starhd.run/category/hollywood-movies/) - *Movies*

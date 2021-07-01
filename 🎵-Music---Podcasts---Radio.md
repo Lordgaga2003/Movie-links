@@ -39,13 +39,19 @@
 * [Pandora](https://www.pandora.com/) - *Browser music*
 * [Jamendo](https://www.jamendo.com/) - *Browser music*
 * [Last.fm](https://www.last.fm/) or [Libre.fm](https://libre.fm/) - *Browser music*
+* [plug.dj](https://plug.dj/) - *Community Streaming by Genre* 
+* [hypem](https://hypem.com/popular) - *Rising*
+* [datpiff](https://www.datpiff.com/) - *Mixtapes*
+* [pumpyouup](http://www.pumpyouup.com/) - *Indie Dubstep*
+* [musopen](https://musopen.org/music/) - *Classical*
+* [jamendo](https://www.jamendo.com/) - *Independent*
 * [Bandcamp](https://bandcamp.com/tag/free-music?tab=all_releases) - *Free Bandcamp Music* 
 * [GetFVid](https://www.getfvid.com/) - *Facebook Video / Audio Downloader* 
-* [Genre Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_genre_music_browser_sites) - *Stream specific genres*
 * [AudionautiX](https://audionautix.com/) - *Mood based streaming*
 * [Khinsider](https://downloads.khinsider.com/), [Cirrus Retro](https://cirrusretro.com/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
 * [Themes.moe](https://themes.moe/) - *Anime Themes*
 * [Musicmap](https://musicmap.info/) - *Genealogy / History of Music Genres* 
+* [Random Song](https://randomsong.net/) - *Random Song Generator*
 * [The Nostalgia Machine](http://thenostalgiamachine.com/) or [bops.fm](https://bops.fm/) - *Random Songs by Year* 
 * [Drive & Listen](https://driveandlisten.herokuapp.com/) - *Listen to Music and Drive in Multiple Cities* 
 * [Map of Metal](http://mapofmetal.com/) - *Interactive Map of Metal History* 
@@ -82,6 +88,7 @@
 * [Old Time Radio Downloads](https://www.oldtimeradiodownloads.com/) - *Classic Radio Downloads*
 * [adblock radio](https://www.adblockradio.com/en/) - *Ad Free Podcasts / Radio Player / [GitHub](https://github.com/adblockradio/adblockradio)*
 * [radiobot](https://t.me/radiobot) - *Radio / Telegram* 
+* [WebSDR](http://www.websdr.org/) - *Internet Radio Receiver*
 * [castero](https://github.com/xgi/castero) - *TUI Terminal Podcast Client*
 * [Curseradio](https://github.com/chronitis/curseradio) - *Internet radio in the terminal*
 * [Nightwave Plaza](https://plaza.one/) or [vapor.fm](https://vapor.fm/) - *Vaporwave Radio*
@@ -90,6 +97,7 @@
 * [Di.fm](https://www.di.fm/) - *Electronic Radio* 
 * [0x40](https://0x40.mon.im/) - *Electronic Radio w/ Anime Pictures* 
 * [Poolside FM](https://poolside.fm/) - *Summer Radio*
+* [latestation](http://radio.late.city/) - *Late-Night Radio*
 * [LISTEN.moe](https://listen.moe/)  - *K-Pop Radio*
 * [Fountain of Dreams](https://fountainofdreams.net/) - *Japanese 80's Radio* 
 * [Rainwave](https://rainwave.cc/) - *Video Game Music Radio*
@@ -199,6 +207,7 @@
 * [DeadPulpit](https://www.deadpulpit.com/) - *MP3*
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - *MP3*
 * [74.136.132.35](http://74.136.132.35/MUSIC/ORIG/) - *MP3 / Drive*
+* [Music for the masses !](https://redd.it/nt7fea) - *MP3 / Drives*
 * [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3 / Drive* 
 * [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3 / Drive*
 * [Kyan's Music](https://drive.google.com/drive/folders/1J6VVfN-iD6DLEMIC1kLETcc5f8ENoJs0) - *MP3 / Drive*
@@ -223,17 +232,38 @@
 * [xprm](https://xprm.net/) - *MP3 / DL / Stream / Requests*
 * [Jimmy R](http://www.jimmyr.com/mp3_search.php) or [Musgle](http://www.musgle.com/) - *Google Directory Search / MP3*
 * [The Noise-Arch Archive](https://archive.org/details/noise-arch) - *Underground Cassette Tapes*
+* [Take Metal](http://takemetal.org/) - *Metal / MP3*
+* [GetMetal Club](https://getmetal.club/) - *Metal / MP3 / FLAC* 
+* [Me-4U](https://me-4u.com/index.php) - *Metal / MP3*
+* [The Last Disaster](https://thelastdisaster.org/) - *Metal / Hardcore / Rock / MP3 / FLAC*
+* [Sophie's Floorboard](https://sophiesfloorboard.blogspot.com/) - *Hardcore / MP3*
+* [1Gabba](https://1gabba.pw/) - *Electronic / MP3*
+* [Gabber](https://gabber.od.ua/) - *Electronic / MP3*
+* [freake](http://freake.ru/) - *Electronic / MP3* 
+* [DQQD](https://dqqd.org/) - *Electronic / MP3 / FLAC*
+* [TheMusicFire](https://themusicfire.com/) - *Electronic / MP3 / FLAC* 
+* [1Trance](https://1trance.org/) - *Trance / MP3*
+* [1Techno](https://1techno.org/) - *Techno / MP3*
+* [Vaporwave Library Project](https://vaporwave.ivan.moe/) - *Vaporwave*
+* [loa2k](https://loa2k.neocities.org/) - *Vaporwave*
+* [nu guide](https://nuvaporwave.neocities.org/mirrors.html) - *Vaporwave*
+* [lolicore.org](http://lolicore.org/) - *Lolicore / Breakcore*
+* [David W. Niven Collection](https://archive.org/details/davidwnivenjazz) - *Jazz music collection / [Article](https://www.electronicbeats.net/the-feed/download-650-gigabytes-jazz-free/)*
+* [BOXSET](https://boxset.ru/) - *Classical / FLAC*
+* [chucrute com quiabo](https://rabanetecomquiabo.blogspot.com/) - *Classical*
+* [HQ Hip Hop](http://94hiphop.com/) - *Hip Hop / MP3 / FLAC*
+* [Rapload](https://rapload.org/) - *Hip Hop / MP3*
+* [MikuDB](http://mikudb.moe/) - *Vocaloid / MP3*
 * [Download-Soundtracks](http://download-soundtracks.com/), [3ost](https://3ost.ru/) or [tanikal](https://www.tanikal.com/) - *Movie Soundtracks / MP3*
 * [Khinsider](https://downloads.khinsider.com/) / [DL Tool](https://github.com/TheLastZombie/VGMLoader), [Project2612](https://project2612.org/index.php), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
 * [Sitting On Clouds](https://www.sittingonclouds.com/) - *Game / Animation Soundtracks* 
 * [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - *Anime Soundtracks* 
 * [Squid-Board](https://www.squid-board.ru/) - *Soundtracks / Forum* 
-* [BitMidi](https://bitmidi.com/) - *Stream / Download MIDI Files* 
+* [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 * [Free Music Archive](https://www.freemusicarchive.org/) - *Royalty Free Music* 
 * [Adobe Audition Downloads](https://offers.adobe.com/en/na/audition/offers/audition_dlc.html), [Free-Loops](http://free-loops.com/), [FreeSOundEffects](https://www.freesoundeffects.com/free-sounds/airplane-10004/), [Freesound](http://freesound.org/) or [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/FThompson/BBCSoundDownloader) - *SFX / Loops*
 * [soundbible](https://soundbible.com/), [ZapsPlat](https://www.zapsplat.com/) or [FindSounds](https://findsounds.com/) - *Sound Search Engine* 
-* [Genre Specific DL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_genre_music_download_sites)
 * [More MP3 DL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mp3_download_sites)  - *DL / Stream / MP3* 
 
 ***
@@ -248,10 +278,11 @@
 * **[Lidarr](https://github.com/Lidarr/Lidarr)** - *Autodownload Music Torrents*
 * [Music Torrent](http://music-torrent.net/) - *FLAC*
 * [Flactor](https://flactor.ru/) - *FLAC*
-* [Metal Tracker](https://en.metal-tracker.com/) - *Metal Music / MP3*
-* [RockBox](https://rawkbawx.rocks/) - *Metal Music / MP3*
+* [Metal Tracker](https://en.metal-tracker.com/) - *Metal / MP3*
+* [RockBox](https://rawkbawx.rocks/) - *Metal / MP3*
+* [MixtapeTorrent](http://www.mixtapetorrent.com/) - *Mixtapes / MP3*
 * [ZOMB Torrents](http://zombtracker.the-zomb.com/) - *Music sharing community / forum*
-* [bt.etree](http://bt.etree.org/) - *Live Concert Recordings* 
+* [bt.etree](http://bt.etree.org/) or [Etree](https://www.etree.org/)- *Live Concert Recordings* 
 
 *** 
 

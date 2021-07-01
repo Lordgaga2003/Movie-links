@@ -371,9 +371,10 @@
 * **[FMHY Curated Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - *Multireddits curated by FMHY memebers*
 * [StumblingOn](https://stumblingon.com/), [Stumbled](https://stumbled.cc/), [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/), [JumpStick](https://jumpstick.app/), [OpenBulkURL](https://openbulkurl.com/random/) or [random](https://random.new/) - *Takes you to a Random Site*
 * [NeverThink](https://neverthink.tv/) - *Watch Random Memes / Videos* 
+* [r.sine.com](https://r.sine.com/index), [Funnyjunk](https://funnyjunk.com//) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Memes & GIFs / Some NSFW*
 * [Neal.fun](https://neal.fun/) or [JenniferDewalt](https://jenniferdewalt.com/) - *Sites / Games*
 * [Just For Fun](https://justforfun.io/) or [Andrew Marsh](http://andrewmarsh.com/software) - *Coding Project Showcase* 
-* [Trippy shit Mega List](https://triptoysfor.me/), [Neave](https://codepen.io/neave) or [Mr.doob](https://mrdoob.com/) - *Toys & Experiments* 
+* [Trippy shit Mega List](https://triptoysfor.me/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) or [Mr.doob](https://mrdoob.com/) - *Toys & Experiments* 
 * [Bimble Space](https://in.bimble.space/toys) - *Multiple Toys / Art Tools* 
 * [Kamogo](https://www.kamogo.com/faq/) - *Useless Web Apps*
 * [MoodLight](https://www.moodlight.org/) - *Turn Screen into Strobe Light*
@@ -386,6 +387,7 @@
 * [DriveMeInsane](http://drivemeinsane.com/) - *Control a Home Automation System* 
 * [LooksLikeYouNeedIceland](https://lookslikeyouneediceland.com/) or [JUST SCREAM!](https://justscream.baby/) - *Scream Into the Universe* 
 * [VentScape](https://www.ventscape.life/) - *Speak into a Void* 
+* [The Nicest Place](https://thenicestplace.net/) - *Internet Hugs*
 * [Aggie.io](https://aggie.io/) or [malmal](https://malmal.io/) - *Draw with Friends or Strangers* 
 * [Monsterland](https://www.monsterland.net/) - *Collabortive Monster Drawing* 
 * [BrickLink Studio](https://www.bricklink.com/v2/build/studio.page) - *Lego building software*
@@ -414,6 +416,8 @@
 * [Inspirograph](https://nathanfriend.io/inspirograph/) - *Inspirograph Tool*
 * [SpirographN](http://seedcode.com/SpirographN/sgn.html) - *Spirograph Tool*
 * [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) - *Spiral Art Generator* 
+* [bomomo](https://bomomo.com/) - *Digital Art Creator*
+* [Random Art](http://www.random-art.org/) - *Random Art Generator*
 * [Periodicity](https://williamhoza.com/periodicity/) - *Harmonic Motion Patterns*
 * [Cubes.io](http://cubes.io/) - *Cellular Automata* 
 * [05x5](https://csh.bz/line/05x5.html) - *Rainbow Pattern Generator*
@@ -426,7 +430,6 @@
 * [pixels.land](https://pixels.land/) - *Infinite Pixel Art online*  
 * [Genetic Cars 2](https://rednuht.org/genetic_cars_2/) - *Random 2D Car Generator*
 * [cachemonet](http://cachemonet.com/) - *Randomly Generated GIFs/ Backgrounds* 
-* [r.sine.com](https://r.sine.com/index) - *Random Images on Refresh, Some NSFW*
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - *Create a Dancing Character* 
 * [CAT BOUNCE!](https://cat-bounce.com/) - *Bounce Cats*
 * [Gifypet](https://gifypet.neocities.org/) - *Create Your Own Cute Pet* 
@@ -445,7 +448,7 @@
 * [Peter Answers](https://www.peteranswers.com/) - *Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack)* 
 * [No Paint](https://nopaint.art/) - *Press "Paint" if you like what you see, "No" if you don't* 
 * [PointerPointer](https://pointerpointer.com/) - *Get Your Pointer Pointed At* 
-* [BubblesPop](https://bubblespop.netlify.app/) - *Pop Bubble Wrap* 
+* [BubblesPop](https://bubblespop.netlify.app/) or [Relax](https://calming.netlify.app/) - *Pop Bubble Wrap* 
 * [Smash The Walls](https://smashthewalls.com/) - *Smash Walls*
 * [Petting](http://oos.moxiecode.com/js_webgl/fur/index_petting.html) - *Fur Simulator*
 * [Spider 2 Hammertime](http://oos.moxiecode.com/js_webgl/spiders_2_hammertime/) - *Murder Spiders*
@@ -497,6 +500,7 @@
 * [DrivingSimulator](https://framesynthesis.com/drivingsimulator/maps/) - *2D Driving Simulator* 
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - *Steer through the Suez Canal*
 * [Moments of Happiness](https://moments.epic.net/) - *Animated WebGL Animals*
+* [Planet](http://oskarstalberg.com/game/planet/planet.html) - *Planet Creator*
 * [What Happened in my Birthyear](http://whathappenedinmybirthyear.com/) - *Find out what happened on your birthyear* 
 * [WTM](https://whatthemovie.com/) - *Guess Movie from Screenshot* 
 * [Kittenwar!](http://www.kittenwar.com/) - *Rate Kittens*
@@ -534,6 +538,7 @@
 * [Urlebird](https://urlebird.com/) - *3rd Party TikTok with better UI*
 * [Gravity Points](https://codepen.io/akm2/full/rHIsa) or [Gravity](http://justfound.co/gravity/) - *Play with gravity* 
 * [bongo.cat](https://bongo.cat/) - *Become Bongo Cat* 
+* [Plink](http://dinahmoelabs.com/plink/) - *Multiplayer Music Maker*
 * [The Endless Acid Banger](http://www.vitling.com/toys/acid-banger/) - *Endless Autogenerated  Song*
 * [The Eternal Jukebox](https://eternalbox.dev/jukebox_index.html) - *Never-ending, ever changing versions of any song*
 * [Typatone](https://www.typatone.com/) - *Play Music by Typing* 
@@ -544,6 +549,7 @@
 * [Touch Pianist](http://touchpianist.com/) - *Magical Piano App* 
 * [A.I. DUET](https://experiments.withgoogle.com/ai/ai-duet/view/) - *AI Piano Duet* 
 * [Got Rhythm?](https://www.concerthotels.com/got-rhythm) - *Rhythm / Tempo Test* 
+* [Fake Music Generator](https://www.fakemusicgenerator.com/) - *Computer Generated Music*
 * [MagicKeyboard](http://magickeyboard.io/) - *Try "feross", "hexbin", "rain", or "semi"* 
 * [Bouncing DVD Logo](https://www.bouncingdvdlogo.com/) - *DVD Logo* 
 * [Star Wars Intro Creator](https://starwarsintrocreator.kassellabs.io/) - *Create Star Wars intros* 
@@ -553,7 +559,8 @@
 * [BirdSounds](https://experiments.withgoogle.com/ai/bird-sounds/view/) - *Thousands of Bird Sounds Visualized* 
 * [BumpWorthy](https://www.bumpworthy.com/) - *Adult Swim Bumps* 
 * [Google Doodles](https://www.google.com/doodles?q=interactive) - *Interactive Google Doodles*
-* [Word Blanks](https://www.wordblanks.com/) - *Online Mad Libs*
+* [Screentoys](https://www.screentoys.com/) - *Photo Morphing Toy*
+* [Word Blanks](https://www.wordblanks.com/) or [Plot Generator](https://www.plot-generator.org.uk/) - *Online Mad Libs*
 * [Fact Directory](https://fact.directory/) - *Facts & Trivia For Every Topic* 
 * [Fun Trivia](https://www.funtrivia.com/) - *Trivia*
 * [theOtaku](http://theotaku.com/quizzes) - *Anime Personality Quizzes* 
@@ -565,7 +572,6 @@
 * [Awesome Chess](https://github.com/hkirat/awesome-chess) - *Chess Resource Index*  
 * [Awesome Go/Baduk/Weiqi](https://github.com/yanchick/awesome-GoBadukWeiqi) - *Go/Baduk/Weiqi Resource Index* 
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor/) - *Unused Video Game Content Research*
-* [MemeAtlas](https://www.memeatlas.com/) - *Meme Database* 
 * [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [arch.b4k](https://arch.b4k.co/) or [Sup/tg/](http://suptg.thisisnotatrueending.com/)  - *4Chan Archive*
 * [Zoomquilt2](http://zoomquilt2.com/) - *An infinitely zooming painting* 
 * [Mirage Gallery](https://www.miragegallery.ai/) - *AI Art Gallery* 
@@ -575,7 +581,7 @@
 * [SecretRickRoll](https://www.secretrickroll.com/) - *Custom Rick Roll Generator* 
 * [The Fed](https://thefed.app/) - *Central Banking Game* 
 * [Money printer go BRRR](https://brrr.money/) - *Print it, baby!* 
-* [info.cern](http://info.cern.ch/) - *First Website on the Internet* 
+* [The Tsuki Project](https://classic.systemspace.network/) - *Gain Eternal Life / [Explanation](https://youtu.be/mWkgvM-Qnhw)*
 * [Nested](http://orteil.dashnet.org/nested) - *Explore the Universe in a File System* 
 * [Pornolize](https://pornolize.com/) - *Make Inappropriate Versions of Webpages* 
 * [Checkboxes](http://www.jezzamon.com/checkboxes/index.html) - *Check Boxes* 
@@ -587,6 +593,8 @@
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - *Japanese Commercial Archive*
 * [isitnight](https://www.isitnight.com/) - *Determine if it is night* 
 * [Watching Grass Grow](https://www.watching-grass-grow.com/) - *Watch grass grow.*
+* [info.cern](http://info.cern.ch/) - *First Website on the Internet* 
+* [Worlds Highest Website](https://worlds-highest-website.com/) - *The Worlds Longest Website*
 * [IdiotProofWebsite](http://idiotproofwebsite.com/)
 * [MotherFuckingWebsite](http://motherfuckingwebsite.com/), [BetterMotherFuckingWebsite](http://bettermotherfuckingwebsite.com/), [EvenBetterMotherFuckingWebsite](https://evenbettermotherfucking.website/) or [TheBestMotherFuckingWebsite](https://thebestmotherfuckingwebsite.co/)
 * [aaaaaa.....](http://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/) - *Make URL's longer... ?*
@@ -597,6 +605,8 @@
 
 * **[How to Download Fonts](https://redd.it/8tqfg6)**
 * [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [TextFancy](https://textfancy.com/) or [fSymbols](https://fsymbols.com/generators/) - *Font Generator*
+* [2000+ Fonts](https://drive.google.com/drive/folders/1aJVKslK0v_kKxvEd5KV3KSCfY0epXNz0) - *Fonts / Drive*
+* [2300+ Fonts Pack](https://drive.google.com/file/d/1Y4yRd5KugATG5XfcjkuUgN9BU4wJJMVj/view) - *Fonts / Drive*
 * [DaFont](https://www.dafont.com/)
 * [graphicex](https://graphicex.com/font/)
 * [FontSpace](https://www.fontspace.com/)

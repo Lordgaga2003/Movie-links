@@ -129,7 +129,7 @@
 * [TorLook](https://torlook.info/) - *Search aggregator*
 * [2Torrentz](https://2torrentz.net/torrentz/) - *Search aggregator*  
 * [Torrent.tm](https://torrent.tm/) - *Search aggregator*
-* [Toros2](https://www.toros2.com/) - *Search aggregator*
+* [Toros](https://www.toros.co/) or [Toros2](https://www.toros2.com/) - *Search aggregator*
 * [Dirty Torrents](https://dirtytorrents.com/) - *Search aggregator*
 * [TorrentQuest](https://torrentquest.com/) - *Search aggregator*
 * [TorrentHound](http://torrenthound.ee/) - *Search aggregator*
@@ -142,6 +142,7 @@
 * [TorrentProject2](https://torrentproject2.com/) - *Magnet Search*
 * [ciligou0](http://ciligou0.com/) - *Magnet Search* 
 * [TorrentHashes](https://torrenthashes.com/) - *Magnet Search* 
+* [Bittorrent.am](http://www.bittorrent.am/) - *Magnet Search*
 * [TorrentDownloads](https://www.torrentdownloads.me/) - *Search aggregator*
 * [Torlock](https://www.torlock.com/) or [Torlock2](https://www.torlock2.com/) - *Search aggregator*
 * [iBit.to](https://ibit.to) or [iBit.am](https://ibit.am/) - *Search aggregator*
@@ -191,6 +192,7 @@
 * [MyAnonaMouse](https://www.myanonamouse.net/) - *Open Applications*
 * [CinemaZ](https://cinemaz.to/auth/register) - *Movies / TV / Open Registrations*
 * [AvistaZ](https://avistaz.to/auth/register) - *Asian Movies / TV / Open Registrations*
+* [XtremeWrestlingTorrents](http://xtremewrestlingtorrents.net/) - *Wrestling Private Tracker / Open Registrations*
 * [Torrent Invites](http://torrentinvites.org/f37/) - *Open Tracker Invites / Forum*
 * [TorrentInvites](https://torrentinvites.net/) - *Open Tracker Invites / Forum* 
 * [InviteHawk](https://www.invitehawk.com/forum/44-open-signup-tracker-updates/) - *Open Tracker Invites / Forum* 
@@ -201,7 +203,6 @@
 
 # ► Helpful Sites / Apps
 
-* **[Jackett](https://github.com/Jackett/Jackett)** or [Watcher](https://nosmokingbandit.github.io/) - *Torrent Release Tracker / Proxy*
 * **[Auto Torrent Tools](https://redd.it/hbwnb2)** or /r/softwarr - *Autodownload tools*
 * **[T2M](https://nutbread.github.io/t2m/)** or [Torrent Kitty](https://www.torrentkitty.tv/) - *Torrent To Magnet Link Conversion*
 * **[Tracker Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tracker_lists)** - *Updated lists of BitTorrent trackers* 

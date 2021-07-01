@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/OpkUmSm.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/oYYQHzH.png)** - *For mobile users*
 
 ***
 ***
@@ -169,7 +169,10 @@
 * [NesFiles](https://www.nesfiles.com/) - *NES Roms / Emulators* 
 * [Eclipse](https://eclipseemu.me/play/) - *Online Mobile Multi-Console Emulator* 
 * [/r/Roms](https://www.reddit.com/r/Roms/) - *Discussion sub*
+* [GameBoy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - *Gameboy Tools*
+* [GameBoy Book Reader](https://www.mqp.com/fun/) - *Gameboy Book Reader*
 * [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - *Add More Roms to NES/SNES Classic Mini*
+* [Homebrew Gang](https://thehbg.shop/main.html) - *Switch Homebrew Community*
 
 ***
 
@@ -182,10 +185,11 @@
 * [@Storage_Manager](https://archive.org/details/@storage_manager) - *Roms / Zip* 
 * [FinalBurn Neo](https://archive.org/details/2020_01_06_fbn) - *Roms / Zip* 
 * [Everdrive](https://archive.org/details/latest-everdrive-pack-2020-04-16) - *Roms / Zip*
-* [1,000+ Roms](https://mega.nz/file/61hDlYjQ#VQSjdEkNy9TzRbgFQd2-gWSz6w5eEh67xe2tnpmhj50 ) - *Roms / Zip*
-* [各种模拟器rom游戏](https://drive.google.com/drive/folders/1hzkgLcDsgzwbw7PP7rySDBTEuPEQov9g) - *Roms / Drive / 10TB* 
-* [Retro Gaming](https://mega.nz/folder/ZuRigCwA#5d_K9lRKUXdeaDMog84MGg) - *Roms / Drive / 3GB*
+* [1,000+ Roms](https://mega.nz/file/61hDlYjQ#VQSjdEkNy9TzRbgFQd2-gWSz6w5eEh67xe2tnpmhj50) - *Roms / Zip*
+* [各种模拟器rom游戏](https://drive.google.com/drive/folders/1hzkgLcDsgzwbw7PP7rySDBTEuPEQov9g) - *Roms / 10TB* 
+* [Retro Gaming](https://mega.nz/folder/ZuRigCwA#5d_K9lRKUXdeaDMog84MGg) - *Roms / 3GB*
 * [90.230.15.92](http://90.230.15.92/) - *Roms* 
+* [Gaming Alexandria](https://www.gamingalexandria.com/highquality/) - *Roms*
 * [Many Dumped Games](https://archive.org/details/@manydumpedgames) - *Roms*
 * [Nintendo Retro Mega-Pack](https://mega.nz/folder/AdRVCaBZ#bvaOPyNae8N24lquCNen4Q) - *Roms / Nintendo*
 * [PS1 Collection](https://archive.org/details/redumpSonyPlaystationAmericaGames02October2017), [2](https://archive.org/details/@john_mr_smith?sort=titleSorter) - *Roms / PS1*
@@ -201,13 +205,13 @@
 * [WiiWare Collection](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - *Roms / WiiWare*
 * [Nintendo Wii Collection](https://archive.org/details/RedumpNintendoWiiAmericaPart1), [2](https://archive.org/details/RedumpNintendoWiiAmericaPart2), [3](https://archive.org/details/RedumpNintendoWiiAmericaPart3), [4](https://archive.org/details/RedumpNintendoWiiAmericaPart5)
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - *Switch hacking forum / guides*
-* [Switch Collection](https://docs.google.com/spreadsheets/d/1lRMTxSAJiASOdT1ZlCyYrUnXkVt58jg46Y-2w3RrMtA/edit), [2](https://nxbrew.com/) - *Roms / Nintendo Switch*
+* [Switch Collection](https://docs.google.com/spreadsheets/d/1lRMTxSAJiASOdT1ZlCyYrUnXkVt58jg46Y-2w3RrMtA/edit), [2](https://nxbrew.com/), [3](https://drive.google.com/drive/folders/1ruAoHmb3uL2Nv_Bl9ZbwE3aGHRWcKqtI) - *Roms / Nintendo Switch*
 * [GameCube Collection](https://archive.org/details/gamecubenaiso), [2](https://archive.org/details/RedumpNintendoGameCubeAmerica), [3](https://archive.org/details/RedumpNintendoGameCubeAmericaPart2), [4](https://archive.org/details/RedumpNintendoGameCubeAmericaPart3), [5](https://archive.org/details/RedumpNintendoGameCube2018Aug25AmericaGamesReUpload), [6](https://1fichier.com/dir/Jini9nFe) - *Roms / GameCube*
 * [MarioCube](https://mariocube.com/) - *Roms / Gamecube / Wii* 
 * [GameBoy Collection](https://archive.org/details/Cyles_Gameboy_roms), [2](https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf), [3](https://drive.google.com/drive/folders/1VxjINYMDvvUSRKA_k2aJqq6JzmRQCI1s), [Unreleased](https://ufile.io/70vmpyng) - *Roms / GameBoy*
 * [DS Collection](https://archive.org/details/noIntroNintendoDsDecrypted2019Jun30), [2](https://mega.nz/folder/33AhDa4T#awOqr7lhZYFgjXoMMu6_8w) - *Roms / DS*
 * [DSi Collection](https://archive.org/details/No-Intro_Nintendo_DSi_2018-06-30) - *Roms / DSi* + [DSi DLC](https://archive.org/details/NintendoDSiDLC2019)
-* [Cia 3DS](https://www.cia-3ds.com/), [2](https://drive.google.com/drive/u/0/folders/1a1U18ImPv-VunSHanHBDTLht6kVf5AP6), [3](https://archive.org/download/3DSCIA_testitem1) - *Roms / 3DS*
+* [Cia 3DS](https://www.cia-3ds.com/), [2](https://drive.google.com/drive/u/0/folders/1a1U18ImPv-VunSHanHBDTLht6kVf5AP6), [3](https://archive.org/download/3DSCIA_testitem1), [4](https://drive.google.com/drive/folders/1R5c6-nY5mMns8G1u2tcbYumfTCGXDQ5w), [5](https://drive.google.com/drive/folders/1a9BYbFlhQ96zaKtuL99m8N_r4qv8L_FK) - *Roms / 3DS*
 * [SNES Collection](https://archive.org/details/CylesSNESRomPack) - *Roms / SNES*
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - *NES, SNES & Playstation Mods*
 * [Dreamcast Collection](https://archive.org/details/almstcmpltdrmcst) - *Roms / Dreamcast*
@@ -224,6 +228,7 @@
 * **[RetroGames](https://www.retrogames.cz/)** - *Browser Emulator*
 * **[Console Living Room](https://archive.org/details/consolelivingroom)** - *Browser Emulator* 
 * **[retrogames.cc](https://www.retrogames.cc/)** - *Browser Emulator*
+* [MISC Windows](https://drive.google.com/drive/folders/15A3j8X0IDxNyJC7tPjJ0gvKIPKPaKylO) - *Windows 98 / XP Games*
 * [ClassicReload](https://classicreload.com/) - *Browser Emulator*
 * [Free80sArcade](http://www.free80sarcade.com/) - *Browser Emulator*
 * [Retro Uprising](http://www.retrouprising.com/) - *Browser Emulator*
@@ -241,8 +246,7 @@
 * [Neo Kobe Collection](https://archive.org/details/NeoKobe-NecPc-98012017-11-17), [2](https://archive.org/details/Neo_Kobe_NEC_PC-8801_2016-02-25) - *Roms / Neo Kobe*
 * [pc-98](https://mega.nz/folder/F59WkSqQ#quGKSFIswBgv0rxAAaF8Pg) - *PC-98 Games*
 * [eXoDOS](https://exodos.the-eye.eu/), [DOSGamesLibrary](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS Haven](http://www.doshaven.eu/), [LiquidDoom](http://dos.liquiddoom.net/), [The Software Library](https://archive.org/details/softwarelibrary_msdos) or [Best Old Games](http://www.bestoldgames.net/eng/) - *DOS Games*
-* [Abandonia](http://www.abandonia.com/) - *DOS Games / Classic / Abandonware*
-* [XTCabandonware](http://www.xtcabandonware.com/) - *Abandonware*
+* [Abandonia](http://www.abandonia.com/), [XTCabandonware](http://www.xtcabandonware.com/) or [VETUSWARE](https://vetusware.com/category/Games/?cat=7) - *Abandonware*
 * [Remakes Reloaded](http://www.reloaded.org/) - *Remakes of Classics*
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - *Roms / Arcade / Retro / [Discord](https://discord.gg/rH9wRpu2vh)* 
 * [Wad Archive](https://wad-archive.com/) - *83k WAD Files*
@@ -264,6 +268,7 @@
 * [Zandronum](https://zandronum.com/) or [Doomseeker](http://doomseeker.drdteam.org/)  - *Online Multiplayer Doom* 
 * [Doom64 EX](https://doom64ex.wordpress.com/downloads/) - *Doom 64 PC Port* 
 * [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - *Doom SNES Source Code*
+* [Unreal Archive](https://unrealarchive.org/index.html) - *Unreal Tournament Mods, Maps, Skins ect.*
 * [rottexpr](https://github.com/LTCHIPS/rottexpr) - *Rise of the Triad Source Port*
 * [ECWolf](https://maniacsvault.net/ecwolf/) - *Wolfenstein 3D, Spear of Destiny & Super 3D Noah's Ark Port*
 * [OpenArena Live](https://kosmi.io/openarena) - *Quake III Arena Clone* 
@@ -312,7 +317,6 @@
 * [ALFY](https://www.alfy.com/)
 * [GameKB](https://www.gamekb.com/)
 * [ClassicGame](https://www.classicgame.com/)
-* [Flash by Night](http://flashbynight.com/) 
 * [DAN-BALL](http://dan-ball.jp/en/)
 * [itch.io](https://graebor.itch.io/), [2](https://grey2scale.itch.io/), [3](https://ncase.itch.io/), [4](https://capsquared.itch.io/), [5](https://evilobjective.itch.io/)
 * [Cartoon Network Games](https://www.cartoonnetwork.com/games/index.html)
@@ -320,11 +324,6 @@
 * [Disney Games](https://lol.disney.com/games/), [2](https://disneynow.com/all-games)
 * [Lego Games](https://www.lego.com/en-us/kids/games)
 * [Friv](https://friv.com/), [2](https://web.archive.org/web/*/Friv.com)
-* [Rek's Flash Game Collection](https://drive.google.com/drive/folders/1p_kDd9uJz72S3m9o7ka136fxCWPEBKEG?usp=sharing) - *100 Flash Games / Drive*
-* [Software Library: Flash](https://archive.org/details/softwarelibrary_flash) - *Flash Game Archive* 
-* [The Flash Emulation Repair Shop](https://archive.org/details/flash_repair_shop) - *Flash Games Under Repair*
-* [Arcade Prehacks](http://www.arcadeprehacks.com/) or [SamsHackedGames](https://www.samshackedgames.com/) - *Hacked Flash Games* 
-* [BlueMaxima](http://bluemaxima.org/flashpoint/) - *Flash Games Archive / [Discord](https://discord.gg/Z4gGtJvvn8)*
 * [Ninjakiwi](https://ninjakiwi.com/) - *Browser Games / Bloons / Multiplayer*
 * [Games on GitHub](https://github.com/leereilly/games) - *GitHub Hosted Games*
 * [Nekogames](http://nekogames.jp/) - *Japanese Games* 
@@ -396,6 +395,7 @@
 * [Impossible Rush](http://tanksw.com/impossible-rush/) - *Reflex Testing Game*
 * [Incremental Games Plaza](https://plaza.dsolver.ca/) or [Almost Idle](http://almostidle.com/) - *Incremental Games Index*
 * [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](http://orteil.dashnet.org/experiments/cookie/), [The Monolith](http://monolith.greenpixel.ca/), [WarClicks](https://warclicks.com/), [Merry Clickmas](http://www.digitalchestnut.com/merryclickmas/) - *Incremental Clicker*   
+* [MousePoint](https://creativetechguy.com/mousepoint) - *Mouse Pointing Game*
 * [Piccolo](https://piccolo.click/web/) - *Othello AI* 
 * [FindTwin](https://github.com/klimaleksus/FindTwin) - *Find the Twins* 
 * [Find the Invisible Cow](http://www.findtheinvisiblecow.com/) - *Find an Invisible Cow with Sound*
@@ -406,10 +406,8 @@
 * [CandyBox](https://candybox2.github.io/) - *Candy Eating Game* 
 * [BTShip](https://github.com/hairarrow/btship) - *Typescript Boat Game*
 * [Maze](https://www.epgsoft.com/maze/) - *Maze Generator*
-* [MasasGames](http://masasgames.com/index.html) - *Virtual Escape Rooms*
+* [BrantSteele](http://brantsteele.net/) - *Game Show Simulators*
 * [Shooty Ship Pumpkin Smash](https://www.thepointless.com/apps/shooty-ship-pumpkin-smash/index.html) - *Shoot Pumpkins*
-* [How to Download and Play Flash Games](https://i.imgur.com/T6huIGF.png), [2](https://www.wikihow.com/Download-a-Flash-Game)
-* To Play old Shockwave Games Install [Adobe Shockwave](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html) & [K-Meleon Browser](http://kmeleonbrowser.org/)
 * [Educational Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_games)
 
 ***
@@ -442,6 +440,7 @@
 * [Plink](http://labs.dinahmoe.com/plink/) - *Multiplayer Music Game* 
 * [Too Many Chefs](https://www.toomanychefs.party/) - *Text-Based Coop Cooking Game* 
 * [Haxball](https://www.haxball.com/) - *Physics Based Multiplayer Soccer*
+* [skribbl](https://skribbl.io/) or [Gartic](https://gartic.io/) - *Drawing / Guessing Game / Multiplayer*
 * [Powerline.io](http://powerline.io/) or [Games 1729](https://www.games1729.com/serpentron/) - *Multiplayer Snake*
 * [RoboStorm](https://robostorm.io/) - *Robot Battle Game* 
 * [GPRO](https://www.gpro.net/gb/gpro.asp) - *Multiplayer F1 Manager Game*
@@ -477,16 +476,18 @@
 
 ## ▷ Puzzle Games
 
-* [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - *Solve a Rubix Cube* 
+* [MasasGames](http://masasgames.com/index.html) - *Virtual Escape Rooms*
+* [Sokoban](https://suppilulemur.neocities.org/) - *Box Moving Puzzle Game / Zelda-Themed*
 * [BestCrosswords](https://www.bestcrosswords.com/), [USAToday](https://games.usatoday.com/games/uclick-crossword) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - *Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)*
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - *Online Jigsaw Puzzles*
+* [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - *Solve a Rubix Cube / [Solver](https://rubiksolve.com/)* 
 * [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&ia=answer) or [2048](https://play2048.co/) - *Play 2048*
 * [Rockbasher](https://www.rockbasher.com/) - *Retro Style Puzzle Game*
-* [Sokoban](https://suppilulemur.neocities.org/) - *Box Moving Puzzle Game / Zelda-Themed*
 * [Blocks](https://theblocks.netlify.app/) - *Puzzle Game* 
 * [Game about Squares](http://gameaboutsquares.com/) - *Puzzle Game*
-* [babble.xyz](https://babbl.xyz/) - *Infinite Scrabble*
+* [Euclidea](https://www.euclidea.xyz/) - *Geometric Puzzles*
 * [Menneske](https://www.menneske.no/eng/) - *Number Puzzles* 
+* [babble.xyz](https://babbl.xyz/) - *Infinite Scrabble*
 * [WordHub](https://wordhub.com/) - *Scrambled Word Game*
 
 ***
@@ -506,6 +507,21 @@
 
 ***
 
+## ▷ Flash Games
+
+* [How to Download and Play Flash Games](https://i.imgur.com/T6huIGF.png), [2](https://www.wikihow.com/Download-a-Flash-Game)
+* To Play old Shockwave Games Install [Adobe Shockwave](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html) & [K-Meleon Browser](http://kmeleonbrowser.org/)
+* [Rek's Flash Game Collection](https://drive.google.com/drive/folders/1p_kDd9uJz72S3m9o7ka136fxCWPEBKEG?usp=sharing) - *Archive* 
+* [Software Library: Flash](https://archive.org/details/softwarelibrary_flash) - *Archive* 
+* [BlueMaxima](http://bluemaxima.org/flashpoint/) - *Archive / [Discord](https://discord.gg/Z4gGtJvvn8)* 
+* [Flash Games Collection](https://drive.google.com/drive/folders/1U8tJfJr_3Cg-PXL7PQshZOp2ukvVippm) - *Archive* 
+* [ClassicGames.rar](https://drive.google.com/file/d/1ylHk46vdV1dZcfUUSNDAT7F2RVoi8FFS/) - *Archive / pw:paluch*
+* [Flash by Night](http://flashbynight.com/) - *Browser Games*
+* [The Flash Emulation Repair Shop](https://archive.org/details/flash_repair_shop) - *Flash Games Under Repair*
+* [Arcade Prehacks](http://www.arcadeprehacks.com/) or [SamsHackedGames](https://www.samshackedgames.com/) - *Hacked Flash Games* 
+
+***
+
 # ► Tracking / Discovery
 
 * **[IMDb Advanced Search](https://www.imdb.com/search/)**
@@ -518,6 +534,7 @@
 * [IGDB](https://www.igdb.com/) - *Video Game Database* 
 * [Moby Games](https://www.mobygames.com/) - *Video Game Database* 
 * [rate.house](https://rate.house/) - *Video Game Database*
+* [HOTU](http://www.homeoftheunderdogs.net/) - *Rare Video Game Database*
 * [Movie-Censorship](https://www.movie-censorship.com/) - *Compare Alternate Versions of Media* 
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Greatest 100 Lists*
 

@@ -42,6 +42,7 @@
 * [dotCima](https://s2.dotcima.com/) - *Movies / TV*
 * [LODYNET](https://ww.lodynet.cam/) - *Movies / TV*
 * [arblionz.org](https://www.arblionz.org/) - *Movies / TV* 
+* [Fushaar](https://www.fushaar.com/) - *Movies / TV*
 * [mycima](https://mycima.video/) - *Movies / TV* 
 * [animebdk](https://animebdk.blogspot.com/) - *Anime*
 * [anime4up](https://www.anime4up.com/) - *Anime*
@@ -237,6 +238,7 @@
 * [Anime VF](http://www.anime-vf.fr/) - *Anime* 
 * [JetAnime](https://www.jetanimes.co/) - *Anime* 
 * [DBAnimes](https://dbanimes.com/) - *Anime* 
+* [Anime-Ultime](http://www.anime-ultime.net/) - *Anime*
 * [VoirAnime](https://voiranime.com/) - *Anime* 
 * [VostFree](https://vostfree.com/) - *Anime*
 * [StreamFR](https://streamfr.film/) - *Movies / TV*
@@ -509,6 +511,7 @@
 * [jpop80ss](https://jpop80ss.blogspot.com/) - *Music / MP3*
 * [9tensu](http://www.9tensu.com/) - *Music / MP3*
 * [DoujinStyle.com](https://doujinstyle.com/) - *Music / MP3* 
+* [Music Fusion World](https://fusion-world-30.blogspot.com/) - *Music / MP3*
 * [J-pop Music Download](https://jpop.xyz/) - *Music / MP3 / FLAC* 
 * [フリーソフトウェアの倉庫](http://nekomimi.la.coocan.jp/freesoft/index.htm) - *Software*
 
@@ -528,6 +531,7 @@
 * [b9good](http://b9good.com/) - *Anime*
 * [AnimeLon](https://animelon.com/) - *Anime / Learn Japanese*
 * [AQ Stream](https://aqstream.com/) - *Live TV* 
+* [kuukunen](https://touhou.kuukunen.net/) - *Music*
 * [Live Japanese M3u](https://ufile.io/vh9e2j6h) - *M3u File for VLC*
 
 ## ▷ Reading 
@@ -622,6 +626,7 @@
 * [HeyDL](https://heydl.info/) - *Movies / TV / Anime* 
 * [mrmovie](https://mrmovie5.space/) - *Movies / TV* 
 * [PlayStop](https://playstop.ir/) - *Movies / TV* 
+* [my3eriestv](https://my3eriestv.space/), [2](https://www.my3eries.org/), [3](https://www.myser10.ml/), [4](https://my3eries.xyz/) - *Movies / TV*
 * [SalamDL](https://salamdl.me/) - *Movies / TV* 
 * [ValaMovie](https://valamovie.club/) - *Movies / TV* 
 * [StartDL](https://startdl.life/) - *TV / Anime* 
@@ -828,6 +833,7 @@
 * [PB.wtf](https://pb.wtf/) - *Video / Audio / Software / Games / Books / Comics / Magazines / Android / NSFW* 
 * [IvTracker](http://ivtracker.org/) - *Video / Audio / Software / Games / Roms / Books / Magazines / Android / NSFW*
 * [IV-Torrents](https://iv-torrents.com/) - *Video / Audio / Software / Games / Roms / Books / Android / NSFW*
+* [Riper.AM](http://riperam.org/) - *Video / Audio / Software / Games / Books / Magazines / Android / NSFW*
 * [Tapochek](https://tapochek.net/) - *Video / Audio / Software / Games / Books* 
 * [katushka](https://katushka.fun/) - *Video / Audio / Software / Books* 
 * [Korsars](http://korsars.pro/) - *Video / Audio / Software / Games / Books* 
@@ -863,6 +869,7 @@
 * [FileBase](http://www.filebase.ws/) - *Movies* 
 * [androidkino](https://androidkino.net/) - *Movies / TV* 
 * [bitru](https://bitru.org/) - *Movies* 
+* [DarkLibria](https://darklibria.it/) - *Anime*
 * [RGFootball](http://rgfootball.net/) - *Sports*
 * [туттоп](https://tuttop.com/) - *Games*
 * [Torrent-Games](https://link21.torrent-games.su/) - *Games* 
@@ -878,6 +885,7 @@
 * [rezka](https://rezka.ag/) - *Movies / TV / Anime*
 * [baskino](http://baskino.me/) - *Movies*
 * [kinogo](https://kinogo.la/) - *Movies / TV / Anime*
+* [Kinotochka](https://kinotochka.co/) - *Movies / TV / Anime*
 * [filmix](https://filmix.co/) - *Movies*
 * [kinokong](https://kinokong.org/) - *Movies / TV* 
 * [RussianFilmHub](https://russianfilmhub.com/) - *Movies / TV*
@@ -886,7 +894,7 @@
 * [seasonvar](http://seasonvar.ru/) - *TV*
 * [Kino-Dom](http://kino-dom.org/) - *TV*
 * [otakustudio](http://www.otakustudio.tv/) - *Anime* 
-* [Kinotochka](https://kinotochka.co/) - *Movies / TV / Anime*
+* [DarkLibria](https://darklibria.it/) - *Anime*
 * [Soviet Movies Online](https://sovietmoviesonline.com/cartoons) - *Cartoons* 
 * [Dokonlin.ru](https://www.dokonlin.ru/) - *Documentaries*   
 * [VseDoramy](https://vsedoramy.net/) - *Asian Drama*
@@ -940,6 +948,7 @@
 * [SomosMovies](https://somosmovies.com/) - *Movies* 
 * [MiCineHD ](https://www.micinehd.com/) - *Movies / TV* 
 * [DescargasDD](https://descargasdd.net/) - *Movies / TV* 
+* [Movies, Series ... in Spanish](https://redd.it/ns0y6c) - *Movies / TV*
 * [Peliculas 480p](https://t.me/cinema480p) - *Movies / Telegram* 
 * [dyndns](http://fina.dyndns.tv/) - *TV*  
 * [ddl.ice](https://ddl.ice-blue.workers.dev/0:/) - *Anime*
@@ -950,7 +959,7 @@
 
 ## ▷ Torrenting
 
-* [Mejor Torrent](https://www.mejortorrents.net/) - *Video / Audio / Games*  
+* [Mejor Torrent](https://www.mejortorrents.net/), [2](https://www.mejortorrento.net/) - *Video / Audio / Software / Games*  
 * [dontorrent](https://dontorrent.net/) - *Video / Audio / Games* 
 * [DivxTotal](https://www.divxtotal.one/) - *Movies / TV / Software* 
 * [EliteTorrent](https://www.elitetorrent.com/) - *Movies / TV*  

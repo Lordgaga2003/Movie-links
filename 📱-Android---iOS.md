@@ -9,10 +9,6 @@
 ***
 ***
 
-* [Will My Phone Work?](https://willmyphonework.net/) - *Phone Carrier Support Index* 
-* [Kimovil](https://www.kimovil.com/en/) - *Compare Phones & Prices* 
-* [DXOMARK](https://www.dxomark.com/) - *Smartphone Quality Testing*
-
 # ► Android Adblocking
 
 * **[Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)** or [WebApps](https://github.com/tobykurien/WebApps/) - *Makes streaming and other sites more usable for android* 
@@ -44,6 +40,7 @@
 * [AppWarden](https://gitlab.com/AuroraOSS/AppWarden) or [TrackerControl](https://trackercontrol.org/) - *Disable App Trackers*  
 * [Exodus](https://reports.exodus-privacy.eu.org/en/) - *Android App Tracker &amp; Permission Index / [APK](https://github.com/Exodus-Privacy/exodus-android-app)*  
 * [TrackerControl](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) - *Manage / Monitor Trackers*
+* [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard) - *Android 12-like Privacy Dashboard*
 * [NetGuard](https://www.netguard.me/) - *Block Internet Access Per App* 
 * [AFWall+](https://github.com/ukanth/afwall/) or [NoRoot Firewall](https://play.google.com/store/apps/details?id=app.greyshirts.firewall) - *Firewall* 
 * [SuperFreezZ](https://f-droid.org/en/packages/superfreeze.tool.android) - *Freeze App Background Activities* 
@@ -53,7 +50,8 @@
 * [TorServices](https://f-droid.org/packages/org.torproject.torservices/) - *Tor App Proxy / [GitLab](https://gitlab.com/guardianproject/torservices)*
 * [Mull](https://divestos.org/fdroid/official?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467), [DuckDuckGo Privacy Browser](https://duckduckgo.com/app), [BiscuitBrowser](https://github.com/CookieJarApps/BiscuitBrowser), [SmartCookieWeb](https://smartcookieweb.com/), [2](https://github.com/CookieJarApps/SmartCookieWeb-preview) / [YTDL](https://github.com/CookieJarApps/VideoDL) or [Privacy Browser](https://f-droid.org/en/packages/com.stoutner.privacybrowser.standard/) - *Privacy-Focused Browser* 
 * [Barinsta](https://barinsta.austinhuang.me/en/latest/) - *Privacy Based Instagram Client*
-* [Fritter](https://fritter.cc/) - *Privacy Based Instagram Client*
+* [Fritter](https://fritter.cc/) - *Privacy Based Twitter Client*
+* [Bluer](https://play.google.com/store/apps/details?id=com.nemorystudios.android.bluer.facebook&hl=en_US&gl=US) - *Privacy Based  Facebook Client*
 * [GrapheneOS](https://grapheneos.org/) - *Privacy and security focused mobile OS*
 * [Intra](https://play.google.com/store/apps/details?id=app.intra&amp;hl=en_US) - *System Wide DoH for Android*
 * [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - *Incognito Keyboard*
@@ -95,6 +93,10 @@
 
 * **[android-security-awesome](https://github.com/ashishb/android-security-awesome)** - *Android security resources* 
 * **[Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers) - *Normal Web Browsers*
+* [XDA](https://forum.xda-developers.com/) - *Android Discussion Forum*
+* [Will My Phone Work?](https://willmyphonework.net/) - *Phone Carrier Support Index* 
+* [Kimovil](https://www.kimovil.com/en/) - *Compare Phones & Prices* 
+* [DXOMARK](https://www.dxomark.com/) - *Smartphone Quality Testing*
 * [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi](https://kiwibrowser.com/) or [Lightning](https://github.com/anthonycr/Lightning-Browser) - *Android only Browsers* 
 * [eBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *eBook / Audiobook Readers* 
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - *Note Taking Apps*
@@ -120,6 +122,7 @@
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) - *Google Camera Ports / [Telegram](https://t.me/googlecameraport)*
 * [CutTheCord](https://gitdab.com/distok/cutthecord), [Treecord](https://github.com/Treecord/Treecord or [Aliucord](https://github.com/Aliucord/Aliucord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - *Telegram Client*
+* [Uploadgram](https://github.com/Pato05/uploadgram-app) - *Telegram File Upload*
 * [FluffyChat](https://fluffychat.im/en/) - *Matrix Client*
 * [SubwayTooter](https://github.com/tateisu/SubwayTooter) or [Tusky](https://tusky.app/) - *Mastodon Client* 
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - *Booru Client / [Telegram](https://t.me/Flexbooru/161)*
@@ -291,6 +294,7 @@ App Manager
 * [YouTube Music Vanced](https://vancedapp.com/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [Ylight Music](https://apt.izzysoft.de/fdroid/repo/com.ylightmusic.app/), [HoloPlay](https://f-droid.org/packages/com.holoplay
 https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTube Music Player*
 * [Freezer](https://freezer.life/) - *Stream / Download* 
+* [Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players) - *Music Players / Libraries*
 * [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - *Streaming*
 * [Deezloader Android](https://t.me/deezloaderremixmobile) - *Download / MP3  / FLAC + [Non Telegram DL](https://redd.it/d3i9fr)* 
 * [harmonoid](https://alexmercerind.github.io/harmonoid/) - *Download* 
@@ -301,7 +305,6 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * [Quorus](https://quorus.net/) - *Collaborative Playlists* 
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *Download / FLAC / MP3*
 * [smd](https://github.com/artyshko/smd) - *Spotify Music Downloader* 
-* [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [BlackHole](https://github.com/Sangwan5688/BlackHole) or [RAAG](https://github.com/raag-music/raag/) - *Music player*
 * [AudioSwitch](https://play.google.com/store/apps/details?id=com.nordskog.LesserAudioSwitch) - *Switch Audio to Different Outputs Lesser*
 
 ***
@@ -358,6 +361,7 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * [ZiniTevi](https://zinitevi.github.io/movieapps/) - *Movies*
 * [Bouncy](https://github.com/WeeklyProblem/Bouncy) - *Movies / TV / Anime / Chromecast*
 * [MediaBox HD](https://mediaboxhd.net/) - *Movies / TV / Chromecast*
+* [Movie HD](https://moviehdapkdownload.com/moviehd-apk/) - *Movies / TV / Chromecast*
 * [Upflix](https://upflix.pro/) - *Movies / TV*
 * [Titanium TV](https://aapks.com/apk/titanium-tv-com-wise-tech-titanium/) - *Movies / TV / Anime / Chromecast*
 * [Berg](https://www.funkymuse.dev/p/berg.html) - *Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
@@ -368,7 +372,7 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 Add "huhu.to", "bs.to" or "oha.to"* 
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - *YTS Torrents* 
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - *Chinese Drama* 
-* [aDrama](https://adrama.online/) - *Asian Drama*
+* [aDrama](https://adrama.online/) - *Asian Drama / [Addons](https://forum.mobilism.org/search.php?keywords=adrama&sr=topics&sf=titleonly)*
 * [RSS Player](https://play.google.com/store/apps/details?id=pis.android.rss.rssplayer&amp;hl=en_US) - *KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)
 RSS Player*
 * [mobi24](https://www.mobi24.net) - *Anime / Cartoons / Drama / Manga*

@@ -49,7 +49,7 @@
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "Books / Comics / Magazines"*
 * **[Mobilism](https://forum.mobilism.org)** - *Books / Audiobooks / Magazines / Newspapers / Comics / [Android](https://forum.mobilism.org/app/)*
 * **[Calibre](https://calibre-ebook.com/)** - *E-Book Manager / Downloader*
-* **Calibre Tools** - [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre), [3](https://the-eye.eu/public/Books/Calibre_Libraries/) / [Search](https://www.shodan.io/search?query=server%3A+calibre), [2](https://calishot-eng-1.herokuapp.com/), [3](https://calishot-eng-2.herokuapp.com/index-eng/summary), [4](https://calishot-eng-3.herokuapp.com/index-eng/summary), [5](https://calishot-eng-4.herokuapp.com/index-eng/summary) / [Web App](https://github.com/janeczku/calibre-web)  
+* **Calibre Tools** - [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre), [3](https://the-eye.eu/public/Books/Calibre_Libraries/) / [Search](https://www.shodan.io/search?query=server%3A+calibre), [2](https://calishot-eng-1.herokuapp.com/), [3](https://calishot-eng-2.herokuapp.com/index-eng/summary), [4](https://calishot-eng-3.herokuapp.com/index-eng/summary), [5](https://calishot-eng-4.herokuapp.com/index-eng/summary), [6](https://redd.it/nugkl3) / [Web App](https://github.com/janeczku/calibre-web)  
 * **[Library Genesis](https://libgen.fun/)** - *Comics / Manga*
 * **Lib Gen Tools** - *[Desktop App](https://wiki.mhut.org/software:libgen_desktop) / [Mobile App](https://github.com/manuelvargastapia/libgen_mobile_app) / [Download Tool](https://github.com/bagaswastu/librebook) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Telegram Bot](https://t.me/BotBookClub) / [Extension](https://github.com/samj1912/Genesis) / [Python Script](https://github.com/NadalVRoMa/PyLibGen) / [Mirrors](https://whereislibgen.now.sh/), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_clones), [3](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [4](https://sguru.org/libgen-proxy/) / [Onion](http://genotypeinczgrxr.onion/) / [Backup](https://redd.it/edwi9b) / /r/libgen*
 * **[Z-Library](https://z-lib.org/)** - *Books / Comics / Educational / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_mirrors) / [Telegram Bot](https://t.me/zlibrarybot)*
@@ -87,6 +87,7 @@
 * [MoJoBB](https://mojobb.com/) - *Books / Magazines*
 * [BooksToLearn](https://www.booktolearn.com) - *Books*
 * [NovelLibrary](http://novellibrary.com/) - *Books / [Drive](http://dl.novellibrary.com/)* 
+* [Ebooks, Graphics Novels & Premiums](https://mega.nz/folder/Z1dD2YSA#XRUa1Sj9mXJHU4rh1seykg/folder/0hkHiIhQ) - *Books*
 * [iBookPile](https://ibookpile.net/) - *Books*
 * [DownLoadBooks](https://downloadbooks.unblockit.dev/) - *Books*
 * [Any Books Free](http://anybooksfree.com/) - *Books*
@@ -329,6 +330,7 @@
 * [Grimoires](https://mega.nz/#F!1s9E3SZL!P_tynGmLjPHURAugHkn7Hw) 
 * [Early Christian Writings](http://www.earlychristianwritings.com/index.html) - *Christianity / Gnosticism*
 * [HolyBooks](https://holybooks.com/) - *Religious Texts* 
+* [The Dead Sea Scrolls](https://www.deadseascrolls.org.il/) - *Dead Sea Scrolls Archive*
 * [DigiVatLib](https://digi.vatlib.it/) - *Digital Vatican Library*
 * [BibleGateway](https://www.biblegateway.com/) or [eSword (app)](https://e-sword.net/) - *Christian Bible*
 * [Free Online Novels](https://www.free-online-novels.com/) - *Catholicism*
@@ -570,6 +572,7 @@
 * [DOKU.PUB](https://doku.pub/) - *Articles / Scientific*
 * [Crossref](https://search.crossref.org/) - *Articles / Documents / Datasets* 
 * [Dataone](https://www.dataone.org/) - *Datasets* 
+* [Kaggle](https://www.kaggle.com/datasets) - *Datasets*
 * [Data Catalog](https://datacatalog.worldbank.org/) - *Datasets* 
 * [mdpi](https://www.mdpi.com/) - *Articles* 
 * [DOAJ](https://www.doaj.org/) - *Journals / Articles*
@@ -610,6 +613,7 @@
 
 ## ▷ Manual Sites
 
+* [Manuals & Schematics](https://redd.it/nlw3er) - *Manual Directories*
 * [iFixIt](https://www.ifixit.com/Guide) - *Repair Manuals* 
 * [manned.org](https://manned.org/) - *Index of operating system manuals*
 * [JDMFSM](http://jdmfsm.info/Auto/), [CarPDFManual](https://www.carpdfmanual.com/renault/) or [ProCarManuals](https://procarmanuals.com/) - *Auto Repair Manuals* 
@@ -630,14 +634,15 @@
 * **[Wikiquote](https://en.wikiquote.org)** - *Quote database*
 * **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - *Slang Word / Phrase Dictionary*
 * [Webopedia](https://www.webopedia.com/) - *Tech Dictionary*
+* [Fandom](https://www.fandom.com/) - *Fan Wikis* 
 * [WordReference](https://www.wordreference.com/) or [Reverso](https://reverso.net/) - *Translation Dictionary* 
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - *Multi Language Dictionary Index*
 * [Everpidia](https://everipedia.org/) - *Encyclopedia*
 * [Britannica](https://www.britannica.com/) - *Encyclopedia*
 * [Encyclopedia](https://www.encyclopedia.com/) - *Encyclopedia*
+* [20 Encyclopedia Books](https://mega.nz/file/AsBm0ZrR#azR641hPhLWCdSB6ogzTKOfr36eaLHq2WT20tuGbLVU) - *Encyclopedias*
 * [Abbreviations](https://www.abbreviations.com/) - *Abbreviations* 
 * [Chat Words Dictionary](https://chatworddictionary.com/) - *Chat Abbreviations*
-* [Fandom](https://www.fandom.com/) - *Wiki Hosting Service* 
 * [Wolfram Alpha](https://www.wolframalpha.com/) - *Searchable Knowledgebase*
 * [Dictionary](https://www.dictionary.com/) - *Dictionary / Thesaurus*
 * [NinjaWords](http://ninjawords.com/ ) - *Dictionary* 
@@ -646,13 +651,17 @@
 * [Tip of my Tounge](https://chir.ag/projects/tip-of-my-tongue/) - *Find Words you Can't Remember*
 * [TheIdioms](https://www.theidioms.com/) - *Idiom Dictionary* 
 * [Lexipedia](http://www.lexipedia.com/) - *Word Connections*
+* [RhymeZones](https://www.rhymezone.com/) - *Rhyme Dictionary*
 * [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/) - *Dictionary of Sorrows* 
+* [TheDevilsDictionary](http://www.thedevilsdictionary.com/) - *Cynical Dictionary*
 * [TagDef](https://tagdef.com/en/) - *Social Media Tag Dictionary* 
+* [EmojiMeans](https://emojimeans.com/) - *Emoji Meanings*
 * [KnowYourMeme](https://knowyourmeme.com/) - *Meme Database*
-* [Forvo](https://forvo.com/) - *Pronunciation Dictionary* 
+* [Forvo](https://forvo.com/) or [HowJSay](https://howjsay.com/) - *Pronunciation Dictionary* 
 * [Unsuck It](http://unsuck-it.com/) - *Less Sucky Definitions* 
 * [OEIS](https://oeis.org/) - *Encyclopedia of Integer Sequences* 
 * [Time Traveler](https://www.merriam-webster.com/time-traveler) - *See when a word was first used in print* 
+* [Omniglot](https://www.omniglot.com/index.htm) - *Writing Systems & Languages Encyclopedia*
 * [swear-words](https://github.com/chucknorris-io/swear-words) - *Swear Word Index* 
 * [Racial Slur Database](http://www.rsdb.org/) - *Racial Slurs* 
 * [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - *American Sign Language* 
@@ -696,6 +705,7 @@
 * [ComicFlow](https://github.com/swisspol/ComicFlow) - *Manager / Reader / iOS*
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
 * [ComicReader](https://comicreader.netlify.app/) - *Online Comic Reader*
+* [Tenma](https://github.com/Tenma-Server/Tenma) - *Comic Server / Reader*
 
 ***
 
@@ -770,7 +780,7 @@
 * [MangaUpdates](https://www.mangaupdates.com/) - *Manga Release Updates*  
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
 * [MangaEditor](https://moeka.me/mangaEditor/) - *Online Manga Editor*
-* [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en) - *Auto Translate Manga*
+* [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en) or [Scanlate](https://scanlate.io/) - *Manga Translator*
 
 ***
 
@@ -890,7 +900,7 @@
 * **irc.irchighway.net/ebooks** - *eBook IRC / [Request Guide](https://i.imgur.com/GvyDh0B.png)*
 * /r/audiobookrequest - *Audiobook request Sub*
 * [Books.cat](https://books.cat/) - *Book requesting forum*
-* [libgen forum](https://forum.mhut.org/viewtopic.php?f=17&t=6399) - *Books*
+* [libgen](https://forum.mhut.org/viewtopic.php?f=17&t=6399) - *Books / [Request Form](https://libgen.life/bookreq/)*
 * [EBooksCart](https://ebookscart.com/request-books/) - *Books*
 * [pirates-forum](https://pirates-forum.org/Forum-Requests) - *Books*
 * [AllBooksWorld](https://allbooksworld.com/request-a-book/) - *Books*

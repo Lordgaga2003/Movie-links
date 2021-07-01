@@ -112,9 +112,9 @@
 * [premiumcoursesfree](https://t.me/premiumcoursesfree) - *Courses / Telegram*
 * [Udemy_Courses_Free_Daily](https://t.me/Udemy_Courses_Free_Daily ) - *Courses / Telegram*
 * [learningDL](https://learningdl.net/) - *Courses / Leech required* 
-* [Christmas Share](https://mega.nz/#F!rrJyDQIa!-QJeJqVThi_uC9DTLX4ElA) - *Courses / Drive* 
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - *Courses / Tutorials* 
 * [FreetutsDownload.com](https://freetutsdownload.com/) - *Courses / GDrive Host* 
+* [Masterclass 63 Pack](https://mega.nz/folder/HxFghIbS#rFqH402PoVDwHW_XEtN1QQ) - *Masterclass Courses / Drive*
 * [Lynda Courses](https://bin.snopyta.org/?efe32fb96a945857#GQL7q4hyKjCeB6WLbpq94S12BEwh5JWc4apjmb7RE4SU) - *Lynda Courses / Drive / pw: fmhy*
 * [LyndaFree](https://t.me/lyndafree) - *Lynda Courses / Telegram*
 * [Gate Academy Courses](https://mega.nz/folder/7moVUSAK#cw5VVM-L4WmtwXE30in6nw) - *Gate Academy Courses / Drive*
@@ -225,21 +225,25 @@
 
 # ► Math
 
-* **[Awesome Math](https://github.com/rossant/awesome-math)** - *Math Resource Index*
+* **[Awesome Math](https://github.com/rossant/awesome-math)** or [Math Resources](https://docs.google.com/document/d/1rtokzhpvkUPnymudl_ZVmfAA7H33VIyLQUpujNGwrTo/) - *Math Resource Index*
 * **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - *List of interactive math sites*
 * **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - *Sites with Multiple Calculators* 
 * **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - *Advanced Calculator*
 * **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://photomath.app/en/), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) - *Math Problem Solver with Steps / [Symbolab Pro](https://pastebin.com/wA3QQkCj)*
 * [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - *Matrix Calculator*
 * [Weboasis Convert](https://weboas.is/convert/) - *Conversion Calculators*
-* [Unit Conversion](https://conversao.net/eng/) or [ConvertAll](https://convertall.bellz.org/) - *Unit Converter* 
+* [Unit Conversion](https://conversao.net/eng/), [UnitConverters](https://www.unitconverters.net/) or [ConvertAll](https://convertall.bellz.org/) - *Unit Converter* 
+* [Derivative Calculator](https://www.derivative-calculator.net/) - *Derivative Calculator*
+* [Integral Calculator](https://www.integral-calculator.com/) - *Integral Calculator*
 * [Desmos](https://www.desmos.com/) - *Graphing Calculator* 
 * [fxSolver](https://www.fxsolver.com/) - *Engineering & Scientific Calculator*
 * [Online Math Tools](https://onlinemathtools.com/) - *Multiple Math Tools*
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
 * [IXL Learning](https://au.ixl.com/math/) - *Math Practice / Quizzes*
+* [Math2.org](http://math2.org/) - *Math Guides*
 * [Math is Fun](https://www.mathsisfun.com/) - *Math Tutorials / Puzzles / Games*
 * [Project Euler](https://projecteuler.net/) - *Math / Programming Problems*
+* [Divisor Plot](http://divisorplot.com/) - *Composite Number Pattern Visualization*
 
 ***
 
@@ -255,6 +259,7 @@
 * [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - *Solar System Scale Model*
 * [3DSolarSystem](https://theskylive.com/3dsolarsystem) - *Solar System Simulator* 
 * [100,000 Stars](https://stars.chromeexperiments.com/) - *Interactive 3D Star Visualization*
+* [Stellarium-Web](https://stellarium-web.org/) - *Online Stellarium*
 * [ESO](https://www.eso.org/public/images/eso1242a/zoomable/), [Hubble](https://esahubble.org/images/heic1502a/zoomable/), [Hubble 2](https://esahubble.org/images/heic1901a/zoomable/) - *Massive Zoomable Telescope Photos*
 * [SpaceEngine](http://spaceengine.org/) - *Universe Simulator*
 
@@ -296,7 +301,8 @@
 * [Marshall's Site](https://marshallyin.com/) - *Learn Japanese* 
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - *Japanese Practice Material*
 * [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - *Japanese Accent Dictionary* 
-* [GetKanda](https://getkana.com/app/) - *Learn / Memorize Kana* 
+* [GetKanda](https://getkana.com/app/) - *Learn Kana* 
+* [WaniKani](https://www.wanikani.com/) - *Learn Kanji*
 * [Read Korean Letters](https://readkoreanletters.com/) - *Learn Korean Characters* 
 * [Mandarin Chinese](https://drive.google.com/drive/u/0/mobile/folders/152oeHQoeqvC9RVMk6kJi1irAlSSp7NVk?usp=sharing) - *Mandarin Chinese Learning Books*
 * [youglish](https://youglish.com/) - *Youtube Word Pronunciations* 
@@ -320,6 +326,7 @@
 * [LightNote](https://www.lightnote.co/) - *Music Theory*
 * [Pianu](https://pianu.com/) - *Piano*
 * [FretFlip](https://fretflip.com/guitar-scales) - *Guitar*
+* [ChordBook](https://chordbook.com/) - *Guitar*
 * [Songsterr](https://www.songsterr.com/) - *Guitar*
 * [Guitarsix](https://guitarsix.com/) - *Guitar*
 * [LearningSynths](https://learningsynths.ableton.com/) - *Synthesizers*
@@ -350,11 +357,13 @@
 * [Get Unstuck](https://socratic.org/) - *Homework Answers / Help* 
 * [Quizlet](https://quizlet.com/) - *Quizzes / Study Material*
 * [TurtleDiary](https://www.turtlediary.com/) - *Quizzes / Lessons / Games*
+* [SoftSchools](https://www.softschools.com/) - *Worksheets / Games / Quizzes*
 * [BrainPOP Jr.](https://jr.brainpop.com/) - *Quizzes / Animations*
 * [The Problem Site](https://www.theproblemsite.com/) - *Problems / Puzzles/ Games*
 * [PuzzlePrime](https://www.puzzleprime.com/) - *Problems / Puzzles*
 * [LateralPuzzles](http://www.lateralpuzzles.com/) - *Lateral Thinking Puzzles*
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - *The Trolley Problem*
+* [Untools](https://untools.co/) - *Better Thinking Tools & Frameworks*
 * [OpenSyllabus](https://opensyllabus.org/) or [SyllabusFinder](https://www.syllabusfinder.com/) - *Syllabus Search / Info*
 * [Edpuzz Ninja](https://edpuzz.ninja/) - *Educational Puzzle Solving Tool* 
 * [Slader](https://www.slader.com/) - *Homework Answers and Solutions*
@@ -381,18 +390,20 @@ https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.white
 * [Ray Optics Simulation](https://ricktu288.github.io/ray-optics/) - *Light Reflection / Refraction Simulator*
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) - *Mineralogy Index* 
 * [OneZoom](http://www.onezoom.org/) - *Tree of Life Explorer* 
-* [Wikispecies](https://species.wikimedia.org/) - *Species Directory* 
+* [Wikispecies](https://species.wikimedia.org/) or [The Catalogue of Life](https://www.catalogueoflife.org/) - *Species Directory* 
 * [Ocearch](https://www.ocearch.org/?list) - *Track Marine Life*
 * [The Deep Sea](https://neal.fun/deep-sea/) - *Interactive Deep Sea Life Guide* 
 * [Life Under the Ice](https://lifeundertheice.org/) - *View Antarctic Microbes*
 * [Xeno-Canto](https://www.xeno-canto.org/) or [Birdnet](https://birdnet.cornell.edu/) - *Bird Sound Index / Identifier* 
 * [Algodoo](http://www.algodoo.com/) - *Interactive Physics Tool*
 * [nanoHUB](https://nanohub.org/) - *Nanotechnology Tool Index*
+* [NandGame](https://nandgame.com/) - *Computer Building Puzzle*
 * [Vocabulary.ugent](http://vocabulary.ugent.be/) - *Vocabulary Test* 
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/) - *Learn about Logical Fallacies* 
 * [YourBiasIs](https://yourbias.is/) - *Learn about Biases* 
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - *Learn to Tie Knots* 
 * [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
+* [Pol Art Folder](https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg) - *Historic European Art & Paintings*
 * [Metabolic-Pathway](http://www.metabolic-pathway.com/fullMap.html) - *Interactive Metabolic Pathways Map* 
 * [How a Car Works](https://www.howacarworks.com/) - *Car Mechanics / Automotive Engineering Guides* 
 * [Morse Typing Trainer](https://morse.withgoogle.com/learn/) - *Morse Code Trainer* 

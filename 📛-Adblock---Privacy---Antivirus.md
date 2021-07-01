@@ -30,7 +30,7 @@
 * [Linkvertise Bypass](https://greasyfork.org/en/scripts/409156-linkvertise-bypass) or [linkvertise-bypass](https://github.com/gamb2t/linkvertise-bypass) - *Bypass Linkvertise Redirects / [Discord](https://discord.gg/cRmb8PrFdS)* 
 * [OpenVideo](https://openvideofs.github.io) - *Plays videos from streaming sites in a ad free player*
 * [Fakespot](https://www.fakespot.com/) - *Identifies Fake Reviews & Counterfeits*
-* [Twitch Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblocker), [VideoAdBlockForTwitch](https://github.com/saucettv/VideoAdBlockForTwitch), [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm), [VideoAdBlockForTwitch ](https://github.com/saucettv/VideoAdBlockForTwitch) or [Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/) - *Twitch Adblocker* 
+* [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm), [VideoAdBlockForTwitch](https://github.com/saucettv/VideoAdBlockForTwitch), [VideoAdBlockForTwitch](https://github.com/saucettv/VideoAdBlockForTwitch) or [Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/) - *Twitch Adblocker* 
 * [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - *Multiple Twitch Adblocking Methods*
 * [Facebook Hide Ads](https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts) - *Remove Sponsored Posts from Facebook* 
 * [LinkedIn Unsponsored](https://greasyfork.org/en/scripts/379003-linkedin-unsponsored) - *Remove Sponsored Posts from LinkedIn* 
@@ -131,7 +131,7 @@
 * **[Authy](https://authy.com/)** or [WinAuth](https://winauth.github.io/winauth/) - *Two-Factor Authentication*  
 * [Obsidian](https://obsidianapp.io/) - *OS X/ iOS Two-Factor Authentication*
 * [Authenticator](https://authenticator.cc/) - *Generate Two-Factor Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)* 
-* [Surveillance Self-Defense](https://ssd.eff.org/), [Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/), [The New Oil](https://thenewoil.xyz/index.html) or [Security In A Box](https://securityinabox.org/en/) - *Privacy & Safety Guides / Tools* 
+* [Privacy / Safety Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides) - *Internet Privacy / Safety Guides* 
 * [Privacy.Sexy](https://privacy.sexy/) - *Privacy Scripts* 
 * [Team Elite](https://www.te-home.net/) - *Security Software*
 * [macOS Security Tools](https://github.com/ashishb/osx-and-ios-security-awesome) - *OS X Security Tools*
@@ -167,6 +167,7 @@
 * [PDFEncrypt](https://pdfencrypt.net/) - *PDF File Encryption*
 * [GnuPG](https://www.gnupg.org/index.html) or [GPGTools](https://gpgtools.org/) - *Encrypt & Sign Data / Communications* 
 * [Unsee](https://unsee.cc/) - *Private / Temporary Image Host* 
+* [ImgProxify](https://imgproxify.com/) - *Image Proxy Generator*
 * [PrivNote](https://privnote.com/) or [IPNote](https://ipnote.io/) - *Notes that Auto Delete After Being Read* 
 * [Eraser](https://eraser.heidi.ie/) - *Remove / Overwrite Hard Drive Data* 
 * [Free Hide Folder](https://www.cleanersoft.com/hidefolder/free_hide_folder.htm) or [Wise Folder Hider](http://www.wisecleaner.com/wise-folder-hider-free.html) - *Hide Folders / Files* 
@@ -180,7 +181,7 @@
 * [Test Your Metal](http://metal.fortiguard.com/) - *Test Firewall* 
 * [LuLu](https://objective-see.com/products/lulu.html) - *Mac Firewall* 
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [Gufw](http://gufw.org/) - *Linux Firewall* 
-* [Delete Discord Messages](https://github.com/victornpb/deleteDiscordMessages) - *Delete your Discord Messages*
+* [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/adversarialtools/discord-delete), [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) or [QuickDeleteMessages](https://u.nu/9i9jk) - *Delete Discord Messages / [Warning](https://i.imgur.com/Kt8G430.png)* 
 * [Spyware Watchdog](https://spyware.neocities.org/) - *Spyware Program Index*
 * [Terms of Service; Didn't Read](https://tosdr.org/) - *TLDR TOS*
 * [V2Ray](https://v2ray.com/en/) - *Build your own Privacy Network / [GUI](https://qv2ray.net/), [v2rayN](https://github.com/2dust/v2rayN)* 
@@ -267,7 +268,7 @@
 * [Canarytokens](https://canarytokens.org/generate) - *Network Breach Check* 
 * [JustGetMyData](https://justgetmydata.com/) - *Links to Obtain Your Data from Websites* 
 * [TrackingTheTrackers](https://trackingthetrackers.com/) - *Check if a website is disguising third-party trackers as first-party trackers*
-* [WhoTracksMe](https://whotracks.me/) - *Tracker Statistics / Information*  
+* [WhoTracksMe](https://whotracks.me/) or [Trackography](https://trackography.org/) - *Site Tracking Info*  
 * [I2P](https://geti2p.net/en/) - *Encrypted Private Network Layer / [Resource Index](https://github.com/mikalv/awesome-i2p)* 
 * [NothingPrivate](https://www.nothingprivate.ml/), [Device Info](https://www.deviceinfo.me/), [Privacy Test](https://privacy.net/analyzer/), [IPX](https://ipx.ac/run) or [BrowserAudit](https://browseraudit.com/) - *Browser Data Leak Test*
 * [IP / DNS Leak Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_dns_leak_tests) - *Test for IP & DNS Leaks*
@@ -295,7 +296,7 @@
 * [Wikiless](https://wikiless.org/) - *Wikipedia Frontend / [Source](https://codeberg.org/orenom/Wikiless)*
 * [Yotter](https://yotter.kavin.rocks/) - *Youtube / Twitter Frontend* 
 * [Bibliogram](https://bibliogram.art/) - *Instagram frontend / [Open Source](https://github.com/cloudrac3r/bibliogram)*
-* [nitter](https://nitter.net/) - *Twitter frontend*
+* [nitter](https://nitter.net/) - *Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)*
 * [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/) or [teddit](https://teddit.net/), [2](https://codeberg.org/teddit/teddit) - *Reddit Frontends*
 * [Metalune](https://translate.metalune.xyz/) / [2](https://gtranslate.metalune.xyz/) - *Google Translate Frontend* 
 * [Cusdis](https://cusdis.com/) - *Privacy-Focused Comment System / [GitHub](https://github.com/djyde/cusdis)*
@@ -307,7 +308,7 @@
 * [GeoSocial Footprint](http://geosocialfootprint.com/) or [tinfoleak](https://tinfoleak.com/) - *View Your Geosocial Footprint* 
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - *Reddit Auto Post Delete*
 * [Mine](https://saymineapp.com/) - *View / Manage Digital Footprint*
-* [Redact](https://redact.dev/) - *Delete Entire Online History*
+* [Redact](https://redact.dev/) - *Delete Entire Online History / [Warning](https://i.imgur.com/Kt8G430.png)*
 * [Make Internet Noise](http://makeinternetnoise.com/) - *Randomize Browser History* 
 * [Vektort13](http://vektort13.space/) - *Website History Test*
 * [Freenet Project](https://freenetproject.org/) - *Browse / Publish Freenet Sites* 
@@ -328,17 +329,18 @@
 
 ## ▷ Search Engines
 
+* **[Search Engine Party](https://searchengine.party/)** - *Privacy Search Engine Comparisons*
 * **[DuckDuckGo](https://duckduckgo.com/)** - *[Shortcuts](https://duckduckgo.com/bang)*
 * [searx](https://asciimoo.github.io/searx/) - *[Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_searx_instances)*
-* [YaCy](https://yacy.net/) 
 * [StartPage](https://www.startpage.com/)
+* [Qwant](https://www.qwant.com/)
 * [Swisscows](https://swisscows.com/)
 * [Metager](https://metager.org/)
+* [YaCy](https://yacy.net/) 
 * [Mojeek](https://www.mojeek.com/)
 * [SKYN3T](https://skyn3t.in/)
 * [Privado](https://www.privado.com/) 
 * [peekier](https://peekier.com/)
-* [Qwant](https://www.qwant.com/)
 * [Yippy](https://yippy.com/)
 * [Infinity](https://infinitydecentralized.com/)
 * [ekoru](https://ekoru.org/)
@@ -411,6 +413,7 @@
 * [FREEVPN.gg](https://freevpn.gg/) - *Free VPN List*
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
+* [RaceVPN](https://www.racevpn.com/) - *Free VPN Servers*
 * [PiVPN](https://pivpn.io/) - *Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)* 
 * [Enterprise](https://pritunl.com/) - *VPN Server* 
 * [Self-Hosted VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/selfhost-vpn) - *Self hosted VPN guide by /u/Kaxry*

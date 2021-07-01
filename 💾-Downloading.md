@@ -226,7 +226,8 @@
 * [Suckless](https://suckless.org/) - *Simple Software Archive* 
 * [MSDN](https://the-eye.eu/public/MSDN/) - *Microsoft Developer Network Software* 
 * [WSL-Programs](https://github.com/ethanhs/WSL-Programs) - *Windows Subsystem for Linux Programs*
-* [WinWorldPC](https://winworldpc.com/) - *Abandonware / Classic Operating Systems* 
+* [WinWorldPC](https://winworldpc.com/) - *Abandonware / Operating Systems* 
+* [VETUSWARE](https://vetusware.com/) - *Abandonware / Operating Systems / Games*
 * [The Vintage Software Collection](https://archive.org/details/vintagesoftware) - *Vintage Software*
 * [Portapps](https://portapps.io/), [FC Portables](https://www.fcportables.com/), [Portable Freeware](https://www.portablefreeware.com/), [TheHouseOfPortable](https://thehouseofportable.com/), [freeportablesoftwares](https://sites.google.com/site/freeportablesoftwares/) or [PortableApps](https://portableapps.com/) - *Portable Apps for USB / SD / External Storage*
 * [KDE's Applications](https://apps.kde.org/education) - *Linux Apps* 

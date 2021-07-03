@@ -208,6 +208,7 @@
 * [NLS](https://www.nls.uk/), [2](https://movingimage.nls.uk/) - *Scottish Film Archive* 
 * [Northern Ireland Screen](https://digitalfilmarchive.net/) - *Irish Film Archive*
 * [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - *Historic Footage / Films*
+* [Imperial War Museums](https://www.iwm.org.uk/) - *Historic War Footage*
 * [Prelinger Archives](http://www.panix.com/~footage/) - *Ephemeral Films [Archive](https://archive.org/details/prelinger)*
 * [StageDork](http://stagedork.com/) - *Broadway Show Recordings* 
 * [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) - *Interactive player for Black Mirror: Bandersnatch*
@@ -364,7 +365,7 @@
 * **[WebOas.is TV](http://streamwat.ch/)** - *TV / Sports*
 * [Stream2Watch](https://www.stream2watch.is/) - *TV / Sports*
 * [Awesome IPTV](https://github.com/iptv-org/awesome-iptv), [2](https://github.com/iptv-org/iptv) - IPTV Resources / [Kodi app](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client)
-* [m3u Index](https://m3u4u.com/), [HLSCat](https://hlscat.com/), [2](https://iptvcat.net/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Plex + Emby Proxy](https://xteve.de/)
+* [m3u Index](https://m3u4u.com/), [HLSCat](https://hlscat.com/), [2](https://iptvcat.net/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Plex + Emby Proxy](https://xteve.de/) / [m3u to txt](https://siptv.eu/converter/)
 * [123TV](http://123tv.live/) - *TV / Sports*
 * [streamlive](https://www.streamlive.to/) - *TV / Sports*
 * [SportsBay](https://sportsbay.org/live-streams) - *Sports* 
@@ -390,11 +391,12 @@
 * [LM Shows](https://lmshows.se/) - *TV*
 * [TVOnline.Liveschauen](https://tvonline.liveschauen.com/) - *TV* 
 * [WorldCupFootball](http://www.worldcupfootball.me/) - *Sports*
-* [cytube](https://cytu.be/) - *TV / chat*
+* [cytube](https://cytu.be/) - *TV / Chat*
 * [6stream](http://6stream.xyz/) - *Sports*
 * [Your Sports Stream](http://yoursports.stream/) - *Sports*
 * [livetv](http://livetv.sx) - *Sports*
 * [bilaSport](http://bilasport.net/) - *Sports*
+* [NBAFullMatch](https://nbafullmatch.com/) - *Sports*
 * [WatchKobe](http://watchkobe.info/) - *Sports*
 * [BuffStreams](https://buffstreams.tv/) - *Sports*
 * [SportHD](https://sporthd.live/) - *Sports* 
@@ -407,20 +409,30 @@
 * [MamaHD](https://mamahd.best/) - *Sports*
 * [DaddyLive](https://daddylive.co/) - *Sports*
 * [Volokit](http://www.volokit.com/schedule/) - *Sports* 
+* [BestSolaris](http://bestsolaris.com/) - *Sports*
+* [DudeStream](http://dudestream.com/) - *Sports*
+* [SummerLivestream](http://summerlivestream.com/) - *Sports*
+* [Cricworld](http://cricworld.club/) - **
+* [UFCKhabib](http://ufckhabib.com/) or [NBATVSport](http://nbatvsport.com/) - *Sports*
+* [6Streams](http://6streams.tv/) - *Sports*
+* [NodelayTV](http://nodelaytv.pw/) - *Sports*
+* [FreeSportsForAll](http://www.freesportsforall.ml/) - *Sports*
+* [Cr7Soccor](https://cr7soccer.club/) - *Sports*
+* [Live.NFL.Stream](https://live-nfl.stream/) + *[Other Sports](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_nfl_stream_.28other_sports.29)* 
+* [NBAStreams](https://nbastreams.to/), [NFL](https://nflstreams.to/), [NHL](https://nhlstreams.to/), [MLB](https://mlbstreams.to/) - *Sports* 
+* [Topstreams](http://topstreams.info/) - *Sports* 
 * [VIPLeague](https://www.vipleague.lc/) or [VIPBox](https://www.vipbox.lc/) - *Sports* 
 * [FreeStream-Live](http://freestreams-live1.com/) - *Sports* 
 * [TVLab](https://t.me/tvlab) - *IPTV Playlists / Telegram*
 * [iptv_sport](https://t.me/iptv_sport) - *IPTV Sports Playlists / Telegram*
 * [TaimaTV](http://taima.tv/) - *Wrestling / MMA / Boxing*
-* [Soccer Streams](https://reedit.soccerstreams.net/) - *Soccer*
 * [Football Live Stream](https://football-live.stream/free-matches-online-6) - *Football* 
-* [Live.NFL.Stream](https://live-nfl.stream/) + *[Other Sports](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_nfl_stream_.28other_sports.29)* 
-* [NBAStreams](https://nbastreams.to/), [NFL](https://nflstreams.to/), [NHL](https://nhlstreams.to/), [MLB](https://mlbstreams.to/) - *Sports* 
-* [Topstreams](http://topstreams.info/) - *Sports* 
 * [MLB66](https://mlb66.ir/) - *MLB* 
 * [BoxingStreams](https://boxingstreams.cc/) - *Boxing*
 * [F1 Live Stream](https://formula1-live.stream/free-races-online-4) - *F1* 
 * [LiveSoccer TV](https://www.livesoccertv.com/) - *Soccer*
+* [Soccer Streams](https://reedit.soccerstreams.net/) - *Soccer*
+* [FootEM](https://www.footem.site/) - *Soccer*
 * [footybite](https://live.footybite.com/) - *Soccer* 
 * [NHLstream](https://www.nhlstream.net/) - *NHL*
 * [NHL66](https://nhl66.ir/) - *NHL*
@@ -725,6 +737,7 @@
 * [BingeClock](https://www.bingeclock.com/) - *TV Show Length Calculator* 
 * [MyDramaList](https://mydramalist.com/) - *Asian Drama Tracker* 
 * [MythBank](https://mythbank.com/) - *Media Timelimes / Watch Orders* 
+* [watch_order](https://www.reddit.com/r/anime/wiki/watch_order) - *Anime Watch Orders /r/anime*
 * [Anime Notifier](https://notify.moe/) - *Anime List, Tracker, Database & Notifier* 
 * [Tiaga](https://github.com/erengy/taiga) - *Anime Tracking Program* 
 * [arm-server](https://github.com/BeeeQueue/arm-server) - *Map Anime ID's between AniList, AniDB, MAL & Kitsu* 

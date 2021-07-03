@@ -165,6 +165,7 @@
 * [KuPDF](https://kupdf.net/) - *Books* 
 * [ePDF](https://epdf.pub/) - *Books* 
 * [SoPDF](http://www.sopdf.com/) - *Books* 
+* [PDFSearches](https://pdfsearches.com/) - *Books*
 * [FindPDFDoc](http://www.findpdfdoc.com/) - *Books* 
 * [PDFSlide](https://pdfslide.net/) - *Books* 
 * [PDFDuck](https://pdfduck.com/) - *Books* 
@@ -205,6 +206,7 @@
 
 * [Copy Me That](https://www.copymethat.com/) or [Spoonacular](https://spoonacular.com/food-api) - *Recipe Manager*
 * [Just the Recipe](https://www.justtherecipe.app/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - *Copy Ingredients & Directions from Recipe Pages* 
+* [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - *Food Product Ingredient Scanner*
 * [cookEbooks](http://cookebooks.info/) - *Cookbooks*
 * [The-Eye Food](https://the-eye.eu/public/Books/Food/) - *Cookbooks* 
 * [YudhaCookbook](https://www.yudhacookbook.my.id/) - *Cookbooks*
@@ -373,7 +375,8 @@
 * [Retro Game Strategy Guides](https://archive.org/details/Tekken3PrimasOfficialStrategyGuide1998) - *700 Retro Game Strategy Guides* 
 * [Erowid](https://www.erowid.org/) - *Psychoactive Information Index*
 * [The-Eye Psychedelics](https://the-eye.eu/public/Psychedelics/Psychedelic%20Praxis%20Library%203.0/)
-* [The Trove](https://thetrove.is/) - *Books / Fantasy / RPG / [Wayback Machine](https://web.archive.org/web/20210614215400/https://thetrove.is/), [2](https://web.archive.org/web/20210430220147/https://thetrove.is/)*
+* [The Trove](https://thetrove.is/) - *Books / Fantasy / TTRPG / [Wayback Machine](https://web.archive.org/web/20210614215400/https://thetrove.is/), [2](https://web.archive.org/web/20210430220147/https://thetrove.is/)*
+* [Choisey](http://choisey.free.fr/) or [DriveThruRPG](https://www.drivethrurpg.com/) - *TTRPG Rulebooks*
 * [SimplyScripts](https://www.simplyscripts.com/) or [Scripts.com](https://scripts.com/) - *Movie / TV Scripts* 
 * [Kialo]( https://www.kialo.com/) - *Popular Debates / Discussion* 
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
@@ -414,16 +417,16 @@
 * [Heaven](https://drive.google.com/drive/folders/1hxe7Des-ooQpamAtjyR7CX-k_hyqlQ7Q)
 * [Uloz Archive](https://uloz.to/folder/8fpAg2rwEcYh/name/Large-Book-Collection) 
 * [Wikiversity](https://www.wikiversity.org/) - *Learning Resources, Guides, Quizzes, Tools & More*
+* [NoExcuseList](http://noexcuselist.com/) - *Free Learning Sites* 
 * [OpenEdition](https://www.openedition.org/) - *Educational Books / Journals* 
 * [Saylor Academy](https://learn.saylor.org/) - *Courses* 
 * [eBookers](https://t.me/ebookers) - *Telegram*  
-* [NoExcuseList](http://noexcuselist.com/) - *Free Learning Sites* 
 * [Open Textbook Library](https://open.umn.edu/opentextbooks/) - *Textbooks*
 * [grade12books](https://t.me/grade12books) - *Textbooks*  
 * [TextBookGo](http://textbookgo.com/) - *TextBooks*
 * [Saylor](https://www.saylor.org/books/) - *Textbooks*
 * [Wikibooks](https://en.wikibooks.org/) - *Open-Content Texbooks*
-* [PowerInBooks](https://powerinbooks.xyz/temp/) - *Textbook Solutions* 
+* [PowerInBooks](https://powerinbooks.xyz/temp/) or [ch36650lut10n5](https://www.ch36650lut10n5.com/) - *Textbook Solutions* 
 * [LearnCreative](https://learncreative.net/) - *IIT / JEE / NEET / AIIMS Study Material* 
 * [ck12](https://www.ck12.org/)- *Interactive CK-12*
 * [Nexus](https://t.me/libgen_scihub_bot) - *Books / Telegram*
@@ -446,9 +449,6 @@
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) - *Books / Notes / Astronomy*
 * [phys](https://phys.org/) - *Latest / News / Article / Physics* 
 * [RealNotComplex](https://realnotcomplex.com/) - *Math / Books*
-* [MathOnline](http://mathonline.wikidot.com/) - *Math / Courses*
-* [Mathigon](https://mathigon.org/) - *Math / Courses* 
-* [BetterExplained](https://betterexplained.com/) - *Math / Educational / Courses* 
 * [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial) - *Reverse Engineering Course* 
 * [HowtoForge](https://www.howtoforge.com/) - *Linux / Tutorials*
 * [EngBookPDF](https://www.engbookspdf.com/) - *Engineering*
@@ -533,9 +533,6 @@
 * [Free Ebooks Download List](https://free-ebook-download-links.blogspot.com/) 
 * [EbookFoundation Programming Books](https://github.com/EbookFoundation/free-programming-books/) 
 * [Free-Python-Books](https://github.com/oddsun/Free-Python-Books)
-* [Hackr.io](https://hackr.io/) - *Tutorials*
-* [FCS](https://freecoursesite.com/) - *Tutorials*
-* [w3schools](https://www.w3schools.com/) - *Tutorials*
 * [DevDocs](https://devdocs.io/) - *API Documentation*
 * [Bzdnbot](https://t.me/Bzdnbot) - *Telegram* 
 * [Programming Directories](https://redd.it/hxdbau) 
@@ -772,6 +769,7 @@
 * [BookDL Comic & Manga](http://booksdl.org/comics0/) - *Comics / Manga / Drive*
 * [Dynasty Scans](https://dynasty-scans.com/) - *Yuri*
 * [BoysLove](https://boyslove.me/) - *Yaoi* 
+* [OtakuGallery](http://www.otakugallery.com/) - *Manga Artbooks*
 * [WebToons](https://www.webtoons.com/en/) - *Manga Webtoons*  
 * [HakuNeko](https://github.com/manga-download/hakuneko), [Comics Downloader](https://github.com/Girbons/comics-downloader), [FMD](https://sourceforge.net/projects/fmd/), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [Free Manga Downloader](https://sourceforge.net/projects/newfmd/) or [mangadownloader](https://github.com/n1mo/manga) - *Manga Downloader*
 * [AllMangasReader](http://allmangasreader.com/) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - *Organizer / Reader*
@@ -972,6 +970,7 @@
 * [Library Extension](https://www.libraryextension.com/) - *Check book availability from your local library*
 * [Bypass Quora login](https://onehack.us/t/bypass-quora-login-for-unlimited-reading-new-method-legal/92786)
 * [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) or [Remove eBook DRM](https://apprenticealf.wordpress.com/) - *Remove ebook DRM*
+* [RemoveWatermark](https://github.com/ShadonSniper/RemoveWatermark) - *IT EBook Watermark Remover*
 * [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - *eBook Torrent Auto Search*
 * [HowLongToRead](https://howlongtoread.com/) - *Find out how long a book takes to read*
 * [FanFicFare](https://github.com/JimmXinu/FanFicFare) - *Generate eBooks from Stories / Fanfiction*

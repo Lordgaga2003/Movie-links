@@ -161,6 +161,7 @@
 * [magnetico](https://github.com/boramalper/magnetico) or [Torrentinim](https://github.com/sergiotapia/torrentinim) - *Self Hosted Torrent Search Engine*
 * [Veoble](http://veoble.com/torrent/) - *Multi Site Search* 
 * [torrentsearcher_bot](https://t.me/torrentsearcher_bot), [torrenthuntbot](https://t.me/torrenthuntbot) or [FDTorrentSearchBot](https://t.me/FDTorrentSearchBot) - *Telegram Torrent Search Bot* 
+* [RSSFeedz](https://t.me/rssfeedz) - *Torrent RSS Feed*
 
 ***
 

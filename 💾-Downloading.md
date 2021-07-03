@@ -21,6 +21,7 @@
 * [Directory Lister](https://directorylister.com/) - *Open Directory Explorer*
 * [IRC / XDCC Tutorial](https://www.theloadguru.com/xdcc-irc-beginners-guide/), [2](https://github.com/mayfrost/guides/blob/master/IRC.md)
 * [Awesome IRC](https://github.com/davisonio/awesome-irc) - *IRC Resource Index*
+* [xdccget](https://github.com/Fantastic-Dave/xdccget) - *XDCC IRC Downloader*
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - *Search Pastebin Directories*
 
 ***
@@ -226,6 +227,9 @@
 * [Suckless](https://suckless.org/) - *Simple Software Archive* 
 * [MSDN](https://the-eye.eu/public/MSDN/) - *Microsoft Developer Network Software* 
 * [WSL-Programs](https://github.com/ethanhs/WSL-Programs) - *Windows Subsystem for Linux Programs*
+* [Giveaway Radar](https://giveawayradar.weebly.com/) - *Software Giveaways*
+* [Tick Coupon](https://giveaway.tickcoupon.com/windows-giveaway/) - *Software Giveaways*
+* [Techno360](https://www.techno360.in/category/free-stuff/) - *Software Giveaways*
 * [WinWorldPC](https://winworldpc.com/) - *Abandonware / Operating Systems* 
 * [VETUSWARE](https://vetusware.com/) - *Abandonware / Operating Systems / Games*
 * [The Vintage Software Collection](https://archive.org/details/vintagesoftware) - *Vintage Software*

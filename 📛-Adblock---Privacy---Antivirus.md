@@ -30,7 +30,7 @@
 * [Linkvertise Bypass](https://greasyfork.org/en/scripts/409156-linkvertise-bypass) or [linkvertise-bypass](https://github.com/gamb2t/linkvertise-bypass) - *Bypass Linkvertise Redirects / [Discord](https://discord.gg/cRmb8PrFdS)* 
 * [OpenVideo](https://openvideofs.github.io) - *Plays videos from streaming sites in a ad free player*
 * [Fakespot](https://www.fakespot.com/) - *Identifies Fake Reviews & Counterfeits*
-* [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm), [VideoAdBlockForTwitch](https://github.com/saucettv/VideoAdBlockForTwitch), [VideoAdBlockForTwitch](https://github.com/saucettv/VideoAdBlockForTwitch) or [Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/) - *Twitch Adblocker* 
+* [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm), [VideoAdBlockForTwitch](https://github.com/saucettv/VideoAdBlockForTwitch) or [Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/) - *Twitch Adblocker* 
 * [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - *Multiple Twitch Adblocking Methods*
 * [Facebook Hide Ads](https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts) - *Remove Sponsored Posts from Facebook* 
 * [LinkedIn Unsponsored](https://greasyfork.org/en/scripts/379003-linkedin-unsponsored) - *Remove Sponsored Posts from LinkedIn* 
@@ -43,12 +43,12 @@
 ## ▷ DNS Adblocking
 
 * **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - *Network-wide DNS Adblocking / [Setup](https://github.com/klutchell/balena-adguard)* 
-* [Adguard](https://adguard.com/en/adguard-dns/overview.html) - *[Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt) / [Filters](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole), [2](https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/content_blocker.txt) / [Extension](https://github.com/AdguardTeam/AdguardBrowserExtension#installation)*
+* [Adguard](https://adguard.com/en/adguard-dns/overview.html) - *[Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt) / [Filters](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole), [2](https://github.com/AdguardTeam/AdguardFilters/blob/master/Eng1lishFilter/sections/content_blocker.txt) / [Extension](https://github.com/AdguardTeam/AdguardBrowserExtension#installation)*
 * [Blah DNS](https://blahdns.com/)
 * [Pi-Hole](https://pi-hole.net/) - *[Filter](https://firebog.net/), [2](https://ftpihole.com/), [3](https://github.com/hl2guide/Filterlist-for-AdGuard) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine)*
-* [Quad9](https://quad9.net/) 
 * [ahadns](https://ahadns.com/) 
 * [Adhole](https://adhole.org/) 
+* [Quad9](https://quad9.net/) 
 * [Rethink](https://rethinkdns.com/)
 * [DNSCrypt](https://www.dnscrypt.org) - *[Manager](https://simplednscrypt.org/)*
 * [AlternateDNS](https://alternate-dns.com/index.php)
@@ -79,7 +79,8 @@
 # ► Antivirus
 
 * **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - *Malware Analysis Tools / Resources*
-* **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - *Malware avoidance guide*
+* **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - *Malware Avoidance Guide*
+* **[How to Remove Malware](https://redd.it/33evdi)** - *Malware Removal Guide*
 * **[Malwarebytes](https://www.malwarebytes.com/)**, [IOBit](https://www.iobit.com/en/malware-fighter.php) or  [Immunet](https://www.immunet.com) - *Anti-Malware / Antivirus*
 * **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - *Anti-Adware*
 * **[VirusTotal](https://www.virustotal.com/)**, [VirSCAN](https://www.virscan.org/), [BitBaan](https://lab.bitbaan.com/en/home), [Joe Sandbox](https://www.joesandbox.com/), [MetaDefender](https://metadefender.opswat.com/?lang=en), [Fortiguard](https://www.fortiguard.com/faq/onlinescanner) or [Jotti](https://virusscan.jotti.org/en) - *File Scanners / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader)* 
@@ -222,7 +223,8 @@
 * [Firefox Privacy Settings](https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/) or [SnowHaze](https://github.com/snowhaze/firefox-extension) - *Firefox Privacy Settings Manager*
 * [Smart Referer](https://gitlab.com/smart-referrer/smart-referer) - *Limit Referer Information Leaks* 
 * [Privacy-Oriented Origin Policy](https://claustromaniac.github.io/poop/) - *Prevents Sending Origin Headers* 
-* [Opt Out Tools](https://add0n.com/opt-out.html) - *Prevents JavaScript from sending google info*  
+* [GAOptOut](https://tools.google.com/dlpage/gaoptout) - *Google Analytics Opt Out*
+* [Opt Out Tools](https://add0n.com/opt-out.html) - *Prevents JavaScript from sending Google info*  
 * [Luminous](https://gbaptista.github.io/luminous/doc/en-US/) - *JavaScript Events Blocker* 
 * [Behave!](https://github.com/mindedsecurity/behave) - *IP Protection* 
 * [WebRTC Control](https://mybrowseraddon.com/webrtc-control.html) - *Enable / Disable WebRTC* 
@@ -342,6 +344,7 @@
 * [Privado](https://www.privado.com/) 
 * [peekier](https://peekier.com/)
 * [Yippy](https://yippy.com/)
+* [WhaleSlide](https://whaleslide.com/)
 * [Infinity](https://infinitydecentralized.com/)
 * [ekoru](https://ekoru.org/)
 * [Runnaroo](https://www.runnaroo.com/) 
@@ -413,13 +416,13 @@
 * [FREEVPN.gg](https://freevpn.gg/) - *Free VPN List*
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
-* [RaceVPN](https://www.racevpn.com/) - *Free VPN Servers*
+* [RaceVPN](https://www.racevpn.com/) - *Free VPN Tunnels*
+* [PisoVPN](https://pisovpn.com/) - *Free VPN Tunnels*
 * [PiVPN](https://pivpn.io/) - *Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)* 
 * [Enterprise](https://pritunl.com/) - *VPN Server* 
 * [Self-Hosted VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/selfhost-vpn) - *Self hosted VPN guide by /u/Kaxry*
 * [Streisand](https://github.com/StreisandEffect/streisand) - *Anti-Censorship VPN Setup*  
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
-* /r/allvpncoupons - *VPN Coupon Subreddit* 
 * /r/VPN - *VPN Help and Discussion* 
 
 ***

@@ -299,6 +299,7 @@
 * [Animes.so](https://www.animes.so/) - *Anime* 
 * [serienjunkies](https://serienjunkies.org/) - *TV* 
 * [uu.canna.to](http://uu.canna.to/) - *Music / Audiobooks* 
+* [ddl-albums](https://ddl-albums.net/) - *MP3*
 * [CasualGamers](https://casualgamers.club/) - *Games*
 
 ## ▷ Streaming
@@ -428,6 +429,7 @@
 
 ## ▷ Reading
 
+* [BDEBooks](https://bdebooks.com/) - *Books*
 * [requesthindibooks](https://t.me/requesthindibooks) - *Books / Request*
 * [English_Hindi_Novels_Magazine](https://t.me/English_Hindi_Novels_Magazine) - *Books / Magazines*
 
@@ -494,6 +496,8 @@
 ***
 
 # ► Japanese 
+
+* [lit.link](https://lit.link/) - *Link All Your Sites on One Page*
 
 ## ▷ Downloading
 
@@ -669,7 +673,15 @@
 * [HamtaMovie](https://hamtamovie.run/) - *Movies / TV / Anime* 
 * [umovie](http://umovie.in/) - *Movies*  
 * [film2media](https://www.film2media.website/) - *Movies*  
-* [pop-music](https://pop-music.ir/) - *Music*
+* [pop-music](https://pop-music.ir/) - *MP3*
+* [Just Music](https://just-music.ir/) - *MP3*
+* [BikalamMusic](http://www.bikalammusic.com/) - *MP3*
+* [MusicDagh](https://www.musicdagh.ir/) - *MP3*
+* [MusicGeek](https://musicgeek.ir/) - *MP3 / FLAC*
+* [SongSara](https://songsara.net/) - *MP3 / FLAC*
+* [FLACColdSong](https://t.me/flacoldsong) - *FLAC*
+* [Dreamusic](https://dreamusic.ir/) - *Soundtracks*
+* [Pixinema](https://www.pixinema.ir/) - *Soundtracks*
 * [game4pc](https://game4pc.ir) - *Games*
 * [gold-team](https://gold-team.ir/) - *Games / Cracked Online Tutorials*
 * [dastras](https://t.me/dastras) - *Android / Telegram* 
@@ -692,6 +704,8 @@
 * [Anten.ir](https://www.anten.ir/) - *Live / TV / Sports* 
 * [PersianTVLive](http://www.persiantvlive.com/) - *Live TV*
 * [Sepehr](https://sepehr.irib.ir/) - *Live TV*
+* [MusicGeek](https://musicgeek.ir/) - *Music*
+* [VMusic](https://vmusic.ir/) - *Music*
 
 ## ▷ Reading
 
@@ -803,15 +817,19 @@
 * [2BakSa](http://2baksa.ws/) - *Video / Audio / Games / Software / Books* 
 * [kinogo](https://kinogo.la/) - *Movies / TV / Anime*
 * [allmults](https://allmults.org/) - *Movies*  
+* [COMSS.CLUB](https://www.comss.ru/) - *Software / Android*
 * [DIAKOV](https://diakov.net/) - *Software* 
 * [LRepacks](https://lrepacks.ru/) - *Software* 
-* [muzlishko](http://www.muzlishko.ru/) - *Music / MP3*
-* [pesnigoo](https://pesnigoo.ru/) - *Music / MP3*  
-* [Tancpol](https://tancpol.net/) - *Music / MP3*
-* [Shazam Music](https://t.me/shazam_music_uz) - *Music / MP3* 
-* [MetalArea](https://metalarea.org/) - *Metal Music / MP3*  
-* [MDCORE](https://vk.com/mdcore) - *Metal Music / MP3*
-* [MDROCK](https://vk.com/mdrock) - *Rock Music / MP3*
+* [muzlishko](http://www.muzlishko.ru/) - *MP3*
+* [pesnigoo](https://pesnigoo.ru/) - *MP3*  
+* [Tancpol](https://tancpol.net/) - *MP3*
+* [kinosoundtrack](https://www.kinosoundtrack.com/) - *MP3*
+* [Shazam Music](https://t.me/shazam_music_uz) - *MP3* 
+* [MetalArea](https://metalarea.org/) - *Metal / MP3*  
+* [MDCORE](https://vk.com/mdcore) - *Metal / MP3*
+* [MDROCK](https://vk.com/mdrock) - *Rock / MP3*
+* [KinoMuzic](https://kinomuzic.ucoz.ru/) - *Books / Soundtracks*
+* [soundkino](https://www.soundkino.biz/) - *Soundtracks*
 * [androeed](https://www.androeed.ru/) - *Android* 
 * [4pda](https://4pda.ru/forum/) - *Android / iOS*
 * [PDALIFE](https://pdalife.ru/) - *Android / iOS / PSP*  
@@ -909,15 +927,16 @@
 ## ▷ Reading
 
 * [VK Book DL Pages](https://redd.it/kne0ba) 
-* [LoveRead.ec](http://loveread.ec/) - *Books / Fiction / Non Fiction / NSFW*
-* [Lib.ru](http://lib.ru/) - *Books / Fiction / Nonfiction*
+* [LoveRead.ec](http://loveread.ec/) - *Books / NSFW*
+* [Lib.ru](http://lib.ru/) - *Books*
 * [Flibusta](https://flibusta.is/) - *Books + [Onion](http://flibustahezeous3.onion/) / Requires account*
 * [Twirpx](https://www.twirpx.com/) - *Book / Educational* 
-* [kodges](https://www.kodges.ru/) - *Books / Fiction / Non Fiction* 
-* [royallib](https://royallib.com/) - *Books / Fiction / Non Fiction*  
-* [coollib](https://coollib.xyz/) - *Books / Fiction / Non Fiction* 
-* [rulit](https://www.rulit.me/) - *Books / Fiction / Non Fiction* 
+* [kodges](https://www.kodges.ru/) - *Books* 
+* [royallib](https://royallib.com/) - *Books*  
+* [coollib](https://coollib.xyz/) - *Books* 
+* [rulit](https://www.rulit.me/) - *Books* 
 * [sblib](http://sblib3fk2gryb46d.onion/) - *Books / .onion* 
+* [KinoMuzic](https://kinomuzic.ucoz.ru/) - *Books / Soundtracks*
 * [MirKnig.sur ](http://mirknig.su/) - *Books / Fiction / Nonfiction* 
 * [booktracker](https://booktracker.org/) - *Books / Audiobooks / Comics / Magazines / NSFW* 
 * [rusmanga](http://rusmanga.ru/) - *Manga* 
@@ -925,6 +944,7 @@
 * [mmnt](https://www.mmnt.ru/) - *Document Search* 
 * [Samlib ](http://samlib.ru/) - *Document Search* 
 * [militera](http://militera.org/) - *Military History* 
+* [Arzamas](https://arzamas.academy/) - *Cultural History*
 * [Playing Soviet](https://commons.princeton.edu/soviet/) - *Children's Books*
 * [CyberLeninka](https://cyberleninka.ru/) - *Articles / Educational / Scientific / Legal*  
 * [Baza Knig](https://baza-knig.ru/), [Аудиокниги Клуб](https://akniga.org/), [A-Book](https://a-book.info/), [Bibl](https://m.bibl.us/), [Knizhkin](https://knizhkin.net/), [Aknigi Online](https://aknigionline.ru/), [A Book Club](http://abook-club.ru/), [Bibl.us](https://bibl.us/) - *Audiobooks*

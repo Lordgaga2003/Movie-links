@@ -69,6 +69,7 @@
 * [de.linuxgame.cn](https://de.linuxgame.cn/) - *Linux Games* 
 * [The-Eye Linux](https://the-eye.eu/public/Games/Linux/) - *Linux Games*
 * [The KDE Games Center](https://games.kde.org/) - *Linux Games*
+* [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - *Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Gload](https://gload.cc/) - *Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [GoodOldDownloads Backup](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view)
 * [PCGames-Download Backup](https://1fichier.com/?hy7lsbep6bqtu4loy1j6)
@@ -260,6 +261,7 @@
 * [NolfRevival](http://nolfrevival.tk/) - *NOLF, NOLF 2 & Contract Jack*
 * [OpenMW](https://openmw.org/en/) - *Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/openmw-tes3mp/) / [Android](https://github.com/xyzz/openmw-android)*
 * [NR2003](https://wildkustomcars.weebly.com/) - *Modded Nascar 2003*
+* [Lain Game](https://laingame.net/) - *Lain Game Browser Emulator*
 * [Classic DOOM](http://classicdoom.com/) - *Classic Doom Downloads* 
 * [DoomWorld](https://www.doomworld.com/) - *Doom Downloads / Wads / Mods / Editing* 
 * [Doom_wads](https://github.com/Akbar30Bill/DOOM_wads) or [Doom Wad Station](http://www.doomwadstation.net/) - *Doom Wads* 
@@ -459,6 +461,7 @@
 
 * [Board Game Online](https://www.boardgame-online.com/), [Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games) or [FunNode](https://www.funnode.com/) - *Board Games* 
 * [The Bafflement Fires](http://www.dpoetry.com/fires/) - *1950's Freemasonic Board Game*
+* [Hexxagon](https://hexxagon.com/) - *Hexagonal Board Game*
 * [GameKnot Chess](https://gameknot.com/) - *Multiplayer Chess*
 * [Chesses](https://pippinbarr.github.io/chesses/) - *Multiple Styles of Chess* 
 * [lichess](https://lichess.org/), [WebChess](http://chess.delorie.com/) or [Chess.com](https://www.chess.com/) - *Chess Platform* 
@@ -531,6 +534,7 @@
 * [GiantBomb](https://www.giantbomb.com/games/) - *Video Game Database* 
 * [Games Database](https://www.gamesdatabase.org/) - *Video Game Database* 
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/) - *Video Game Database* 
+* [OpenCritic](https://opencritic.com/) - *Critic Game Reviews / Ratings*
 * [IGDB](https://www.igdb.com/) - *Video Game Database* 
 * [Moby Games](https://www.mobygames.com/) - *Video Game Database* 
 * [rate.house](https://rate.house/) - *Video Game Database*

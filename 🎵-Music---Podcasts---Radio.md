@@ -59,6 +59,7 @@
 * [The Eternal Jukebox](https://eternalbox.dev/jukebox_index.html) - *Never-ending, ever changing versions of any song*
 * [LostMyspace](http://lostmyspace.com/) - *Lost Myspace Songs* 
 * [BitMidi](https://bitmidi.com/) - *Stream / Download MIDI Files* 
+* [RemixPacks](http://remixpacks.ru/) - *STEMS*
 * [KeyGenMusic](https://keygenmusic.net/) or [keygenmusic.tk](https://keygenmusic.tk/) - *Music from keygens, cracks, trainers, intros* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - *East African Recordings* 
@@ -118,7 +119,8 @@
 
 * **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_relaxation) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_relaxation)** - *Ambient* 
 * [lofi.cafe](https://lofi.cafe/) - *Lo-fi Radio*
-* [Viberoom](https://viberoom.audio/) - *Lofi Hip-Hop Radio*
+* [Viberoom](https://viberoom.audio/) - *Lo-fi Hip-Hop Radio*
+* [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - *Create Room / Lo-Fi Player*
 * [Music For Programming](http://musicforprogramming.net/) - *Music for Focus* 
 * [RainyMood](https://www.rainymood.com/) - *Rain Sounds* 
 * [rainfor.me](http://rainfor.me/) - *Rain Sounds / Relaxation* 
@@ -152,6 +154,7 @@
 * [My Secret Garden](https://insecretgarden.com/) - *Ambient Sound Garden* 
 * [Coding Cat](https://hostrider.com/) - *Nyan Cat's Cousin / Lo-Fi Radio*
 * [ANoise](http://anoise.tuxfamily.org/) - *Ambient Sounds for Ubuntu / Relaxation* 
+* [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 
 ***
 
@@ -202,6 +205,7 @@
 * [Music Blogtrotter](https://musicblogtrotter.blogspot.com/) - *MP3*
 * [New Album Releases](https://newalbumreleases.net/) - *MP3*
 * [mp3db](https://mp3db.pro/) - *MP3*
+* [TheAlbumPlug](https://thealbumplug.com/) - *MP3*
 * [Music4NewGen](https://music4newgen.org/) - *MP3* 
 * [NetNaija](https://www.thenetnaija.com/) - *MP3* 
 * [DeadPulpit](https://www.deadpulpit.com/) - *MP3*
@@ -218,6 +222,10 @@
 * [Lossless-Music](https://lossless-music.org/) - *FLAC*
 * [Flaccat](https://flaccat.com/) - *FLAC*
 * [Losslessma](https://losslessma.net/) - *FLAC*
+* [LosslessNews](https://flac1.hd24bit.com/) - *FLAC*
+* [FLAC World](http://flac.world/) - *FLAC*
+* [Music HiRes](https://music-hires.blogspot.com/) - *FLAC*
+* [DiscogC](https://www.discogc.com/) - *FLAC*
 * [ubdn](http://ubdn.me/) - *MP3 / FLAC* 
 * [IntMusic](https://intmusic.net/) - *MP3 / FLAC*  
 * [Gangster](https://gangster.su/) - *MP3 / FLAC*  
@@ -248,20 +256,22 @@
 * [loa2k](https://loa2k.neocities.org/) - *Vaporwave*
 * [nu guide](https://nuvaporwave.neocities.org/mirrors.html) - *Vaporwave*
 * [lolicore.org](http://lolicore.org/) - *Lolicore / Breakcore*
-* [David W. Niven Collection](https://archive.org/details/davidwnivenjazz) - *Jazz music collection / [Article](https://www.electronicbeats.net/the-feed/download-650-gigabytes-jazz-free/)*
+* [David W. Niven Collection](https://archive.org/details/davidwnivenjazz) - *Jazz / MP3 / [Article](https://www.electronicbeats.net/the-feed/download-650-gigabytes-jazz-free/)*
 * [BOXSET](https://boxset.ru/) - *Classical / FLAC*
-* [chucrute com quiabo](https://rabanetecomquiabo.blogspot.com/) - *Classical*
+* [chucrute com quiabo](https://rabanetecomquiabo.blogspot.com/) - *Classical / MP3*
+* [MeetingInMusic](https://meetinginmusic.blogspot.com/) - *Classical / MP3*
 * [HQ Hip Hop](http://94hiphop.com/) - *Hip Hop / MP3 / FLAC*
 * [Rapload](https://rapload.org/) - *Hip Hop / MP3*
 * [MikuDB](http://mikudb.moe/) - *Vocaloid / MP3*
-* [Download-Soundtracks](http://download-soundtracks.com/), [3ost](https://3ost.ru/) or [tanikal](https://www.tanikal.com/) - *Movie Soundtracks / MP3*
-* [Khinsider](https://downloads.khinsider.com/) / [DL Tool](https://github.com/TheLastZombie/VGMLoader), [Project2612](https://project2612.org/index.php), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
+* [Squid-Board](https://www.squid-board.ru/), [DS Soundtrack](https://dsoundtrack.com/) or [SittingOnClouds](https://www.sittingonclouds.net/) - *Soundtracks* 
+* [Download-Soundtracks](http://download-soundtracks.com/), [3ost](https://3ost.ru/) or [tanikal](https://www.tanikal.com/) - *Movie Soundtracks*
+* [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://github.com/TheLastZombie/VGMLoader) / [2](https://github.com/obskyr/khinsider), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - *Video Game Soundtracks*
 * [Sitting On Clouds](https://www.sittingonclouds.com/) - *Game / Animation Soundtracks* 
 * [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - *Anime Soundtracks* 
-* [Squid-Board](https://www.squid-board.ru/) - *Soundtracks / Forum* 
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 * [Free Music Archive](https://www.freemusicarchive.org/) - *Royalty Free Music* 
+* [LiteRecords](https://literecords.co/) - *STEMS*
 * [Adobe Audition Downloads](https://offers.adobe.com/en/na/audition/offers/audition_dlc.html), [Free-Loops](http://free-loops.com/), [FreeSOundEffects](https://www.freesoundeffects.com/free-sounds/airplane-10004/), [Freesound](http://freesound.org/) or [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/FThompson/BBCSoundDownloader) - *SFX / Loops*
 * [soundbible](https://soundbible.com/), [ZapsPlat](https://www.zapsplat.com/) or [FindSounds](https://findsounds.com/) - *Sound Search Engine* 
 * [More MP3 DL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mp3_download_sites)  - *DL / Stream / MP3* 

@@ -229,9 +229,10 @@
 * **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - *List of interactive math sites*
 * **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - *Sites with Multiple Calculators* 
 * **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - *Advanced Calculator*
-* **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://photomath.app/en/), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) - *Math Problem Solver with Steps / [Symbolab Pro](https://pastebin.com/wA3QQkCj)*
+* **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://photomath.app/en/), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) / [Pro](https://pastebin.com/wA3QQkCj) - *Math Problem Solver with Steps*
 * [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - *Matrix Calculator*
 * [Weboasis Convert](https://weboas.is/convert/) - *Conversion Calculators*
+* [PecentageTools](https://percentagetools.com/) - *Percentage Calculators*
 * [Unit Conversion](https://conversao.net/eng/), [UnitConverters](https://www.unitconverters.net/) or [ConvertAll](https://convertall.bellz.org/) - *Unit Converter* 
 * [Derivative Calculator](https://www.derivative-calculator.net/) - *Derivative Calculator*
 * [Integral Calculator](https://www.integral-calculator.com/) - *Integral Calculator*
@@ -239,7 +240,12 @@
 * [fxSolver](https://www.fxsolver.com/) - *Engineering & Scientific Calculator*
 * [Online Math Tools](https://onlinemathtools.com/) - *Multiple Math Tools*
 * [Falstad](http://www.falstad.com/) - *Math & Physics Apps / Simulations* 
+* [MathOnline](http://mathonline.wikidot.com/) - *Math / Courses*
+* [Mathigon](https://mathigon.org/) - *Math / Courses* 
+* [BetterExplained](https://betterexplained.com/) - *Math / Guides / Courses* 
 * [IXL Learning](https://au.ixl.com/math/) - *Math Practice / Quizzes*
+* [Math Exercises](http://www.math-exercises.com/) - *Math Practice*
+* [Pauls Online Math Notes](https://tutorial.math.lamar.edu/) - *Math Practice / Guides*
 * [Math2.org](http://math2.org/) - *Math Guides*
 * [Math is Fun](https://www.mathsisfun.com/) - *Math Tutorials / Puzzles / Games*
 * [Project Euler](https://projecteuler.net/) - *Math / Programming Problems*
@@ -298,7 +304,7 @@
 * [Readlang](https://readlang.com/) - *Learn a Language While Web Browsing* 
 * [Polyglot](https://polyglotclub.com/) - *Offline Language Exchange* 
 * [AnimeLon](https://animelon.com/) - *Streaming / Anime / Learn Japanese*
-* [Marshall's Site](https://marshallyin.com/) - *Learn Japanese* 
+* [Marshall's Site](https://marshallyin.com/) or [Tofugu](https://www.tofugu.com/) - *Learn Japanese* 
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - *Japanese Practice Material*
 * [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - *Japanese Accent Dictionary* 
 * [GetKanda](https://getkana.com/app/) - *Learn Kana* 
@@ -310,7 +316,7 @@
 * [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - *American Sign Language* 
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)  
 * [BSL Dictionary](https://www.signbsl.com/) - *British Sign Language* 
-* [Language Drops](https://languagedrops.com/) - *Language Learning App / [Premium](https://forum.mobilism.org/search.php?keywords=drops&sr=topics&sf=titleonly)*
+* [Language Drops](https://languagedrops.com/) or [10,000 Sentences](https://github.com/tkrajina/10000sentences) - *Language Learning App / [Premium](https://forum.mobilism.org/search.php?keywords=drops&sr=topics&sf=titleonly)*
 * [Manji](https://github.com/Livinglist/Manji) - *Language Learning / Japanese / Kanji*
 * [PolyGlot](http://polyglots.free.fr/) - *Linguistic Teaching Software*
 * [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - *Language Identification Test*
@@ -342,6 +348,7 @@
 * **[O'Reilly](https://www.oreilly.com/)** - *Tech / Programming / Infinite trial by clearing cookies & making new account*
 * **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
 * [Learn Anything](https://learn-anything.xyz/) - *Interactive Learning Map* 
+* [NoExcuseList](http://noexcuselist.com/) - *Free Learning Sites* 
 * [Explorabl.es](https://explorabl.es/) - *Interactive Learning / Lessons* 
 * /r/educationalgifs  - *Learn With GIFs* 
 * [KausalFlow](https://tools.kausalflow.com/) - *Academic Research Tools* 
@@ -355,18 +362,22 @@
 * [Images-Of-Elements](https://images-of-elements.com/) - *Periodic Table With Images*
 * [amrita olabs](https://amrita.olabs.edu.in/) - *Science Practicals / Theory / Animations / Simulations* 
 * [Get Unstuck](https://socratic.org/) - *Homework Answers / Help* 
+* [Oak National Academy](https://teachers.thenational.academy/) - *Lessons / Quizzes*
 * [Quizlet](https://quizlet.com/) - *Quizzes / Study Material*
+* [Wikiversity](https://www.wikiversity.org/) - *Learning Resources, Guides, Quizzes, Tools & More*
 * [TurtleDiary](https://www.turtlediary.com/) - *Quizzes / Lessons / Games*
 * [SoftSchools](https://www.softschools.com/) - *Worksheets / Games / Quizzes*
 * [BrainPOP Jr.](https://jr.brainpop.com/) - *Quizzes / Animations*
 * [The Problem Site](https://www.theproblemsite.com/) - *Problems / Puzzles/ Games*
 * [PuzzlePrime](https://www.puzzleprime.com/) - *Problems / Puzzles*
 * [LateralPuzzles](http://www.lateralpuzzles.com/) - *Lateral Thinking Puzzles*
+* [Highbrow](https://gohighbrow.com/) - *Daily Lessons*
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - *The Trolley Problem*
 * [Untools](https://untools.co/) - *Better Thinking Tools & Frameworks*
-* [OpenSyllabus](https://opensyllabus.org/) or [SyllabusFinder](https://www.syllabusfinder.com/) - *Syllabus Search / Info*
+* [OpenSyllabus](https://opensyllabus.org/) or [Syllahttps://languagedrops.com/)busFinder](https://www.syllabusfinder.com/) - *Syllabus Search / Info*
 * [Edpuzz Ninja](https://edpuzz.ninja/) - *Educational Puzzle Solving Tool* 
 * [Slader](https://www.slader.com/) - *Homework Answers and Solutions*
+* [PowerInBooks](https://powerinbooks.xyz/temp/) or [ch36650lut10n5](https://www.ch36650lut10n5.com/) - *Textbook Solutions* 
 * [LabXchange](https://www.labxchange.org/) - *Science / Interactive*
 * [AskNature](https://asknature.org/) - *Natural Strategies / Solutions* 
 * [Citation Generator](https://www.citationgenerator.com/), [CitationMachine](https://citationmachine.net/) or [Cite This For Me](https://www.citethisforme.com/) - *Generate Citations*
@@ -389,6 +400,7 @@ https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.white
 * [Traffic Simulation](https://traffic-simulation.de/) - *Traffic Flow Simulation* 
 * [Ray Optics Simulation](https://ricktu288.github.io/ray-optics/) - *Light Reflection / Refraction Simulator*
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) - *Mineralogy Index* 
+* [Alien](https://alien-project.org/) - *Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)*
 * [OneZoom](http://www.onezoom.org/) - *Tree of Life Explorer* 
 * [Wikispecies](https://species.wikimedia.org/) or [The Catalogue of Life](https://www.catalogueoflife.org/) - *Species Directory* 
 * [Ocearch](https://www.ocearch.org/?list) - *Track Marine Life*
@@ -397,6 +409,7 @@ https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.white
 * [Xeno-Canto](https://www.xeno-canto.org/) or [Birdnet](https://birdnet.cornell.edu/) - *Bird Sound Index / Identifier* 
 * [Algodoo](http://www.algodoo.com/) - *Interactive Physics Tool*
 * [nanoHUB](https://nanohub.org/) - *Nanotechnology Tool Index*
+* Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [NandGame](https://nandgame.com/) - *Computer Building Puzzle*
 * [Vocabulary.ugent](http://vocabulary.ugent.be/) - *Vocabulary Test* 
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/) - *Learn about Logical Fallacies* 
@@ -404,6 +417,7 @@ https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.white
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - *Learn to Tie Knots* 
 * [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
 * [Pol Art Folder](https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg) - *Historic European Art & Paintings*
+* [vads](https://vads.ac.uk/digital/) - *Digital Art Collection*
 * [Metabolic-Pathway](http://www.metabolic-pathway.com/fullMap.html) - *Interactive Metabolic Pathways Map* 
 * [How a Car Works](https://www.howacarworks.com/) - *Car Mechanics / Automotive Engineering Guides* 
 * [Morse Typing Trainer](https://morse.withgoogle.com/learn/) - *Morse Code Trainer* 
@@ -411,6 +425,8 @@ https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.white
 * [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Information Service* 
 * [Sideways Dictionary](https://sidewaysdictionary.com/) - *Common Computer Terms Explained Simply*
 * [SciGen](https://pdos.csail.mit.edu/archive/scigen/) - *CS Paper Generator*
+* [pdfparanoia](https://github.com/kanzure/pdfparanoia) - *Academic Paper Watermark Removal*
 * [Future Vision BIE](https://hemanthrajhemu.github.io/) - *VTU Study Materials*
 * [P2PU](https://www.p2pu.org/) - *Join Learning Groups Using Free Courses*
+* [Top Universities](https://www.topuniversities.com/) - *University Rankings*
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - *Professor Ratings*

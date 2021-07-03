@@ -177,6 +177,7 @@
 * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - *Add Extensions to Ungoogled Chromium* 
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
+* [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
 * [Copy Paste Pro](https://chrome.google.com/webstore/detail/copy-paste-pro/epgndihjbcepnbadocaoofjnfaophlio?hl=en) - *Copy text from any site*
 * [Dualless](https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd) - *Split Browser Window* 
 * [chromewm](https://gitlab.com/EduCampi/chromewm) - *Tile Windows / Emulate Workspaces*
@@ -334,6 +335,10 @@
 
 # ► Free Stuff
 
+* [Giveaway Radar](https://giveawayradar.weebly.com/) - *Software*
+* [Tick Coupon](https://giveaway.tickcoupon.com/windows-giveaway/) - *Software*
+* [Techno360](https://www.techno360.in/category/free-stuff/) - *Software*
+* [Malwaretips Giveaways](https://malwaretips.com/forums/giveaways-promotions-and-contests.75/) - *Software*
 * [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), /r/FreeGamesOnSteam or [SteamDB](https://steamdb.info/upcoming/free/)  - *Steam Games* 
 * [Games Free Today](https://gamesfree.today/) - *Games*
 * [FreeGames.codes](https://freegames.codes/) - *Games / [Android](http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes)*
@@ -532,7 +537,7 @@
 * [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en) - *Lead a Blob Opera*
 * [Pixels Fighting](http://pixelsfighting.com/) - *Watch A Pixel Battle* 
 * [Generative Engine](https://experiments.runwayml.com/generative_engine/) - *Text to Image generator* 
-* [lofi-player](https://magenta.tensorflow.org/lofi-player) - *Create your own music room* 
+* [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - *Create Room / Lo-Fi Player*
 * [Michaelbach](https://michaelbach.de/ot/) - *Optical Illusions* 
 * [nobody.live](https://nobody.live/) - *Zero Viewer Twitch Stream Roulette* 
 * [Urlebird](https://urlebird.com/) - *3rd Party TikTok with better UI*

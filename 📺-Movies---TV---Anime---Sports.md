@@ -404,6 +404,7 @@
 * [TheHomeSports](https://thehomesport.com/) - *Sports* 
 * [Live-Sport](https://live-sport.online/) - *Sports* 
 * [CricHD](https://fc2.crichd.com/new-home7) - *Sports* 
+* [MyP2Px](http://myp2px.eu/) - *Sports*
 * [LiveOnScore](http://liveonscore.tv/) - *Sports* 
 * [Black Tie Sports](https://blacktiesports.net/) - *Sports* 
 * [MamaHD](https://mamahd.best/) - *Sports*
@@ -512,6 +513,7 @@
 * [MKVHub](https://www.mkvhub.co/) - *Movies / TV*
 * [Gophie](https://gophie.cam/) - *Movies / TV*
 * [ULMovies](https://ulmovies.xyz/) - *Movies / TV* 
+* [SBS](https://3dsbs4u.com/) - *Movies / TV*
 * [oKhatrimaza](https://www.okhatrimaza.vin/category/7/hollywood-english-movies/default/1.html) - *Movies*
 * [SD Movies Point](https://1sdmoviespoint.kim/category/hollywooddd/) - *Movies / TV*
 * [SkyMoviesHD](https://skymovieshd.kim/category/Hollywood-English-Movies.html) - *Movies*
@@ -586,6 +588,7 @@
 * [DarkLegends](https://darklegends60mb.org/)
 * [SSAnime](https://ssanime.ga/)
 * [Kayoanime](https://kayoanime.com/)
+* [Mix Bag of Anime](https://redd.it/nsa8yg) - *Drives*
 * [Anime Collection (3Tb)](https://drive.google.com/drive/folders/1nQ73oKeE5b50lzyDeszmdLv6rjYFolk5?usp=sharing) - *Drive*
 * [Erai-Raws](https://www.erai-raws.info/) - *[Discord](https://discord.gg/2PfWaar)*
 * [Anime Devil](https://animedevil.com/) - *[Telegram](https://groups.google.com/g/animedevil)*
@@ -854,7 +857,7 @@
 * **[Media Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - *Servers to Host / Play Media* 
 * **[OpenVideo](https://openvideofs.github.io)** - *Use Streaming Sites in Ad Free Player w/ subs, Speed Control & More*
 * **[Video Quality & Types of Releases](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)** - *Video Quality / Release Type Guide / [Image Guide](https://i.imgur.com/kEOrKJT.png)*
-* **[Quality Release Groups](https://github.com/Cloudbox/Community/wiki/Quality-Release-Groups)** - *Movie / TV Release Group Index*
+* **[Movie/TV Show Tier List](https://docs.google.com/spreadsheets/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/)**, [2](https://github.com/Cloudbox/Community/wiki/Quality-Release-Groups) - *Movie / TV Release Group Index*
 * **[/r/animepiracy Wiki](https://wiki.piracy.moe/)** - *Anime Piracy Guides / Tutorials*
 * **[WhereYouWatch,](https://whereyouwatch.com/latest-reports/)** [Squawkr](https://www.squawkr.io/), [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates) or /r/movieleaks - *Check if a Movie has Leaked*
 * [Streaming Site Ranking](https://dirtywarez.org/cat/streaming) - *Alexa Rankings*

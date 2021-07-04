@@ -376,7 +376,7 @@
 * [Erowid](https://www.erowid.org/) - *Psychoactive Information Index*
 * [The-Eye Psychedelics](https://the-eye.eu/public/Psychedelics/Psychedelic%20Praxis%20Library%203.0/)
 * [The Trove](https://thetrove.is/) - *Books / Fantasy / TTRPG / [Wayback Machine](https://web.archive.org/web/20210614215400/https://thetrove.is/), [2](https://web.archive.org/web/20210430220147/https://thetrove.is/)*
-* [Choisey](http://choisey.free.fr/) or [DriveThruRPG](https://www.drivethrurpg.com/) - *TTRPG Rulebooks*
+* [Choisey](http://choisey.free.fr/) or [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - *TTRPG Rulebooks*
 * [SimplyScripts](https://www.simplyscripts.com/) or [Scripts.com](https://scripts.com/) - *Movie / TV Scripts* 
 * [Kialo]( https://www.kialo.com/) - *Popular Debates / Discussion* 
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
@@ -405,6 +405,7 @@
 * [FreeBookCentre](https://freebookcentre.net/)
 * [OAPEN](https://oapen.org/)
 * [Readings](https://drive.google.com/drive/u/0/mobile/folders/0B5KDwL1Qi6zUWFlfbU8yTjU4WUE?usp=drive_open)
+* [StruggleBuddies 4.0](https://mega.nz/folder/A15gybjB#s_vaCKHVR35X704ot2g7LQ)
 * [pdfs - books](https://drive.google.com/drive/u/0/mobile/folders/0B1DQUsG9YxIXflhQejJqcmgwbzgtcjQzbFlFU3BNeVJES1JwTW9hRmEwa0k4dUNVZEJzQzg)
 * [De Gruyter](https://www.degruyter.com/browse?submittedFilterId=by-type&access_4=open&pageSize=10&sort=datedescending&type_5=book), [2](https://www.degruyter.com/page/2045)
 * [The Online Books Page](https://onlinebooks.library.upenn.edu/search.html)
@@ -431,7 +432,6 @@
 * [ck12](https://www.ck12.org/)- *Interactive CK-12*
 * [Nexus](https://t.me/libgen_scihub_bot) - *Books / Telegram*
 * [Oxford Bookworms](https://t.me/OxfordBookworms) - *Books / Audiobooks / telegram*  
-* [Refdesk](https://www.refdesk.com/factency.html) - *Encyclopedias*
 * [Digital Libraries / Archives](https://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/) - *Online university libraries*
 * [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - *Academic Repository Search*  
 * [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - *Science / Tech / Math / Physics* 
@@ -637,6 +637,8 @@
 * [Everpidia](https://everipedia.org/) - *Encyclopedia*
 * [Britannica](https://www.britannica.com/) - *Encyclopedia*
 * [Encyclopedia](https://www.encyclopedia.com/) - *Encyclopedia*
+* [Conze.pt](https://conze.pt/ ) - *Encyclopedia*
+* [Refdesk](https://www.refdesk.com/factency.html) - *Encyclopedias*
 * [20 Encyclopedia Books](https://mega.nz/file/AsBm0ZrR#azR641hPhLWCdSB6ogzTKOfr36eaLHq2WT20tuGbLVU) - *Encyclopedias*
 * [Abbreviations](https://www.abbreviations.com/) - *Abbreviations* 
 * [Chat Words Dictionary](https://chatworddictionary.com/) - *Chat Abbreviations*
@@ -686,6 +688,7 @@
 * [Read Comics Online](https://readcomicsonline.ru/) 
 * [Comix-Load](https://comix-load.in/) - *Downloads*
 * [Zip Comic](https://www.zipcomic.com/) - *Downloads*
+* [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - *Weekly Downloads*
 * [BookDL Comic & Manga](http://booksdl.org/comics0/) - *Comics / Manga / Drive*
 * [The-Eye Comics](http://the-eye.eu/public/Comics/) - *Comic Archive* 
 * [GoComics](https://www.gocomics.com/) - *Comics Strips*
@@ -965,7 +968,7 @@
 * [bunken](https://github.com/laxyapahuja/bunken) - *Download eBooks directly from Goodreads*
 * [ExtractBookz](https://hub.darcs.net/JasonJAyalaP/ExtractBookz) - *Extract & Rename Ebook Files / [GitHub](https://github.com/JasonJAyalaP/ExtractBookz)*
 * [Read Shit Faster](http://readshitfaster.com/) - *Read Things Faster*
-* [Skimcast](http://www.skimcast.com/), [SummaryGenerator](https://summarygenerator.com/) or [SMMRY](https://smmry.com/) - *Summary Generator* 
+* [Skimcast](http://www.skimcast.com/), [SummaryGenerator](https://summarygenerator.com/), [Text Rewriter](http://textrewriter.com/) or [SMMRY](https://smmry.com/) - *Summary Generator* 
 * [FicSave](http://ficsave.xyz/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - *Fanfiction Download Tool* 
 * [Library Extension](https://www.libraryextension.com/) - *Check book availability from your local library*
 * [Bypass Quora login](https://onehack.us/t/bypass-quora-login-for-unlimited-reading-new-method-legal/92786)

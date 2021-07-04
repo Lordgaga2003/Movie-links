@@ -178,13 +178,13 @@ App Manager
 # ► Android APKs
 
 * **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** + [Android APK CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) - *Custom APK Search Engine*
-* **[/r/ApksApps](https://www.reddit.com/r/ApksApps)** - *Updated list of modded APK's / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)*
-* **[Mobilism (Android)](https://forum.mobilism.org/viewforum.php?f=398)** - *Modded APK Download Forum*
+* **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - *Modded APK Download Forum*
+* **[ModdedCentral](https://t.me/ModdedCentral)** or [ModdedPrivate](https://t.me/ModdedPrivate) - *Modded / Telegram*
+* **[APKMirror](https://www.apkmirror.com/)** - *Untouched*
 * **[Lucky Patcher](https://www.luckypatchers.com/download/)** - *Remove Ads / Free In App Purchases / App Patcher / [How to use](https://latestechnews.com/how-to-use-lucky-patcher/)*
 * **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - *Repositories Index*
-* **[APKMirror](https://www.apkmirror.com/)** - *Untouched*
-* **[ModdedCentral](https://t.me/ModdedCentral)** or [ModdedPrivate](https://t.me/ModdedPrivate) - *Modded / Telegram*
 * **[Android FOSS](https://github.com/offa/android-foss)**, **[Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md)**, **[/r/u_Jackie7610](https://redd.it/jhtvn4)** or **[Cool FOSS](https://albertomosconi.github.io/foss-apps/)** / [GitHub](https://github.com/albertomosconi/foss-apps) - *Free and Open Source Apps for Android*
+* **[/r/ApksApps](https://www.reddit.com/r/ApksApps)** - *Updated list of modded APK's / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)*
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - *Add Direct DL Links to Google Play* 
 * [F-Droid](https://f-droid.org/), [2](https://rfc2822.gitlab.io/fdroid-firefox/fdroid/repo/) - *FOSS App Repository / [Desktop](https://github.com/mvdan/fdroidcl) / [Alt Client](https://github.com/kitsunyan/foxy-droid), [2](https://gitlab.com/gdroid/gdroidclient) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)* 
 * [F-Droid Repositories](https://t.me/fdroidrepos) - *List of F-Droid Repositories*
@@ -531,6 +531,7 @@ iOS
 * [AppDB](https://appdb.to/) - *iOS Apps* 
 * [iPALibrary](https://gitlab.com/Shub_/ipa-library/-/tree/master/Library) - *Hacked/Tweaked iOS App Library* 
 * [Streamiza](https://t.me/streamiza) - *Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)*
+* [DiscordExtras](https://github.com/NotZoeyDev/DiscordExtras) - *Patch Discord Client*
 * [iPhoneCake](https://www.iphonecake.com/) - *Cracked Apps*
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312)
 * [AppValley](https://www.appvalley.vip/) - *Tweaked App Store*

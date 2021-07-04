@@ -65,6 +65,7 @@
 * [Maza](https://maza-ad-blocking.andros.dev/) - *Local DNS Adblocking* 
 * [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter/) - *DNS filter proxy*
 * [DNS Party](https://encrypted-dns.party/) - *DNS Config Profiles for Apple Devices Encrypted* 
+* [DNS over HTTPS / TLS Guide](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) 
 
 ***
 
@@ -81,7 +82,7 @@
 * **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - *Malware Analysis Tools / Resources*
 * **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - *Malware Avoidance Guide*
 * **[How to Remove Malware](https://redd.it/33evdi)** - *Malware Removal Guide*
-* **[Malwarebytes](https://www.malwarebytes.com/)**, [IOBit](https://www.iobit.com/en/malware-fighter.php) or  [Immunet](https://www.immunet.com) - *Anti-Malware / Antivirus*
+* **[Malwarebytes](https://www.malwarebytes.com/)**, [Kaspersky](https://usa.kaspersky.com/free-cloud-antivirus), [Adaware Antivirus](https://www.adaware.com/free-antivirus-download), [IOBit](https://www.iobit.com/en/malware-fighter.php) or [Immunet](https://www.immunet.com) - *Antivirus*
 * **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - *Anti-Adware*
 * **[VirusTotal](https://www.virustotal.com/)**, [VirSCAN](https://www.virscan.org/), [BitBaan](https://lab.bitbaan.com/en/home), [Joe Sandbox](https://www.joesandbox.com/), [MetaDefender](https://metadefender.opswat.com/?lang=en), [Fortiguard](https://www.fortiguard.com/faq/onlinescanner) or [Jotti](https://virusscan.jotti.org/en) - *File Scanners / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader)* 
 * **[Hybrid Analysis](https://www.hybrid-analysis.com/)** or [Amnpardaz](https://jevereg.amnpardaz.com/) - *Scan EXE Files*
@@ -89,7 +90,6 @@
 * [Hard_Configurator](https://hard-configurator.com/) - *GUI to manage Software Restriction Policy* 
 * [Hardentools](https://github.com/securitywithoutborders/hardentools) - *Disables Risky Windows Features*
 * [Unchecky](https://unchecky.com/) - *Clears Software Installation Checkboxes*
-* [Antivirus Kaspersky Cloud](https://usa.kaspersky.com/free-cloud-antivirus) or [Adaware Antivirus](https://www.adaware.com/free-antivirus-download) - *Antivirus*
 * [MCShield](https://www.mcshield.net/) - *Removable Drive Antivirus* 
 * [Should I Remove It?](https://www.shouldiremoveit.com/) - *Easily Find & Remove Adware, Spyware ect.* 
 * [Wise Anti-Malware](https://www.wisecleaner.com/wise-anti-malware.html) - *Anti-Malware*
@@ -126,6 +126,7 @@
 ## ▷ Privacy Tools
 
 * **[Privacy Tools / Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_tools)** - *Indexes of Privacy Tools / Services*
+* **[Privacy Matters](https://www.securemessagingapps.com/)** - *Privacy Based Messaging App Comparisons*
 * **[Encrypted Messangers](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messangers)  - *Encrypted Messaging App Index* 
 * **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)** - *Anonymous Text Verification*
 * **[Two Factor Auth](https://twofactorauth.org/)** - *List of Sites with 2FA Support*
@@ -141,6 +142,7 @@
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - *Linux Privacy Guide* 
 * [Element](https://element.io/) / [Themes](https://github.com/aaronraimist/element-themes), [qTox](https://qtox.github.io/), [Utopia](https://u.is/en/), [Jami](https://jami.net/), [Tox](https://tox.chat/), [Bitmask](https://bitmask.net/) or [Wickr](https://wickr.com/) - *Encrypted Messaging / Video Calls* 
 * [Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)
+* [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - *Discord Message Encryption*
 * [PGPgram](https://github.com/tallero/PGPgram) - *GPG Encrypted Telegram Backups*
 * [Cryptodog](http://doggyfipznipbaia.onion/) or [torbitamzta34aai](http://torbitamzta34aai.onion/) - *Anonymous Chat Room / .onion*  
 * [Hexchat](https://hexchat.github.io/) - *Private IRC Client* 
@@ -358,7 +360,7 @@
 * **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - *Create Temporary Email Addresses*
 * **[Have I been Pwned?](https://haveibeenpwned.com/)** or [GhostProject](https://ghostproject.fr/) - *Monitor Email Breaches*
 * [EmailPrivacyTester](https://www.emailprivacytester.com/) - *Email Privacy Tests* 
-* [Forward Email](https://forwardemail.net/), [SimpleLogin](https://simplelogin.io/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Ptorx](https://ptorx.com/), [scr.im](http://scr.im/), [Jetable](https://www.jetable.org/en/index) or [AnonAddy](https://anonaddy.com/) - *Email Forwarding*   
+* [Forward Email](https://forwardemail.net/), [SimpleLogin](https://simplelogin.io/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Ptorx](https://ptorx.com/), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Jetable](https://www.jetable.org/en/index), [Mailsac](https://mailsac.com/) or [AnonAddy](https://anonaddy.com/) - *Email Forwarding*   
 * [FakemailBot](https://t.me/FakemailBot), [DropmailBot](https://t.me/DropmailBot) or [ccgen_robot](https://t.me/ccgen_robot) - *Email Forwarding Telegram Bots*
 * [Check-Mail](https://check-mail.org/free-email-validation-api/) or [Validator](https://www.validator.pizza/) - *Check if a email is valid* 
 * [Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_email_services)

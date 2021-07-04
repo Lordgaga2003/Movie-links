@@ -30,7 +30,7 @@
 * [MyMark](https://www.mymark.me/) - *Bookmark Manager* 
 * [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - *Sort Bookmarks by Multiple Criteria* 
 * [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - *Search Bookmarks* 
-* [phlinx](https://phlinx.com/) - *Information Search Sidebar*
+* [definer](https://lumetrium.com/definer/) or [phlinx](https://phlinx.com/) - *Highlight Search & Definitions*
 * [WebMemex](https://blog.webmemex.org/) - *Organize & Store Webpages* 
 * [Auto Tab Discard](https://add0n.com/tab-discard.html), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs), [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) or [The Great Suspender](https://github.com/aciidic/thegreatsuspender-notrack) - *Discard Inactive Tabs to Reduce Memory / CPU Usage*
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - *Temporarily Snooze Tabs* 
@@ -126,10 +126,12 @@
 * [Peek](https://github.com/corbindavenport/peek) - *Shows Images & Videos Behind Links & Thumbnails* 
 * [Not For You](https://bengrosser.com/projects/not-for-you/) - *Confuse Tik-Toks Recommendation Algorithm*
 * [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) - *Hide All Facebook Metrics*
+* [OctoShop](https://www.instok.org/octoshop) - *In-Stock Alerts*
 
 ## ▷ Firefox
 
 * [Firefox Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)
+* [FirefoxPWA](https://addons.mozilla.org/en-US/firefox/addon/firefoxpwa/) - *Progressive Web Apps for Firefox / [GitHub](https://github.com/filips123/FirefoxPWA)*
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) - *Prevent Firefox Memory Leaks* 
 * [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) - *Firefox Hidden Settings*
 * [keyconfig](https://addons.palemoon.org/addon/keyconfig/) - *Firefox Key Binds* 
@@ -261,6 +263,7 @@
 * [Appscope](https://appsco.pe/) or [Electron](https://www.electronjs.org/apps) - *Web App Index*
 * [CloudTrip](http://cloudtrip.com/) - *Cloud App Index*
 * [State of the DApps](https://www.stateofthedapps.com/) - *Blockchain App Index* 
+* [List of Lists](https://l-lists.com/en/) - *List Index*
 * [Pointless Sites](https://www.pointlesssites.com/) - *Pointless Site Index*
 * [DeepWebLinks](https://deepweblinks.net/directories/) - *Deep Web Directories*
 * [dark.fail](https://dark.fail/)  - *Onion Directory / Tor Required*
@@ -379,7 +382,7 @@
 * [r.sine.com](https://r.sine.com/index), [Funnyjunk](https://funnyjunk.com//) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Memes & GIFs / Some NSFW*
 * [Neal.fun](https://neal.fun/) or [JenniferDewalt](https://jenniferdewalt.com/) - *Sites / Games*
 * [Just For Fun](https://justforfun.io/) or [Andrew Marsh](http://andrewmarsh.com/software) - *Coding Project Showcase* 
-* [Trippy shit Mega List](https://triptoysfor.me/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) or [Mr.doob](https://mrdoob.com/) - *Toys & Experiments* 
+* [Trippy shit Mega List](https://triptoysfor.me/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave), [BoredHumans](http://boredhumans.com/) or [Mr.doob](https://mrdoob.com/) - *Toys & Experiments* 
 * [Bimble Space](https://in.bimble.space/toys) - *Multiple Toys / Art Tools* 
 * [Kamogo](https://www.kamogo.com/faq/) - *Useless Web Apps*
 * [MoodLight](https://www.moodlight.org/) - *Turn Screen into Strobe Light*
@@ -564,6 +567,7 @@
 * [BirdSounds](https://experiments.withgoogle.com/ai/bird-sounds/view/) - *Thousands of Bird Sounds Visualized* 
 * [BumpWorthy](https://www.bumpworthy.com/) - *Adult Swim Bumps* 
 * [Google Doodles](https://www.google.com/doodles?q=interactive) - *Interactive Google Doodles*
+* [Internet Map](http://internet-map.net/) - *Map of the Internet*
 * [Screentoys](https://www.screentoys.com/) - *Photo Morphing Toy*
 * [Word Blanks](https://www.wordblanks.com/) or [Plot Generator](https://www.plot-generator.org.uk/) - *Online Mad Libs*
 * [Fact Directory](https://fact.directory/) - *Facts & Trivia For Every Topic* 

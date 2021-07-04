@@ -186,7 +186,7 @@
 * [raymondfreesoftware](https://sites.google.com/site/raymondfreesoftware/) *Software / [Telegram](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)* 
 * [ALTERNATIVES](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md) - *Lightweight Software Index*
 * [Rarewares](https://www.rarewares.org/) - *Rare Software*
-* [RADIXX11](https://radixx11rce2.blogspot.com/), [Izofile](https://izofile.com/), [Soft2Ev](https://www.soft2ev.com/), [CrackedFine](https://crackedfine.com/), [Keygen Fortress](https://t.me/keygen_fortress) or [Serials](https://www.serials.ws/) - *Software Keys / Patches*
+* [RADIXX11](https://radixx11rce2.blogspot.com/), [Izofile](https://izofile.com/), [Soft2Ev](https://www.soft2ev.com/), [CrackedFine](https://crackedfine.com/), [Keygen Fortress](https://t.me/keygen_fortress), [SmartSerials](https://smartserials.com/), [SerialReactor](https://serialreactor.com/) or [Serials](https://www.serials.ws/) - *Software Keys / Patches*
 * [Software Heritage](https://www.softwareheritage.org/) - *Software Source Code Archive* 
 * [balenaHub](https://hub.balena.io/) - *Raspberry Pi Software* 
 * [GenP](https://www.reddit.com/r/GenP) - *Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)*
@@ -220,8 +220,9 @@
 * [Soft112](https://www.soft112.com/) - *Software* 
 * [IcecreamApps](https://icecreamapps.com/) - *Software* 
 * [Nirsoft](https://www.nirsoft.net/) - *Windows Software* 
-* [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software* 
-* [Awesome Linux](https://github.com/inputsh/awesome-linux), [2](https://luong-komorebi.github.io/Awesome-Linux-Software/) - *Linux Software / Resources*
+* [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - *Windows Software Index* 
+* [Awesome Linux](https://github.com/inputsh/awesome-linux), [2](https://luong-komorebi.github.io/Awesome-Linux-Software/) - *Linux Software Index*
+* [ArchLinux](https://wiki.archlinux.org/title/List_of_applications) - *Linux Software Index*
 * [Windows-Utilities](https://orga.cat/windows-utilities) - *Windows Software*  
 * [RaymondFreeSoftware](https://t.me/raymondfreesoftware) - *telegram*
 * [Suckless](https://suckless.org/) - *Simple Software Archive* 

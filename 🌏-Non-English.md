@@ -150,14 +150,15 @@
 ## ▷ Reading 
 
 * [Jiumo](https://www.jiumodiary.com/) - *eBook Search Engine*  
-* [ting89](http://www.ting89.com/) - *Books / Audiobooks / Fiction* 
+* [ting89](http://www.ting89.com/) - *Books / Audiobooks* 
 * [BooksThatMakeYouThink](https://t.me/BooksThatMakeYouThink) - *Nonfiction* 
-* [kgbook](https://kgbook.com/) - *Books / Fiction / Nonfiction*
-* [shuge](https://new.shuge.org/) - *Books / Audiobooks / Fiction / Nonfiction / Legal*
-* [pdfbook](http://www.pdfbook.cn/) - *Books / Fiction / Nonfiction*  
-* [pdfzj](http://pdfzj.cn/) - *Books / Fiction / Nonfiction* 
-* [ysxs8](http://www.ysxs8.com/) - *Audiobooks / Books / Fiction* 
-* [haodoo](http://haodoo.net/) - *Books / Fiction / Nonfiction*  
+* [kgbook](https://kgbook.com/) - *Books*
+* [shuge](https://new.shuge.org/) - *Books / Audiobooks / Legal*
+* [pdfbook](http://www.pdfbook.cn/) - *Books*  
+* [pdfzj](http://pdfzj.cn/) - *Books* 
+* [your-ebook](https://your-ebook.xyz/) - *Books / [GitHub](https://github.com/kska32/ebooks)*
+* [haodoo](http://haodoo.net/) - *Books*  
+* [ysxs8](http://www.ysxs8.com/) - *Audiobooks* 
 * [rzlib](https://www.rzlib.net/) - *Light-Novels* 
 * [booktxt](https://m.booktxt.net/) - *Light-Novels* 
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - *Documents*  
@@ -477,6 +478,7 @@
 
 ## ▷ Streaming
 
+* [Italian Streaming Sites List](https://rentry.co/t29tz)
 * [CB01](https://cb01.directory/) - *Movies / TV / Anime* 
 * [euroStreaming](https://eurostreaming.vision/) - *Use deltabit / Movies / TV / Anime / Use AdBlocker* 
 * [streamingcommunity](https://streamingcommunity.net/) - *Movies / TV / Anime* 

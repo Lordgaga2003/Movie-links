@@ -174,6 +174,7 @@
 * [GameBoy Book Reader](https://www.mqp.com/fun/) - *Gameboy Book Reader*
 * [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - *Add More Roms to NES/SNES Classic Mini*
 * [Homebrew Gang](https://thehbg.shop/main.html) - *Switch Homebrew Community*
+* /r/ps3homebrew - *PS3 Homebrew Subreddit*
 
 ***
 
@@ -276,6 +277,7 @@
 * [OpenArena Live](https://kosmi.io/openarena) - *Quake III Arena Clone* 
 * [Aleph One](https://alephone.lhowon.org/) - *Open-Source Marathon Continuation* 
 * [Powerslave EX](https://drive.google.com/file/d/1VFvOYKyjyFwH5sqSL5mz_jl3SdIUcAOY/view?usp=sharing) - *Powerslave PC Port* 
+* [Arx Libertatis](https://arx-libertatis.org/) - *Arx Fatalis PC Port*
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - *Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)*
 * [Mars 3D](https://mars3d-game.wixsite.com/index) - *Mars 3D Translation & Remake*
 * [Jelly Mario](https://jellymar.io/) - *Jelly Super Mario*

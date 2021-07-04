@@ -36,6 +36,7 @@
 * [DigitalGarage](https://learndigital.withgoogle.com/digitalgarage/courses) - *Courses* 
 * [Lagunita](https://online.stanford.edu/lagunita-learning-platform) - *Courses* 
 * [Hillsdale College](https://online.hillsdale.edu/) - *Courses* 
+* [SelfSchool](https://selfschool.me/) - *Courses*
 * [LearnOutLoud](https://www.learnoutloud.com/) - *Documentaries / Courses*
 * [Class Central](https://www.classcentral.com/) - *Search for Courses*
 * [cs1000](https://cs1000.vercel.app/) - *Educational Video Playlists* 
@@ -250,6 +251,7 @@
 * [Math is Fun](https://www.mathsisfun.com/) - *Math Tutorials / Puzzles / Games*
 * [Project Euler](https://projecteuler.net/) - *Math / Programming Problems*
 * [Divisor Plot](http://divisorplot.com/) - *Composite Number Pattern Visualization*
+* [MathWords](http://www.mathwords.com/) - *Math Term Dictionary*
 
 ***
 
@@ -399,7 +401,7 @@ https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.white
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - *Pendulum Simulator*
 * [Traffic Simulation](https://traffic-simulation.de/) - *Traffic Flow Simulation* 
 * [Ray Optics Simulation](https://ricktu288.github.io/ray-optics/) - *Light Reflection / Refraction Simulator*
-* [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) - *Mineralogy Index* 
+* [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) or [Mindat](https://www.mindat.org/) - *Mineralogy Database* 
 * [Alien](https://alien-project.org/) - *Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)*
 * [OneZoom](http://www.onezoom.org/) - *Tree of Life Explorer* 
 * [Wikispecies](https://species.wikimedia.org/) or [The Catalogue of Life](https://www.catalogueoflife.org/) - *Species Directory* 
@@ -428,5 +430,6 @@ https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.white
 * [pdfparanoia](https://github.com/kanzure/pdfparanoia) - *Academic Paper Watermark Removal*
 * [Future Vision BIE](https://hemanthrajhemu.github.io/) - *VTU Study Materials*
 * [P2PU](https://www.p2pu.org/) - *Join Learning Groups Using Free Courses*
+* [CollegeComendium](https://collegecompendium.goldin.io/) - *Free Computer Science Classes*
 * [Top Universities](https://www.topuniversities.com/) - *University Rankings*
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - *Professor Ratings*

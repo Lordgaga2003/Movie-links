@@ -49,7 +49,7 @@
 * [TorServices](https://f-droid.org/packages/org.torproject.torservices/) - *Tor App Proxy / [GitLab](https://gitlab.com/guardianproject/torservices)*
 * [Barinsta](https://barinsta.austinhuang.me/en/latest/) - *Privacy Based Instagram Client*
 * [Fritter](https://fritter.cc/) - *Privacy Based Twitter Client*
-* [Bluer](https://play.google.com/store/apps/details?id=com.nemorystudios.android.bluer.facebook&hl=en_US&gl=US) - *Privacy Based Facebook Client*
+* [Bluer](https://play.google.com/store/apps/details?id=com.nemorystudios.android.bluer.facebook) - *Privacy-Focused Facebook Client*
 * [GrapheneOS](https://grapheneos.org/) - *Privacy and security focused mobile OS*
 * [Intra](https://play.google.com/store/apps/details?id=app.intra&amp;hl=en_US) - *System Wide DoH for Android*
 * [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - *Incognito Keyboard*
@@ -60,7 +60,7 @@
 * [CamWings](https://schiffer.tech/camwings-mobile.html) - *Camera Protection* 
 * [ScreenWings](https://schiffer.tech/screenwings-mobile.html) - *Screen Protection* 
 * [Stingle Photos](https://stingle.org/) - *Private Photo / Video Gallery* 
-* [Threema](https://mirrorace.com/m/3DIja), [Session](https://getsession.org/), [Status](https://status.im/), [Signal](https://github.com/mollyim/mollyim-android) / [2](https://langis.cloudfrancois.fr/) / [3](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [ChatSecure](https://ballinger.io/apps/chatsecure/), [surespot](https://www.surespot.me/) or [RetroShare](https://f-droid.org/en/packages/org.retroshare.android.qml_app/) - *Encrypted Messaging* 
+* [Threema](https://mirrorace.com/m/3DIja), [Session](https://getsession.org/), [Status](https://status.im/), [Signal](https://github.com/mollyim/mollyim-android) / [2](https://langis.cloudfrancois.fr/) / [3](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [ChatSecure](https://ballinger.io/apps/chatsecure/), [surespot](https://www.surespot.me/), [Snikket](https://www.f-droid.org/en/packages/org.snikket.android/) or [RetroShare](https://f-droid.org/en/packages/org.retroshare.android.qml_app/) - *Encrypted Messaging* 
 * [Silence](https://silence.im/) - *Encrypt SMS/MMS Messages* 
 * [Wickr](https://play.google.com/store/apps/details?id=com.wickr.pro&amp;hl=en), [MySudo](https://mysudo.com/), [Jami](https://jami.net/) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - *Encrypted Messaging / Video Calls*
 * [OVERSEC](https://www.oversec.io/) - *Add Text / Image Encryption to any App* 
@@ -118,17 +118,20 @@
 * [Adebar](https://codeberg.org/izzy/Adebar) - *Device Backup Tool*
 * [Videoder](https://www.videoder.com/) - *Video Download Tool* 
 * [SongTube](https://github.com/SongTube/SongTube-App) - *YouTube Audio / Video Downloader*
+* [DankChat](https://github.com/flex3r/DankChat) - *Talk in Multiple Twitch Chats at Once*
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - *Reddit Video Downloader*
 * [Uploadgram App](https://github.com/pato05/uploadgram-app) - *Uploadgram Frontend*
 * [Instander](https://thedise.me/instander/) - *Modded Instagram Client*
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) - *Feature-rich Facebook Client*
+* [Frost](https://f-droid.org/en/packages/com.pitchedapps.frost/) or [SlimFacebook](https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook/) - *Facebook Webwrapper*
+* [SlimTwitter](https://f-droid.org/en/packages/it.rignanese.leo.slimtwitter/) - *Twitter Webwrapper*
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) - *Google Camera Ports / [Telegram](https://t.me/googlecameraport)*
 * [CutTheCord](https://gitdab.com/distok/cutthecord), [Treecord](https://github.com/Treecord/Treecord or [Aliucord](https://github.com/Aliucord/Aliucord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - *Telegram Client*
 * [Uploadgram](https://github.com/Pato05/uploadgram-app) - *Telegram File Upload*
 * [FluffyChat](https://fluffychat.im/en/) - *Matrix Client*
-* [SubwayTooter](https://github.com/tateisu/SubwayTooter) or [Tusky](https://tusky.app/) - *Mastodon Client* 
+* [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Husky](https://git.mentality.rip/FWGS/Husky) or [Tusky](https://tusky.app/) - *Mastodon Client* 
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - *Booru Client / [Telegram](https://t.me/Flexbooru/161)*
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - *Article / Link Viewer*
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - *Easily Open Links in Text via Share Function*
@@ -138,7 +141,7 @@
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - *Download / Torrent Manager* 
 * [Vysor](https://www.vysor.io/) or [scrcpy](https://github.com/Genymobile/scrcpy) - *Control Android via Desktop*
 * [LineageOS](https://www.lineageos.org/) or [Replicant](https://www.replicant.us/) - *Android OS*
-* [FAST](https://play.google.com/store/apps/details?id=com.netflix.Speedtest) or [FCC Speed Test](https://play.google.com/store/apps/details?id=com.samknows.fcc&hl=en_US&gl=US) - *Internet Speed Test*
+* [FAST](https://play.google.com/store/apps/details?id=com.netflix.Speedtest), [Meteor](https://play.google.com/store/apps/details?id=meteor.test.and.grade.internet.connection.speed) or [FCC Speed Test](https://play.google.com/store/apps/details?id=com.samknows.fcc&hl=en_US&gl=US) - *Internet Speed Test*
 * [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - *Use Google Cam Without Google Play* 
 * [RClone](https://github.com/x0b/rcx) - *Multi-Site Cloud Storage File Manage*
 * [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard) - *Transfer Files between Devices*
@@ -172,6 +175,7 @@ App Manager
 * [Reface](https://reface.app/) - *Create Face Swap Videos* 
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
 * [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) - *Extract OTP Tokens*
+* [IMEI Checker](https://swappa.com/imei) - *Swappa IMEI*
 
 ***
 
@@ -253,10 +257,7 @@ App Manager
 * [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - *Command line APK Download tool*
 * [Blackmod](https://blackmod.net/) - *Modded Game APKs*
 * [App filter](https://appfilter.net/) - *Play Store Advanced Search*
-* /r/googleplaydeals - *Paid apps* 
-* [Android App Sales](https://t.me/androidappsales) - *Paid apps / Telegram* 
-* [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - *Paid apps*
-* [AppsFree](https://play.google.com/store/apps/details?id=com.appsfree.android) - *Paid apps*
+* [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - *App Giveaway Sites*
 * [How-to Install Play Store Apps from Other Countries](https://rentry.co/29s6v)
 
 ***
@@ -378,6 +379,7 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * [Berg](https://www.funkymuse.dev/p/berg.html) - *Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * [SupaFlix](https://supaflix.1mt.top/) - *Movies / TV* 
 * [Pocket TV](https://pockettv.xyz/) - *Movies / TV*
+* [MOTV](http://motv.top/) - *Movies / TV / Chromecast*
 * [Tuner Radio](https://www.downloader.world/) - *Movies / TV*
 * [Rokkr](http://www.rokkr.net/ ) - *Movies / TV / 
 Add "huhu.to", "bs.to" or "oha.to"* 
@@ -405,6 +407,7 @@ RSS Player*
 * [TaiYaKiAnime](https://github.com/Michael24884/TaiYaKiAnime), [2](https://michael24884.github.io/TaiYaKiAnime/) + *[Discord](https://discord.com/invite/8fzmNSB)*
 * [AnimeDLR](https://cyberneticlifeform.wixsite.com/cylonu87/animedlr) + *[Discord](https://discord.com/invite/wKxRqKc)*
 * [AnimeUltima](https://www1.animeultima.to/app) + *[Discord](https://discord.gg/T3sDrtf)*
+* [aniryu](https://anime.pokurt.me/)
 * [AnimeBoya](https://github.com/Tu2l/AnimeBoya)
 * [Aniyomi](https://github.com/jmir1/aniyomi)
 * [Animebay](https://animebay.tech/)
@@ -490,7 +493,7 @@ iOS
 * [Anti-Social](https://apps.apple.com/us/app/faceblock-block-facebook/id1516200820) - *Block social media trackers / iOS* 
 * [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669), [surespot](https://www.surespot.me/), [Status](https://status.im/), [Session](https://getsession.org/), [Confide](https://apps.apple.com/ca/app/confide-secret-messenger/id779883419) or [chatsecure](https://chatsecure.org/) - *Encrypted Messaging* 
 * [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/), [MySudo](https://mysudo.com/) or [Element](https://apps.apple.com/app/vector/id1083446067) - *Encrypted Messaging / Video Calls*
-* [Bluer](https://apps.apple.com/us/app/bluer-for-facebook-messenger/id1490523710) - *Privacy Focused Facebook Client*
+* [Bluer](https://apps.apple.com/us/app/bluer-for-facebook-messenger/id1490523710) - *Privacy-Based Facebook Client*
 
 ***
 
@@ -508,9 +511,10 @@ iOS
 * [DownTube](https://github.com/MrAdamBoyd/DownTube) or [YouDown](https://apps.apple.com/sa/app/youdown/id1487658334) - *YouTube Downloader* 
 * [Grffe](https://apps.apple.com/ca/app/grffe-wallpapers/id1521368829) - *Static and Live Backgrounds* 
 * [Artpaper](https://gikken.co/artpaper) or [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - *Wallpapers*
+* [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - *Default iOS Wallpapers*
 * [Iterm](https://github.com/kaneki07/iterm) - *Terminal Emulator*
 * [Instdown](https://apps.apple.com/ca/app/instdown-video/id1452076756) - *Download Videos from Social Media* 
-* [FCC Speed Test](https://apps.apple.com/us/app/fcc-speed-test/id794322383) - *Internet Speed Test*
+* [FCC Speed Test](https://apps.apple.com/us/app/fcc-speed-test/id794322383) or [Iperf 3](https://apps.apple.com/us/app/iperf-3-wifi-speed-test/id1462260546) - *Internet Speed Test*
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
 * [Nicegram](https://nicegram.app/) - *Telegram Client*
 * [GoodLinks](https://goodlinks.app/) - *Save Links*

@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/1xohXTP.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/SAwonMl.png)** - *For mobile users*
 
 ***
 ***
@@ -128,7 +128,7 @@
 
 #### Audio Editors 
 
-**[Audacity](https://www.audacityteam.org/)**, [MusE](https://muse-sequencer.github.io/), [Lexis Audio Editor](https://www.lexisaudioeditor.com/), [mp3DirectCut](https://mpesch3.de/), [Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [AudioMass](https://audiomass.co/), [FamiStudio](https://famistudio.org/), [ocenaudio](https://www.ocenaudio.com/en/startpage), [mp3mymp3](https://mp3mymp3.digitalliquid.com/), [Wavosaur](https://www.wavosaur.com/), [Qtractor](https://qtractor.org/) (Linux)
+**[Audacity](https://github.com/cookiengineer/audacity), [2](https://www.audacityteam.org/) / [DarkAudacity](http://www.darkaudacity.com/), [MusE](https://muse-sequencer.github.io/), [Lexis Audio Editor](https://www.lexisaudioeditor.com/), [mp3DirectCut](https://mpesch3.de/), [Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [AudioMass](https://audiomass.co/), [FamiStudio](https://famistudio.org/), [ocenaudio](https://www.ocenaudio.com/en/startpage), [mp3mymp3](https://mp3mymp3.digitalliquid.com/), [Wavosaur](https://www.wavosaur.com/), [Radium](https://users.notam02.no/~kjetism/radium/), [AudioDope](http://www.audiodope.org/index.htm), [Qtractor](https://qtractor.org/) (Linux)
 
 ***
 
@@ -163,6 +163,8 @@
 * [watchallyouwant](https://watchallyouwant.com/) 
 * [19mk](http://www.19mk.com/) 
 * [qooxi](http://drama.qooxi.to/) 
+* [GenMovies](https://genomovies.com/)
+* [GenDrama](https://genodrama.com/) 
 * [movie22](https://mov21.zota.club/) 
 * [DramaNice](https://dramanice.so/) 
 * [MyAsianTV](https://www9.myasiantv.io/) 
@@ -274,7 +276,7 @@
 
 #### Covers / Posters
 
-[The Poster Database](https://theposterdb.com/), [covercentury](https://www.covercentury.com/), [covrik](http://www.covrik.com/), [dvd-covers](https://www.dvd-covers.org/), [dvdca](https://www.dvdca.com/), [dvdcovers](https://dvdcovers.top/), [cover-addict](https://www.cover-addict.com/), [Gaming Alexandria](https://www.gamingalexandria.com/)
+[The Poster Database](https://theposterdb.com/), [covercentury](https://www.covercentury.com/), [covrik](http://www.covrik.com/), [dvd-covers](https://www.dvd-covers.org/), [dvdca](https://www.dvdca.com/), [dvdcovers](https://dvdcovers.top/), [cover-addict](https://www.cover-addict.com/), [Gaming Alexandria](https://www.gamingalexandria.com/), [BoxEqualArt](http://boxequalsart.com/) 
 
 ***
 
@@ -322,7 +324,7 @@
 
 #### Free Webhosting Sites
 
-**[netlify](https://www.netlify.com/)**,  **[heroku](https://www.heroku.com/)**, [profreehost](https://profreehost.com/), [000webhost](https://www.000webhost.com/), [infinityfree](https://infinityfree.net/), [openshift](https://www.openshift.com/), [vercel](https://vercel.com/) /  [2](https://vercel.app/), [GitHub Pages](https://pages.github.com/), [surge](https://surge.sh/), [firebase](https://firebase.google.com/products/hosting), [openode](https://www.openode.io/) / [Github](https://github.com/openode-io), [workers.dev](https://workers.cloudflare.com/), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [neocities](https://neocities.org/), [ovobox](https://www.ovobox.com/), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [webs](https://www.webs.com/), [weebly](https://www.weebly.com/in), [yola](https://www.yola.com/), [wordpress](https://wordpress.com/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [txti](http://txti.es/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [hubzilla](https://zotlabs.org/page/zotlabs/home), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [moodlecloud](https://moodlecloud.com/), [tilda](https://tilda.cc/), [runkod](https://runkod.com/), [paiza.cloud](https://paiza.cloud/), [boomla](https://boomla.com/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [repl.it](https://docs.repl.it/repls/web-hosting), [render](https://render.com/), [roast](https://www.roast.io/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [hostman](https://hostman.com/), [freehosting](https://freehosting.host/), [gearhost](https://www.gearhost.com/), [freewebhostingarea](https://www.freewebhostingarea.com/), [DriveToWeb](https://drv.tw/), [freenom](http://freenom.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [cargo](https://cargo.site/), [mmm](https://build.mmm.page/)
+**[netlify](https://www.netlify.com/)**,  **[heroku](https://www.heroku.com/)**, [profreehost](https://profreehost.com/), [000webhost](https://www.000webhost.com/), [infinityfree](https://infinityfree.net/), [openshift](https://www.openshift.com/), [vercel](https://vercel.com/) /  [2](https://vercel.app/), [GitHub Pages](https://pages.github.com/), [surge](https://surge.sh/), [firebase](https://firebase.google.com/products/hosting), [openode](https://www.openode.io/) / [Github](https://github.com/openode-io), [workers.dev](https://workers.cloudflare.com/), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [neocities](https://neocities.org/), [ovobox](https://www.ovobox.com/), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [webs](https://www.webs.com/), [weebly](https://www.weebly.com/in), [yola](https://www.yola.com/), [wordpress](https://wordpress.com/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [txti](http://txti.es/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [hubzilla](https://zotlabs.org/page/zotlabs/home), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [moodlecloud](https://moodlecloud.com/), [tilda](https://tilda.cc/), [runkod](https://runkod.com/), [paiza.cloud](https://paiza.cloud/), [boomla](https://boomla.com/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [repl.it](https://docs.repl.it/repls/web-hosting), [render](https://render.com/), [roast](https://www.roast.io/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [hostman](https://hostman.com/), [freehosting](https://freehosting.host/), [gearhost](https://www.gearhost.com/), [freewebhostingarea](https://www.freewebhostingarea.com/), [DriveToWeb](https://drv.tw/), [freenom](http://freenom.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [cargo](https://cargo.site/), [mmm](https://build.mmm.page/), [fanspace](http://www.fanspace.com/)
 
 ***
 
@@ -342,7 +344,7 @@
 
 **File Syncing Programs**
 
-[dropbox](https://www.dropbox.com/), [file.pizza](https://file.pizza/), [lftp](https://lftp.tech/), [keybase](https://book.keybase.io/docs/files), [syncthing](https://syncthing.net/), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/), [WinSCP](https://winscp.net/eng/index.php), [freefilesync](https://freefilesync.org/), [allwaysync](https://allwaysync.com/)
+[dropbox](https://www.dropbox.com/), [file.pizza](https://file.pizza/), [lftp](https://lftp.tech/), [keybase](https://book.keybase.io/docs/files), [syncthing](https://syncthing.net/), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/), [WinSCP](https://winscp.net/eng/index.php), [freefilesync](https://freefilesync.org/), [allwaysync](https://allwaysync.com/), [sharik](https://github.com/marchellodev/sharik)
 
 **Multi Host Uploaders**
 
@@ -486,7 +488,7 @@
 
 **Hosting** 
 
-[WebOasis IPFS](https://weboas.is/ipfs/), [IMGrPost](https://imgrpost.com/), [ImgBB](https://imgbb.com/), [picc.io](https://picc.io/), [Shutterfly](https://www.shutterfly.com/), [Imgur](https://imgur.com/), [FreeImage.Host](https://freeimage.host/), [snipboard](https://snipboard.io/), [vaa.red](https://upload.vaa.red/), [Postimages](https://postimages.org/)
+[WebOasis IPFS](https://weboas.is/ipfs/), [IMGrPost](https://imgrpost.com/), [ImgBB](https://imgbb.com/), [picc.io](https://picc.io/), [Shutterfly](https://www.shutterfly.com/), [Imgur](https://imgur.com/), [FreeImage.Host](https://freeimage.host/), [snipboard](https://snipboard.io/), [vaa.red](https://upload.vaa.red/), [Postimages](https://postimages.org/), [imgbox](https://imgbox.com/)
 
 **Processing**
 
@@ -530,7 +532,7 @@
 
 #### Internet Speed Test
 
-[fast](https://fast.com/), [LibreSpeed](https://librespeed.org/), [Xfinity Speed Test](https://speedtest.xfinity.com/), [DLS Reports](http://www.dslreports.com/tools), [Bandwidth Place](https://www.bandwidthplace.com/), [Cloudflare](https://speed.cloudflare.com/), [Google Speed Test](https://www.google.com/search?q=internet+speed+test), [Speedtest](https://www.speedtest.net/)
+[fast](https://fast.com/), [LibreSpeed](https://librespeed.org/), [Xfinity Speed Test](https://speedtest.xfinity.com/), [DLS Reports](http://www.dslreports.com/tools), [Bandwidth Place](https://www.bandwidthplace.com/), [Cloudflare](https://speed.cloudflare.com/), [Google Speed Test](https://www.google.com/search?q=internet+speed+test), [Speedtest](https://www.speedtest.net/), [wifiman](http://wifiman.com/)
 
 ***
 
@@ -665,10 +667,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Minecraft Mods
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/), [MinecraftSix](https://minecraftix.com/), [9Minecraft](https://9minecraft.net/), [Planet Minecraft](https://www.planetminecraft.com/), [Modrinth](https://modrinth.com/), [MC-Mods](https://mc-mods.org/)
-
-
-
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/), [MinecraftSix](https://minecraftix.com/), [9Minecraft](https://9minecraft.net/), [Planet Minecraft](https://www.planetminecraft.com/), [Modrinth](https://modrinth.com/), [MC-Mods](https://mc-mods.org/), [MC Archive](https://mcarchive.net/)
 
 ***
 
@@ -680,7 +679,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Modded Minecraft Launchers
 
-[tLauncher](https://tlauncher.org/en/), [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [SkLauncher](https://skmedix.pl/sklauncher), [OG tLauncher](https://tlaun.ch/)
+[tLauncher](https://tlauncher.org/en/), [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [SkLauncher](https://skmedix.pl/sklauncher), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL)
 
 ***
 
@@ -712,7 +711,17 @@ Add the following commands to a search to manually scrape each site.
 
 ####  Music Libraries / Players
 
-**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [GoneMAD](https://gonemadmusicplayer.blogspot.com/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Tauon Music Box](https://tauonmusicbox.rocks/) (linux), [Lollypop](https://wiki.gnome.org/Apps/Lollypop) (linux), [Amarok](https://amarok.kde.org/), [Cog](https://cogx.org/) (mac)
+**Multi-System**
+
+**[Foobar2000](https://www.foobar2000.org/)**, [AIMP](http://www.aimp.ru/?do=lang&lng=en), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [GoneMAD](https://gonemadmusicplayer.blogspot.com/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/),  [Amarok](https://amarok.kde.org/)
+
+**Linux**
+
+[cmus](https://cmus.github.io/), [Tauon Music Box](https://tauonmusicbox.rocks/), [Lollypop](https://wiki.gnome.org/Apps/Lollypop)
+
+**Mac**
+
+[Cog](https://cogx.org/)
 
 ***
 
@@ -724,7 +733,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### News Feed Aggregators
 
-**[QotNews](https://news.t0.vc/)**, [spidr](https://spidr.today/), [Knewz](https://knewz.com/), [All Sides](https://www.allsides.com/), [News Radius](https://newsradius.news/), [NewsLookup](http://www.newslookup.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/)
+**[WebOasis News](https://weboas.is/news/)**, **[QotNews](https://news.t0.vc/)**, [spidr](https://spidr.today/), [Knewz](https://knewz.com/), [All Sides](https://www.allsides.com/), [News Radius](https://newsradius.news/), [NewsLookup](http://www.newslookup.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/), [TechMeme](https://www.techmeme.com/m/)
 
 ***
 
@@ -779,7 +788,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Open Source Intelligence Indexes
 
-**[Awesome OSINT](https://github.com/jivoi/awesome-osint)**, **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)**, [OSINT Framework](https://osintframework.com/), [OSINT Collection](https://github.com/Ph055a/OSINT_Collection), [OSINT Sources](https://github.com/imuledx/OSINT_sources), [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools), [OSINT Recherche](https://atlas.mindmup.com/digintel/digital_intelligence_training/index.html), [Open Source Intelligence](https://start.me/p/gy0NXp/open-source-intelligence-osint), [geoint](https://start.me/p/W1kDAj/geoint), [OSINT Tools](https://start.me/p/wMdQMQ/tools), [Sector035](https://sector035.nl/links), [Nixintel's OSINT](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list), [datajournalism-resources](https://github.com/r3mlab/datajournalism-resources/blob/master/README.md), [UK-OSINT](https://www.uk-osint.net/index.html), [OSINTGeek](https://osintgeek.de/tools), [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
+**[Awesome OSINT](https://github.com/jivoi/awesome-osint)**, **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)**, [OSINT Framework](https://osintframework.com/), [OSINT Essentials](https://www.osintessentials.com/), [OSINT Collection](https://github.com/Ph055a/OSINT_Collection), [OSINT Sources](https://github.com/imuledx/OSINT_sources), [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools), [OSINT Recherche](https://atlas.mindmup.com/digintel/digital_intelligence_training/index.html), [Open Source Intelligence](https://start.me/p/gy0NXp/open-source-intelligence-osint), [geoint](https://start.me/p/W1kDAj/geoint), [OSINT Tools](https://start.me/p/wMdQMQ/tools), [Sector035](https://sector035.nl/links), [Nixintel's OSINT](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list), [datajournalism-resources](https://github.com/r3mlab/datajournalism-resources/blob/master/README.md), [UK-OSINT](https://www.uk-osint.net/index.html), [OSINTGeek](https://osintgeek.de/tools), [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
 
 ***
 
@@ -1130,6 +1139,15 @@ Add the following commands to a search to manually scrape each site.
 ####  Screen Recorders
 
 **[OBS](https://obsproject.com/)**, [Bandicam](https://filecr.com/?s=bandicam), [FFmpeg](https://ffmpeg.org/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php), [Screenpresso](https://www.screenpresso.com/), [LiteCam](https://www.litecam.net/en/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [EZVid](https://www.ezvid.com/), [Captura](https://mathewsachin.github.io/Captura/), [Kap](https://getkap.co/), [Screen Recorder](https://mybrowseraddon.com/screen-recorder.html) (addon)
+
+***
+
+#### Screenshot Tools
+
+* [ShareX](https://getsharex.com/) / [SXIE Archive](https://mega.nz/folder/1goUgJBZ#XaqM3dm5nY40luhtoxyzWg) / [Imgur Upload](https://sxcu.net/)
+* [Flameshot](https://flameshot.org/) / [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
+* [Greenshot](https://getgreenshot.org/)
+* [Gyazo](https://gyazo.com/)
 
 ***
 
@@ -1670,7 +1688,7 @@ Good for finding classic, obscure & short films.
 
 #### Wallpapers
 
-**[wallhaven](https://wallhaven.cc/)**, **[Wallpaper Abyss](https://wall.alphacoders.com/)**, [Wallpaperplay](https://wallpaperplay.com/), [HD wallpapers](https://www.hdwallpapers.net/), [WallpaperFusion](https://www.wallpaperfusion.com/), [WallpaperAccess](https://wallpaperaccess.com/), [Wallpapers.com](https://wallpapers.com/), [Wallpaper Safari](https://wallpapersafari.com/), [CoolBackgrounds](https://coolbackgrounds.io/), [sys.re](https://sys.re/pics/wallpapers/), [WallpaperCave](https://wallpapercave.com/), [Positron Dream](https://www.positrondream.com/), [SkinBase](https://skinbase.org/), [GetWalls](https://getwalls.io/), [WallpapersMania](http://www.wallpapersmania.com/), [Wallpapers](http://wallpapers.net/), [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/), [SocWall](https://www.socwall.com/), [ThewWallpapers](https://thewallpapers.org/), [WPGallery](http://www.wpgallery.com/), [desktopnexus](https://www.desktopnexus.com/), [wallcoo](http://wallcoo.net/), [wallpaperstock](https://wallpaperstock.net/), [vlad.studio](https://vlad.studio/wallpapers/?sort=free&filter=all), [ewallpapers](http://www.ewallpapers.eu/), [Bing Wallpaper](https://bingwallpaper.anerg.com/), [simpledesktops](http://simpledesktops.com/), [doostihaa](http://dl1.doostihaa.com/files/Wallpaper/)
+**[wallhaven](https://wallhaven.cc/)**, **[Wallpaper Abyss](https://wall.alphacoders.com/)**, [Wallpaperplay](https://wallpaperplay.com/), [HD wallpapers](https://www.hdwallpapers.net/), [WallpaperFusion](https://www.wallpaperfusion.com/), [WallpaperAccess](https://wallpaperaccess.com/), [Wallpapers.com](https://wallpapers.com/), [Wallpaper Safari](https://wallpapersafari.com/), [CoolBackgrounds](https://coolbackgrounds.io/), [sys.re](https://sys.re/pics/wallpapers/), [WallpaperCave](https://wallpapercave.com/), [Positron Dream](https://www.positrondream.com/), [SkinBase](https://skinbase.org/), [GetWalls](https://getwalls.io/), [WallpapersMania](http://www.wallpapersmania.com/), [Wallpapers](http://wallpapers.net/), [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/), [SocWall](https://www.socwall.com/), [ThewWallpapers](https://thewallpapers.org/), [WPGallery](http://www.wpgallery.com/), [desktopnexus](https://www.desktopnexus.com/), [wallcoo](http://wallcoo.net/), [wallpaperstock](https://wallpaperstock.net/), [vlad.studio](https://vlad.studio/wallpapers/?sort=free&filter=all), [ewallpapers](http://www.ewallpapers.eu/), [Bing Wallpaper](https://bingwallpaper.anerg.com/), [simpledesktops](http://simpledesktops.com/), [doostihaa](http://dl1.doostihaa.com/files/Wallpaper/), [Mac Wallpapers](https://goo.gl/photos/HjY1hmo6p3jfFz8a7)
 
 *** 
 
@@ -1700,7 +1718,7 @@ Good for finding classic, obscure & short films.
 
 #### Windows Activation Scripts
 
-**[Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts/)**, [KMS VL ALL](https://github.com/kkkgo/KMS_VL_ALL), [hwid.kms38.gen.mk6](https://web.archive.org/web/20210328020828/https://www.saidit.net/s/sjain_guides)/ [2](https://archive.md/8pdfC), [thk.003mk6](https://www.upload.ee/files/10182930/thk.003mk6.7z.html), [MyDigitalLife](https://forums.mydigitallife.net/)
+**[Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts/)**, [KMS VL ALL](https://github.com/kkkgo/KMS_VL_ALL), [hwid.kms38.gen.mk6](https://web.archive.org/web/20210328020828/https://www.saidit.net/s/sjain_guides)/ [2](https://archive.md/8pdfC), [thk.003mk6](https://www.upload.ee/files/10182930/thk.003mk6.7z.html), [MyDigitalLife](https://forums.mydigitallife.net/), [EzWindSLIC](https://github.com/ExeCsrss/EzWindSLIC) (win 7)
 
 ***
 
@@ -1718,7 +1736,7 @@ Good for finding classic, obscure & short films.
 * [UnicornsOS](https://discord.gg/F6kwhxTctY) - *Custom Windows 10 1607 ISO*
 * [Athena](https://discord.gg/3sDdhGwsxA) - *Custom Windows 10 1709 ISO*
 * [Ameliorated](https://ameliorated.info/) - *Windows 10 ISO Aimed Towards No Telemetry Windows 10*
-* [Windows 10 LSTC](https://mega.nz/folder/ChNTDaiL#nNqH2PTfIzTLAEs8nc-U0w) - *Bloat / Telemetry Free Windows 10 /r/Windows10LTSC*
+* [Windows 10 LSTC](https://mega.nz/folder/ChNTDaiL#nNqH2PTfIzTLAEs8nc-U0w) - *Bloat / Telemetry Free Windows 10 / r/Windows10LTSC*
 * [Windows 10 Performance Edition](https://mega.nz/file/4JkCwYJB#ghB08_PppoMdl3t2F-9-hzNtBDgrw8gwM6MsUx1koZ0), [2](https://1fichier.com/?cxqd57d6vfpot5x6v9ft) - *No Cortana, Onedrive, Telemetry, Spying ect. / [Upates & Install Guide](https://weboas.is/forum/index.php?topic=2068.0)*
 * [OldSchoolOS](https://www.oldschoolos.com/), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - *Oldschool ISO's*
 

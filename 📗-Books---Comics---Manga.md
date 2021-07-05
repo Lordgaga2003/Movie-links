@@ -51,7 +51,7 @@
 * **[Calibre](https://calibre-ebook.com/)** - *E-Book Manager / Downloader*
 * **Calibre Tools** - [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre), [3](https://the-eye.eu/public/Books/Calibre_Libraries/) / [Search](https://www.shodan.io/search?query=server%3A+calibre), [2](https://calishot-eng-1.herokuapp.com/), [3](https://calishot-eng-2.herokuapp.com/index-eng/summary), [4](https://calishot-eng-3.herokuapp.com/index-eng/summary), [5](https://calishot-eng-4.herokuapp.com/index-eng/summary), [6](https://redd.it/nugkl3) / [Web App](https://github.com/janeczku/calibre-web)  
 * **[Library Genesis](https://libgen.fun/)** - *Comics / Manga*
-* **Lib Gen Tools** - *[Desktop App](https://wiki.mhut.org/software:libgen_desktop) / [Mobile App](https://github.com/manuelvargastapia/libgen_mobile_app) / [Download Tool](https://github.com/bagaswastu/librebook) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Telegram Bot](https://t.me/BotBookClub) / [Extension](https://github.com/samj1912/Genesis) / [Python Script](https://github.com/NadalVRoMa/PyLibGen) / [Mirrors](https://whereislibgen.now.sh/), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_clones), [3](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [4](https://sguru.org/libgen-proxy/) / [Onion](http://genotypeinczgrxr.onion/) / [Backup](https://redd.it/edwi9b) / /r/libgen*
+* **Lib Gen Tools** - *[Desktop](https://wiki.mhut.org/software:libgen_desktop) / [Mobile](https://github.com/manuelvargastapia/libgen_mobile_app), [2](https://github.com/FunkyMuse/Aurora) / [Download Tool](https://github.com/bagaswastu/librebook) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Telegram Bot](https://t.me/BotBookClub) / [Extension](https://github.com/samj1912/Genesis) / [Python Script](https://github.com/NadalVRoMa/PyLibGen) / [Mirrors](https://whereislibgen.now.sh/), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_clones), [3](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [4](https://sguru.org/libgen-proxy/) / [Onion](http://genotypeinczgrxr.onion/) / [Backup](https://redd.it/edwi9b) / /r/libgen*
 * **[Z-Library](https://z-lib.org/)** - *Books / Comics / Educational / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_mirrors) / [Telegram Bot](https://t.me/zlibrarybot)*
 * **[eBookHunter](https://ebook-hunter.org/)** - *Books / Comics*
 * **[ebook3000](http://www.ebook3000.com/)** - *Books / Audiobooks / Comics / Magazines / Newspapers*
@@ -263,6 +263,7 @@
 * [The Bread Code Manifesto](https://github.com/hendricius/the-bread-code) - *Bread Baking Recipes* 
 * [Pizza Dough](https://github.com/hendricius/pizza-dough) - *Pizza Dough Recipes* 
 * [Mozzarella](https://github.com/hendricius/mozzarella) - *Mozzarella Recipes* 
+* [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - *Historical Recipes Site Index*
 * [Chef2Chef](https://www.chef2chef.net/) - *Cooking Lessons* 
 * [TheCulinaryCook](https://theculinarycook.com/) - *Cooking Lessons* 
 * [Food Chemistry Course](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter), [2](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matte-2)
@@ -506,6 +507,7 @@
 * [CELT](https://celt.ucc.ie/) - *Irish / History / Literature / Politics*
 * [textfiles.com](http://textfiles.com/) - *1980's Text File Index*
 * [Digital Archive](https://digitalarchive.wilsoncenter.org/collections) - *Historical Documents*  
+* [Archives.gov](https://archives.gov/) - *US Historical Documents*
 * [History Newsboys of 1899](https://drive.google.com/drive/u/0/mobile/folders/10rKtVNd18i30mrXwIjFnMMPUBveKNdOO?usp=sharing) - *Books / Documents*
 
 ***
@@ -605,6 +607,7 @@
 * [PDF / Doc Search Engine](https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0) 
 * [DocDownloader](https://docdownloader.com/) - *[Scribd](https://www.scribd.com/) Document Downloader* 
 * [ZealDocs](https://zealdocs.org/) - *Documentation Reader*
+* [GROBID](https://github.com/kermitt2/grobid) - *Extract / Organize Scientific Document Info*
 
 ***
 
@@ -875,6 +878,7 @@
 * [Archive.org Newspapers](https://archive.org/details/newspapers)
 * [World-Newspapers](https://world-newspapers.com/) or [Paperboy](https://www.thepaperboy.com/) - *Online Newspaper Index*
 * [LA Times](https://latimes.newspapers.com/)
+* [NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - *NY Times Top Story App*
 * [Europeana Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers) - *European Historical Newspapers*
 * [abc-dl](https://github.com/king-millez/abc-dl) - *Australian Broadcasting Corporation News Archive*
 * [Newspaper Map](https://newspapermap.com/) - *Find / Translate Worldwide Newspapers*
@@ -921,6 +925,8 @@
 
 # ► eBook Readers
 
+* **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** - *List of Ebook Readers*
+* **[EBook Converters](https://wiki.mobileread.com/wiki/E-book_conversion)** - *List of Ebook Converters*
 * **[Kindle Comic Converter](https://kcc.iosphe.re/)** - *Convert book files to ePub*
 * **[Google Play Books](https://play.google.com/books)** - *Store Pirated Books / Get Meta Data Automatically*
 * **[Foxit](https://www.foxitsoftware.com/pdf-reader/)** - *PDF Reader / PC / Android / iOS / Linux / Mac*
@@ -958,6 +964,7 @@
 * [Raven Reader](https://ravenreader.app/) - *Article Reader / Manager* 
 * [Cubari](https://cubari.moe/) - *Image Proxy / Reader*
 * [Reader View](https://add0n.com/chrome-reader-view.html), [EpubPress](https://epub.press/), [Reader View](https://mybrowseraddon.com/reader-view.html) or [2read](https://2read.net/) - *Open Pages in Reader View*
+* [Ebook Sender](https://telegram.me/to_kindle_bot) - *Send Ebooks to Kindle*
 
 ***
 

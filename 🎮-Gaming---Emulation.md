@@ -119,7 +119,8 @@
 * **[Emuparadise](https://www.emuparadise.me/)** - *Emulators / Roms / [DL Script](https://redd.it/968sm6), [2](https://openuserjs.org/scripts/tommyoxox/EmuParadise_Download_Workaround_-_1.1.2), [3](https://gist.github.com/Eptun/3fdcc84552e75e452731cd4621c535e9) / [Forum](https://www.epforums.org/)* 
 * **[Vimms Lair](https://vimm.net/)** - *Emulators / Roms*
 * [Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators) 
-* [Romulus](https://romulus.cc/) - *Rom Manager* 
+* [Rom Managers](http://emulation.gametechwiki.com/index.php/ROM_managers) - *List of Rom Managers*
+* [Emulator Netplay Tools](http://emulation.gametechwiki.com/index.php/Netplay) - *Multiplayer Emulation*
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - *Roms / [Discord](https://discord.gg/rH9wRpu2vh)* 
 * [PlayStationDiscord-Games](https://github.com/Tustin/PlayStationDiscord-Games) - *PS4 Remote Play* 
 * [Emulator.Games](https://emulator.games/) - *Browser Emulator / Roms*
@@ -242,6 +243,7 @@
 * [AtariMania](http://www.atarimania.com/index.html) - *Browser Emulator / Emulators / Roms / Atari Consoles*
 * [MagiPack](https://www.magipack.games/) - *Retro Games* 
 * [RetroSpec](http://retrospec.sgn.net/) - *Retro Games*
+* [OpenBOR](https://github.com/DCurrent/openbor) - *2D Fighting Game Emulator*
 * [Japanese PC Compendium](http://japanesepccompendium.blogspot.com/) - *Retro Japanese PC Games*
 * [TOSEC](https://archive.org/details/TOSEC_V2017-04-23), [2](https://archive.org/details/tosec) - *The Old School Emulation Center*
 * [NEC & Turbografx Collection](https://archive.org/details/NEC_PC_Engine_CD-ROM2_System_and_TurboGrafx-CD_2016_Reference_Set_Redump_Validated_ROMs) - *Roms / Nec / Turbo*
@@ -260,6 +262,7 @@
 * [OpenRA](https://openra.net/) - *Command & Conquer Recreation* 
 * [Classic Warcraft 3 Installers](https://www.removeddit.com/r/Piracy/comments/ewdlnd/for_anyone_looking_for_the_actual_classic/) 
 * [NolfRevival](http://nolfrevival.tk/) - *NOLF, NOLF 2 & Contract Jack*
+* [DFWorkshop](https://www.dfworkshop.net/) - *Daggerfall Unity Engine Port*
 * [OpenMW](https://openmw.org/en/) - *Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/openmw-tes3mp/) / [Android](https://github.com/xyzz/openmw-android)*
 * [NR2003](https://wildkustomcars.weebly.com/) - *Modded Nascar 2003*
 * [Lain Game](https://laingame.net/) - *Lain Game Browser Emulator*
@@ -274,6 +277,7 @@
 * [Unreal Archive](https://unrealarchive.org/index.html) - *Unreal Tournament Mods, Maps, Skins ect.*
 * [rottexpr](https://github.com/LTCHIPS/rottexpr) - *Rise of the Triad Source Port*
 * [ECWolf](https://maniacsvault.net/ecwolf/) - *Wolfenstein 3D, Spear of Destiny & Super 3D Noah's Ark Port*
+* [ET: Legacy](https://www.etlegacy.com/) - *Wolfenstein Enemy Territory Multiplayer Project / [Discord](https://discord.gg/UBAZFys)*
 * [OpenArena Live](https://kosmi.io/openarena) - *Quake III Arena Clone* 
 * [Aleph One](https://alephone.lhowon.org/) - *Open-Source Marathon Continuation* 
 * [Powerslave EX](https://drive.google.com/file/d/1VFvOYKyjyFwH5sqSL5mz_jl3SdIUcAOY/view?usp=sharing) - *Powerslave PC Port* 
@@ -439,7 +443,7 @@
 * [agar.io](https://agar.io/) - *Become the Biggest Circle* 
 * [Hole.io](https://hole-io.com/) - *Become the Biggest Hole / [Discord](https://discord.gg/TS33SU2)* 
 * [Spinz.io](http://spinz.io/) - *Fidget Spinner Battles*
-* [Manygolf](https://manygolf.club/) - *Multiplayer Golf*
+* [Multiplayer.golf](https://multiplayer.golf/) or [Manygolf](https://manygolf.club/) - *Multiplayer Golf*
 * [Tanki](https://tankionline.com/) - *Online Team VS Team Tank Game* 
 * [Plink](http://labs.dinahmoe.com/plink/) - *Multiplayer Music Game* 
 * [Too Many Chefs](https://www.toomanychefs.party/) - *Text-Based Coop Cooking Game* 

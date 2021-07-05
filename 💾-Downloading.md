@@ -260,7 +260,6 @@
 * [GFXDomain](https://gfxdomain.co/) 
 * [DesireFX](https://www.desirefx.me/)
 * [GFXMountain](http://gfxmountain.com/)
-* [GoDownloads](https://godownloads.net/)
 * [GFXhome](http://gfxhome.ws/index.php)
 * [GFXDrug](https://gfxdrug.com/)
 * [Grafixfather](https://www.grafixfather.com/)
@@ -269,6 +268,9 @@
 * [Allday](https://allday1.com/)
 * [GFX-Hub](https://gfx-hub.net/)
 * [PixelBrush](https://pixelbrush.ru/) 
+* [Download Pirate](https://www.downloadpirate.com/)
+* [GoDownloads](https://godownloads.net/) 
+* [GFXDownload](http://gfxdownload.com/)
 * [adaz3d](https://www.adaz3d.com/) - *Leech Required*
 
 ***

@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/hKtn66r.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/079IKP4.png)** - *For mobile users*
 
 ***
 ***
@@ -462,10 +462,6 @@
 * [Ligaxxi](http://ligaxxi.xyz/) - *Movies / TV* 
 * [Samehadaku](https://samehadaku.vip/) - *Anime* 
 * [Neonime](https://neonime.site/) - *Anime*
-
-## ▷ Reading
-
-* [Indonesia Ebook](https://indonesiaebook.com/) - *Books / Fiction / Novels / Non fiction*
 
 ***
 
@@ -1108,6 +1104,13 @@
 * [HindiLover](https://hindilover.biz/) - *TV*
 * [TurkAnime](https://www.turkanime.net/) - *Anime* 
 
+## ▷ Reading
+
+* [eskikitaplarim](https://www.eskikitaplarim.com/) - *Books / Comics / Magazines*
+* [Kuflu](https://www.kuflu.com/forums/e-kitap.58/) - *Books / Magazines*
+* [cizgidiyari](http://www.cizgidiyari.com/forum/) - *Comics*
+* [turkcecizgiroman](https://turkcecizgiroman.blogspot.com/) 
+
 ***
 
 # ► Vietnamese 
@@ -1115,6 +1118,7 @@
 ## ▷ Downloading
 
 * [HDVietnam](http://www.hdvietnam.com/forums/) - *Video / Audio / Software*
+* [taomaytinh](https://taomaytinh.com/) - *Software*
 * [freehd](https://freehd.me/) - *Movies / TV / Anime*
 * [chiasenhac](https://chiasenhac.vn/) - *Music*
 

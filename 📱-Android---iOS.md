@@ -175,7 +175,7 @@ App Manager
 * [Reface](https://reface.app/) - *Create Face Swap Videos* 
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
 * [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) - *Extract OTP Tokens*
-* [Swappa](https://swappa.com/) - *IMEI, MEID, ESN Checker*
+* [Swappa](https://swappa.com/imei) - *IMEI, MEID, ESN Checker*
 
 ***
 
@@ -525,7 +525,7 @@ iOS
 * [Reface](https://reface.app/) - *Create Face Swap Videos* 
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
 * [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - *Control Android TV Box with iPhone*
-* [Swappa](https://swappa.com/) - *IMEI, MEID, ESN Checker*
+* [Swappa](https://swappa.com/imei) - *IMEI, MEID, ESN Checker*
 
 ***
 

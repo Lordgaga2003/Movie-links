@@ -144,6 +144,7 @@
 * [Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - *Discord Message Encryption*
 * [PGPgram](https://github.com/tallero/PGPgram) - *GPG Encrypted Telegram Backups*
+* [Adamant](https://adamant.im/) - *Decentralized Messenger*
 * [Cryptodog](http://doggyfipznipbaia.onion/) or [torbitamzta34aai](http://torbitamzta34aai.onion/) - *Anonymous Chat Room / .onion*  
 * [Hexchat](https://hexchat.github.io/) - *Private IRC Client* 
 * [ssh-chat](https://github.com/shazow/ssh-chat) - *Chat over SSH / [Info](https://shazow.net/posts/ssh-how-does-it-even/)*
@@ -157,8 +158,8 @@
 * [Name & Identity Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_name_.26amp.3B_identity_generators) - *Generate Fake Names / Identities* 
 * [Fake Address Generator](https://fakeaddressgenerator.com/) - *Create a fake Address*
 * [Random User Generator](https://randomuser.me/) - *Generator Fake User Details* 
-* [Tails](https://tails.boum.org/) or [Qubes](https://www.qubes-os.org/) - *OS that protects privacy / avoids censorship*
-* [Mofolinux](https://mofolinux.com/) - *Linux OS that protects privacy / avoids censorship*
+* [Tails](https://tails.boum.org/) or [Qubes](https://www.qubes-os.org/) - *Privacy-Based Operating Systems*
+* [Mofolinux](https://mofolinux.com/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - *Privacy-Based Operating System / Linux*
 * [Leecher](https://leecher.me/) - *Anonymous Link / Download Generator* 
 * [Track This]( https://trackthis.link/) - *Confuse Personal Advertising by opening 100 tabs* 
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) or [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup) - *Disk Encryption Software*

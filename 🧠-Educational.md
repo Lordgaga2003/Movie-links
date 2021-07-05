@@ -41,15 +41,21 @@
 * [Class Central](https://www.classcentral.com/) - *Search for Courses*
 * [cs1000](https://cs1000.vercel.app/) - *Educational Video Playlists* 
 * UC Berkeley Webcast project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://lbry.tv/@UCBerkeley:d?) - *Video Lectures*
+* [WatchKnowLearn](http://www.watchknowlearn.org/) - *Educational Videos*
 * [Mathispower4u](http://www.mathispower4u.com/) - *Math Tutorials*
 * [PatrickJMT](http://patrickjmt.com/) - *Math Tutorials*
 * [SchoolYourself](http://schoolyourself.org/) - *Math Tutorials*
 * [mathhelp](https://www.mathhelp.com/) - *Math Tutorials*
 * [mathonline](http://mathonline.wikidot.com/) - *Math Tutorials*
+* [Index of Math Terms](http://www.ltcconline.net/greenl/courses/Indices/FullIndex.htm) - *Math Tutorials / Terms*
 * [brighstorm](https://www.brightstorm.com/) - *Test Prep*
 * [O'Reilly](https://www.oreilly.com/) - *Tech / Programming / infinite free trial by clearing cookies / making new account*
+* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - *Programming Courses*
 * [pad.ma](https://pad.ma/) - *Text-annotated Videos* 
-* [How to Become a Computer Science Engineer](https://laconicml.com/computer-science-engineer-mit-university/) - *Free Computer Science Lectures* 
+* [How to Become a Computer Science Engineer](https://laconicml.com/computer-science-engineer-mit-university/) - *Computer Science Courses* 
+* [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree) - *Computer Science Courses*
+* [Open Source Society University](https://github.com/ossu/computer-science) - *Computer Science Courses / [Site](https://ossu.firebaseapp.com/) / [Discord](https://discord.gg/wuytwK5s9h)*
+* [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - *Computer Science Courses*
 * [UdemyFreeCourses](https://udemyfreecourses.org/) - *Udemy Courses*
 * [TutsNode](https://tutsnode.net/) - *Udemy Courses*
 * /r/udemyfreebies - *Udemy Courses*
@@ -101,6 +107,7 @@
 * [FreeEducationWeb](https://freeeducationweb.com/) - *Courses* 
 * [DLECourse](https://dlecourse.com/) - *Courses* 
 * [FreeCourseDL](https://freecoursedl.com/) - *Courses* 
+* [TeleFlix](https://resources.ttucloud.tech/0:/) - *Courses / user: blank pw: @ttu001*
 * [FreeStudyWeb](https://freestudyweb.com/) - *Courses* 
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
 * [CourseDown](https://coursedown.com/) - *Courses* 
@@ -232,6 +239,7 @@
 * **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - *Advanced Calculator*
 * **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://photomath.app/en/), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) / [Pro](https://pastebin.com/wA3QQkCj) - *Math Problem Solver with Steps*
 * [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - *Matrix Calculator*
+* [Mathcha](https://www.mathcha.io/) - *Online Math Editor*
 * [Weboasis Convert](https://weboas.is/convert/) - *Conversion Calculators*
 * [PecentageTools](https://percentagetools.com/) - *Percentage Calculators*
 * [Unit Conversion](https://conversao.net/eng/), [UnitConverters](https://www.unitconverters.net/) or [ConvertAll](https://convertall.bellz.org/) - *Unit Converter* 
@@ -245,6 +253,7 @@
 * [Mathigon](https://mathigon.org/) - *Math / Courses* 
 * [BetterExplained](https://betterexplained.com/) - *Math / Guides / Courses* 
 * [IXL Learning](https://au.ixl.com/math/) - *Math Practice / Quizzes*
+* [ParkMath](https://parkmath.github.io/) - *Math Guides*
 * [Math Exercises](http://www.math-exercises.com/) - *Math Practice*
 * [Pauls Online Math Notes](https://tutorial.math.lamar.edu/) - *Math Practice / Guides*
 * [Math2.org](http://math2.org/) - *Math Guides*
@@ -313,6 +322,7 @@
 * [WaniKani](https://www.wanikani.com/) - *Learn Kanji*
 * [Read Korean Letters](https://readkoreanletters.com/) - *Learn Korean Characters* 
 * [Mandarin Chinese](https://drive.google.com/drive/u/0/mobile/folders/152oeHQoeqvC9RVMk6kJi1irAlSSp7NVk?usp=sharing) - *Mandarin Chinese Learning Books*
+* [Chinese Flashcards](http://www.chineseflashcards.io/) - *Chinese Flashcards*
 * [youglish](https://youglish.com/) - *Youtube Word Pronunciations* 
 * [ASL Resources](https://t.me/ASLresources) - *American Sign Language Resources / Telegram* 
 * [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - *American Sign Language* 
@@ -322,6 +332,7 @@
 * [Manji](https://github.com/Livinglist/Manji) - *Language Learning / Japanese / Kanji*
 * [PolyGlot](http://polyglots.free.fr/) - *Linguistic Teaching Software*
 * [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - *Language Identification Test*
+* [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap)- *Listen to Accents*
 
 ***
 
@@ -351,11 +362,12 @@
 * **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
 * [Learn Anything](https://learn-anything.xyz/) - *Interactive Learning Map* 
 * [NoExcuseList](http://noexcuselist.com/) - *Free Learning Sites* 
-* [Explorabl.es](https://explorabl.es/) - *Interactive Learning / Lessons* 
+* [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - *Interactive Learning / Lessons* 
 * /r/educationalgifs  - *Learn With GIFs* 
 * [KausalFlow](https://tools.kausalflow.com/) - *Academic Research Tools* 
 * [Zotero](https://www.zotero.org/) - *Research Organization Tool* 
 * [PaperRater](https://www.paperrater.com/), [CopyScape](https://www.copyscape.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
+* [cb2bib](https://www.molspaces.com/cb2bib/) - *Reference Extractor / Manager*
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - *Grade School Educational Tools*
 * [Stublio](https://stublio.com/) - *Keep Track of what you're Studying* 
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - *UPSC Telegram Channels* 
@@ -369,6 +381,7 @@
 * [Wikiversity](https://www.wikiversity.org/) - *Learning Resources, Guides, Quizzes, Tools & More*
 * [TurtleDiary](https://www.turtlediary.com/) - *Quizzes / Lessons / Games*
 * [SoftSchools](https://www.softschools.com/) - *Worksheets / Games / Quizzes*
+* [FactMonster](https://www.factmonster.com/) - *Exercises/ Flashcards*
 * [BrainPOP Jr.](https://jr.brainpop.com/) - *Quizzes / Animations*
 * [The Problem Site](https://www.theproblemsite.com/) - *Problems / Puzzles/ Games*
 * [PuzzlePrime](https://www.puzzleprime.com/) - *Problems / Puzzles*
@@ -376,6 +389,7 @@
 * [Highbrow](https://gohighbrow.com/) - *Daily Lessons*
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - *The Trolley Problem*
 * [Untools](https://untools.co/) - *Better Thinking Tools & Frameworks*
+* [GCFGlobal](https://edu.gcfglobal.org/) - *Tech Tutorials*
 * [OpenSyllabus](https://opensyllabus.org/) or [Syllahttps://languagedrops.com/)busFinder](https://www.syllabusfinder.com/) - *Syllabus Search / Info*
 * [Edpuzz Ninja](https://edpuzz.ninja/) - *Educational Puzzle Solving Tool* 
 * [Slader](https://www.slader.com/) - *Homework Answers and Solutions*
@@ -385,7 +399,7 @@
 * [Citation Generator](https://www.citationgenerator.com/), [CitationMachine](https://citationmachine.net/) or [Cite This For Me](https://www.citethisforme.com/) - *Generate Citations*
 * [AMCharts](https://live.amcharts.com/) or [ACME Chartmaker](https://acme.com/chartmaker/) - *Chart Creator*
 * [AWW](https://awwapp.com/), [OpenBoard](https://openboard.ch/
-https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
+https://github.com/OpenBoard-org/OpenBoar, [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - *Whiteboard*
 * [app.diagrams](https://app.diagrams.net/), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [yEd Live](https://www.yworks.com/yed-live/) or [Gephi](https://gephi.org/) - *Graph / Diagram Creator*  
 * [Anki](https://apps.ankiweb.net/) or [Flashcard Machine](https://www.flashcardmachine.com/) - *Flash Card Tool*
 * [Wolfram Cloud](https://www.wolframcloud.com/) - *Computational intelligence*
@@ -420,6 +434,7 @@ https://github.com/OpenBoard-org/OpenBoard) or [Whiteboard Fox](https://r3.white
 * [MuscleWiki](https://musclewiki.com/) - *Muscle / Exercise Information Tool* 
 * [Pol Art Folder](https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg) - *Historic European Art & Paintings*
 * [vads](https://vads.ac.uk/digital/) - *Digital Art Collection*
+* [RandomInternetMuseum](https://www.randominternetmuseum.com/) - *Random Art Gallery*
 * [Metabolic-Pathway](http://www.metabolic-pathway.com/fullMap.html) - *Interactive Metabolic Pathways Map* 
 * [How a Car Works](https://www.howacarworks.com/) - *Car Mechanics / Automotive Engineering Guides* 
 * [Morse Typing Trainer](https://morse.withgoogle.com/learn/) - *Morse Code Trainer* 

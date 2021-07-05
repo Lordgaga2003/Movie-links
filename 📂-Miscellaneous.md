@@ -32,6 +32,7 @@
 * [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - *Search Bookmarks* 
 * [definer](https://lumetrium.com/definer/) or [phlinx](https://phlinx.com/) - *Highlight Search & Definitions*
 * [WebMemex](https://blog.webmemex.org/) - *Organize & Store Webpages* 
+* [Bandwidth Hero](https://bandwidth-hero.com/) - *Reduce Browsing Data Usage*
 * [Auto Tab Discard](https://add0n.com/tab-discard.html), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs), [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) or [The Great Suspender](https://github.com/aciidic/thegreatsuspender-notrack) - *Discard Inactive Tabs to Reduce Memory / CPU Usage*
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - *Temporarily Snooze Tabs* 
 * [One Tab](https://www.one-tab.com/) or [TabMerger](https://lbragile.github.io/TabMerger-Extension/) - *Merge & Organize Tabs* 
@@ -353,6 +354,7 @@
 * [Android App Sales](https://t.me/androidappsales) - *Paid apps / Telegram* 
 * [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - *Paid apps*
 * [AppsFree](https://play.google.com/store/apps/details?id=com.appsfree.android) - *Paid apps*
+* [InstlApp](https://apps.apple.com/us/app/instlapp/id1502777382) - *Free App Giveaways*
 * [OneHack Freebie Thread](https://onehack.us/c/free-give-away/6) - *Give-Aways and Freebies*
 * [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) - *Products / Services*
 * [AppSumo Freebies](https://appsumo.com/tools/freebies/) - *Apps*
@@ -382,10 +384,10 @@
 * [r.sine.com](https://r.sine.com/index), [Funnyjunk](https://funnyjunk.com//) or [Imageboard Scraper](https://nik.bot.nu/) - *Images, Memes & GIFs / Some NSFW*
 * [Neal.fun](https://neal.fun/) or [JenniferDewalt](https://jenniferdewalt.com/) - *Sites / Games*
 * [Just For Fun](https://justforfun.io/) or [Andrew Marsh](http://andrewmarsh.com/software) - *Coding Project Showcase* 
-* [Trippy shit Mega List](https://triptoysfor.me/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave), [BoredHumans](http://boredhumans.com/) or [Mr.doob](https://mrdoob.com/) - *Toys & Experiments* 
+* [Trippy shit Mega List](https://triptoysfor.me/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave), [BoredHumans](http://boredhumans.com/), [puissant](https://sandwichpuissant.net/) or [Mr.doob](https://mrdoob.com/) - *Toys & Experiments* 
 * [Bimble Space](https://in.bimble.space/toys) - *Multiple Toys / Art Tools* 
 * [Kamogo](https://www.kamogo.com/faq/) - *Useless Web Apps*
-* [MoodLight](https://www.moodlight.org/) - *Turn Screen into Strobe Light*
+* [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - *Turn Screen into Strobe / Mood Light*
 * [Drinking Game Zone](https://drinkinggamezone.com/) - *Drinking Games Encyclopedia* 
 * [Drinkify](http://drinkify.org/) - *Picks Drinks Based on Songs* 
 * [Activity Suggestion](https://www.activitysuggestion.com/), [Things to Do](https://randomthingstodo.com/) or [bored.solutions](https://bored.solutions/) - *Activity Suggestions* 
@@ -398,7 +400,9 @@
 * [The Nicest Place](https://thenicestplace.net/) - *Internet Hugs*
 * [Aggie.io](https://aggie.io/) or [malmal](https://malmal.io/) - *Draw with Friends or Strangers* 
 * [Monsterland](https://www.monsterland.net/) - *Collabortive Monster Drawing* 
-* [BrickLink Studio](https://www.bricklink.com/v2/build/studio.page) - *Lego building software*
+* [Awesome Lego](https://github.com/ad-si/awesome-lego) - *Lego Resource Index* 
+* [BrickLink Studio](https://www.bricklink.com/v2/build/studio.page) - *Lego Building Software*
+* [Brickit](https://brickit.app/) - *Scan Lego Collection for Build Ideas*
 * [Outside Simulator](https://outsidesimulator.com/) - *Simulate Being Outside* 
 * [Travel Remotely](https://travel-remotely.netlify.app/) - *Traveling Simulator* 
 * [stringers.live](https://stringers.live/) - *Live Stringer (freelance journalist) Streams*
@@ -432,6 +436,7 @@
 * [Chaos Equations](https://chaos-equations.glitch.me/?p=LBMRMS) - *Chaos Equation Visualizations*
 * [Dots-Converter](https://loveeevee.github.io/Dots-Converter/dots-draw.html) - *Draw with Dots*
 * [Super Forumula](https://superformula.club/) - *Shape Creation Tool* 
+* [JacksonPollock](https://www.jacksonpollock.org/) - *Splatter Painting / Click to Change Color*
 * [paint.wtf](https://paint.wtf/) - *Have an AI Judge your Art* 
 * [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - *Click & Drag Windows Errors* 
 * [Our World of Text](https://ourworldoftext.com/) or [Your World of Text](https://www.yourworldoftext.com/) - *Infinite grid of text editable by anyone*
@@ -446,6 +451,7 @@
 * [Neave.tv](https://neave.tv/) - *TV without context* 
 * [The Office Stare Machine](http://theofficestaremachine.com/) - *The Office Video Emotions* 
 * [Work at Dunder Mifflin](https://workatdundermifflin.com/) - *Listen to the Sounds of Dunder Mifflin* 
+* [Endless Summer Times](https://times.endlessvmmer.com/) - *Retro Summer Vibe News Archive*
 * [Skynet](http://pierrepapierciseaux.net/.skynet/?lang=en) - *View Websites like they're from the 90's*
 * [Toonami Remastered](https://www.toonamiremastered.com/) - *Remastered Toonami Content* 
 * [Random Comic Generator 3.0](https://explosm.net/rcg) - *Explosm Random Comic Generator*
@@ -492,6 +498,7 @@
 * [Toys from Trash](http://www.arvindguptatoys.com/toys.html) - *Use Everyday Items to Make Toys* 
 * [Free Camp Sites](https://freecampsites.net/) - *Go Camping For Free*
 * [deardiary](https://deardiary.wtf/) - *Machine Learning Diary / [Concept Video](https://youtu.be/Zc3qayGmYZQ)* 
+* [BD Stupidity Archive](https://discord.gg/5qgrj9a3NQ) - *Archive of BetterDiscord Stupidity*
 * [webgbcam](https://maple.pet/webgbcam/) - *Gameboy Camera in Browser*
 * [The Wolfman Museum of Art ](http://wolfmanmuseum.org/) - *Virtual Museum*
 * [Zalgo](http://eeemo.net/), [lingojam](https://lingojam.com/WeirdTextGenerator) or [coolfont](https://coolfont.org/) - *Text style generators* 
@@ -515,7 +522,6 @@
 * [LMGTFY](http://www.lmgtfy.com/), [Just Google](https://www.just-google.it/), [Just Fucking Google](https://www.just-fucking-google.it/) or [GIYBF](http://giybf.com/) - *Remind People that Google Exists* 
 * [The GIF Pronunciation Page](http://www.olsenhome.com/gif/) - *How to Pronouce "GIF"*
 * [RPS101](http://www.umop.com/rps101.htm) - *101 Gesture Rock-Paper-Scissors*
-* [Localingual](https://localingual.com/) - *Listen to International Dialects / Languages* 
 * [HeyFromTheFuture](https://heyfromthefuture.com/) - *What people wish they knew at your age*
 * [Fake Text Message](https://ifaketextmessage.com/) - *Make Fake Text Conversation* 
 * [FutureTimeline](https://www.futuretimeline.net/) - *Timeline of future predictions* 
@@ -577,7 +583,6 @@
 * [Pokémon Fusion](https://pokemon.alexonsager.net/) - *Fuse Pokémon*
 * [Poke Palettes](https://pokepalettes.com/) - *Pokemon Color Palettes* 
 * [Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - *Pokemon Resource Index* 
-* [Awesome Lego](https://github.com/ad-si/awesome-lego) - *Lego Resource Index* 
 * [Awesome Chess](https://github.com/hkirat/awesome-chess) - *Chess Resource Index*  
 * [Awesome Go/Baduk/Weiqi](https://github.com/yanchick/awesome-GoBadukWeiqi) - *Go/Baduk/Weiqi Resource Index* 
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor/) - *Unused Video Game Content Research*
@@ -613,7 +618,7 @@
 # ►  Font Sites
 
 * **[How to Download Fonts](https://redd.it/8tqfg6)**
-* [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [TextFancy](https://textfancy.com/) or [fSymbols](https://fsymbols.com/generators/) - *Font Generator*
+* [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [DiscordFonts](https://lingojam.com/DiscordFonts), [TextFancy](https://textfancy.com/) or [fSymbols](https://fsymbols.com/generators/) - *Font Generator*
 * [2000+ Fonts](https://drive.google.com/drive/folders/1aJVKslK0v_kKxvEd5KV3KSCfY0epXNz0) - *Fonts / Drive*
 * [2300+ Fonts Pack](https://drive.google.com/file/d/1Y4yRd5KugATG5XfcjkuUgN9BU4wJJMVj/view) - *Fonts / Drive*
 * [DaFont](https://www.dafont.com/)

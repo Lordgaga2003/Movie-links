@@ -436,6 +436,8 @@
 * [MiniRoyale](https://miniroyale2.io/) - *Battle Royal Game* 
 * [Wings.io](http://wings.io/) - *Multiplayer Plane Battles*
 * [Curve Fever](https://curvefever.pro/) - *Multiplayer Line Battles*
+* [LOLBeans](https://lolbeans.io/) - *"Fall guys" like game*
+* [Betrayal](https://betrayal.io/) - *"Among Us" like game*
 * [Slither.io](http://slither.io/) or [worm.is](http://play.worm.is/) - *Grow the longest worm*
 * [diep.io](https://diep.io/) - *Become the strongest tank* 
 * [Hexar.io](http://www.hexar.io/), [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - *Control the Map*   
@@ -446,6 +448,7 @@
 * [Multiplayer.golf](https://multiplayer.golf/) or [Manygolf](https://manygolf.club/) - *Multiplayer Golf*
 * [Tanki](https://tankionline.com/) - *Online Team VS Team Tank Game* 
 * [Plink](http://labs.dinahmoe.com/plink/) - *Multiplayer Music Game* 
+* [Fishington](https://fishington.io/) - *Multiplayer Fishing Game*
 * [Too Many Chefs](https://www.toomanychefs.party/) - *Text-Based Coop Cooking Game* 
 * [Haxball](https://www.haxball.com/) - *Physics Based Multiplayer Soccer*
 * [skribbl](https://skribbl.io/) or [Gartic](https://gartic.io/) - *Drawing / Guessing Game / Multiplayer*

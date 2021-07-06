@@ -107,6 +107,7 @@
 * [FreeEducationWeb](https://freeeducationweb.com/) - *Courses* 
 * [DLECourse](https://dlecourse.com/) - *Courses* 
 * [FreeCourseDL](https://freecoursedl.com/) - *Courses* 
+* [Dl Course](https://dlcourse.org/) - *Courses*
 * [TeleFlix](https://resources.ttucloud.tech/0:/) - *Courses / user: blank pw: @ttu001*
 * [FreeStudyWeb](https://freestudyweb.com/) - *Courses* 
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
@@ -127,7 +128,8 @@
 * [LyndaFree](https://t.me/lyndafree) - *Lynda Courses / Telegram*
 * [Gate Academy Courses](https://mega.nz/folder/7moVUSAK#cw5VVM-L4WmtwXE30in6nw) - *Gate Academy Courses / Drive*
 * [Giga Course](https://gigacourse.com/) - *Udemy Courses / Drive* 
-* [Udemy 24](https://udemy24.com/) - *Udemy courses* 
+* [Udemy 24](https://udemy24.com/) - *Udemy Courses* 
+* [Tutorials-eu](https://freetutorials-eu.com/) - *Udemy Courses*
 * [FreeCourseWeb](http://freecourseweb.com/) - *Udemy Courses* 
 * [Udemycourses](https://udemycourses.me/) - *Udemy Courses* 
 * [FreeCourseUdemy](https://freecourseudemy.com/) - *Udemy Courses*  

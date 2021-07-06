@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/SAwonMl.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/r9aQyq3.png)** - *For mobile users*
 
 ***
 ***
@@ -128,7 +128,7 @@
 
 #### Audio Editors 
 
-**[Audacity](https://github.com/cookiengineer/audacity), [2](https://www.audacityteam.org/) / [DarkAudacity](http://www.darkaudacity.com/), [MusE](https://muse-sequencer.github.io/), [Lexis Audio Editor](https://www.lexisaudioeditor.com/), [mp3DirectCut](https://mpesch3.de/), [Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [AudioMass](https://audiomass.co/), [FamiStudio](https://famistudio.org/), [ocenaudio](https://www.ocenaudio.com/en/startpage), [mp3mymp3](https://mp3mymp3.digitalliquid.com/), [Wavosaur](https://www.wavosaur.com/), [Radium](https://users.notam02.no/~kjetism/radium/), [AudioDope](http://www.audiodope.org/index.htm), [Qtractor](https://qtractor.org/) (Linux)
+**[Audacity](https://github.com/cookiengineer/audacity)**, [2](https://archive.org/details/audacity-2.4.2), [3](https://www.audacityteam.org/) / [DarkAudacity](http://www.darkaudacity.com/), [MusE](https://muse-sequencer.github.io/), [Lexis Audio Editor](https://www.lexisaudioeditor.com/), [mp3DirectCut](https://mpesch3.de/), [Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [AudioMass](https://audiomass.co/), [FamiStudio](https://famistudio.org/), [ocenaudio](https://www.ocenaudio.com/en/startpage), [mp3mymp3](https://mp3mymp3.digitalliquid.com/), [Wavosaur](https://www.wavosaur.com/), [Radium](https://users.notam02.no/~kjetism/radium/), [AudioDope](http://www.audiodope.org/index.htm), [Qtractor](https://qtractor.org/) (Linux)
 
 ***
 
@@ -211,7 +211,9 @@
 
 #### Calculator Sites
 
-* **[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)**, [RapidTables](https://www.rapidtables.com/), [Omni Calculator](https://www.omnicalculator.com/), [Calculator.net](https://www.calculator.net/sitemap.html), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [NumberEmpire](https://www.numberempire.com/)
+* **[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)**, [RapidTables](https://www.rapidtables.com/), [Omni Calculator](https://www.omnicalculator.com/), [Calculator.net](https://www.calculator.net/sitemap.html), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [NumberEmpire](https://www.numberempire.com/), [](Easy Calculation
+https://www.easycalculation.com/)
+
 
 ***
 
@@ -276,7 +278,7 @@
 
 #### Covers / Posters
 
-[The Poster Database](https://theposterdb.com/), [covercentury](https://www.covercentury.com/), [covrik](http://www.covrik.com/), [dvd-covers](https://www.dvd-covers.org/), [dvdca](https://www.dvdca.com/), [dvdcovers](https://dvdcovers.top/), [cover-addict](https://www.cover-addict.com/), [Gaming Alexandria](https://www.gamingalexandria.com/), [BoxEqualArt](http://boxequalsart.com/) 
+[The Poster Database](https://theposterdb.com/), [covercentury](https://www.covercentury.com/), [covrik](http://www.covrik.com/), [dvd-covers](https://www.dvd-covers.org/), [dvdca](https://www.dvdca.com/), [dvdcovers](https://dvdcovers.top/), [cover-addict](https://www.cover-addict.com/), [Gaming Alexandria](https://www.gamingalexandria.com/), [BoxEqualArt](http://boxequalsart.com/), [poster-man](http://www.poster-man.com/), [dlhcollections](https://www.dlhcollections.com/index.html), [postercollector](https://postercollector.co.uk/), [moviepostersgallery](https://www.moviepostersgallery.com/), [filmonpaper](https://www.filmonpaper.com/blog/)
 
 ***
 
@@ -622,6 +624,29 @@
 #### M4UFree Clones
 
 [M4uFree](http://m4ufree.tv), [Streamm4u](http://streamm4u.com), [m4ufree.to](https://m4ufree.to/)
+
+***
+
+#### Magic / Esoteric Telegram Ebooks
+ 
+* https://t.me/LibraryofMagic
+* https://t.me/LivrosdeMagia
+* https://t.me/magickaris
+* https://t.me/MagickEbookz
+* https://t.me/magickmatters
+* https://t.me/LibraryOfMagi
+* https://t.me/magZtore
+* https://t.me/ocultarias
+* https://t.me/WonderlandLibraryOfMagicBooks
+* https://t.me/spiritualbooks
+* https://t.me/spiritualitybooks
+* https://t.me/synchroncity1111
+
+***
+
+#### Manga Download Bots
+
+[HakuNeko](https://github.com/manga-download/hakuneko), [Comics Downloader](https://github.com/Girbons/comics-downloader), [FMD](https://sourceforge.net/projects/fmd/), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [Free Manga Downloader](https://sourceforge.net/projects/newfmd/), [mangadownbot](https://t.me/mangadownbot), [mangadownloader](https://github.com/n1mo/manga)
 
 ***
 
@@ -1388,14 +1413,34 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 
 #### Telegram Audiobook Downloads
 
-* [Book House International](https://t.me/BOOK_HOUSE_INTERNATIONAL)
-* [Audiobooks Archive](https://t.me/AudiobooksArchive)
-* [English Audiobooks](https://t.me/eng_audiobooks) 
-* [MF Mix Ebooks](https://t.me/mfmixebooks) 
-* [Ebookz](https://t.me/ebookz)
-* [AudioBook Collection](https://t.me/Audiobooks_Collection) 
-* [BlarkHive](https://t.me/blarkhive) 
-* [Audiobookclassic](https://t.me/Audiobookclassic) - *Classic Audiobooks*
+* https://t.me/BOOK_HOUSE_INTERNATIONAL
+* https://t.me/AudiobooksArchive
+* https://t.me/eng_audiobooks
+* https://t.me/mfmixebooks
+* https://t.me/ebookz
+* https://t.me/Audiobooks_Collection
+* https://t.me/Audiobookclassic
+* https://t.me/archive_of_audiobooks_in_english
+* https://t.me/Audiobookclassic
+* https://t.me/audiobookjunkie
+* https://t.me/AudiobookPro
+* https://t.me/audiobooks_English
+* https://t.me/Audiobooks_uk
+* https://t.me/audiobooky
+* https://t.me/blarkhive
+* https://t.me/books_in_english_free
+* https://t.me/Ebooks_AudioBooks
+* https://t.me/en_audiobooks
+* https://t.me/eng_audiobooks
+* https://t.me/online_audiobooks
+* https://t.me/selfhelpaudiobooks
+* https://t.me/TheAudiobookStop
+* https://t.me/topaudiobooks
+* https://t.me/UnLibrary 
+* https://t.me/audioboookz
+* https://t.me/Audoroom
+* https://t.me/GroupAudio
+* https://t.me/selfhelpaudiobook
 
 ***
 
@@ -1482,11 +1527,6 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 * @m1hbot - *deezer bots, spotify bots ect.*
 * [DeezerMusicBot](https://t.me/DeezerMusicBot) 
 * [FusionDL_Bot](https://t.me/FusionDL_Bot) 
-
-Download from hungama, jio saavn, gaana, wynk @jiodlbot
-
-Downlaod from deezer also supports playlist from Spotify 
-
 * @DeezloaderAn0n_bot
 * @FlacStoreBot
 
@@ -1494,30 +1534,62 @@ Downlaod from deezer also supports playlist from Spotify
 
 #### Telegram eBook Download
 
-* [MF Mix Ebooks](https://t.me/mfmixebooks) 
-* [BookThief Pro](https://t.me/joinchat/AAAAAEhdftsJgcQnPx0O7A) 
-* [BooksBag Pro](https://t.me/joinchat/AAAAAEzJPHplxAzxEO8p-A) 
-* [Best Bookshelf](https://t.me/best_bookshelf) 
-* [Books4U](https://t.me/BooksFree4U)
-* [E-BOOKS GLOBAL™ LIBRARY](https://t.me/Ebooks254)  
-* [Book House International](https://t.me/BOOK_HOUSE_INTERNATIONAL) 
-* [ⓔBooks™](https://t.me/Ebooks_Encyclopedia27)  
-* [Books Every Day](https://t.me/books_every_day) 
-* [BooksNow](https://t.me/booksnow) 
-* [Books_worldd](https://t.me/Books_worldd) 
-* [boks_pdf](https://t.me/boks_pdf) 
-* [Ebooksenglish](https://t.me/Ebooksenglish)
-* [English_Hindi_Novels_Magazine](https://t.me/English_Hindi_Novels_Magazine)
-* [Ebookz](https://t.me/ebookz)
-* [bookdownbot](https://t.me/bookdownbot)
-* [goodreadstopbooks](https://t.me/goodreadstopbooks)
-* [English Books Magazines Novels](https://t.me/English_Books_Magazines_Novels) 
-* [BookDownloadBot](https://t.me/BookDownloadBot)
-* [BooksThief](https://t.me/BooksThief) 
-* [ITBooks4U](https://t.me/ITBooks4U) 
-* [BooksBag](https://t.me/BooksBag) 
-* [iBooks_Bot](https://t.me/iBooks_Bot) 
-* [eng_books](https://t.me/eng_books) 
+* https://t.me/mfmixebooks
+* https://t.me/joinchat/AAAAAEhdftsJgcQnPx0O7A
+* https://t.me/joinchat/AAAAAEzJPHplxAzxEO8p-A
+* https://t.me/best_bookshelf
+* https://t.me/BooksFree4U
+* https://t.me/Ebooks254
+* https://t.me/BOOK_HOUSE_INTERNATIONAL
+* https://t.me/Ebooks_Encyclopedia27
+* https://t.me/books_every_day
+* https://t.me/booksnow
+* https://t.me/Books_worldd
+* https://t.me/boks_pdf
+* https://t.me/Ebooksenglish
+* https://t.me/English_Hindi_Novels_Magazine
+* https://t.me/ebookz
+* https://t.me/goodreadstopbooks
+* https://t.me/English_Books_Magazines_Novels
+* https://t.me/BookDownloadBot
+* https://t.me/BooksThief
+* https://t.me/ITBooks4U
+* https://t.me/BooksBag
+* https://t.me/iBooks_Bot
+* https://t.me/eng_books
+* https://t.me/ASM_Books_Bot
+* https://t.me/bkcrushfilesbot
+* https://t.me/BookCornerBot
+* https://t.me/bookdownbot
+* https://t.me/ebooksdlbot
+* https://t.me/eBukBot
+* https://t.me/libsan_bot
+* https://t.me/pdfobot
+* https://t.me/alejandriak
+* https://t.me/novelbuk
+* https://t.me/PDFArchives
+* https://t.me/s4n1t4t10n
+* https://t.me/yourlibraries
+* https://t.me/TheEbookStop
+* https://t.me/ASM_Books
+* https://t.me/bookclub7
+* https://t.me/BookCrush
+* https://t.me/bookhome3
+* https://t.me/BooksStreet
+* https://t.me/BookWizardTheNewest
+* https://t.me/Dao_Qigong_Taiji_TCM_ebooks
+* https://t.me/eBookExpress
+* https://t.me/ebooks_house
+* https://t.me/eBooksOnly
+* https://t.me/EbookzCollection
+* https://t.me/EbookzGroup
+* https://t.me/epubrabbithole
+* https://t.me/Forwarded_eBooks
+* https://t.me/freebook9
+* https://t.me/Imperial_Stockpile
+* https://t.me/lib_of_dos_old_vk
+* https://t.me/LibrariesofTelegram
+* https://t.me/libraryofdos
 * [More Telegram eBook Channels](https://duckduckgo.com/?q=site%3At.me+books&ia=web)
 
 ***
@@ -1586,7 +1658,7 @@ Downlaod from deezer also supports playlist from Spotify
 
 #### uBlock Filters
 
-**[FilterStalker](https://rentry.co/FilterStalker)**, [dbl.oisd.nl](https://oisd.nl/) / [2](https://hosts.oisd.nl/), [FilterLists](https://filterlists.com/), [webannoyances](https://github.com/yourduskquibbles/webannoyances), [fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/), [The Block List Project](https://blocklistproject.github.io/Lists/), [ADFILT](https://github.com/DandelionSprout/adfilt), [EasyList](https://easylist.to/), [urlhaus-filter](https://gitlab.com/curben/urlhaus-filter), [iBlocklist](https://www.iblocklist.com/), [Energized Protection](https://github.com/EnergizedProtection/block), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [noads](https://lists.noads.online/lists/compilation.txt) / [GitHub](https://github.com/deletescape/noads), [PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection), [my_filter_list](https://github.com/Serdar006/my_filter_list), [fanboy](https://www.fanboy.co.nz/), [CoinBlockerLists (Cryptomining)](https://gitlab.com/ZeroDot1/CoinBlockerLists), [CoinBlockerLists](https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt), [NoTracking blocklist](https://github.com/notracking/hosts-blocklists), [d3ward](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt), [notracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt)
+**[FilterStalker](https://rentry.co/FilterStalker)**, [dbl.oisd.nl](https://oisd.nl/) / [2](https://hosts.oisd.nl/), [FilterLists](https://filterlists.com/), [webannoyances](https://github.com/yourduskquibbles/webannoyances), [fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/), [The Block List Project](https://blocklistproject.github.io/Lists/), [ADFILT](https://github.com/DandelionSprout/adfilt), [EasyList](https://easylist.to/), [urlhaus-filter](https://gitlab.com/curben/urlhaus-filter), [iBlocklist](https://www.iblocklist.com/), [Energized Protection](https://github.com/EnergizedProtection/block), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [noads](https://lists.noads.online/lists/compilation.txt) / [GitHub](https://github.com/deletescape/noads), [PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection), [my_filter_list](https://github.com/Serdar006/my_filter_list), [fanboy](https://www.fanboy.co.nz/), [CoinBlockerLists (Cryptomining)](https://gitlab.com/ZeroDot1/CoinBlockerLists), [CoinBlockerLists](https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt), [NoTracking blocklist](https://github.com/notracking/hosts-blocklists), [d3ward](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt), [notracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt), [lan-block](https://raw.githubusercontent.com/gwarser/filter-lists/master/lan-block.txt), [developerdan](https://www.github.developerdan.com/hosts/)
 
 ***
 

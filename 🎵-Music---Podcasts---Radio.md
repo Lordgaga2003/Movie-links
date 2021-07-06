@@ -14,7 +14,7 @@
 
 * **[Spotify Client](https://spotify.com/)** or [XpoMusic](https://xpomusic.com/) - *Streaming*
 * **Spotify Tools** - **[Block Ads](https://github.com/mrpond/BlockTheSpot)**, [2](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/), [3](https://github.com/Lyut/SpotiHook2) / [Lyrics](https://versefy.app/) / [Spicetify](https://github.com/khanhas/spicetify-cli), [2](https://github.com/khanhas/Spicetify), [Spicetify Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Dedup](https://spotify-dedup.com/) / [Hotkeys](https://github.com/aleab/toastify)
-* **[Freezer](https://freezer.life/)** - *Streaming / [Telegram](https://t.me/joinchat/Se4zLEBvjS1NCiY9)* 
+* **[Freezer](https://freezer.life/)** - *Streaming / [Discord](https://discord.com/invite/qwJpa3r4dQ) / [Telegram](https://t.me/joinchat/Se4zLEBvjS1NCiY9)*
 * [FunkWhale](https://funkwhale.audio/) - *Streaming*
 * [nuclear](https://github.com/nukeop/nuclear) - *Streaming*
 * [YTMDesktop](https://github.com/JamesParkDev/ytmdesktop-adblock), [2](https://ytmdesktop.app/), [Youtube-Music](https://github.com/th-ch/youtube-music) or [YMD](https://github.com/MaverickMartyn/youtube-music-desktop) - *YouTube Music Streaming* 
@@ -165,7 +165,7 @@
 ## ▷ Downloading Apps
 
 * **[Deemix](https://deemix.app/)** - *FLAC / MP3 / /r/deemix / [Telegram](https://t.me/deemixcommunity) / [ARL](https://archive.is/aQ3JA)*
-* **[Freezer](https://freezer.life/)** - *Streaming / [Telegram](https://t.me/joinchat/Se4zLEBvjS1NCiY9)* 
+* **[Freezer](https://freezer.life/)** - *FLAC / MP3 / [Discord](https://discord.com/invite/qwJpa3r4dQ) / [Telegram](https://t.me/joinchat/Se4zLEBvjS1NCiY9)* 
 * **[YouTube to MP3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - *Telegram audio download channels*
 * [SMLoadr](https://t.me/SMLoadrNews) - *FLAC / MP3 / [Desktop GUI](https://github.com/thelucifermorningstar/SMLoadr-AUX/releases)*

@@ -218,6 +218,7 @@
 * [Recipe Search](https://recipe-search.typesense.org/) - *Recipe Search* 
 * [Recipe Retrieve](https://reciperetrieve.com/) - *Recipe Search*
 * [DotNom](http://www.dotnom.com/) - *Recipe Search*
+* [Yummly](https://www.yummly.com/) - *Recipe Search*
 * [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - *Food Image to Recipe Tool* 
 * [TasteAtlas](https://www.tasteatlas.com/) - *Recipe Map* 
 * [Cooking YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cooking_youtube_channels)
@@ -302,6 +303,7 @@
 * [Hermetics](http://www.hermetics.org/library.html) - *Ancient Texts / Mythology / Occult*
 * [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - *Religion / Esoterica / Occult*
 * [Esoteric Library](https://mega.nz/#F!jN8GTSaJ!xN6x5Pv9dhqT6yLhO6r2Ow) - *Esoterica / Occult* 
+* [Magic / Esoteric Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks) - *Magic / Esoteric*
 * [Dhamma Talks](https://www.dhammatalks.org/) - *Sacred Texts / Religion / Buddhism*
 * [Sutta Central](https://suttacentral.net/) - *Sacred Texts / Religion / Buddhism* 
 * [Gnostic Society Library](http://www.gnosis.org/library.html) - *Gnosticism*
@@ -372,10 +374,14 @@
 * [Legal Mises Institute](https://mises.org/) - *Books / Audio books / Libertarianism* 
 * [Survivor Library](http://www.survivorlibrary.com/), [Free Survival eBooks](https://www.defiel.com/free-survival-ebooks/), [GoodDebate](https://gooddebate.org/sin/mirror/library/) or /r/PrepperFileShare - *Survival*
 * [NATSIG Resources](https://mega.nz/#F!ZuZmiBqZ!XhyEetUaj6an8ntb-U1AZw) - *Survival / Bushcraft / Welding / Blacksmithing / German Books / Mythology / Drive* 
-* [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) - *Self Help books / Telegram*
+* [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) - *Self Help / Telegram*
+* [selfhelpbooklab](https://t.me/selfhelpbooklab) - *Self-Help*
+* [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) - *Self-Help*
 * [Retro Game Strategy Guides](https://archive.org/details/Tekken3PrimasOfficialStrategyGuide1998) - *700 Retro Game Strategy Guides* 
 * [Erowid](https://www.erowid.org/) - *Psychoactive Information Index*
-* [The-Eye Psychedelics](https://the-eye.eu/public/Psychedelics/Psychedelic%20Praxis%20Library%203.0/)
+* [The-Eye Psychedelics](https://the-eye.eu/public/Psychedelics/Psychedelic%20Praxis%20Library%203.0/) - *Psychedelics*
+* [HerbologyY](https://t.me/HerbologyY) - *Herbology / Telegram*
+* [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - *Hypnosis / Telegram*
 * [The Trove](https://thetrove.is/) - *Books / Fantasy / TTRPG / [Wayback Machine](https://web.archive.org/web/20210614215400/https://thetrove.is/), [2](https://web.archive.org/web/20210430220147/https://thetrove.is/)*
 * [Choisey](http://choisey.free.fr/) or [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - *TTRPG Rulebooks*
 * [SimplyScripts](https://www.simplyscripts.com/) or [Scripts.com](https://scripts.com/) - *Movie / TV Scripts* 
@@ -449,6 +455,7 @@
 * [Space.com](https://www.space.com/) - *News / Exploration / Astronomy / Space*
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) - *Books / Notes / Astronomy*
 * [phys](https://phys.org/) - *Latest / News / Article / Physics* 
+* [linguistics_library](https://t.me/linguistics_library) - *Linguistics Books*
 * [RealNotComplex](https://realnotcomplex.com/) - *Math / Books*
 * [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial) - *Reverse Engineering Course* 
 * [HowtoForge](https://www.howtoforge.com/) - *Linux / Tutorials*
@@ -465,6 +472,7 @@
 * [Am Medicine](https://am-medicine.com/) - *Medical*
 * [PickPDF](https://pickpdfs.com/) - *Medical* 
 * [MedicalStudyZone](https://medicalstudyzone.com/) - *Medical* 
+* [Medical_Book_Bot](https://t.me/Medical_Book_Bot) - *Medical / Telegram*
 * [Lee B. Drive](https://drive.google.com/drive/u/0/mobile/folders/183tf8PmQbwgVC7HrxOZ5WQPulVd-Uomi) - *Books / Black History / Educational*
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - *Typography Guide Book*
 * [Cheatography](https://cheatography.com/) - *Educational Cheat Sheets* 
@@ -508,6 +516,7 @@
 * [textfiles.com](http://textfiles.com/) - *1980's Text File Index*
 * [Digital Archive](https://digitalarchive.wilsoncenter.org/collections) - *Historical Documents*  
 * [Archives.gov](https://archives.gov/) - *US Historical Documents*
+* [The National Archives](https://nationalarchives.gov.uk/) - *UK Historical Documents*
 * [History Newsboys of 1899](https://drive.google.com/drive/u/0/mobile/folders/10rKtVNd18i30mrXwIjFnMMPUBveKNdOO?usp=sharing) - *Books / Documents*
 
 ***
@@ -718,13 +727,14 @@
 * **Manga Apps - [Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_android_manga) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_manga)** - *Free manga apps / organizers*
 * **[Manga Site Index](https://piracy.moe/)** - *curated manga site list*
 * **[MangaDex](https://mangadex.org/)** - *[Download Script](https://github.com/frozenpandaman/mangadex-dl)*
+* **[Manga4Life](https://manga4life.com/)**
+* [Manga Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_download_bots) - *Bots that Download Manga*
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - *Anime / Manga Download Forum*
 * Madokami Manga Archive - [0-E](https://archive.org/download/Madokami.Manga.0-E), [F-K](https://archive.org/download/Madokami.Manga.F-K), [L-Q](https://archive.org/download/Madokami.Manga.L-Q), [R-Z](https://archive.org/download/Madokami.Manga.R-Z)
 * [bato](https://bato.to/) - *[Discord](https://discord.gg/7NBwcBsDph)*
 * [MangaHere](http://www.mangahere.cc)
 * [MangaKare](https://mangakare.com/) 
 * [MangaNelo](https://manganelo.com/) or [Mangakakalot](https://mangakakalot.com/)
-* [Manga4Life](https://manga4life.com/)
 * [MangaHub](https://mangahub.io/)
 * [MP4DIRECTS](https://mp4directs.com/) 
 * [MangaReader](https://www.mangareader.net/)
@@ -777,7 +787,6 @@
 * [BoysLove](https://boyslove.me/) - *Yaoi* 
 * [OtakuGallery](http://www.otakugallery.com/) - *Manga Artbooks*
 * [WebToons](https://www.webtoons.com/en/) - *Manga Webtoons*  
-* [HakuNeko](https://github.com/manga-download/hakuneko), [Comics Downloader](https://github.com/Girbons/comics-downloader), [FMD](https://sourceforge.net/projects/fmd/), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [Free Manga Downloader](https://sourceforge.net/projects/newfmd/) or [mangadownloader](https://github.com/n1mo/manga) - *Manga Downloader*
 * [AllMangasReader](http://allmangasreader.com/) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - *Organizer / Reader*
 * [Tachiyomi](https://tachiyomi.org/) - *Android / Manga / Comic Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / [Desktop](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb)* 
 * [manga-py](https://github.com/manga-py/manga-py) - *Python line manga downloader* 
@@ -790,19 +799,19 @@
 
 ## ▷ Light Novel Sites
 
-* **[Kiss Light Novels](https://kisslightnovels.info/)**
-* **[ThatNovelCorner](https://thatnovelcorner.com/)** - *Premium Light-Novels*
+* **[Just Light Novels](https://www.justlightnovels.com/)**
+* **[ThatNovelCorner](https://thatnovelcorner.com/)**
 * [Light Novel World](https://www.lightnovelworld.com/)
 * [Baka-Tsuki](https://www.baka-tsuki.org)
 * [Armaell's Library](https://armaell-library.net/)
 * [Novel Online Free](https://novelonlinefree.com/homepage)
 * [jNovels](https://jnovels.com/)
+* [Kiss Light Novels](https://kisslightnovels.info/)
 * [MP4DIRECTS](https://mp4directs.com/) 
 * [English Light Novels](https://englishlightnovels.com)
 * [Tensai Translations](https://tensaitranslations.wordpress.com/)  
 * [Web Novel](https://www.webnovel.com/) 
 * [jnovels](https://jnovels.com/) 
-* [Just Light Novels](https://www.justlightnovels.com/)
 * [Shin Translations](https://shintranslations.com/)
 * [Novel Updates](https://www.novelupdates.com/)  
 * [Henkan Epubs](https://henkanepubs.wordpress.com/) 
@@ -952,7 +961,8 @@
 * [qPDFview](https://launchpad.net/qpdfview) - *PDF Reader / PC*
 * [mupdf](https://mupdf.com/) - *PDF Reader / PC*
 * [XODO](https://www.xodo.com/) - *PDF Reader / PC / Android / iOS*
-* [gonitro](https://www.gonitro.com/pdf-reader) - *PDF Reader  PC*
+* [gonitro](https://www.gonitro.com/pdf-reader) - *PDF Reader / PC*
+* [PdfPreviewbot](https://t.me/PdfPreviewbot) - *Telegram PDF Reader*
 * [Readera](https://play.google.com/store/apps/details?id=org.readera) - *Manager / Reader / Android*
 * [fViewer](https://www.fviewer.com/) - *Online book / document viewer*
 * [ePubReader](https://www.epubread.com/en/) - *Firefox ePub reader*
@@ -964,7 +974,7 @@
 * [Raven Reader](https://ravenreader.app/) - *Article Reader / Manager* 
 * [Cubari](https://cubari.moe/) - *Image Proxy / Reader*
 * [Reader View](https://add0n.com/chrome-reader-view.html), [EpubPress](https://epub.press/), [Reader View](https://mybrowseraddon.com/reader-view.html) or [2read](https://2read.net/) - *Open Pages in Reader View*
-* [Ebook Sender](https://telegram.me/to_kindle_bot) - *Send Ebooks to Kindle*
+* [Ebook Sender](https://telegram.me/to_kindle_bot) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - *Send Ebooks to Kindle*
 
 ***
 

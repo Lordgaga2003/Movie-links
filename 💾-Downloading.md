@@ -312,7 +312,6 @@
 ## ▷ Indexers
 
 * [Indexer List](https://www.reddit.com/r/usenet/wiki/indexers#wiki_free_membership_sites)
-* [nzbwolf](https://usenet.app/#)
 * [nzbplanet](https://nzbplanet.net/)
 * [orionoid](https://orionoid.com/)
 * [binsearch](http://binsearch.info/)

@@ -137,7 +137,7 @@
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - *Easily Open Links in Text via Share Function*
 * [Ponydroid](https://forum.mobilism.org/search.php?keywords=ponydroid&amp;sr=topics&amp;sf=titleonly) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - *Download File Manager*
 * [TrebleShot](https://trebleshot.monora.org/) - *Network File Sharing App*
-* [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/) or [IrkFM](https://github.com/lfuelling/lrkFM) - *File Manager*
+* [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/Mixplorer), [Solid Explorer](https://forum.mobilism.org/search.php?keywords=solid+explorer&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [MaterialFiles](https://github.com/zhanghai/MaterialFiles) or [IrkFM](https://github.com/lfuelling/lrkFM) - *File Manager*
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - *Download / Torrent Manager* 
 * [Vysor](https://www.vysor.io/) or [scrcpy](https://github.com/Genymobile/scrcpy) - *Control Android via Desktop*
 * [LineageOS](https://www.lineageos.org/) or [Replicant](https://www.replicant.us/) - *Android OS*
@@ -302,7 +302,7 @@ App Manager
 * **[AIDS](https://forum.mobilism.org/viewtopic.php?f=1332&amp;t=3897714)** - *Download / MP3  / FLAC* 
 * [YouTube Music Vanced](https://vancedapp.com/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [Ylight Music](https://apt.izzysoft.de/fdroid/repo/com.ylightmusic.app/), [HoloPlay](https://f-droid.org/packages/com.holoplay
 https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTube Music Player*
-* [Freezer](https://freezer.life/) - *Stream / Download* 
+* [Freezer](https://freezer.life/) - *Stream / Download / [Discord](https://discord.com/invite/qwJpa3r4dQ) / [Telegram](https://t.me/joinchat/Se4zLEBvjS1NCiY9)* 
 * [Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players) - *Music Players / Libraries*
 * [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - *Subsonic Client*
 * [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - *Streaming*
@@ -359,7 +359,7 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * **[Stremio](https://www.stremio.com/)** - *Torrent Streaming / [Addons](https://redd.it/ahd6gk) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * **[CloudStream2](https://github.com/LagradOst/CloudStream-2)** - *Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM)*
 * **[CinemaHD](https://cinemaapk.com/)** - *Movies / TV / Anime / Chromecast*
-* **[Noyox](https://play.google.com/store/apps/details?id=com.vid.vidseed)** - *Movies / TV / Code: 777*
+* **[Noyox](https://play.google.com/store/apps/details?id=com.vid.vidseed)**, [Zivcy](https://www.downloader.world/) or [Zoshy](http://play.google.com/store/apps/details?id=com.sy.syfoo)  - *Movies / TV / Code: 777*
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - *Ad Free YouTube on Android*
 * **[Cinehub](https://www.cinehub.app/)** or [Cinehub.to](https://www.cinehub.to/) - *Movies / TV / Chromecast /* **Currently Down :(**
 * [CucoTV](https://cucotv.github.io/) - *Movies / TV* 
@@ -608,6 +608,7 @@ iOS
 * [Movzy](https://apps.apple.com/us/app/movzy-movies-music-for-you/id1537372348) - *Movies* 
 * [Blackbox](https://apps.apple.com/ca/app/black-box-movie-listing/id958957112) - *Movies* 
 * [Dramatics](https://apps.apple.com/us/app/dramatics-best-drama/id1493796973) - *TV / Movies*
+* [Zivcy](https://www.downloader.world/) - *Movies / TV*
 * [HDO Box](https://apps.apple.com/ca/app/hdo-box-a-better-tracking/id1529135165) - *Movies / TV*
 * [Airy TV](https://airy.tv/) - *Legal / Live TV*  
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - *Chinese Drama*

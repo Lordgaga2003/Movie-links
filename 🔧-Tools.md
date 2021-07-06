@@ -396,7 +396,6 @@
 * [WebcamTests](https://webcamtests.com/) - *Test your Webcam*
 * [IRuin](https://iriun.com/) - *Use Phone Camera as a Webcam*
 * [VougueAI](https://vogueai.aml.fynd.com/) - *Extract Fashion Designs from Videos* 
-* [Widevine L3 Decryptor](https://github.com/tomer8007/widevine-l3-decryptor/tree/ed8a97745c69b8cc0fc7f59cec9474b216b49e16) - *Bypass Widevine DRM*
 
 ***
 

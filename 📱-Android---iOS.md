@@ -406,7 +406,7 @@ RSS Player*
 * [AnimeTwistFlut](https://github.com/simrat39/AnimeTwistFlut/releases)
 * [TaiYaKiAnime](https://github.com/Michael24884/TaiYaKiAnime), [2](https://michael24884.github.io/TaiYaKiAnime/) + *[Discord](https://discord.com/invite/8fzmNSB)*
 * [AnimeDLR](https://cyberneticlifeform.wixsite.com/cylonu87/animedlr) + *[Discord](https://discord.com/invite/wKxRqKc)*
-* [AnimeUltima](https://www1.animeultima.to/app) + *[Discord](https://discord.gg/T3sDrtf)*
+* [AnimeUltima](https://www1.animeultima.to/app) + *[Discord](https://discord.gg/Am89tCjYkY)*
 * [aniryu](https://anime.pokurt.me/)
 * [AnimeBoya](https://github.com/Tu2l/AnimeBoya)
 * [Aniyomi](https://github.com/jmir1/aniyomi)

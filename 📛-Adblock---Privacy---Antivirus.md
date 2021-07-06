@@ -216,6 +216,7 @@
 * [Anti-Fp](https://www.cydecplatform.com/antifp.html) - *Disrupt Fingerprint Targeting*
 * [CSS Exfil Protection](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester) - *Stops CSS data exfiltration attacks*
 * [CanvasBlocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_canvasblocker) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - *Prevent Canvas Fingerprinting*
+* [PortAuthority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/) - *Block Javascript Port Scan on Sites*
 * [First Party Isolation](https://github.com/mozfreddyb/webext-firstpartyisolation) - *Like blocking Third-party cookies, but more exhaustively*
 * [Location Guard](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_location_guard) or [Manual Geolocation](https://chrome.google.com/webstore/detail/manual-geolocation/jpiefjlgcjmciajdcinaejedejjfjgki) - *Hide Browsers Geolocation*
 * [Language Switch](https://addons.mozilla.org/en-US/firefox/addon/languageswitch/) - *Change Language Identifier*

@@ -780,7 +780,7 @@
 * [GustaTV](https://www2.gustatv.to/requests/) - *Movies / TV* 
 * [TheWebFlix](https://docs.google.com/forms/d/e/1FAIpQLSe1-DTmK9yuAtmO6_pLMO4fR5UF2aWf0QbMME41blXfFWSQBA/viewform) - *Movies / TV* 
 * [anime-sharing](http://www.anime-sharing.com/forum/anime-requests-19/) - *Anime*
-* [animeultima](https://www1.animeultima.to/anime-request?filter=Open) - *Anime*
+* [animeultima](https://www1.animeultima.to/anime-request?filter=Open) - *Anime / [Discord](https://discord.gg/Am89tCjYkY)*
 * [NyaFilmer](https://nyafilmer.vip/contact/) - *Movies / TV / Anime*
 * [warezforums](https://warezforums.com/Forum-Request-Movies-TV-Shows) - *Movies / TV*
 * [KatmovieHD](https://katmoviehd.se/movie-request-page/) - *Movies / TV*

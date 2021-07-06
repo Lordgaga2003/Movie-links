@@ -246,7 +246,7 @@
 * [PicFont](https://picfont.com/) - *Add Text to Images*
 * [CLIP-GLaSS](https://colab.research.google.com/drive/1fWka_U56NhCegbbrQPt4PWpHPtNRdU49?usp=sharing#scrollTo=zvZFRZtcv8Mp) - *Image Generation Tool* 
 * [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Movie / TV Covers & Posters*
-* [Film](https://beta.flim.ai/) - *Movie Screenshot Database* 
+* [Film](https://beta.flim.ai/) - *Movie Cover Collections* 
 * [CleanPNG](https://www.cleanpng.com/) or [OpenClipart](https://openclipart.org/) - *PNG Images / Clipart* 
 * [PSDGraphics](https://www.psdgraphics.com/) - *PSD Files*
 * [Artbreeder](https://artbreeder.com/) - *Image Discovery / Combining*
@@ -355,6 +355,7 @@
 * [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - *Turn Screencasts into GIFs*
 * [Stream Recorder](https://www.hlsloader.com/) - *Streaming Video Recorder* 
 * [GifW00t](https://github.com/yaronn/GifW00t) - *Javascript Web Recorder*
+* [PseudoTV](https://github.com/DEFENDORe/pseudotv) - *Create TV Channels using Plex Library*
 * [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-dl](https://github.com/ihabunek/twitch-dl) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  *Download Twitch Videos* 
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - *Lightweight Twitch Webplayer*
 * [Multi](https://multi.raredrop.co/) - *Watch Multiple Twitch Streams* 
@@ -429,7 +430,7 @@
 * [HeSuVi](https://sourceforge.net/projects/hesuvi/) - *Headphone Surround Virtualizations*
 * [REAL](https://github.com/miniant-git/REAL) - *Reduce Win 10 Audio Latency*
 * [VCV Rack](https://vcvrack.com/) - *Eurorack Simulator*
-* [Midomi](https://www.midomi.com/), [Shazam](https://www.shazam.com/), [SoundHound](https://www.soundhound.com/soundhound), [AcrCloud](https://www.acrcloud.com/identify-songs-music-recognition-online/), [Music ID Android](https://play.google.com/store/apps/details?id=com.gravitymobile.recognize&hl=en), [Music ID iOS](https://apps.apple.com/app/musicid/id358838909?ign-mpt=uo%3D8), [Dejavu](https://github.com/worldveil/dejavu) (python) or [Audd](https://audd.io/) (api) - *Song Identification Tools* 
+* [Midomi](https://www.midomi.com/), [Shazam](https://www.shazam.com/), [SoundHound](https://www.soundhound.com/soundhound), [AcrCloud](https://www.acrcloud.com/identify-songs-music-recognition-online/), [Music ID Android](https://play.google.com/store/apps/details?id=com.gravitymobile.recognize&hl=en), [Music ID iOS](https://apps.apple.com/app/musicid/id358838909?ign-mpt=uo%3D8), /r/NameThatSong, [Dejavu](https://github.com/worldveil/dejavu) (python) or [Audd](https://audd.io/) (api) - *Song Identification Tools* 
 * [Monash IO](https://monash.io/) or [AudioRelay](https://audiorelay.net/) - *Stream PC Audio to Phone* 
 * [Tune My Music](https://www.tunemymusic.com/) - *Transfer Your Music Library between Music Services*
 * [iPod.js](https://tannerv.com/ipod/) - *iPod Themed Web Music Player*
@@ -522,6 +523,9 @@
 * **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - *News Multireddit*
 * [RavenReader](https://ravenreader.app/) - *News Article Manager*
 * [ABYZNews](http://www.abyznewslinks.com/), [AllYouCanRead](https://www.allyoucanread.com/), [World-Newspapers](https://world-newspapers.com/) or [OnlineNewspapers](http://www.onlinenewspapers.com/index.shtml) - *Worldwide News Sites Index* 
+* [Google Alerts](https://www.google.com/alerts) - *News Alerts by Topics*
+* [PublicAlerts](https://google.org/publicalerts) - *Important News / Disaster Alerts*
+* [GHacks](https://www.ghacks.net/) or [Slashdot](https://slashdot.org/) - *Tech News*
 * [Interactive News Map](https://usa.liveuamap.com/) - *Geolocated News Alerts / Headlines U.S* 
 * [Forekast](https://forekast.com/) - *Worldwide Event Calendar* 
 * [Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspaper_sites) - *Read & Download Newspapers*
@@ -554,6 +558,8 @@
 * [City Roads](https://anvaka.github.io/city-roads/) - *Draw City Roads*
 * [Mobac](https://mobac.sourceforge.io/) - *Mobile Atlas Creator*
 * [CellMapper](https://www.cellmapper.net/) - *Cell Tower Map*
+* [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - *Web Service Coverage Map*
+* [PowerOutage](https://poweroutage.us/) - *Power Outage Map*
 * [City Generator](https://probabletrain.itch.io/city-generator) - *City Map Generator* 
 * [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Map* 
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - *List / Map of Active Volcanoes*
@@ -586,7 +592,7 @@
 * [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - *Web Service Coverage Map*
 * [FeedReader](http://www.feedreader.com/), [QuiteRSS](https://quiterss.org/), [RSSOwl](http://www.rssowl.org/), [CommaFeed](https://www.commafeed.com/#/welcome), [RSSHub](https://github.com/DIYgod/RSSHub), [Fluent Reader](https://hyliu.me/fluent-reader/) or [Feeder](https://feeder.co/) - *RSS Feed Reader* 
 * [DatoRSS](https://www.datorss.com/) or [RSS.app](https://rss.app/) - *RSS Feed Search* 
-* [RSS Box](https://rssbox.herokuapp.com/) - *RSS Feed Generator* 
+* [RSS Box](https://rssbox.herokuapp.com/) or [FiveFilters](https://createfeed.fivefilters.org/) - *RSS Feed Creator* 
 * [Consuming The World](https://weboas.is/forum/index.php?topic=656.0) - *RSS Feed List / Guide*
 * [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - *GitHub, Reddit, Hacker News & other Feeds*
 * [AutoSolve Captcha](https://hackgence.com/d/55-how-to-bypass-hcaptcha-autosolve-captcha) - *How to Bypass hCaptcha* 
@@ -625,6 +631,7 @@
 * [IMumble](https://www.imumble.nl/) - *Voice Chat Server*
 * [Speak After Click](https://speakafter.click/) - *Click to Speak Voice Chat* 
 * [Branch](http://branch.gg/) - *Virtual World Voice Chat*
+* [FireStorm Viewer](https://www.firestormviewer.org/) - *Virtual World Viewer*
 * [Telegram Email](https://t.me/etlgr_bot) - *Send / Receive Emails via Telegram* 
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://www.nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - *Scheduled sending and email reminders* 
 * [Cleanfox](https://www.cleanfox.io/) - *Easily Clean Email Inbox* 
@@ -1270,7 +1277,7 @@ General Reading Sites*
 * [PDFx](https://www.metachris.com/pdfx/) or [Tabula](https://tabula.technology/) - *Extract Info / URLs from PDF* 
 * [online2pdf](https://online2pdf.com/) - *Convert files to PDF*
 * [PDFConverter](https://www.pdfconverter.com/) - *Convert PDF Files* 
-* [JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF) or [img2pdf](https://pypi.org/project/img2pdf/) - *Create PDF Files from Images*
+* [JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF), [JPG2PDFBot](https://t.me/JPG2PDFBot) or [img2pdf](https://pypi.org/project/img2pdf/) - *Create PDF Files from Images*
 * [PDFmyURL](https://pdfmyurl.com/) - *Convert Web Page to PDF* 
 * [PSTOEdit](http://pstoedit.net/) - *Convert PDF to other Vector Formats* 
 * [Issuu](https://issuu.com/) - *Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/)* 
@@ -1414,7 +1421,7 @@ General Reading Sites*
 * /r/CrackWatch, [SteamCrackStatus](https://steamcrackedgames.com/) /[Discord](https://discord.gg/8hhTZUDPu9) / /r/SteamCrackedGames* or [CrackSnoop](https://github.com/CrackSnoop/cracksnoop) - *Scene Release Trackers / [Discord](https://discord.gg/d9StxkknwX)*
 * [find-PlayDate](https://www.find-playdate.com/) - *Find People to Play Games With* 
 * [Before I Play](http://www.beforeiplay.com/) - *Tips for any Game* 
-* [Fraps](https://fraps.com/), [Rivatuner Statistics Server](https://www.guru3d.com/files_teaserimage/225) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - *FPS Benchmarking Utility*
+* [Fraps](https://fraps.com/), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - *FPS Benchmarking Utility*
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner) - *Graphics Card Overclocking Utility / FPS Benchmarking*
 * [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - *Game Fixes and Patches*
 * [GameBurnWorld](http://www.gameburnworld.com/) - *No-CD/No-DVD Patches, Game Fixes, Trainers, Cheats* 
@@ -1478,6 +1485,7 @@ General Reading Sites*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
 * [Plutonium](https://plutonium.pw/) - *Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)* 
 * [IW4x / IW6x](https://xlabs.dev/) - *COD MW2 Mod Project* 
+* [NV: Multiplayer](https://nv-mp.com/) - *Fallout New Vegas Multiplayer Project / [Discord](https://discord.com/invite/mKVdhmEDrW)*
 * [Project Reality](https://www.realitymod.com/about) - *BF2 & ARMA 2 Realism Mod*
 * [BF2142 Reclamation](https://battlefield2142.co/) - *BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)*
 * [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - *Battlefield Mod Projects*

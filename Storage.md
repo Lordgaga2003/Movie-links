@@ -128,7 +128,7 @@
 
 #### Audio Editors 
 
-**[Audacity](https://github.com/cookiengineer/audacity)**, [2](https://archive.org/details/audacity-2.4.2), [3](https://www.audacityteam.org/), [4](https://github.com/temporary-audacity/audacity) / [DarkAudacity](http://www.darkaudacity.com/), [MusE](https://muse-sequencer.github.io/), [Lexis Audio Editor](https://www.lexisaudioeditor.com/), [mp3DirectCut](https://mpesch3.de/), [Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [AudioMass](https://audiomass.co/), [FamiStudio](https://famistudio.org/), [ocenaudio](https://www.ocenaudio.com/en/startpage), [mp3mymp3](https://mp3mymp3.digitalliquid.com/), [Wavosaur](https://www.wavosaur.com/), [Radium](https://users.notam02.no/~kjetism/radium/), [AudioDope](http://www.audiodope.org/index.htm), [Qtractor](https://qtractor.org/) (Linux)
+**[Audacity](https://github.com/cookiengineer/audacity)**, [2](https://archive.org/details/audacity-2.4.2), [3](https://www.audacityteam.org/), [4](https://github.com/temporary-audacity/audacity), [5](https://github.com/tenacityteam/tenacity) / [DarkAudacity](http://www.darkaudacity.com/), [MusE](https://muse-sequencer.github.io/), [Lexis Audio Editor](https://www.lexisaudioeditor.com/), [mp3DirectCut](https://mpesch3.de/), [Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [AudioMass](https://audiomass.co/), [FamiStudio](https://famistudio.org/), [ocenaudio](https://www.ocenaudio.com/en/startpage), [mp3mymp3](https://mp3mymp3.digitalliquid.com/), [Wavosaur](https://www.wavosaur.com/), [Sneedcity](https://github.com/Sneeds-Feed-and-Seed/sneedacity), [Radium](https://users.notam02.no/~kjetism/radium/), [AudioDope](http://www.audiodope.org/index.htm), [Qtractor](https://qtractor.org/) (Linux)
 
 ***
 
@@ -1608,9 +1608,15 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 * [Rare Films](https://t.me/rarefilms) - *Movies* 
 * [New_Hollywood_Netflix_Movies](https://t.me/New_Hollywood_Netflix_Movies) - *Movies*
 * [MoviesVerse](https://t.me/MoviesHomeOFFICIALS) - *Movies / TV* 
-* [SciFiMovies4U](https://t.me/SciFiMovies4U) - *Sci-Fi Movies* 
 * [GDrive Movies Download](https://t.me/Google_drive_download_movies) - *Movies / TV* 
 * [Request_movies_series_bot](https://t.me/Request_movies_series_bot) - *TV*
+* [SciFiMovies4U](https://t.me/SciFiMovies4U) - *Sci-Fi Movies* 
+* [Warrior Spirits](https://t.me/warriorspirits) - *Action Movies*
+* [cultclassics](https://t.me/cultclassics) - *Classic*
+* [pre_code](https://t.me/pre_code) - *Classic*
+* [StommeFilms](https://t.me/StommeFilms) - *Classic*
+* [ZwartwitFilms](https://t.me/ZwartwitFilms) - *Classic*
+* [CartoonLibrary](https://t.me/CartoonLibrary) or [Cartoon_Index](https://t.me/Cartoon_Index) - *Cartoons*
 
 ***
 

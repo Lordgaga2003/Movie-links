@@ -1058,7 +1058,6 @@ General Reading Sites*
 * [TweetTopicExplorer](http://tweettopicexplorer.neoformix.com/) - *See a Users Most Common Words* 
 * [Twayback Machine](http://staringispolite.github.io/twayback-machine/) - *View a Users Old Tweets* 
 * [PolitWoops](https://politwoops.com/countries) - *Deleted tweets from politicians* 
-* [First Tweet](http://ctrlq.org/first/) - *Find the Source of a Twitter Quote* 
 * [Hoaxy](https://hoaxy.osome.iu.edu/) - *Twitter Info Spread Data*
 * [Tweets Analyzer](https://github.com/x0rz/tweets_analyzer) - *Tweet Metadata Scraper* 
 * [GeoSocial Footprint](http://geosocialfootprint.com/) or [tinfoleak](https://tinfoleak.com/) - *View Your Geosocial Footprint* 

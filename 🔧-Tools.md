@@ -438,7 +438,7 @@
 * [yt2pod](https://github.com/frou/yt2pod) - *Create Podcasts from YouTube Channels* 
 * [Deemixrr](https://github.com/TheUltimateC0der/Deemixrr) - *Automated Music Manager* 
 * [FFmpeg](https://ffmpeg.org/) - *Record, convert and stream audio & video / [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom)*
-* [Audio Converter Online](https://online-audio-converter.com/), [LameXP](https://sourceforge.net/projects/lamexp/) or [FreeAC](https://www.freac.org/) - *Audio Converter* 
+* [Audio Converter Online](https://online-audio-converter.com/), [LameXP](https://sourceforge.net/projects/lamexp/), [SoX](http://sox.sourceforge.net/) or [FreeAC](https://www.freac.org/) - *Audio Converter* 
 * [Faasoft FLAC Converter](https://www.faasoft.com/articles/flac-converter-mac-and-windows.html) - *FLAC Converter* 
 * [FLAC Frontend](http://flacfrontend.sourceforge.net/) - *FLAC Tools* 
 * [FLAC2iTunes](https://github.com/pathartl/FLAC2iTunes/releases/tag/1.0.0) - *Convert FLAC to ALAC* 
@@ -703,6 +703,7 @@
 * [byp4xx](https://github.com/lobuhi/byp4xx) - *Bypass "403 Forbidden" Messages* 
 * [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - *SSH & Telnet Client* 
 * [FairGame](https://github.com/Hari-Nagarajan/fairgame) - *Automatically Place Orders on Amazon*
+* [FUCKING HOMEPAGE](https://fuckinghomepage.com/) - *Browser Homepage*
 * [rickroll-blocker](https://github.com/hitthemoney/rickroll-blocker/) - *Rick Roll Blocker* 
 
 ***
@@ -1169,7 +1170,6 @@ General Reading Sites*
 * [JumpShare](https://jumpshare.com/) - *File, Screenshot & Video Sharing*
 * [here.fm](https://here.fm/ ) - *Screen Sharing Tool*
 * [AnyDesk](https://anydesk.com/), [RustDesk](https://rustdesk.com/), [Parsec](https://parsec.app/), [TeamViewer](https://www.teamviewer.com/en-us/) or [NoMachine](https://www.nomachine.com/) - *Remote Desktop Clients*
-* [WindowsRDP](https://github.com/itznik/WindowsRDP) - *Free RDP / [Guide](https://rentry.co/WindowsRDP)*
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - *Free Ubuntu VNC*
 * [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - *Free Google Colab Code Server & RDP*
 * [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) - *Free Google Colab VPS on 25GB RAM*

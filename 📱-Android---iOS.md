@@ -56,7 +56,7 @@
 * [Adgaurd VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html) - *Free VPN*
 * [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) - *Proxy*
 * [Sagernet](https://sagernet.org/) - *Proxy Tools*
-* [Access Dots](https://play.google.com/store/apps/details?id=you.in.spark.access.dots) - *Camera / Mic Access Indicator* 
+* [Privacy Indicator](https://f-droid.org/packages/com.nitish.privacyindicator/), [2](https://play.google.com/store/apps/details?id=com.nitish.privacyindicator) or [Access Dots](https://play.google.com/store/apps/details?id=you.in.spark.access.dots) - *Camera / Mic Access Indicator* 
 * [CamWings](https://schiffer.tech/camwings-mobile.html) - *Camera Protection* 
 * [ScreenWings](https://schiffer.tech/screenwings-mobile.html) - *Screen Protection* 
 * [Stingle Photos](https://stingle.org/) - *Private Photo / Video Gallery* 
@@ -157,7 +157,7 @@ App Manager
 * [Microsoft Edge Read Aloud](https://redd.it/l1fdh9) - *How to use Microsoft Read Aloud TTS on Android* 
 * [Koler](https://github.com/Chooloo/koler) - *Dialer App* 
 * [K-9 Mail](https://k9mail.app/) - *Email Client* 
-* [Mathway](https://play.google.com/store/apps/details?id=com.bagatrix.mathway.android&amp;) or [PhotoMath](https://photomath.app/en/) - *Math Equation Solver / Help* 
+* [Mathway](https://play.google.com/store/apps/details?id=com.bagatrix.mathway.android&amp;) or [PhotoMath](https://forum.mobilism.org/search.php?keywords=photomath&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - *Math Equation Solver / Help* 
 * [Get Unstuck](https://socratic.org/) - *Homework Answers / Help* 
 * [Tasks](https://tasks.org/) - *To-Do List / Reminders*
 * [Orgzly](https://github.com/orgzly/orgzly-android) - *Note Taking / To-Do App*

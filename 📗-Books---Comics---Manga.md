@@ -516,6 +516,7 @@
 * [textfiles.com](http://textfiles.com/) - *1980's Text File Index*
 * [Digital Archive](https://digitalarchive.wilsoncenter.org/collections) - *Historical Documents*  
 * [Archives.gov](https://archives.gov/) - *US Historical Documents*
+* [Europeana](https://www.europeana.eu/) - *European Historical Documents*
 * [The National Archives](https://nationalarchives.gov.uk/) - *UK Historical Documents*
 * [History Newsboys of 1899](https://drive.google.com/drive/u/0/mobile/folders/10rKtVNd18i30mrXwIjFnMMPUBveKNdOO?usp=sharing) - *Books / Documents*
 
@@ -660,6 +661,7 @@
 * [WikiDiff](https://wikidiff.com/) - *Difference Between Any Words* 
 * [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - *Search for Words Using Their Meanings* 
 * [Tip of my Tounge](https://chir.ag/projects/tip-of-my-tongue/) - *Find Words you Can't Remember*
+* [Focal](http://www.focal.ie/) - *Irish Word Dictionary*
 * [TheIdioms](https://www.theidioms.com/) - *Idiom Dictionary* 
 * [Lexipedia](http://www.lexipedia.com/) - *Word Connections*
 * [RhymeZones](https://www.rhymezone.com/) - *Rhyme Dictionary*

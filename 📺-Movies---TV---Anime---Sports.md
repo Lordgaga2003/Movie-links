@@ -147,6 +147,7 @@
 * [123Movie](https://123movie.uno/) - *Movies / TV / Anime*
 * [123MoviesMe](https://www.123moviesme.org/) or [MinionStream](https://www.minionstream.com/) - *Movies / TV* 
 * [123Moviesx](https://123moviesx.tv/) - *Movies / TV / Anime* 
+* [123Moviesd](https://123moviesd.com/) - *Movies / TV*
 * [0123movies](https://watch0123movies.org) - *Movies / TV*
 * [0123MoviesHub ](https://0123movieshub.to/) - *Movies / TV / Anime*
 * [123MoviesGo](https://www.123moviesgo.li/) - *Movies / TV*

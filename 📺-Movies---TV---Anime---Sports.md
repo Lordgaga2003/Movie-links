@@ -467,6 +467,7 @@
 * **[The Criterion Collection](https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw)** - *Movies*
 * **[Marvel Media](https://mega.nz/folder/xcZBBapA#x_KTMT2pTjv7_4Jjr8U5Rw)** - *Marvel Movies / Shows*
 * **[Disney Movie Collection](https://drive.google.com/drive/folders/1rG-yrwKxhPOxTOE76QcxGWUSrZaRRql2)** - *Disney Movies*
+* [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
 * [RareLust](https://rarelust.com/) - *Rare Movies / NSFW* 
 * [My Duck Is Dead](http://www.myduckisdead.org/) - *Rare Movies / NSFW* 
 * [Reviviendo Viejas Joyas](https://reviviendoviejasjoyas.blogspot.com/) - *Rare Movies / Stop Pages from Loading to use w/o Account* 
@@ -558,9 +559,7 @@
 * [OlaMovies](https://olamovies.top/) - *HD Movies / TV* 
 * [4k Movie Collection](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w) - *HD Movies*
 * [r/MegaLinks Backup](https://mega.nz/folder/fv4lCaZQ#6tS6HpQiWAjx6Ibr1N_D8w), [2](https://www71.zippyshare.com/v/behLhk3F/file.html)
-* [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_indexes) - *Most contain videos* 
-* [CartoonLibrary](https://t.me/CartoonLibrary) or [Cartoon_Index](https://t.me/Cartoon_Index) - *Cartoons / Telegram*
 * [Audio-Track](https://www.audio-track.com/en) - *Download audio tracks for movies / tv*
 
 ***
@@ -587,7 +586,7 @@
 * [AnimeSub](https://animesub.in/) 
 * [DarkLegends](https://darklegends60mb.org/)
 * [SSAnime](https://ssanime.ga/)
-* [Kayoanime](https://kayoanime.com/)
+* [Kayoanime](https://kayoanime.com/) - *[Telegram](https://t.me/Kayoanime)*
 * [Mix Bag of Anime](https://redd.it/nsa8yg) - *Drives*
 * [Anime Collection (3Tb)](https://drive.google.com/drive/folders/1nQ73oKeE5b50lzyDeszmdLv6rjYFolk5?usp=sharing) - *Drive*
 * [Erai-Raws](https://www.erai-raws.info/) - *[Discord](https://discord.gg/2PfWaar)*

@@ -466,8 +466,6 @@
 * **[Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download)** - *Many of these sites have single click downloads*
 * **[50TB Mega Drive](https://mega.nz/folder/spMwmDTA#qYCZT7Wq0JqoJpkVsQv36A)**, [2](https://mega.nz/folder/bswnSACT#EeW3b_CV7Es3Rbqim__pQA), [3](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ) - *Movies* 
 * **[The Criterion Collection](https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw)** - *Movies*
-* **[Marvel Media](https://mega.nz/folder/xcZBBapA#x_KTMT2pTjv7_4Jjr8U5Rw)** - *Marvel Movies / Shows*
-* **[Disney Movie Collection](https://drive.google.com/drive/folders/1rG-yrwKxhPOxTOE76QcxGWUSrZaRRql2)** - *Disney Movies*
 * [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
 * [RareLust](https://rarelust.com/) - *Rare Movies / NSFW* 
 * [My Duck Is Dead](http://www.myduckisdead.org/) - *Rare Movies / NSFW* 

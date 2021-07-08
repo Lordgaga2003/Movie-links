@@ -983,6 +983,7 @@
 # ► Helpful Sites / Apps
 
 * [BookCut](https://github.com/costis94/bookcut) - *eBook Download Tool* 
+* [Borrow Only DL Script](https://redd.it/ofcqds) - *Download Borrow Only Archive.org Books*
 * [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - *Google Book Downloader w/ Proxy Support*
 * [bunken](https://github.com/laxyapahuja/bunken) - *Download eBooks directly from Goodreads*
 * [ExtractBookz](https://hub.darcs.net/JasonJAyalaP/ExtractBookz) - *Extract & Rename Ebook Files / [GitHub](https://github.com/JasonJAyalaP/ExtractBookz)*

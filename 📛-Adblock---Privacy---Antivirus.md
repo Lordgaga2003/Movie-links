@@ -416,15 +416,16 @@
 * [Sentinel](https://sentinel.co/) - *Free VPN / /r/SENT / [Guide](https://youtu.be/Iaa7Jwd5sy8)* 
 * [FreePN](https://www.freepn.org/) - *Free Open Source P2P VPN* 
 * [TunnelBear](https://www.tunnelbear.com/) - *Free VPN / 500mb only*
-* [OpenVPN](https://openvpn.net/) - *VPN Tunnel* 
 * [FREEVPN.gg](https://freevpn.gg/) - *Free VPN List*
 * [VPNBook](https://www.vpnbook.com/) - *Free VPN Accounts*
 * [VPNGate](https://www.vpngate.net/en/) - *Free VPN Relay Servers*
+* [OpenVPN](https://openvpn.net/) - *VPN Tunnel* 
 * [RaceVPN](https://www.racevpn.com/) - *Free VPN Tunnels*
 * [PisoVPN](https://pisovpn.com/) - *Free VPN Tunnels*
 * [PiVPN](https://pivpn.io/) - *Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)* 
 * [Enterprise](https://pritunl.com/) - *VPN Server* 
-* [Self-Hosted VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/selfhost-vpn) - *Self hosted VPN guide by /u/Kaxry*
+* [Amnezia](https://github.com/amnezia-vpn/desktop-client/) - *Self-hosted VPN*
+* [Self-hosted VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/selfhost-vpn) - *Self-hosted VPN guide by /u/Kaxry*
 * [Streisand](https://github.com/StreisandEffect/streisand) - *Anti-Censorship VPN Setup*  
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
 * /r/VPN - *VPN Help and Discussion* 

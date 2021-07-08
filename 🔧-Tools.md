@@ -119,7 +119,7 @@
 * [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - *Text Tone Detection* 
 * [R2bEEaton's Phonetic Reverser](https://spea.cc/backwards/) - *Sentence / Word Reverser* 
 * [I or l?](https://iorl.info/) - *Is it an uppercase "i", or is it a lowercase "L"?*
-* [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/) or [Cool Symbol](https://coolsymbol.com/) - *Copy & Paste Unicode Symbols*
+* [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/) or [Cool Symbol](https://coolsymbol.com/) - *Copy & Paste Unicode Symbols*
 * [Donger List](http://dongerlist.com/) - *600+ Unicode Emoticons* 
 * [Honk.moe](https://honk.moe/tools.html) - *Text Generators*
 * [randSeq](http://www.dave-reed.com/Nifty/randSeq.html) - *Random Letter Sequence Generator*
@@ -857,6 +857,7 @@ General Reading Sites*
 * [Vizit](http://redditstuff.github.io/sna/vizit/) - *Interactive Map of Reddit* 
 * [subreddits](http://subreddits.org/) - *Categorized grouping of subreddits* 
 * [Subreddit Recommender](http://ponderinghydrogen.pythonanywhere.com/)
+* [Random Reddit](https://old.reddit.com/random) - *Get Random Reddit Threads / Possiby NSFW*
 * [Reddit Metrics](https://redditmetrics.com/) or [FrontPageMetrics](https://frontpagemetrics.com/) - *Metrics For Reddit* 
 * [Reddit Investigator](https://www.redditinvestigator.com/), [RedditMetis](https://redditmetis.com/), [Reddit-User-Analyser](https://reddit-user-analyser.netlify.app/), [Redective](https://www.redective.com/) or [redditsfinder](https://github.com/Fitzy1293/redditsfinder) - *Reddit Profile Information*
 * [Reddit Comment Search](https://www.redditcommentsearch.com/) - *Search Reddit Comments* 
@@ -940,6 +941,7 @@ General Reading Sites*
 * [Discord Ban Appeals](https://github.com/patricktechn/discord-ban-appeals) - *Discord Ban Appeal Form*
 * [Discord Auto Upload](https://github.com/tardisx/discord-auto-upload) - *Auto Upload Screenshots*
 * [DSC.BIO](https://dsc.bio/) - *Make Awesome Custom Discord Bios* 
+* [DateTimeCord](https://datetimecord.rauf.wtf/) - *Discord Date & Time Fomatting Tool*
 * [Automod Config](https://docs.google.com/spreadsheets/d/1oAHbnK8gcfnNS62aUuVK985RfORhqyhiZs-dZh4qloE) - *Automod Bot Config*
 * [Dyno](https://dyno.gg/) - *Change Discord Discriminator w/o Nitro / [How-To](https://i.imgur.com/lHRD42c.png)* 
 * [Discord.ID](https://discord.id/) - *Lookup a Discord User or Bot ID* 

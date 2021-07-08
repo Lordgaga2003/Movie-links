@@ -980,6 +980,7 @@
 * [Mejor Torrent](https://www.mejortorrents.net/), [2](https://www.mejortorrento.net/) - *Video / Audio / Software / Games*  
 * [dontorrent](https://dontorrent.net/) - *Video / Audio / Games* 
 * [DivxTotal](https://www.divxtotal.one/) - *Movies / TV / Software* 
+* [Edvok](https://edvok.com/) - *Video / Games*
 * [EliteTorrent](https://www.elitetorrent.com/) - *Movies / TV*  
 * [zonatorrent](https://zonatorrent.tv/) - *Movies / TV* 
 * [divxonline](https://www.divxonline.tv/) - *Movies / TV* 

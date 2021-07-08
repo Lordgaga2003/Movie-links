@@ -747,7 +747,7 @@ General Reading Sites*
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - *Search Engine for lightweight web pages*
 * [Search My Site](https://searchmysite.net/) - *Search Engine for Independent and Personal websites / Open Source*
 * [algolia](https://hn.algolia.com/) - *Hacker News Search* 
-* [Search-Darkweb](https://iaca-darkweb-tools.com/search-darkweb/), [DarkSearch](https://darksearch.io/), [Phobos](ttp://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [Onion.live](https://onion.live/) or [doku](http://ujnkg4uirpaiqejr.onion/doku.php) - *Deep Web Search Engines*
+* [Search-Darkweb](https://iaca-darkweb-tools.com/search-darkweb/), [DarkSearch](https://darksearch.io/), [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [Onion.live](https://onion.live/) or [doku](http://ujnkg4uirpaiqejr.onion/doku.php) - *Deep Web Search Engines*
 * [Intelligence X](https://intelx.io/tools) or [Aware-Online](https://www.aware-online.com/en/osint-tools/) - *Multiple Search Tools* 
 * [TheOldNet](http://theoldnet.com/) - *Retro Search Engine*
 * [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - *40 Custom Search Engines*

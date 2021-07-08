@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/uqcWUZ4.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/tTE4qbn.png)** - *For mobile users*
 
 ***
 *** 
@@ -355,6 +355,7 @@
 * [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - *Turn Screencasts into GIFs*
 * [Stream Recorder](https://www.hlsloader.com/) - *Streaming Video Recorder* 
 * [GifW00t](https://github.com/yaronn/GifW00t) - *Javascript Web Recorder*
+* [veadotube](https://olmewe.itch.io/veadotube-mini) - *Virtual Avatar Software*
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - *Create TV Channels using Plex Library*
 * [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-dl](https://github.com/ihabunek/twitch-dl) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) -  *Download Twitch Videos* 
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - *Lightweight Twitch Webplayer*
@@ -643,6 +644,7 @@
 * [Gmail Dot Trick Generator](https://thebot.net/api/gmail/) or [TheBot](https://thebot.net/api/gmail/) - *Generate Unlimited Gmail Accounts via the Dot Trick*
 * [YakYak](https://github.com/yakyak/yakyak) - *Google Hangouts Desktop Client* 
 * [Caprine](https://sindresorhus.com/caprine/) - *Facebook Messenger Desktop App / [GitHub](https://github.com/sindresorhus/caprine)* 
+* [PogU.live](https://pogu.live/) - *Watch Twitch Sub-Only Videos*
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - *Twitch Browser for Streamlink* 
 * [Twitchls](https://twitchls.com/) - *HTL5 Twitch Stream Player* 
 * [StreamSniper](https://www.streamsniper.tv/) - *HTML5 Twitch / YouTube Stream Player* 
@@ -745,7 +747,7 @@ General Reading Sites*
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - *Search Engine for lightweight web pages*
 * [Search My Site](https://searchmysite.net/) - *Search Engine for Independent and Personal websites / Open Source*
 * [algolia](https://hn.algolia.com/) - *Hacker News Search* 
-* [Search-Darkweb](https://iaca-darkweb-tools.com/search-darkweb/), [DarkSearch](https://darksearch.io/), [Onion.live](https://onion.live/) or [doku](http://ujnkg4uirpaiqejr.onion/doku.php) - *Deep Web Search Engines*
+* [Search-Darkweb](https://iaca-darkweb-tools.com/search-darkweb/), [DarkSearch](https://darksearch.io/), [Phobos](ttp://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/), [Onion.live](https://onion.live/) or [doku](http://ujnkg4uirpaiqejr.onion/doku.php) - *Deep Web Search Engines*
 * [Intelligence X](https://intelx.io/tools) or [Aware-Online](https://www.aware-online.com/en/osint-tools/) - *Multiple Search Tools* 
 * [TheOldNet](http://theoldnet.com/) - *Retro Search Engine*
 * [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - *40 Custom Search Engines*
@@ -757,7 +759,7 @@ General Reading Sites*
 * [Proisk](https://proisk.com/) - *FTP Search Engine*
 * [Hunter.io](https://hunter.io/) - *Business Email Address Search*
 * [ImportYeti](https://www.importyeti.com/) - *Search U.S. Customs Shipment Records* 
-* [googler](https://github.com/jarun/googler) - *Search Google through your Terminal *
+* [googler](https://github.com/jarun/googler) - *Search Google through your Terminal*
 * [Whoogle](https://benbusby.com/projects/whoogle-search/) - *Self-Hosted Search Engine*
 * [grep.app](https://grep.app/) - *Git Repo Search*
 * [useful-forks](https://useful-forks.github.io/) - *GitHub Fork Search* 
@@ -894,6 +896,7 @@ General Reading Sites*
 * [Powerconvert](https://convert.creatable.cafe/) - *Convert BetterDiscord themes to Powercord*
 * [bdCompat](https://github.com/Juby210/bdCompat) - *Use BD Plugins in Powercord*
 * [Revert Rebrand](https://betterdiscord.app/theme/Revert%20Rebrand) - *Revert Discord’s Rebrand on BetterDiscord / Powercord / [GitHub](https://github.com/Goose-Nest/GT-RevertRebrand)*
+* [Discord Portable](https://portapps.io/app/discord-portable/) - *Portable Discord Stable & [PTB PortApps](https://portapps.io/app/discord-ptb-portable/)*
 * [Unicord](https://github.com/WamWooWam/Unicord) - *Open Source Discord Client* 
 * [GooseMod](https://goosemod.com/) - *Modifiable Discord Client / [Firefox](https://addons.mozilla.org/addon/goosemod-for-web/) / [Chrome](https://chrome.google.com/webstore/detail/goosemod-for-web/clgkdcccmbjmjdbdgcigpocfkkjeaeld)*
 * [OpenDiscord](https://github.com/505e06b2/OpenDiscord) - *Modifiable Discord Client*
@@ -1110,6 +1113,7 @@ General Reading Sites*
 * [SmartWindows](https://smartwindows.app/) - *Create / Restore Windows Profiles* 
 * [VirtualBox](https://www.virtualbox.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - *Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)*
 * [Windows Sandbox](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview) - *Sandbox Environment*
+* [WebCatalog](https://webcatalog.app/) - *Turn Sites into Desktop Apps*
 * [WinCDEmu](https://wincdemu.sysprogs.org/) - *CD/DVD/BD Emulator*  
 * [SpeedyFox](https://crystalidea.com/speedyfox) - *Optimize Program Performance*  
 * [CCStopper](https://github.com/E-Soda/CCStopper) - *Stop Background Adobe Apps*
@@ -1419,7 +1423,6 @@ General Reading Sites*
 * **[GoG Galaxy](https://www.gog.com/galaxy)**, [Launchbox](https://www.launchbox-app.com/), [GameHub](https://tkashkin.tk/projects/gamehub/) / [GitHub](https://github.com/tkashkin/GameHub), [Playnite](https://playnite.link/) or [chad_launcher](https://gitlab.com/Gnurur/chad_launcher) - *Game Library / Launcher*
 * **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)** - *Game Requirements Test* 
 * /r/CrackWatch, [SteamCrackStatus](https://steamcrackedgames.com/) /[Discord](https://discord.gg/8hhTZUDPu9) / /r/SteamCrackedGames* or [CrackSnoop](https://github.com/CrackSnoop/cracksnoop) - *Scene Release Trackers / [Discord](https://discord.gg/d9StxkknwX)*
-* [find-PlayDate](https://www.find-playdate.com/) - *Find People to Play Games With* 
 * [Before I Play](http://www.beforeiplay.com/) - *Tips for any Game* 
 * [Fraps](https://fraps.com/), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - *FPS Benchmarking Utility*
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner) - *Graphics Card Overclocking Utility / FPS Benchmarking*
@@ -1431,10 +1434,6 @@ General Reading Sites*
 * [Parsec](https://parsec.app/) - *Play games from your PC remotely* 
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - *Controller Connectivity Testers*
 * [AimTrainer](https://aimtrainer.io/) - *Aim Trainer*
-* [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/) or [softether](https://www.softether.org/) - *Play Pirated Multiplayer Games*
-* [CnCNet](https://cncnet.org/) - *Multiplayer Command & Conquer* 
-* [Online Fix](https://online-fix.me/) - *Online Game Cracks / [Discord](https://discord.gg/yExgFYncMD)* 
-* [Slippi](https://slippi.gg/) - *Super Smash Bros Melee Online* 
 * [Blitz](https://blitz.gg/) - *Post Match Performance Analyzer / [Adblocker](https://github.com/lulzsun/blitz-app-adblock)* 
 * [Map Genie](https://mapgenie.io/) - *Explore Game Maps* 
 * [noclip](https://noclip.website/) - *Explore Game Environments* 
@@ -1461,7 +1460,7 @@ General Reading Sites*
 * [Low Specs Experience](https://ragnotechpowered.com/) - *Game Optimization Program* 
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) or [Netch](https://github.com/netchx/Netch/) - *Online Game Acceleration Proxy*
 * [protondb](https://www.protondb.com/) or [Lutris](https://lutris.net/) - *Play Windows games on Linux*
-* [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *Playstation 4 /Playstation 5 Remote Play Client* 
+* [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *PS4 / PS5 Remote Play Client* 
 * [Tinfoil](https://tinfoil.io/) - *Switch Title Manager / File Browser* 
 * [emuiibo](https://github.com/XorTroll/emuiibo) - *Amiibo Emulator*
 * [All Amiibo Bin Files](https://redd.it/mlvfak) - *Amiibo Bin Files*
@@ -1478,6 +1477,18 @@ General Reading Sites*
 
 *** 
 
+## ▷ Multiplayer 
+
+* [find-PlayDate](https://www.find-playdate.com/) - *Find People to Play Games With* 
+* [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/) or [softether](https://www.softether.org/) - *Play Pirated Multiplayer Games*
+* [Online Fix](https://online-fix.me/) - *Online Game Cracks / [Discord](https://discord.gg/yExgFYncMD)* 
+* [Slippi](https://slippi.gg/) - *Super Smash Bros Melee Online* 
+* [CnCNet](https://cncnet.org/) - *Multiplayer Command & Conquer* 
+* [NV: Multiplayer](https://nv-mp.com/) - *Fallout New Vegas Multiplayer Project / [Discord](https://discord.com/invite/mKVdhmEDrW)*
+* [BF2142 Reclamation](https://battlefield2142.co/) - *BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)*
+
+*** 
+
 ## ▷ Game Mods
 
 * **[ModDB](https://moddb.com/)**, [Nexus Mods](https://www.nexusmods.com/), [ZagruzkaMods](https://zagruzkamods.com/) or [CurseForge](https://www.curseforge.com/) - *Game Mods* 
@@ -1485,11 +1496,10 @@ General Reading Sites*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
 * [Plutonium](https://plutonium.pw/) - *Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)* 
 * [IW4x / IW6x](https://xlabs.dev/) - *COD MW2 Mod Project* 
-* [NV: Multiplayer](https://nv-mp.com/) - *Fallout New Vegas Multiplayer Project / [Discord](https://discord.com/invite/mKVdhmEDrW)*
 * [Project Reality](https://www.realitymod.com/about) - *BF2 & ARMA 2 Realism Mod*
-* [BF2142 Reclamation](https://battlefield2142.co/) - *BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)*
 * [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - *Battlefield Mod Projects*
 * [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - *Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)*
+* [Among Us Free Chat Unlocker](https://github.com/Vili1/Among-us-Free-Chat-unlocker/releases/) - *Among Us Chat Unlocker*
 * [tModLoader](https://www.tmodloader.net/) - *Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)*
 
 ***

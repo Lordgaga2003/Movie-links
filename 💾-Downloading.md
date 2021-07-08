@@ -166,7 +166,6 @@
 * [Softlay](https://softlay.net/)
 * [CRACKurl](https://cracksurl.com/) 
 * [TeamOS](https://www.teamos-hkrg.com/)
-* [Pirate City](https://www.thepiratecity.co/) 
 * [msdn.hackerc](https://msdn.hackerc.at/)  
 * [4Download](https://www.4download.net/) 
 * [Softwares 2 U](https://www.softwares2u.com/) 

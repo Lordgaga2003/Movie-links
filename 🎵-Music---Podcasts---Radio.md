@@ -58,7 +58,7 @@
 * [The Eternal Jukebox](https://eternalbox.dev/jukebox_index.html) - *Never-ending, ever changing versions of any song*
 * [LostMyspace](http://lostmyspace.com/) - *Lost Myspace Songs* 
 * [BitMidi](https://bitmidi.com/) - *Stream / Download MIDI Files* 
-* [RemixPacks](http://remixpacks.ru/) - *STEMS*
+* [RemixPacks](http://remixpacks.ru/) or [BurntScarr](http://www.burntscarr.com/burntscarr/STEMS/) - *STEMS*
 * [KeyGenMusic](https://keygenmusic.net/) or [keygenmusic.tk](https://keygenmusic.tk/) - *Music from keygens, cracks, trainers, intros* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - *East African Recordings* 

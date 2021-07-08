@@ -126,7 +126,6 @@
 * [Masterclass 63 Pack](https://mega.nz/folder/HxFghIbS#rFqH402PoVDwHW_XEtN1QQ) - *Masterclass Courses / Drive*
 * [Lynda Courses](https://bin.snopyta.org/?efe32fb96a945857#GQL7q4hyKjCeB6WLbpq94S12BEwh5JWc4apjmb7RE4SU) - *Lynda Courses / Drive / pw: fmhy*
 * [LyndaFree](https://t.me/lyndafree) - *Lynda Courses / Telegram*
-* [Gate Academy Courses](https://mega.nz/folder/7moVUSAK#cw5VVM-L4WmtwXE30in6nw) - *Gate Academy Courses / Drive*
 * [Giga Course](https://gigacourse.com/) - *Udemy Courses / Drive* 
 * [Udemy 24](https://udemy24.com/) - *Udemy Courses* 
 * [Tutorials-eu](https://freetutorials-eu.com/) - *Udemy Courses*

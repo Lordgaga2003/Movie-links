@@ -796,6 +796,7 @@
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
 * [MangaEditor](https://moeka.me/mangaEditor/) - *Online Manga Editor*
 * [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en) or [Scanlate](https://scanlate.io/) - *Manga Translator*
+* /r/MangaPiracy - *Manga Piracy Subreddit / [Discord](https://discord.gg/pu66ZcNTrT)*
 
 ***
 

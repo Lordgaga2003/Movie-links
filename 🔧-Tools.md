@@ -488,8 +488,6 @@
 * [Voice Changer](https://voicechanger.io/) - *Online Voice Changer*
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) - *Clone Human Voices*
 * [Sound Branch](https://soundbran.ch/) - *Create / Share / Podcasts / Voice Messages* 
-* [SpotMyBackup](http://www.spotmybackup.com/) - *Backup your Spotify playlists / tracks*
-* [Opslagify](https://opslagify.deruever.nl/) - *Calculate Spotify Library Size* 
 * [Gibber](https://gibber.cc/) - *Audiovisual Code Composer* 
 * [Spek](http://spek.cc/) - *Spectral Analysis Tool / Audio File Analyzer* 
 * [Spectro](http://spectro.enpts.com/) - *Audio File Analyzer* 
@@ -1045,7 +1043,7 @@ General Reading Sites*
 * [Twishort](https://twishort.com/) - *Make Longer Tweets*
 * [Thread Reader App](https://threadreaderapp.com/) - *Unroll Twitter threads / Search* 
 * [Treeverse](https://treeverse.app/) - *Twitter Conversation Visualizer* 
-* [Trends Map](https://www.trendsmap.com/) or [MentionMap](https://mentionmapp.com/) - *Trending Twitter Hashtags / Topics*
+* [Trends Map](https://www.trendsmap.com/), [Twitter Trends](https://twitter-trends.vercel.app/) or [MentionMap](https://mentionmapp.com/) - *Trending Twitter Hashtags / Topics*
 * [Tweeplers](https://www.tweeplers.com/) - *Trending Twitter Users* 
 * [TweetMap](https://www.omnisci.com/demos/tweetmap) - *Trending Tweet Map* 
 * [OneMillionTweetMap](https://onemilliontweetmap.com/) or [TwitterNano](https://www.twitternano.com/) - *Real-Time Tweet Map* 
@@ -1084,7 +1082,7 @@ General Reading Sites*
 * [ListCopy](http://projects.noahliebman.net/listcopy/connect.php) - *Copy Twitter Lists* 
 * [Twlets](http://twlets.com/) - *Export Twitter Data* 
 * [Twint](https://github.com/twintproject/twint) - *Twitter Scraping / OSINT Tool*
-* [RandomTweet](https://randomtweet.com/) - *Get a Random Tweet from any Users*
+* [RandomTweet](https://randomtweet.com/) - *Get a Random Tweet from any User*
 * [EmojiTracker](http://emojitracker.com/) - *Real-Time Twitter Emoji Use* 
 * [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - *Remove All Twitter Metrics*
 
@@ -1094,7 +1092,7 @@ General Reading Sites*
 
 * **[Windows Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/pirate-windows)**, [2](https://rentry.co/windows_for_retards), [3](https://rentry.co/fwt)
 * **[Windows ISO's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - *Download Windows*
-* **[Windows 10 Activation Guide](https://rentry.co/ActivateWin10)**, [2](https://redd.it/er3fon), [3](https://msguides.com/), [4](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation)
+* **[Windows 10 Activation Guide](https://rentry.co/ActivateWin10)**, [2](https://redd.it/er3fon), [3](https://msguides.com/), [4](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation) - *Active Win 10 / [Discord](https://discord.gg/nWWfBMtBSk)
 * **[Windows Activation Scripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation_scripts)** - *Windows / Office Activation*
 * [Windows Optimization Guide](https://youtu.be/pJTCwSX9Ym8) - *Friendly Windows Thread* 
 * [Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)
@@ -1380,6 +1378,7 @@ General Reading Sites*
 ## ▷ Linux Tools
 
 * **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)** or **[Friendly GNU](https://fglt.nl/guides/picking-a-distro.html)** - *Linux OS Index / Guides*
+* [Distrochooser](http://distrochooser.de/?l=2) - *Linux OS Chooser*
 * [LinuxTracker](https://linuxtracker.org/) - *Linux OS Torrents*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old Linux OS Archive*
 * [archinstall](https://github.com/archlinux/archinstall) - *Arch Linux Installer*

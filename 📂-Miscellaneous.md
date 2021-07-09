@@ -37,7 +37,7 @@
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - *Temporarily Snooze Tabs* 
 * [One Tab](https://www.one-tab.com/) or [TabMerger](https://lbragile.github.io/TabMerger-Extension/) - *Merge & Organize Tabs* 
 * [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn) or [Tabli](https://www.gettabli.com/) - *Tab Manager* 
-* [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups) - *Group Tabs* 
+* [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups) or [Acid Tabs](https://github.com/jdhayford/acid-tabs-extension) - *Group Tabs* 
 * [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Saladict](https://saladict.crimx.com/) or [ImTranslator](https://imtranslator.net/) - *Translator* 
 * [Dictionaries](https://github.com/pnlpal/dictionaries) - *Popup Dictionary* 
 * [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - *Magnify Webpages*
@@ -403,7 +403,7 @@
 * [Outside Simulator](https://outsidesimulator.com/) - *Simulate Being Outside* 
 * [Travel Remotely](https://travel-remotely.netlify.app/) - *Traveling Simulator* 
 * [stringers.live](https://stringers.live/) - *Live Stringer (freelance journalist) Streams*
-* [WindowSwap](https://window-swap.com/window) - *Open Random Windows* 
+* [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - *Open Random Windows*
 * [Just Type Stuff ](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - *Type Things into Existence*
 * [Pokemon Showdown](https://pokemonshowdown.com/) - *Pokemon Battle Simulation* 
 * [This Is Sand](https://thisissand.com/) - *Make Sand Art* 
@@ -560,6 +560,7 @@
 * [Patatap](https://www.patatap.com/) - *Type to Create Melodies / Moving Shapes* 
 * [Touch Pianist](http://touchpianist.com/) - *Magical Piano App* 
 * [A.I. DUET](https://experiments.withgoogle.com/ai/ai-duet/view/) - *AI Piano Duet* 
+* [MultiplayerPiano](https://multiplayerpiano.com/) - *Multiplayer Piano*
 * [Got Rhythm?](https://www.concerthotels.com/got-rhythm) - *Rhythm / Tempo Test* 
 * [Fake Music Generator](https://www.fakemusicgenerator.com/) - *Computer Generated Music*
 * [MagicKeyboard](http://magickeyboard.io/) - *Try "feross", "hexbin", "rain", or "semi"* 
@@ -603,6 +604,7 @@
 * [sCandyBars](https://scandybars.com/) - *Candy Bar Photo Blog*
 * [Vintage Ad Browser](http://www.vintageadbrowser.com/) - *100,000+ Vintage Advertisements* 
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - *Japanese Commercial Archive*
+* [90's Commercials](https://www.youtube.com/watch?v=gGkVNj7WXdI) - *24/7 Stream of 90s Commercials*
 * [isitnight](https://www.isitnight.com/) - *Determine if it is night* 
 * [Watching Grass Grow](https://www.watching-grass-grow.com/) - *Watch grass grow.*
 * [info.cern](http://info.cern.ch/) - *First Website on the Internet* 

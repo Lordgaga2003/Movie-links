@@ -623,7 +623,7 @@
 
 ## ▷ Manual Sites
 
-* [Manuals & Schematics](https://redd.it/nlw3er) - *Manual Directories*
+* [Manuals & Schematics](https://redd.it/nlw3er) or [ManualsLib](https://www.manualslib.com/) - *Manual Directories*
 * [iFixIt](https://www.ifixit.com/Guide) - *Repair Manuals* 
 * [manned.org](https://manned.org/) - *Index of operating system manuals*
 * [JDMFSM](http://jdmfsm.info/Auto/), [CarPDFManual](https://www.carpdfmanual.com/renault/) or [ProCarManuals](https://procarmanuals.com/) - *Auto Repair Manuals* 

@@ -1628,17 +1628,13 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 
 #### Torrent to GDrive
 
-**Telegram**
-
-**[Light Cloud](https://t.me/lightzcloud)**, [KL torrent](https://t.me/kltorrent), [Torrent Bots](https://t.me/TorrentBots), [TorrentXbot](https://t.me/TorrentXbot), [torrentdrive_bot](https://t.me/torrentdrive_bot), [tgpublicdrive](https://t.me/tgpublicdrive), [publicdrive](https://t.me/publicdrive), [Torrent2Drive](https://t.me/torrent_2_drive)
-
-**Bots** 
-
-[Torrent all-in-one bot](https://github.com/patheticGeek/torrent-aio-bot), [Codemaster](https://github.com/mohitjoshi155/Codemaster), [Mirror-Bot](https://github.com/KenHV/Mirror-Bot), [TorrentLeech](https://github.com/gautamajay52/TorrentLeech-Gdrive), [TorrentLeechX](https://github.com/NINJA-543/TorrentLeechX)
-
 **Collab**
 
 **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** / [GitHub](https://github.com/biplobsd/OneClickRun), [Colab-Hacks Bot](https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Torrent%20Downloader/Torrent%20Downloader.ipynb) / [GitHub](https://github.com/PradyumnaKrishna/Colab-Hacks), [Torrent Downloader](https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Torrent%20Downloader/Torrent%20Downloader.ipynb), [MasterColab](https://colab.research.google.com/github/yunooooo/Master-Colab/blob/master/Master-Colab.ipynb%20https:/github.com/yunooooo/Master-Colab), [QBit to Gdrive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) / [GitHub](https://github.com/xavy-13/qbittorrent)
+
+**Bots** 
+
+**[Telegram Bots](https://rentry.co/torrent2gdrive)**, [Torrent all-in-one bot](https://github.com/patheticGeek/torrent-aio-bot), [Codemaster](https://github.com/mohitjoshi155/Codemaster), [Mirror-Bot](https://github.com/KenHV/Mirror-Bot), [TorrentLeech](https://github.com/gautamajay52/TorrentLeech-Gdrive), [TorrentLeechX](https://github.com/NINJA-543/TorrentLeechX)
 
 *** 
 

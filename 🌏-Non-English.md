@@ -984,6 +984,7 @@
 * [EliteTorrent](https://www.elitetorrent.com/) - *Movies / TV*  
 * [zonatorrent](https://zonatorrent.tv/) - *Movies / TV* 
 * [divxonline](https://www.divxonline.tv/) - *Movies / TV* 
+* [Grantorrent](https://grantorrent.nl/) - *Movies / TV*
 * [MoviesDVDR](https://www.moviesdvdr.co/) - *Movies* 
 * [Animextremist](http://animextremist.com/) - *Anime / Manga* 
 

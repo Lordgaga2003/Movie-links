@@ -956,6 +956,7 @@ General Reading Sites*
 * [DiscordThread](https://discordthread.date/) - *Find people to chat with on Discord*
 * [DiskCord](https://github.com/5ut/DiskCord) - *Host Files on External Sites to share via Discord*
 * [discord-logo](http://nntin.github.io/discord-logo) - *Discord Animated Logo Generator / [Discord](https://discord.gg/gDHs8AV)*
+* [LottieResizer](https://lottieresizer.tech/) - *Lottie Resizer*
 * [Discord Branding](https://discord.com/branding) - *Discord Branding Information Page / [Archive](https://web.archive.org/web/20210513004910/https://discord.com/branding)*
 * [Displace](https://discord.gg/displace) - *Discord Community Management Chat*
 * [Discord Moderator Academy](https://discord.com/moderation) - *Discord Moderator Guide / [Exam](https://discord.com/moderation/exam)*
@@ -968,6 +969,7 @@ General Reading Sites*
 * [Hypesquad](https://cdn.discordapp.com/attachments/668986791797325824/844589771653382194/unknown.png) - *Get a Discord Profile Badge*
 * [Discord Games](https://discord-games.cf/) - *Discord Rickrolling*
 * [DiscordExtras](https://github.com/NotZoeyDev/DiscordExtras) - *Patch iOS Discord Client*
+* [Figma](https://www.figma.com/community/file/992144378612759941/Discord-Resources) - *Discord Resources / [Desktop](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)*
 
 ***
 

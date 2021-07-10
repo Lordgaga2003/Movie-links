@@ -238,6 +238,7 @@
 * [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - *Turn Photos into Cartoons*
 * [PixelMe](https://pixel-me.tokyo/en/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - *Turn Photos into Pixel Art* 
 * [AIDraw](https://ai-draw.tokyo/en/) - *Turn Photos into Line Drawings* 
+* [PaintUp](http://technohippy.github.io/teddyjs/) - *Make 2D Art Into 3D*
 * [primitive.js](https://ondras.github.io/primitive.js/) - *Redraw images with geometric shapes* 
 * [Photovisi](https://www.photovisi.com/) - *Photo collage maker* 
 * [ASCII art creator](https://github.com/CherryPill/ASCII-art-creator) - *Use Images to Generate ASCII Art*
@@ -1221,7 +1222,7 @@ General Reading Sites*
 * [terminal.sexy](https://terminal.sexy/) - *Terminal Color Schemes*
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - *Alternative Terminal* 
 * [ss64](https://ss64.com/) - *Command Line Reference Index*
-* [Alacritty](https://github.com/alacritty/alacritty), [Fluent Terminal](https://github.com/felixse/FluentTerminal) or [Terminus](https://github.com/Eugeny/terminus) - *Terminal Emulator*
+* [Alacritty](https://github.com/alacritty/alacritty), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://eugeny.github.io/tabby/) or [Terminus](https://github.com/Eugeny/terminus) - *Terminal Emulator*
 * [Mintty](http://mintty.github.io/) - *Cygwin Terminal Emulator* 
 * [eDEX-UI](https://github.com/GitSquared/edex-ui) - *Sci-Fi Terminal Emulator / System Monitor*
 * [cmder](https://cmder.net/) - *Portable Console Emulator for Windows* 

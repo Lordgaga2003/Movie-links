@@ -62,7 +62,7 @@
 * [Stolen Camera Finder](https://www.stolencamerafinder.com/) - *Find Stolen Cameras* 
 * [Thingiverse](https://www.thingiverse.com/) - *3D Printer Files* 
 * [Sweet Home 3D](http://www.sweethome3d.com/) - *Interior Design App*
-* [SlidesGo](https://slidesgo.com/) - *Google Slides / Powerpoint Templates* 
+* [SlidesGo](https://slidesgo.com/) or [ThePOPP](https://thepopp.com/) - *Google Slides / Powerpoint Templates* 
 * [QR Tiger](https://www.qrcode-tiger.com/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - *QR Code Generator* 
 * [QRpicture](https://www.qrpicture.com/) - *Picture to QR Code Converter* 
 * [7 Cups](https://www.7cups.com/) - *Free Care & Therapy*

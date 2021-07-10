@@ -703,7 +703,6 @@
 * [byp4xx](https://github.com/lobuhi/byp4xx) - *Bypass "403 Forbidden" Messages* 
 * [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - *SSH & Telnet Client* 
 * [FairGame](https://github.com/Hari-Nagarajan/fairgame) - *Automatically Place Orders on Amazon*
-* [FUCKING HOMEPAGE](https://fuckinghomepage.com/) - *Browser Homepage*
 * [rickroll-blocker](https://github.com/hitthemoney/rickroll-blocker/) - *Rick Roll Blocker* 
 
 ***
@@ -1222,7 +1221,7 @@ General Reading Sites*
 * [terminal.sexy](https://terminal.sexy/) - *Terminal Color Schemes*
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - *Alternative Terminal* 
 * [ss64](https://ss64.com/) - *Command Line Reference Index*
-* [Alacritty](https://github.com/alacritty/alacritty) or [Terminus](https://github.com/Eugeny/terminus) - *Terminal Emulator*
+* [Alacritty](https://github.com/alacritty/alacritty), [Fluent Terminal](https://github.com/felixse/FluentTerminal) or [Terminus](https://github.com/Eugeny/terminus) - *Terminal Emulator*
 * [Mintty](http://mintty.github.io/) - *Cygwin Terminal Emulator* 
 * [eDEX-UI](https://github.com/GitSquared/edex-ui) - *Sci-Fi Terminal Emulator / System Monitor*
 * [cmder](https://cmder.net/) - *Portable Console Emulator for Windows* 
@@ -1555,7 +1554,7 @@ General Reading Sites*
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) - *Minecraft Modding API* 
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - *Minecraft World Overview Display Tool*
 * [The Minecraft Archive Project](http://map.crummy.com/) - *Minecraft World Archive*
-* [Nova Skin](https://minecraft.novaskin.me/) or [Blockbench](https://www.blockbench.net/)- *Minecraft Skin Editor* 
+* [Nova Skin](https://minecraft.novaskin.me/), [NeedCoolShoes](https://www.needcoolshoes.com/) or [Blockbench](https://www.blockbench.net/)- *Minecraft Skin Editor* 
 * [Amulet](https://www.amuletmc.com/) - *Minecraft Map Editor / Viewer*
 * [Classic Minecraft](https://classic.minecraft.net/) - *Play Classic Minecraft* 
 * [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 

@@ -380,6 +380,7 @@
 * [Retro Game Strategy Guides](https://archive.org/details/Tekken3PrimasOfficialStrategyGuide1998) - *700 Retro Game Strategy Guides* 
 * [Erowid](https://www.erowid.org/) - *Psychoactive Information Index*
 * [The-Eye Psychedelics](https://the-eye.eu/public/Psychedelics/Psychedelic%20Praxis%20Library%203.0/) - *Psychedelics*
+* [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - *Phychonauts Wiki*
 * [HerbologyY](https://t.me/HerbologyY) - *Herbology / Telegram*
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - *Hypnosis / Telegram*
 * [The Trove](https://thetrove.is/) - *Books / Fantasy / TTRPG / [Wayback Machine](https://web.archive.org/web/20210614215400/https://thetrove.is/), [2](https://web.archive.org/web/20210430220147/https://thetrove.is/)*

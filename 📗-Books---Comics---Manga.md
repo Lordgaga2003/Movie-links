@@ -122,6 +122,7 @@
 * [Sharing eBook](https://www.sharingebook.com/) - *Books* 
 * [GetFreeMagz](https://getfreemagz.club/) - *Books* 
 * [eBook Lobby](http://www.ebooklobby.com/) - *Books*  
+* [1Lib](https://1lib.limited/) - *Books*
 * [Free eBooks](http://www.freebooks.com) - *Books* 
 * [GrayCity](https://graycity.net/) - *Books*
 * [CentslessBooks](https://centslessbooks.com/) - *Books* 

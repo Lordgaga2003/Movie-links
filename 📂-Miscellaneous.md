@@ -525,7 +525,7 @@
 * [FutureTimeline](https://www.futuretimeline.net/) - *Timeline of future predictions* 
 * [House creep](https://www.housecreep.com/) - *Homes With A Curious or Criminal History* 
 * [16 Personalities](https://www.16personalities.com/) - *Personality Tests*
-* [Six Triangles](https://sixtriangles.github.io/), [9 Axes](https://9axes.github.io/) or [8 Values](https://8values.github.io/) - *Political Alignment Test*
+* [Six Triangles](https://sixtriangles.github.io/), [9 Axes](https://9axes.github.io/), [8dreams](https://8dreams.github.io/) or [8 Values](https://8values.github.io/) - *Political Alignment Test*
 * [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - *Test of Patience*
 * [Hypochondriapp](http://hypochondriapp.io/) - *Get a terrible diagnosis for your symptoms*
 * [Cube Rule](https://cuberule.com/) - *The Cube Rule of Food* 

@@ -746,6 +746,8 @@
 * [MangaTown](https://www.mangatown.com/)
 * [FunManga](https://funmanga.com/) 
 * [ReaperScans](https://reaperscans.com/) 
+* [MangaSee123](https://mangasee123.com/)
+* [Panda Chaika](https://panda.chaika.moe/)
 * [MangaSee](https://mangaseeonline.us/)
 * [Readmng](https://www.readmng.com/) 
 * [LoveHeaven](https://loveheaven.net/)
@@ -775,6 +777,7 @@
 * [Hiperdex](https://hiperdex.com/)
 * [MangaFox](https://fanfox.net/)
 * [ComicK](https://comick.fun/)
+* [ReadM](https://readm.org/)
 * [MangaFast](https://mangafast.net/)
 * [MangaKatana](https://mangakatana.com/) 
 * [Manga.Fanscans](https://manga.fascans.com/)
@@ -789,6 +792,7 @@
 * [BookDL Comic & Manga](http://booksdl.org/comics0/) - *Comics / Manga / Drive*
 * [Dynasty Scans](https://dynasty-scans.com/) - *Yuri*
 * [BoysLove](https://boyslove.me/) - *Yaoi* 
+* [WhereCanIReadManga?](https://wherecanireadmanga.com/) - *Legal*
 * [OtakuGallery](http://www.otakugallery.com/) - *Manga Artbooks*
 * [WebToons](https://www.webtoons.com/en/) - *Manga Webtoons*  
 * [AllMangasReader](http://allmangasreader.com/) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - *Organizer / Reader*

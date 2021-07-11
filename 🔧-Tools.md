@@ -796,7 +796,7 @@ General Reading Sites*
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - *Telegram Link Shortener Bot* 
 * [Fuselink](https://www.fuselink.co/) - *Merge Multiple Links* 
 * [Open Bulk URL](https://openbulkurl.com/) - *URL Bulk Opener*
-* [CheckServer](https://check-host.net/) or [24x7](https://www.site24x7.com/tools.html) - *Site Monitoring Tools*
+* [CheckServer](https://check-host.net/), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - *Site Monitoring Tools*
 * [Redirect Detective](https://redirectdetective.com/) - *URL Redirect Checker* 
 * [Dereferer](https://dereferer.me/) - *Derefer / Anonymize Links*
 * [Link-Lock](https://rekulous.github.io/link-lock/) - *Encrypt & Decrypt Links with Passwords*
@@ -958,7 +958,7 @@ General Reading Sites*
 * [discord-logo](http://nntin.github.io/discord-logo) - *Discord Animated Logo Generator / [Discord](https://discord.gg/gDHs8AV)*
 * [LottieResizer](https://lottieresizer.tech/) - *Lottie Resizer*
 * [Discord Branding](https://discord.com/branding) - *Discord Branding Information Page / [Archive](https://web.archive.org/web/20210513004910/https://discord.com/branding)*
-* [Displace](https://discord.gg/displace) - *Discord Community Management Chat*
+* [Displace](https://discord.gg/displace) or [OwnersHub](https://ownershub.xyz/) - *Discord Community Management Chat*
 * [Discord Moderator Academy](https://discord.com/moderation) - *Discord Moderator Guide / [Exam](https://discord.com/moderation/exam)*
 * [SnowStamp](https://pixelatomy.com/snow-stamp/) - *Convert Discord Snowflakes to Timestamps*
 * [ddpe](https://ddpe.androz2091.fr/) - *Discord Data Package Explorer / [GitHub](https://github.com/Androz2091/discord-data-package-explorer)*

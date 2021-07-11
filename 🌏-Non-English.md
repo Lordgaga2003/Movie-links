@@ -1026,6 +1026,7 @@
 * [serieslan](https://serieslan.com/) - *Cartoons*
 * [Blog De Plis](https://www.blogdepelis.tv/) - *Spanish Disney+* 
 * [NoireStyle](https://noirestyle.com/) - *Film Noir* 
+* [Edutin Academy]https://edutin.com/() - *Courses*
 * [UKIKU](https://ukiku.ga/) - *Anime apk*
 
 ## ▷ Reading

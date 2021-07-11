@@ -206,7 +206,7 @@
 ## ▷ Cooking Sites
 
 * [Copy Me That](https://www.copymethat.com/) or [Spoonacular](https://spoonacular.com/food-api) - *Recipe Manager*
-* [Just the Recipe](https://www.justtherecipe.app/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - *Copy Ingredients & Directions from Recipe Pages* 
+* [Just the Recipe](https://www.justtherecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - *Copy Ingredients & Directions from Recipe Pages* 
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - *Food Product Ingredient Scanner*
 * [cookEbooks](http://cookebooks.info/) - *Cookbooks*
 * [The-Eye Food](https://the-eye.eu/public/Books/Food/) - *Cookbooks* 

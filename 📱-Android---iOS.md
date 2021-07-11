@@ -211,7 +211,6 @@ App Manager
 * [Android APK](https://android-apk.org/) - *Untouched / Modded* 
 * [APKSum](https://www.apksum.com/) - *Untouched / Modded* 
 * [A2Z APK](https://a2zapk.com/) - *Untouched / Modded*  
-* [Apkpure](https://m.apkpure.com/) - *Untouched / Taken from other sites*
 * [RevDl](https://www.revdl.com/) - *Modded*  
 * [AndroidGameMods](https://www.androidgamemods.com/) - *Modded* 
 * [farsroid](https://www.farsroid.com/) - *Modded*

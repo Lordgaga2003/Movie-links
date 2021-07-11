@@ -427,7 +427,6 @@
 * [FreeStream-Live](http://freestreams-live1.com/) - *Sports* 
 * [TVLab](https://t.me/tvlab) - *IPTV Playlists / Telegram*
 * [iptv_sport](https://t.me/iptv_sport) - *IPTV Sports Playlists / Telegram*
-* [TaimaTV](http://taima.tv/) - *Wrestling / MMA / Boxing*
 * [Football Live Stream](https://football-live.stream/free-matches-online-6) - *Football* 
 * [MLB66](https://mlb66.ir/) - *MLB* 
 * [BoxingStreams](https://boxingstreams.cc/) - *Boxing*

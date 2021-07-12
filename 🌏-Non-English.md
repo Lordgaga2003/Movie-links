@@ -488,7 +488,6 @@
 
 ## ▷ Reading
 
-* [dwnlg.tel](https://dwnlg.tel/book-n/) - *Books / 110GB* 
 * [Solu](https://solu.zone/) - *Textbook Solutions*
 
 ***

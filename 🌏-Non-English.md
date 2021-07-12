@@ -477,7 +477,6 @@
 * [Italian Streaming Sites List](https://rentry.co/t29tz)
 * [CB01](https://cb01.directory/) - *Movies / TV / Anime* 
 * [euroStreaming](https://eurostreaming.vision/) - *Use deltabit / Movies / TV / Anime / Use AdBlocker* 
-* [streamingcommunity](https://streamingcommunity.net/) - *Movies / TV / Anime* 
 * [Altaefinizione](https://altadefinizione.sh/) - *Movies / TV / Anime* 
 * [FilmPertutti](https://filmpertutti.voto/) - *Movies / TV / Anime* 
 * [EuroStreaming](https://www.eurostreaming.camp/) - *Movies / TV / Anime* 

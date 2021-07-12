@@ -392,7 +392,7 @@
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - *The Trolley Problem*
 * [Untools](https://untools.co/) - *Better Thinking Tools & Frameworks*
 * [GCFGlobal](https://edu.gcfglobal.org/) - *Tech Tutorials*
-* [OpenSyllabus](https://opensyllabus.org/) or [Syllahttps://languagedrops.com/)busFinder](https://www.syllabusfinder.com/) - *Syllabus Search / Info*
+* [OpenSyllabus](https://opensyllabus.org/), [LanguageDrops](https://languagedrops.com/) or [SyllabusFinder](https://www.syllabusfinder.com/) - *Syllabus Search / Info*
 * [Edpuzz Ninja](https://edpuzz.ninja/) - *Educational Puzzle Solving Tool* 
 * [Slader](https://www.slader.com/) - *Homework Answers and Solutions*
 * [PowerInBooks](https://powerinbooks.xyz/temp/) or [ch36650lut10n5](https://www.ch36650lut10n5.com/) - *Textbook Solutions* 

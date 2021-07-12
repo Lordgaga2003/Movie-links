@@ -1545,6 +1545,7 @@ General Reading Sites*
 
 * [Awesome Minecraft](https://github.com/bs-community/awesome-minecraft) - *Minecraft Resource Index*  
 * [OptiFine](https://optifine.net/), [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) or [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - *Minecraft Optimization Mod / Fabric Required for some* 
+* [LambdAurora](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754) - *Minecraft OptiFine Alternatives for Fabric*
 * [Aristois](https://aristois.net/) - *Minecraft Utility Mod*
 * [Meteor Client](https://meteorclient.com/) - *Minecraft Fabric Utility Mod*
 * [Caffeine](https://github.com/CaffeineMC) - *Minecraft Performance Mods*

@@ -293,6 +293,7 @@
 * [The NoJS Club](https://nojs.club/) - *Websites that don't use JavaScript* 
 * [The Geocities Gallery](https://geocities.restorativland.org/) - *Old Site Index*
 * [ZoaLink](https://zoalink.com/) - *Korean Sites Index* 
+* [endoflife.date](https://endoflife.date/) - *Tools & Technologies' End of life Index*
 * [KilledByGoogle](https://killedbygoogle.com/) - *Dead Google Project Index*
 * [KilledByMicrosoft](https://killedbymicrosoft.info/) - *Dead Microsoft Project Index*
 

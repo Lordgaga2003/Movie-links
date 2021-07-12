@@ -1608,7 +1608,6 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 * [Rare Films](https://t.me/rarefilms) - *Movies* 
 * [New_Hollywood_Netflix_Movies](https://t.me/New_Hollywood_Netflix_Movies) - *Movies*
 * [MoviesVerse](https://t.me/MoviesHomeOFFICIALS) - *Movies / TV* 
-* [GDrive Movies Download](https://t.me/Google_drive_download_movies) - *Movies / TV* 
 * [Request_movies_series_bot](https://t.me/Request_movies_series_bot) - *TV*
 * [SciFiMovies4U](https://t.me/SciFiMovies4U) - *Sci-Fi Movies* 
 * [Warrior Spirits](https://t.me/warriorspirits) - *Action Movies*

@@ -194,6 +194,7 @@
 * [MyAnonaMouse](https://www.myanonamouse.net/) - *Open Applications*
 * [CinemaZ](https://cinemaz.to/auth/register) - *Movies / TV / Open Registrations*
 * [AvistaZ](https://avistaz.to/auth/register) - *Asian Movies / TV / Open Registrations*
+* [TheShow](http://theshow.click/) - *Open Registrations*
 * [XtremeWrestlingTorrents](http://xtremewrestlingtorrents.net/) - *Wrestling Private Tracker / Open Registrations*
 * [Torrent Invites](http://torrentinvites.org/f37/) - *Open Tracker Invites / Forum*
 * [TorrentInvites](https://torrentinvites.net/) - *Open Tracker Invites / Forum* 

@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/r9aQyq3.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/JcfEP7N.png)** - *For mobile users*
 
 ***
 ***
@@ -203,17 +203,9 @@
 
 ***
 
-#### Browser Music Sites
-
-[Just Hear It](http://justhearit.com/hear/Iv), [SoundClick](https://www.soundclick.com/default.cfm), [MP3Clan](https://mp3guild.com/), [Tancpol](https://tancpol.net/), [MP3 Quack](https://mp3quack.live/)
-
-***
-
 #### Calculator Sites
 
-* **[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)**, [RapidTables](https://www.rapidtables.com/), [Omni Calculator](https://www.omnicalculator.com/), [Calculator.net](https://www.calculator.net/sitemap.html), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [NumberEmpire](https://www.numberempire.com/), [](Easy Calculation
-https://www.easycalculation.com/)
-
+* **[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)**, [RapidTables](https://www.rapidtables.com/), [Omni Calculator](https://www.omnicalculator.com/), [Calculator.net](https://www.calculator.net/sitemap.html), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [NumberEmpire](https://www.numberempire.com/), [Easy Calculation](https://www.easycalculation.com/)
 
 ***
 
@@ -705,12 +697,6 @@ Add the following commands to a search to manually scrape each site.
 #### Modded Minecraft Launchers
 
 [tLauncher](https://tlauncher.org/en/), [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Lunar Client](https://www.lunarclient.com/), [Koala Launcher](https://github.com/KoalaDevs/KoalaLauncher), [Badlion](https://www.badlion.net/), [SkLauncher](https://skmedix.pl/sklauncher), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL)
-
-***
-
-#### MP3 Download Sites
-
-[BeeMP3](http://beemp3s.org/), [MP3Clan](https://mp3guild.com/), [Music Pleer](https://musicpleer.cloud/), [Playit.pk](https://playit.pk/), [SoundClick](https://www.soundclick.com/default.cfm), [MP3 Quack](https://mp3quack.live/), [z1.fm](https://z1.fm/), [PandaCD](https://pandacd.io/), [Tancpol](https://tancpol.net/)
 
 ***
 

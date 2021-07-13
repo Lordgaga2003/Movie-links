@@ -12,7 +12,7 @@
 # ► Adblocking 
 
 * **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/) or [Ad Blocker Test](https://d3ward.github.io/toolz/src/adblock) - *Adblocking Test*
-* [Stop Targeting Ads at Me](https://stoptargetingads.me/) or [Simple Opt Out](https://simpleoptout.com/) - *Turn off Targeted Ads*
+* [Simple Opt Out](https://simpleoptout.com/) - *Turn off Targeted Ads*
 * [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm), [Hosts](https://github.com/StevenBlack/hosts) or [Gas Mask](https://github.com/2ndalpha/gasmask) (Mac) - *Block Ads with Host Files* 
 
 ***
@@ -25,9 +25,8 @@
 * **[SponsorBlock](https://sponsor.ajay.app/)** - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
 * **[uMatrix](https://github.com/gorhill/uMatrix#umatrix)**, [NoScript](https://noscript.net/) or [ScriptSafe](https://www.andryou.com/scriptsafe) - *Blocks Malicious Scripts*
 * **[Popup Blocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - *Blocks Malicious Popups & Tabs*
-* **[Universal Bypass](https://universal-bypass.org/)**, [Ad-Link Bypasser V2](https://thebypasser.com/versions/version2.html) or [AdsBypasser](https://adsbypasser.github.io/) - *Skips Link Shorteners*
+* **[Universal Bypass](https://universal-bypass.org/)** or [AdsBypasser](https://adsbypasser.github.io/) - *Skips Link Shorteners*
 * [Skip Redirect](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect) - *Bypass Redirects*
-* [Linkvertise Bypass](https://greasyfork.org/en/scripts/427963-linkvertise-bypass-reuploaded) or [linkvertise-bypass](https://github.com/gamb2t/linkvertise-bypass) - *Bypass Linkvertise Redirects* 
 * [OpenVideo](https://openvideofs.github.io) - *Plays videos from streaming sites in a ad free player*
 * [Fakespot](https://www.fakespot.com/) - *Identifies Fake Reviews & Counterfeits*
 * [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm), [VideoAdBlockForTwitch](https://github.com/saucettv/VideoAdBlockForTwitch) or [Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/) - *Twitch Adblocker* 

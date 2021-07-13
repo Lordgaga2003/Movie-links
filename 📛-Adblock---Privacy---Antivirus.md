@@ -163,7 +163,7 @@
 * [Track This]( https://trackthis.link/) - *Confuse Personal Advertising by opening 100 tabs* 
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) or [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup) - *Disk Encryption Software*
 * [FileVault](https://support.apple.com/en-us/HT204837) - *Mac Disk Encryption* 
-* [Cryptomator](https://cryptomator.org/), [Boxcryptor](https://www.boxcryptor.com/en/), [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs), [Filen](https://filen.io/) or [xordrive](https://xordrive.io/) - *Cloud File Encryption*
+* [Cryptomator](https://cryptomator.org/), [Boxcryptor](https://www.boxcryptor.com/en/), [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) or [Filen](https://filen.io/) - *Cloud File Encryption*
 * [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/), [Skytransfer](https://skytransfer.hns.siasky.net) or [upload-vaa](https://upload.vaa.red/) - *Encrypted File Host* 
 * [EncFS MP](https://encfsmp.sourceforge.io/index.html), [CipherShed](https://www.ciphershed.org/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - *File Encryption Tool* 
 * [RemoteStream](https://remotestre.am/) - *Encrypt your Google Drive links* 

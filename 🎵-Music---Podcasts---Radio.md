@@ -29,15 +29,20 @@
 
 * **[Spotify](https://open.spotify.com/)** - *Browser Music / [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Listen Together](http://jqbx.fm/)*
 * **[YouTube Music](https://music.youtube.com/)** - *Browser Music*
-* **[Reddit Music Player](https://reddit.musicplayer.io/)** - *Subreddit music player*
+* **[Reddit Music Player](https://reddit.musicplayer.io/)** - *Subreddit Music Player*
 * **[SoundCloud](https://soundcloud.com/)** - *User made songs*
-* [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/dig) - *Browser music*
-* [Audiomack](https://audiomack.com/) - *Browser music*
-* [Slider](https://slider.kz/) or [My Free MP3](https://myfreemp3.vip/) - *Browser music*
-* [xprm](https://xprm.net/) - *Browser music*
-* [Pandora](https://www.pandora.com/) - *Browser music*
-* [Jamendo](https://www.jamendo.com/) - *Browser music*
-* [Last.fm](https://www.last.fm/) or [Libre.fm](https://libre.fm/) - *Browser music*
+* [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/dig) - *Browser Music*
+* [Audiomack](https://audiomack.com/) - *Browser Music*
+* [Slider](https://slider.kz/) or [My Free MP3](https://myfreemp3.vip/) - *Browser Music*
+* [xprm](https://xprm.net/) - *Browser Music*
+* [Pandora](https://www.pandora.com/) - *Browser Music*
+* [Jamendo](https://www.jamendo.com/) - *Browser Music*
+* [Last.fm](https://www.last.fm/) or [Libre.fm](https://libre.fm/) - *Browser Music*
+* [Just Hear It](http://justhearit.com/hear/Iv) - *Browser Music*
+* [SoundClick](https://www.soundclick.com/default.cfm) - *Browser Music*
+* [MP3Clan](https://mp3guild.com/) - *Browser Music*
+* [Tancpol](https://tancpol.net/) - *Browser Music*
+* [MP3 Quack](https://mp3quack.live/) - *Browser Music*
 * [plug.dj](https://plug.dj/) - *Community Streaming by Genre* 
 * [hypem](https://hypem.com/popular) - *Rising*
 * [datpiff](https://www.datpiff.com/) - *Mixtapes*
@@ -203,6 +208,15 @@
 * [SongsLover](https://songslover.vip/) - *MP3*
 * [FreshRemix](http://freshremix.ru/) - *MP3*
 * [nodata](https://nodata.tv/) - *MP3*
+* [BeeMP3](http://beemp3s.org/) - *MP3*
+* [MP3Clan](https://mp3guild.com/) - *MP3*
+* [Music Pleer](https://musicpleer.cloud/) - *MP3*
+* [Playit.pk](https://playit.pk/) - *MP3*
+* [SoundClick](https://www.soundclick.com/default.cfm) - *MP3*
+* [MP3 Quack](https://mp3quack.live/) - *MP3*
+* [z1.fm](https://z1.fm/) - *MP3*
+* [PandaCD](https://pandacd.io/) - *MP3*
+* [Tancpol](https://tancpol.net/) - *MP3*
 * [ccMixter](http://ccmixter.org/) / [dig ccMixter](http://dig.ccmixter.org/dig) - *DL / Stream / MP3* 
 * [MP3Juices](https://www.mp3juices.cc/) / [MP3Skull](https://mp3skulls.to/) - *DL / Stream / MP3* 
 * [Digital Meltd0wn](http://digitalmeltd0wn.blogspot.com/) - *MP3*

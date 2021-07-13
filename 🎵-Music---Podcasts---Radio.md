@@ -13,7 +13,7 @@
 ## ▷ Streaming Apps
 
 * **[Spotify Client](https://spotify.com/)** or [XpoMusic](https://xpomusic.com/) - *Streaming*
-* **Spotify Tools** - [Block Ads](https://github.com/mrpond/BlockTheSpot), [2](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/), [3](https://github.com/Lyut/SpotiHook2) / [Lyrics](https://versefy.app/) / [Spicetify](https://github.com/khanhas/spicetify-cli), [2](https://github.com/khanhas/Spicetify), [Spicetify Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Dedup](https://spotify-dedup.com/) / [Hotkeys](https://github.com/aleab/toastify) / [Colorize](https://colorify.live/) / [Backup](http://www.spotmybackup.com/) / [Library Size](https://opslagify.deruever.nl/)
+* **Spotify Tools** - [Block Ads](https://github.com/mrpond/BlockTheSpot), [2](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/), [3](https://github.com/Lyut/SpotiHook2) / [Lyrics](https://versefy.app/) / [Spicetify](https://github.com/khanhas/spicetify-cli), [2](https://github.com/khanhas/Spicetify) / [Spicetify Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Dedup](https://spotify-dedup.com/) / [Hotkeys](https://github.com/aleab/toastify) / [Colorize](https://colorify.live/) / [Backup](http://www.spotmybackup.com/) / [Library Size](https://opslagify.deruever.nl/)
 * **[Freezer](https://freezer.life/)** - *Streaming / [Discord](https://discord.com/invite/qwJpa3r4dQ) / [Telegram](https://t.me/joinchat/Se4zLEBvjS1NCiY9)*
 * [FunkWhale](https://funkwhale.audio/) - *Streaming*
 * [nuclear](https://github.com/nukeop/nuclear) - *Streaming*

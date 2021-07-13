@@ -290,7 +290,7 @@
 * [Crx4Chrome](https://www.crx4chrome.com/) - *Alt Google App Store*
 * [no-google](https://github.com/nickspaargaren/no-google) - *Block All Google Services* 
 * [Nixory](http://nixory.sourceforge.net/) - *Antispyware Browser Tool* 
-* [What is my Referer](https://www.whatismyreferer.com/) or [Dark Launch Referer Test](https://www.darklaunch.com/tools/test-referer) - *Check Link Referrer*
+* [Dark Launch Referer Test](https://www.darklaunch.com/tools/test-referer) - *Check Link Referrer*
 * [Link Cleaner](https://linkcleaner.app/) - *Remove Tracking Elements / Extra Garbage from URLs*
 * [whoer](https://whoer.net/) or [f.vision](http://www.f.vision/) - *Check Network / Browser Security*
 * [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [PixelScan](https://pixelscan.net/) or [AmIUnique](https://amiunique.org/) / [Timeline](https://amiunique.org/timeline) - *Browser Fingerprinting Test*

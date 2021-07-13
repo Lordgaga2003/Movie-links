@@ -358,9 +358,8 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * **[Stremio](https://www.stremio.com/)** - *Torrent Streaming / [Addons](https://redd.it/ahd6gk) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * **[CloudStream2](https://github.com/LagradOst/CloudStream-2)** - *Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM)*
 * **[CinemaHD](https://cinemaapk.com/)** - *Movies / TV / Anime / Chromecast*
-* **[Noyox](https://play.google.com/store/apps/details?id=com.vid.vidseed)**, [Zivcy](https://www.downloader.world/) or [Zoshy](http://play.google.com/store/apps/details?id=com.sy.syfoo)  - *Movies / TV / Code: 777*
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - *Ad Free YouTube on Android*
-* **[Cinehub](https://www.cinehub.app/)** or [Cinehub.to](https://www.cinehub.to/) - *Movies / TV / Chromecast /* **Currently Down :(**
+* [Noyox](https://play.google.com/store/apps/details?id=com.vid.vidseed), [Zivcy](https://www.downloader.world/) or [Zoshy](http://play.google.com/store/apps/details?id=com.sy.syfoo)  - *Movies / TV / Code: 777*
 * [CucoTV](https://cucotv.github.io/) - *Movies / TV* 
 * [Cunrchyroll Premium](https://forum.mobilism.org/search.php?keywords=crunchyroll&amp;sr=topics&amp;sf=titleonly)
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*

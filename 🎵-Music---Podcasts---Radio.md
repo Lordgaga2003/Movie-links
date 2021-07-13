@@ -69,7 +69,6 @@
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - *East African Recordings* 
 * [Free Music Archive](https://www.freemusicarchive.org/) - *Royalty Free Music* 
 * [Battle of the Bits](https://battleofthebits.org/) - *User-Made Music Competitions* 
-* [More Browser Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_music_sites) - *Browser music*
 * [FunkWhale](https://funkwhale.xyz/) - *Listen to & Share Music in a Decentralized Network*
 
 ***
@@ -292,7 +291,6 @@
 * [LiteRecords](https://literecords.co/) - *STEMS*
 * [Adobe Audition Downloads](https://offers.adobe.com/en/na/audition/offers/audition_dlc.html), [Free-Loops](http://free-loops.com/), [FreeSOundEffects](https://www.freesoundeffects.com/free-sounds/airplane-10004/), [Freesound](http://freesound.org/) or [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/FThompson/BBCSoundDownloader) - *SFX / Loops*
 * [soundbible](https://soundbible.com/), [ZapsPlat](https://www.zapsplat.com/) or [FindSounds](https://findsounds.com/) - *Sound Search Engine* 
-* [More MP3 DL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mp3_download_sites)  - *DL / Stream / MP3* 
 
 ***
 

@@ -102,7 +102,6 @@
 * [PacketTotal](https://packettotal.com/) - *PCAP / Network Analysis* 
 * [should-i-trust](https://github.com/ericalexanderorg/should-i-trust) - *Evaluates OSINT Signals for a Domain* 
 * [Phish.ly](https://phish.ly/) - *Scan Suspicious Emails*
-* [Cuckoo](https://github.com/cuckoosandbox/cuckoo) - *Automated Malware Analysis System*
 * [Any.Run](https://any.run/) - *Interactive Malware Sandbox*
 * [testsafebrowsing](https://testsafebrowsing.appspot.com/) - *Safe Browsing Testing Links* 
 * [QuickSand](https://quicksand.io/) - *PDF / Document Malware Scanner* 

@@ -98,7 +98,7 @@
 
 #### Alternative Software / App Sites
 
-[Ethical](https://ethical.net/resources/), [AlternativeTo](https://alternativeto.net/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/)
+[Ethical](https://ethical.net/resources/), [AlternativeTo](https://alternativeto.net/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/), [GCemetery Alternatives](https://gcemetery.co/google-alternatives/)
 
 ***
 

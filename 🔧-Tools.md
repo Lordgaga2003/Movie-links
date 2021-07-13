@@ -825,7 +825,7 @@ General Reading Sites*
 
 * **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)** or [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - *Browser Extension /  [Feature List](https://redditenhancementsuite.com/features/)*
 * **[redditlist](http://redditlist.com/)** - *Subreddit search / index*
-* [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [Reddit.tube](https://reddit.tube/), [RedditSave](https://redditsave.com/), /u/SaveVideo or /u/downloadmp4 - *Download Reddit Videos* 
+* [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [Reddit.tube](https://reddit.tube/), [RedditSave](https://redditsave.com/) or /u/downloadmp4 - *Download Reddit Videos* 
 * [saveddit](https://github.com/p-ranav/saveddit) - *Reddit Bulk Media Downloader*
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown)
 * [/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all) - *Explore Multireddits*

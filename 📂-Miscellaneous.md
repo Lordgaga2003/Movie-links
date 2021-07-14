@@ -278,7 +278,8 @@
 * /r/coolgithubprojects - *Cool Projects on Github* 
 * /r/coolgitlabprojects - *Cool Projects on Gitlab*
 * [git:logs](https://www.gitlogs.com/) - *Trending GitHub Repos* 
-* [Active Github Forks](https://techgaun.github.io/active-forks/) - *List of active github forks*
+* [grep.app](https://grep.app/) or [GitSearch](https://gitsearch.io/) - *Git Repository Search*
+* [Active Github Forks](https://techgaun.github.io/active-forks/) - *List of Active GitHub Forks*
 * [Awesome Zites](https://github.com/KevinScruff/awesome-zites) - *ZeroNet Site Index* 
 * [PiracyBank](https://piracybank.org/websites) - *List of sites tagged for copyright, mostly dead* 
 * [Movim](https://movim.eu/) - *Decentralized Social Network* 

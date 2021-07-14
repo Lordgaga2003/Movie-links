@@ -470,6 +470,7 @@
 * [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - *Philosophy* 
 * [APAOnline](https://www.apaonline.org/) - *Philosophy* 
 * [Philosophy Drive](https://mega.nz/folder/MQBRHBJA#L_on3h-XUrtbc719UaMygw) - *Philosophy* 
+* [The Idealist's Library](https://drive.google.com/drive/folders/1N0mJiECRb8c8EDasaejqVem5nJH_qzoB) - *Philosophy / Idealism*
 * [Access Medicine](https://accessmedicine.mhmedical.com/books.aspx?view=library) - *Medical*
 * [Am Medicine](https://am-medicine.com/) - *Medical*
 * [PickPDF](https://pickpdfs.com/) - *Medical* 

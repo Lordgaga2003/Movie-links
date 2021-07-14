@@ -361,7 +361,7 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * **[CucoTV](https://cucotv.github.io/)** - *Movies / TV* 
 * **[CinemaHD](https://cinemaapk.com/)** - *Movies / TV / Anime / Chromecast*
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - *Ad Free YouTube on Android*
-* [Noyox](https://play.google.com/store/apps/details?id=com.vid.vidseed), [Zivcy](https://www.downloader.world/) or [Zoshy](http://play.google.com/store/apps/details?id=com.sy.syfoo)  - *Movies / TV / Code: 777*
+* **[Zoshy](http://play.google.com/store/apps/details?id=com.sy.syfoo)**, [Noyox](https://play.google.com/store/apps/details?id=com.vid.vidseed) or [Zivcy](https://www.downloader.world/)  - *Movies / TV / Code: 777*
 * [Cunrchyroll Premium](https://forum.mobilism.org/search.php?keywords=crunchyroll&amp;sr=topics&amp;sf=titleonly)
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - *Movies / TV / Anime* 

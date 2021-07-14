@@ -251,7 +251,6 @@
 * **[AnimeTribes](https://animetribes.ru/)** - *Sub* 
 * **[AnimeKisa](https://animekisa.tv/)** - *Sub / Dub*
 * **[Zoro](https://zoro.to/)** - *Sub / Dub*
-* [4Anime](https://4anime.to/) - *Sub / [Discord](https://discord.gg/TzuEpf8)*
 * [Aninow](https://aninow.net/) - *Sub / Dub*
 * [AnimePahe](https://animepahe.com/) - *Sub*
 * [AnimehHub](https://animehub.ac/) - *Sub / Dub*

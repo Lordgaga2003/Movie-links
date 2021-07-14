@@ -407,7 +407,6 @@
 * [WireHole](https://github.com/IAmStoxe/wirehole) - *Wireguard VPN w/ Adblocking Capabilities* 
 * [Syntropy](https://www.syntropystack.com/vpn) or [Outline](https://getoutline.org/) - *Self-Hosted VPN*
 * [WebOasis WireGuard VPN](https://weboas.is/forum/index.php?topic=2657.0) - *Free VPN*
-* [Speedify](https://speedify.com/) - *Free VPN, 10gb a month / No Account Required*
 * [Kaspersky ](https://www.kaspersky.co.uk/vpn-secure-connection) - *Free VPN / 200 MB per day / No Account Required*
 * [TurboVPN](https://turbovpn.com/) - *Free VPN*
 * [Free VPN Online](http://freevpnonline.com/) - *Free VPN*
@@ -425,7 +424,6 @@
 * [Enterprise](https://pritunl.com/) - *VPN Server* 
 * [Amnezia](https://github.com/amnezia-vpn/desktop-client/) - *Self-hosted VPN*
 * [Self-hosted VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/selfhost-vpn) - *Self-hosted VPN guide by /u/Kaxry*
-* [Streisand](https://github.com/StreisandEffect/streisand) - *Anti-Censorship VPN Setup*  
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
 * /r/VPN - *VPN Help and Discussion* 
 
@@ -436,10 +434,7 @@
 ## ▷ Proxy Apps
 
 * [Psiphon](https://psiphon.ca/)
-* [PenguinProxy](https://www.penguinproxy.com/)
-* [uProxy](https://github.com/UWNetworksLab/uProxy-p2p)
 * [Acrylic](http://mayakron.altervista.org/)
-* [SafeIP](http://www.freesafeip.com/)
 * [Shadowsocks](https://shadowsocks.org/en/index.html) - *[Free Servers](https://github.com/ruanfei/ShadowsocksRRShare)*
 * [Lantern](https://lantern.io/en_US/index.html) 
 * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - *Proxy Manager*
@@ -454,7 +449,7 @@
 
 * **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)** - *Lists of Proxies*
 * **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
-* [Torrents.io](https://torrents.io/proxy/) or [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container) - *Torrent Site Proxies*
+* [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container) - *Torrent Site Proxies*
 * [ProxySite](https://www.proxysite.com/)
 * [Hide.me](https://hide.me/en/proxy)
 * [KProxy](https://www.kproxy.com/)
@@ -464,10 +459,7 @@
 * [Sitenable](http://sitenable.in/) 
 * [4EverProxy](https://www.4everproxy.com/)
 * [zend2](https://zend2.com/)
-* [ProxySnel](http://proxysnel.nl/) 
-* [Bhadoo](https://proxy.fetchgoogleapi.workers.dev/)
 * [Open Proxy Space](https://openproxy.space/)
-* [HashHackers](https://proxy.fetchgoogleapi.workers.dev/)
 * [Unblocked.cyou](https://unblocked.cyou/)
 * [Google Translate](https://translate.google.com/) - *[How to use](https://redd.it/fawkjy)*
 * [DarknetProxy](https://darknetproxy.com/) - *DeepWeb / I2P Proxy*

@@ -164,7 +164,6 @@
 * **[IMDbStream](https://imdbstream.xyz/)** - *Search API, IMDb ids*
 * **[NetU](https://netu.io/view_page.php?pid=4)** - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png), try IMDb ids*
 * [Streamy-Flix](https://streamy-flix.my-trials.ml/) - *Multi host search* 
-* [VideoSpider](https://videospider.in/) - *Host crawler, IMDb ids*
 * [DBGO](https://dbgo.fun/) - *Search API, IMDb ids / [Content List](https://dbgo.fun/list.php)*
 * [ApiMDB](https://apimdb.net/) - *Search API, IMDb ids*
 * [VPlus.ucoz](http://vplus.ucoz.com/) - *Search API, IMDb ids* 

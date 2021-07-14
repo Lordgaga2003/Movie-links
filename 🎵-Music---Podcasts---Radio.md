@@ -70,7 +70,6 @@
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - *East African Recordings* 
 * [Free Music Archive](https://www.freemusicarchive.org/) - *Royalty Free Music* 
 * [Battle of the Bits](https://battleofthebits.org/) - *User-Made Music Competitions* 
-* [FunkWhale](https://funkwhale.xyz/) - *Listen to & Share Music in a Decentralized Network*
 
 ***
 

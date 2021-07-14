@@ -17,6 +17,7 @@
 * **[Freezer](https://freezer.life/)** - *Streaming / [Discord](https://discord.com/invite/qwJpa3r4dQ) / [Telegram](https://t.me/joinchat/Se4zLEBvjS1NCiY9)*
 * [FunkWhale](https://funkwhale.audio/) - *Streaming*
 * [nuclear](https://github.com/nukeop/nuclear) - *Streaming*
+* [Muffon](https://github.com/staniel359/muffon) - *Streaming*
 * [YTMDesktop](https://github.com/JamesParkDev/ytmdesktop-adblock), [2](https://ytmdesktop.app/), [Youtube-Music](https://github.com/th-ch/youtube-music) or [YMD](https://github.com/MaverickMartyn/youtube-music-desktop) - *YouTube Music Streaming* 
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - *Stream / Download Youtube Music from Terminal*
 * [Deezer](https://www.deezer.com/) - *Streaming*

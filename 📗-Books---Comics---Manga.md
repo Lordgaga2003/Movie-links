@@ -295,7 +295,6 @@
 * **[Sacred Text Archive](https://www.sacred-texts.com/index.htm)** - *Religion / Mythology / Folklore / Esoterica*
 * **[ARCHIVES](https://discord.com/invite/FqFp8Q4)** - *Occult / Witchcraft / Religion*
 * **[WiLd's Occult Ebook Sources](https://justpaste.it/WiLdOccultEbooks)** - *Occult / Esoterica*
-* **[Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm)** - *Mythology / Conspiracy / Esoterica*
 * [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2) - *Occult*
 * [GodChecker](https://www.godchecker.com/) - *Learn about Gods from different Religions*
 * [Hermetic International](https://www.hermetics.net/) - *Religion / Occult / Alchemy / Astrology / Freemasonry / Gnosticism / Hermetic / Kabbalah / Philosophy*
@@ -304,14 +303,16 @@
 * [Hermetics](http://www.hermetics.org/library.html) - *Ancient Texts / Mythology / Occult*
 * [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - *Religion / Esoterica / Occult*
 * [Esoteric Library](https://mega.nz/#F!jN8GTSaJ!xN6x5Pv9dhqT6yLhO6r2Ow) - *Esoterica / Occult* 
-* [Magic / Esoteric Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks) - *Magic / Esoteric*
+* [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - *Mythology / Conspiracy / Esoterica*
+* [Magic / Esoteric Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks) - *Magic / Esoterica*
 * [Dhamma Talks](https://www.dhammatalks.org/) - *Sacred Texts / Religion / Buddhism*
 * [Sutta Central](https://suttacentral.net/) - *Sacred Texts / Religion / Buddhism* 
 * [Gnostic Society Library](http://www.gnosis.org/library.html) - *Gnosticism*
 * [Kenorb's New Age library](https://www.dropbox.com/sh/2x5qfpd4csenuws/AABxbTrOvXVRcwsW0z9t6AFJa) - *Esoterica / Mythology / Gnosticism* 
 * [Esoterica](https://mega.nz/#F!hQVFBDbT!f3gOa3LUAHJXJJbFZfDytg) - *Esoterica / Philosophy / Gnosticism* 
 * [Logoi Library](http://logoilibrary.com/) - *Gnosticism / Hermeticism* 
-* [Occult Megadrive](https://mega.nz/#F!pOZCyaxK!qRLNFL_GzdXz6Dhz22bLMg)
+* [Occult Megadrive](https://mega.nz/#F!pOZCyaxK!qRLNFL_GzdXz6Dhz22bLMg) - *Occult*
+* [766 occult books](http://www.mediafire.com/file/abggpzcdxv09w80/books.zip) - *Occult* 
 * [Messy occult library](https://mega.nz/#F!BNljAKhB!eY3NfH3DZtthocohW8Lwwg) - *Occult / Esoterica / Gnosticism* 
 * [LeftHandPath](https://mega.nz/#F!E4cSzYBZ!SPeQA0WuSMVh_oQtpYnN5w) - *Luciferianism* 
 * [mr.taco9's library](https://drive.google.com/drive/folders/0B7TpGr9NCseXVWRQbFlpT28zQzg) - *Occult / Luciferianism* 
@@ -350,7 +351,6 @@
 * [Sankaracharya](http://www.sankaracharya.org/index.php) - *Hinduism*
 * [Vedanta Shastras](https://www.shastras.com/) - *Hinduism*
 * [Vedabase](https://vedabase.io/en/) - *Bhaktivedanta Swami / Books / Transcripts / Letters* 
-* [766 occult books](http://www.mediafire.com/file/abggpzcdxv09w80/books.zip) - *Occult / Zip File* 
 
 ***
 

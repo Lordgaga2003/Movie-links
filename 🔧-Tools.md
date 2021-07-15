@@ -261,7 +261,7 @@
 * [CC0 Textures](https://cc0textures.com/) - *Textures for 3D Models* 
 * [Generated Photos](https://generated.photos/) - *AI Generated Model Photos*
 * [Blender](https://www.blender.org/) - *Open Source 3D Modeler / 2D Animation / Video Editor*
-* [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/) or [Art of Illusion](http://aoi.sourceforge.net/) - *3D Modeling / Art Design Tool*
+* [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [Vectary](https://www.vectary.com/) or [Art of Illusion](http://aoi.sourceforge.net/) - *3D Modeling / Art Design Tool*
 * [MakeHuman](http://www.makehumancommunity.org/) - *3D Humanoid Modeler*
 * [FaceMaker](http://facemaker.uvrg.org/) - *Face / Avatar Generator* 
 * [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - *AI Art Generation Guide*
@@ -1485,6 +1485,7 @@ General Reading Sites*
 
 * [find-PlayDate](https://www.find-playdate.com/) - *Find People to Play Games With* 
 * [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/) or [softether](https://www.softether.org/) - *Play Pirated Multiplayer Games*
+* [Nemirtingas Galaxy Emu](https://gitlab.com/Nemirtingas/nemirtingas_galaxy_emu) - *GOG Galaxy Lan Emulator*
 * [Online Fix](https://online-fix.me/) - *Online Game Cracks / [Discord](https://discord.gg/yExgFYncMD)* 
 * [Slippi](https://slippi.gg/) - *Super Smash Bros Melee Online* 
 * [CnCNet](https://cncnet.org/) - *Multiplayer Command & Conquer* 
@@ -1498,6 +1499,7 @@ General Reading Sites*
 * **[ModDB](https://moddb.com/)**, [Nexus Mods](https://www.nexusmods.com/), [ZagruzkaMods](https://zagruzkamods.com/) or [CurseForge](https://www.curseforge.com/) - *Game Mods* 
 * [ChronoCrash](http://www.chronocrash.com/forum/) - *Game Modding Forum*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
+* [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - *Cheat Engine Table for Singple Player Games*
 * [Plutonium](https://plutonium.pw/) - *Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)* 
 * [IW4x / IW6x](https://xlabs.dev/) - *COD MW2 Mod Project* 
 * [Project Reality](https://www.realitymod.com/about) - *BF2 & ARMA 2 Realism Mod*
@@ -1514,6 +1516,7 @@ General Reading Sites*
 * [SteamDB](https://steamdb.info/) - *Steam Insights Tool*
 * [SteamCleaner](https://github.com/Codeusa/SteamCleaner) - *Remove Data Left Behind by Game Clients* 
 * [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) / [GitHub](https://github.com/MAXBURAOT/SmartSteamEmu), [Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator) / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg), [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - *Steam Client Emulator* 
+* [ColdAPI](https://github.com/Rat431/ColdAPI_Steam) - *Offline Steam Emulator*
 * [Steam Mover](https://www.traynier.com/software/steammover) - *Store Steam Games on Multiple Drives*
 * [Steamless](https://github.com/atom0s/Steamless) - *DRM Remover*
 * [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - *Steam DLC Unlocker / [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521)*

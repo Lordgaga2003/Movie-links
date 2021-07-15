@@ -278,6 +278,9 @@
 * [ECWolf](https://maniacsvault.net/ecwolf/) - *Wolfenstein 3D, Spear of Destiny & Super 3D Noah's Ark Port*
 * [ET: Legacy](https://www.etlegacy.com/) - *Wolfenstein Enemy Territory Multiplayer Project / [Discord](https://discord.gg/UBAZFys)*
 * [OpenArena Live](https://kosmi.io/openarena) - *Quake III Arena Clone* 
+* [Quaddicted](https://www.quaddicted.com/) - *Classic Quake Mods, Maps & Tools*
+* [YQuake2](https://www.yamagi.org/quake2/) - *Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)*
+* [IOQuake3](https://ioquake3.org/) - *Quake 3 Source Port / [GitHub](https://github.com/ioquake/ioq3)*
 * [Aleph One](https://alephone.lhowon.org/) - *Open-Source Marathon Continuation* 
 * [Powerslave EX](https://drive.google.com/file/d/1VFvOYKyjyFwH5sqSL5mz_jl3SdIUcAOY/view?usp=sharing) - *Powerslave PC Port* 
 * [Arx Libertatis](https://arx-libertatis.org/) - *Arx Fatalis PC Port*

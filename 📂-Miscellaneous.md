@@ -225,7 +225,6 @@
 * [The Pirate List](https://thepiratelist.com/) - *Ranks Piracy Sites* 
 * [Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - *Find Software / App Alternatives* 
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - *Open Source Index*
-* [Carrots](https://thecarrots.io/) - *Open-Source Project Index / Search*
 * /r/InternetIsBeautiful - *Helpful / Fun Sites Subreddit / [Randomizer](https://therandombutton.com/)*
 * [/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index) - */r/Piracy wiki*
 * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://alternate-awesome-piracy.vercel.app/) - *List of awesome warez and piracy links*
@@ -310,7 +309,7 @@
 * /r/DataHoarder - *[Telegram](https://t.me/r_DataHoarder)*
 * /r/trackers 
 * /r/usenet 
-* /r/CrackSupport - *Piracy / Gaming / Cracking Discussion / [Discord](https://discord.gg/eTsaTNpsxj)*
+* /r/CrackSupport - *Piracy / Gaming / Cracking Discussion / [Discord](https://discord.gg/eTsaTNpsxj) / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch )*
 * [PGames](https://discord.gg/dZWwhUy) - *Piracy / Gaming / Discord*
 * [CS.RIN.RU](https://cs.rin.ru/forum)
 * [Ru.Board](http://forum.ru-board.com/)

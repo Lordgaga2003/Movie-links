@@ -40,7 +40,6 @@
 * [Vumoo](https://vumoo.to/) - *Movies / TV* 
 * [FshareTV](https://fsharetv.co/) - *Movies* 
 * [Ohh.io](https://ohh.io/) - *Movies / TV / Anime* 
-* [LunchFlix](https://www.lunchflix.org/) - *Movies / TV*
 * [UniqueStream](https://uniquestream.vip/) - *Movies / TV / Anime*
 * [CooLMoviez](https://coolmoviez.app/) - *Movies / TV / Anime / [Telegram](https://t.me/coolmoviezfree)*
 * [FlixHub](https://flixhub.net/) - *Movies*

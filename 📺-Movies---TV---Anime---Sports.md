@@ -283,7 +283,6 @@
 * [AnimeHeaven](https://animeheaven.ru/) - *Sub / Dub* 
 * [AnimeDao](https://animedao.to/) - *Sub*
 * [AnimePill](https://animepill.com/) - *Sub*
-* [Simply](https://simply.moe/) - *Sub* 
 * [AniMumu](https://animumu.ga/) - *Sub*
 * [Shiro](https://shiro.is/) - *Sub / Dub* 
 * [Array Anime](https://www.arrayanime.com/) - *Sub / Dub* 

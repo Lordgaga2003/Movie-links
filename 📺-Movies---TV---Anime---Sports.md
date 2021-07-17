@@ -796,7 +796,7 @@
 
 # ► Subtitles
 
-* **[Open Subtitles](https://www.opensubtitles.org/)** - *Subtitles* 
+* **[Open Subtitles](https://www.opensubtitles.com/)** - *Subtitles* 
 * **[Subtitle Edit](https://www.nikse.dk/SubtitleEdit/Online)**, [DST](https://www.syedgakbar.com/projects/dst) or [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - *Subtitle Editor*
 * **[External Subtitles Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_external_subs_player)** - *Player Subs Externally* 
 * [elSubtitle](http://www.elsubtitle.com/) - *Subtitles & Tools* 

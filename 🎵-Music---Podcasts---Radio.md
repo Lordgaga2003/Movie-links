@@ -186,6 +186,7 @@
 * [SoundCloud Downloader](https://github.com/NotTobi/soundcloud-dl), [Klickaud](https://www.klickaud.co/), [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837-local-soundcloud-downloader) or [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/) - *Soundcloud Downloader*
 * [streamrip](https://github.com/nathom/streamrip) - *Deezer & SoundCloud Downloader*
 * [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - *Audio Command Line Download Tool*
+* [GamesDrive Music-DL](https://discord.gg/PKFAnduGtA) - *GamesDrive TIDAL Music Bot Ripper*
 * [music-downloader](https://github.com/Dayhawk007/music-downloader) - *Python Music Download Script*
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - *VK MP3 Search Tool* 
 * [fetch-audio-from-fm](https://github.com/zhenze12345/fetch-audio-from-fm) - *Download FM Site Audio* 

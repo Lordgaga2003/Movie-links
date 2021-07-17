@@ -480,6 +480,7 @@
 * [Mooval](https://www.mooval.de/) - *Move Songs to or from Programs / Sites*
 * [Flacon](https://flacon.github.io/) - *Audio Track Splitter* 
 * [ZzFXM](https://keithclark.github.io/ZzFXM/) - *JavaScript Music Renderer* 
+* [YADG](https://yadg.cc/) - *Scrape / Render Music via Templates / [API](https://yadg.cc/api/)*
 * [Flow](https://lx.sg/flow), [Balabolka](http://balabolka.site/bportable.htm) / [2](http://www.cross-plus-a.com/bportable.htm), [15.ai](https://15.ai/), [From Text to Speech](http://www.fromtexttospeech.com/), [Text To Speech](https://texttospeech.ca/), [ttsMP3](https://ttsmp3.com/), [Vo.codes](https://vo.codes/) or [NaturalReaders](https://www.naturalreaders.com/online/) - *Text to Speech* 
 * [Clash](https://clash.me/) - *Text to Speech using Sampled Media* 
 * [Audiogrep](http://antiboredom.github.io/audiogrep/) - *Transcribe & Search for Phrases in Audio / [GitHub](https://github.com/antiboredom/audiogrep)*

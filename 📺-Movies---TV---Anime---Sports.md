@@ -226,9 +226,7 @@
 * **[TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)**
 * **[Noxx](https://noxx.is)** - *TV*
 * **[GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search)** - *TV / Anime*
-* **[Best-Series](https://best-series.me/)** - *TV / Anime* 
 * **[CouchTuner](https://www.couchtuner.host/)** - *TV* 
-* [WatchEpisodes](https://www.watchepisodes4.com/) - *TV / Anime*
 * [MyWatchSeries](https://www5.mywatchseries.stream/) - *TV / Anime* 
 * [KissTVShow](https://kisstvshow.to/) - *Asian TV Shows / Subtitles*   
 * [turkish123](https://turkish123.com/) - *Turkish TV Shows / Subtitles* 
@@ -313,7 +311,6 @@
 * [DivineAnime](https://www.divineanime.ru/) - *Sub*
 * [AnimeKH](https://animekh.com/) - *Sub* 
 * [cartooncrazy](https://www.cartooncrazy.tv/), [2](http://www.cartooncrazy.net/) - *Anime / Cartoons* 
-* [animetoon](http://www.animetoon.org/) - *Anime / Cartoons* 
 * [thewatchcartoononline](https://www.thewatchcartoononline.tv/), [wcostream](https://www.wcostream.com/), [wcoforever](https://www.wcoforever.com/ ) or [WCO](https://www.wco.tv/) - *Anime / Cartoons* 
 * [Otaku-Streamers](https://otaku-streamers.com/) - *Sub (Account Required)* 
 * [Funimation](https://www.funimation.com/shows/free/) - *Sub / Dub* 
@@ -326,11 +323,9 @@
 * **[KimCartoon.to](https://kimcartoon.to)**
 * [TopCartoons](https://www.topcartoons.tv/)
 * [KissCartoon.info](https://kisscartoon.info/) - *Anime / Cartoons*
-* [Toonova](http://www.toonova.net/)
 * [Supercartoons](https://www.supercartoons.net/)
 * [b98](https://www.b98.tv/)
 * [cartooncrazy](https://www.cartooncrazy.tv/), [2](http://www.cartooncrazy.net/) - *Anime / Cartoons* 
-* [animetoon](http://www.animetoon.org/) - *Anime / Cartoons* 
 * [thewatchcartoononline](https://www.thewatchcartoononline.tv/), [wcostream](https://www.wcostream.com/), [wcoforever](https://www.wcoforever.com/ ) or [WCO](https://www.wco.tv/) - *Anime / Cartoons* 
 * [South Park](https://southpark.cc.com/) - *South Park Episodes* 
 * [ToonamiAftermath](https://www.toonamiaftermath.com/) - *Toonami Stream* 

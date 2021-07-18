@@ -278,6 +278,8 @@
 * [DarkAnime](https://darkanime.stream/) - *Sub*
 * [Kawaiifu](https://kawaiifu.com/) - *Sub / Dub*
 * [AnimeDaisuk](https://animedaisuki.moe/) - *Sub*
+* [AnimeFox](https://animefox.io/) or [FlixAnime](https://flixani.me/) - *Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)*
+*  [FlixAnime](https://flixani.me/) - *Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)*
 * [AnimeHeaven](https://animeheaven.ru/) - *Sub / Dub* 
 * [AnimeDao](https://animedao.to/) - *Sub*
 * [AnimePill](https://animepill.com/) - *Sub*
@@ -559,7 +561,7 @@
 * **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
 * **[AnimeKaizoku](https://animekaizoku.com/)**
 * **[hi10anime](https://hi10anime.com/)**
-* **[AnimeBatchDDL](https://animebatchddl.wordpress.com/)** - *[Discord](https://discord.gg/h5pGByTZ9Z) / [Drive](https://animebatchddl.code-geass.workers.dev/0:/), [2](https://animebatchddl.lelouch-vi-britannia.workers.dev/0:/), [3](https://animebatchddl.seisei-ruten.workers.dev/0:/), [4](https://animebatchddl.lelouch-lamperouge.workers.dev/0:/)*
+* **[AnimeBatchDDL](https://animebatchddl.wordpress.com/)** - *[Discord](https://discord.gg/XRzMEMhEmu) / [Drive](https://animebatchddl.code-geass.workers.dev/0:/), [2](https://animebatchddl.lelouch-vi-britannia.workers.dev/0:/), [3](https://animebatchddl.seisei-ruten.workers.dev/0:/), [4](https://animebatchddl.lelouch-lamperouge.workers.dev/0:/)*
 * **[Judas Discord](https://discord.gg/vbJ7RTn)** - *Sub / Dub / [OneDrive](https://reskk-my.sharepoint.com/personal/frankcastle_f_odpan_cn/_layouts/15/onedrive.aspx) / [GDrive](https://drive.google.com/drive/folders/19URIgzsbkOfNCXG13Wklmoq3KugKzk9j) / [TeamDrive](https://groups.google.com/d/forum/judasddl)* 
 * **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)** - *Telegram Anime Download Channels* 
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - *Anime / Manga Download Forum*

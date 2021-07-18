@@ -526,7 +526,7 @@
 
 #### Internet Speed Test
 
-[fast](https://fast.com/), [LibreSpeed](https://librespeed.org/), [Xfinity Speed Test](https://speedtest.xfinity.com/), [DLS Reports](http://www.dslreports.com/tools), [Bandwidth Place](https://www.bandwidthplace.com/), [Cloudflare](https://speed.cloudflare.com/), [Google Speed Test](https://www.google.com/search?q=internet+speed+test), [Speedtest](https://www.speedtest.net/), [wifiman](http://wifiman.com/)
+[fast](https://fast.com/), [LibreSpeed](https://librespeed.org/), [Xfinity Speed Test](https://speedtest.xfinity.com/), [DLS Reports](http://www.dslreports.com/tools), [Bandwidth Place](https://www.bandwidthplace.com/), [Cloudflare](https://speed.cloudflare.com/), [Speedtest](https://www.speedtest.net/), [wifiman](http://wifiman.com/)
 
 ***
 

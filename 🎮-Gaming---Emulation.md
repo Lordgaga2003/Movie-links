@@ -207,7 +207,7 @@
 * [WiiWare Collection](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - *Roms / WiiWare*
 * [Nintendo Wii Collection](https://archive.org/details/RedumpNintendoWiiAmericaPart1), [2](https://archive.org/details/RedumpNintendoWiiAmericaPart2), [3](https://archive.org/details/RedumpNintendoWiiAmericaPart3), [4](https://archive.org/details/RedumpNintendoWiiAmericaPart5)
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - *Switch hacking forum / guides*
-* [Switch Collection](https://docs.google.com/spreadsheets/d/1lRMTxSAJiASOdT1ZlCyYrUnXkVt58jg46Y-2w3RrMtA/edit), [2](https://nxbrew.com/), [3](https://drive.google.com/drive/folders/1ruAoHmb3uL2Nv_Bl9ZbwE3aGHRWcKqtI) - *Roms / Nintendo Switch*
+* [NXBrew](https://nxbrew.com/), [2](https://docs.google.com/spreadsheets/d/1lRMTxSAJiASOdT1ZlCyYrUnXkVt58jg46Y-2w3RrMtA/edit), [3](https://drive.google.com/drive/folders/1ruAoHmb3uL2Nv_Bl9ZbwE3aGHRWcKqtI) - *Roms / Nintendo Switch*
 * [GameCube Collection](https://archive.org/details/gamecubenaiso), [2](https://archive.org/details/RedumpNintendoGameCubeAmerica), [3](https://archive.org/details/RedumpNintendoGameCubeAmericaPart2), [4](https://archive.org/details/RedumpNintendoGameCubeAmericaPart3), [5](https://archive.org/details/RedumpNintendoGameCube2018Aug25AmericaGamesReUpload), [6](https://1fichier.com/dir/Jini9nFe) - *Roms / GameCube*
 * [MarioCube](https://mariocube.com/) - *Roms / Gamecube / Wii* 
 * [GameBoy Collection](https://archive.org/details/Cyles_Gameboy_roms), [2](https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf), [3](https://drive.google.com/drive/folders/1VxjINYMDvvUSRKA_k2aJqq6JzmRQCI1s), [Unreleased](https://ufile.io/70vmpyng) - *Roms / GameBoy*

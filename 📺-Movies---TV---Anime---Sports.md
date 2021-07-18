@@ -159,9 +159,9 @@
 * **[Streaming Sites CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)**
 * **[Video Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_search_sites)** - *Search sites similar to YouTube / [CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)*
 * **[How-to Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - *Obscure Film Hunting Guide*
-* **[FSAPI](https://fsapi.xyz/)** - *Search API, IMDb ids*
-* **[IMDbStream](https://imdbstream.xyz/)** - *Search API, IMDb ids*
-* **[NetU](https://netu.io/view_page.php?pid=4)** - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png), try IMDb ids*
+* [FSAPI](https://fsapi.xyz/) - *Search API, IMDb ids*
+* [IMDbStream](https://imdbstream.xyz/) - *Search API, IMDb ids*
+* [NetU](https://netu.io/view_page.php?pid=4) - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png), try IMDb ids*
 * [Streamy-Flix](https://streamy-flix.my-trials.ml/) - *Multi host search* 
 * [DBGO](https://dbgo.fun/) - *Search API, IMDb ids / [Content List](https://dbgo.fun/list.php)*
 * [ApiMDB](https://apimdb.net/) - *Search API, IMDb ids*

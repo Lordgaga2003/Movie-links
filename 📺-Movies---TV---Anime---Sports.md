@@ -391,6 +391,7 @@
 * [livetv](http://livetv.sx) - *Sports*
 * [bilaSport](http://bilasport.net/) - *Sports*
 * [NBAFullMatch](https://nbafullmatch.com/) - *Sports*
+* [SkorLive](https://skorlive.com/) - *Sports*
 * [WatchKobe](http://watchkobe.info/) - *Sports*
 * [BuffStreams](https://buffstreams.tv/) - *Sports*
 * [SportHD](https://sporthd.live/) - *Sports* 

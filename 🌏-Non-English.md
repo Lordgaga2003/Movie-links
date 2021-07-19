@@ -313,6 +313,8 @@
 * [anime4you](https://www.anime4you.one/) - *Anime*  
 * [movieking](https://movieking.cc/) - *Movies*
 * [HD-Streams](https://hd-streams.org/) - *Movies / TV* 
+* [Serien](https://serien.life/) - *Movies / TV*
+* [Film Palast](https://filmpalast.club/) - *Movies / TV*
 * [KinoZ](https://kinoz.to/) - *Movies / TV / Anime / NSFW* 
 * [S.TO](https://s.to/) - *TV / Anime* 
 * [SRF.CH](https://www.srf.ch/) - *TV / Sports / Live*

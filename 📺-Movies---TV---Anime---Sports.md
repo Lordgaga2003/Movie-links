@@ -20,8 +20,8 @@
 * **[HDBest](http://hdbest.net/)**, [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
 * **[WebOas.is](https://weboas.is/stream/)** - *Movies* 
 * **[M4uFree](https://ww1.m4ufree.com)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)*
-* **[C1NE](https://c1ne.co/)** - *Movies / TV* 
 * [NyaFilmer](https://nyafilmer.vip/), [2](https://nyafilmer1.com/), [3](https://gerryreid.com/) - *Movies / TV / JawCloud*
+* [C1NE](https://c1ne.co/) - *Movies / TV* 
 * [TheFlix](https://www.theflix.to/) - *Movies / TV* 
 * [SockShare](http://sockshare.ac/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones)*
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - *Movies / TV / Anime*
@@ -94,7 +94,7 @@
 * **[PrimeWire](https://www.primewire.li/)** - *Movies / TV / Anime*
 * **[HiMovies](https://www3.himovies.to/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)*
 * **[FMovies](https://fmovies.name/)** - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)*
-* [**YourPTFlixMovies**](https://yourptflixmovies.com/) - *Movies / TV*
+* [YourPTFlixMovies](https://yourptflixmovies.com/) - *Movies / TV*
 * [RareFilmm](https://rarefilmm.com/) - *Rare Movies* 
 * [Movie-Forum](https://movie-forum.co/forum.php) - *Movies / TV*
 * [K a p K e y K](https://kpkyk.com/) - *Movies / TV*

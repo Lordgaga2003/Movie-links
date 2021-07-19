@@ -39,6 +39,7 @@
 * [SEHS Gamess](https://www.sehsgames.com/)
 * [GameLoo](http://www.gameloo.info/)
 * [Games Flix](https://gamesflix.net/) 
+* [cracked-games](https://cracked-games.org/) - *[Discord](https://discord.gg/tNhPmCU)*
 * [LegendaryRepacks](http://legendaryrepacks.simplesite.com/) - *[Discord](https://discord.gg/RUSNHSk) / Adblock & Universal Bypass Required*
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
@@ -141,6 +142,7 @@
 * [Romsie](https://romsie.com/) - *Emulators / Roms*
 * [EmuRoms](http://www.emuroms.ch/en) - *Emulators / Roms*
 * [ConsoleRoms ](https://www.consoleroms.com/) - *Emulators / Roms*
+* [Rom Hustler](https://romhustler.org/) - *Emulators / Roms*
 * [80s](http://80s.lt/?dir=Files%2FGames) - *Emulators / Roms* 
 * [RomsDownload](https://romsdownload.net/) - *Emulators / Roms*
 * [The Old Computer](https://www.theoldcomputer.com/) - *Emulators / Roms*
@@ -164,6 +166,7 @@
 * [FantasyAnime](https://fantasyanime.com/) - *Roms* 
 * [Emulanium](http://www.emulanium.com/roms.php) - *Roms*
 * [Ziperto](https://ziperto.com/) - *Roms*
+* [ROM World](http://www.romworldonline.com/) - *Roms / [How-to](https://i.imgur.com/Mqab82O.png)*
 * [LegendaryRepacks](http://legendaryrepacks.simplesite.com/) - *Roms / [Discord](https://discord.gg/RUSNHSk) / Adblock & Universal Bypass Required*
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - *Roms / Torrent*
 * [Pleasuredome](http://www.pleasuredome.org.uk/) - *Roms / Torrent*
@@ -207,7 +210,7 @@
 * [WiiWare Collection](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - *Roms / WiiWare*
 * [Nintendo Wii Collection](https://archive.org/details/RedumpNintendoWiiAmericaPart1), [2](https://archive.org/details/RedumpNintendoWiiAmericaPart2), [3](https://archive.org/details/RedumpNintendoWiiAmericaPart3), [4](https://archive.org/details/RedumpNintendoWiiAmericaPart5)
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - *Switch hacking forum / guides*
-* [NXBrew](https://nxbrew.com/), [2](https://docs.google.com/spreadsheets/d/1lRMTxSAJiASOdT1ZlCyYrUnXkVt58jg46Y-2w3RrMtA/edit), [3](https://drive.google.com/drive/folders/1ruAoHmb3uL2Nv_Bl9ZbwE3aGHRWcKqtI) - *Roms / Nintendo Switch*
+* [NXBrew](https://nxbrew.com/), [nsw2u](https://nsw2u.xyz/), [Switchrls](https://switchrls.co/), [Switch Archive](https://docs.google.com/spreadsheets/d/1lRMTxSAJiASOdT1ZlCyYrUnXkVt58jg46Y-2w3RrMtA/edit), [2](https://drive.google.com/drive/folders/1ruAoHmb3uL2Nv_Bl9ZbwE3aGHRWcKqtI) - *Roms / Nintendo Switch*
 * [GameCube Collection](https://archive.org/details/gamecubenaiso), [2](https://archive.org/details/RedumpNintendoGameCubeAmerica), [3](https://archive.org/details/RedumpNintendoGameCubeAmericaPart2), [4](https://archive.org/details/RedumpNintendoGameCubeAmericaPart3), [5](https://archive.org/details/RedumpNintendoGameCube2018Aug25AmericaGamesReUpload), [6](https://1fichier.com/dir/Jini9nFe) - *Roms / GameCube*
 * [MarioCube](https://mariocube.com/) - *Roms / Gamecube / Wii* 
 * [GameBoy Collection](https://archive.org/details/Cyles_Gameboy_roms), [2](https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf), [3](https://drive.google.com/drive/folders/1VxjINYMDvvUSRKA_k2aJqq6JzmRQCI1s), [Unreleased](https://ufile.io/70vmpyng) - *Roms / GameBoy*

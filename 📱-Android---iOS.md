@@ -604,17 +604,15 @@ iOS
 * [Popcorn Time](https://getpopcorntime.is/ios.html) - *Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * [MediaBox](https://mediaboxhd.net/) - *Movies / TV*
 * [ZiniTevi](https://zinitevi.github.io/movieapps/) - *Movies* 
-* [Movzy](https://apps.apple.com/us/app/movzy-movies-music-for-you/id1537372348) - *Movies* 
 * [Blackbox](https://apps.apple.com/ca/app/black-box-movie-listing/id958957112) - *Movies* 
-* [Dramatics](https://apps.apple.com/us/app/dramatics-best-drama/id1493796973) - *TV / Movies*
 * [Zivcy](https://www.downloader.world/) - *Movies / TV*
-* [HDO Box](https://apps.apple.com/ca/app/hdo-box-a-better-tracking/id1529135165) - *Movies / TV*
+* [Movie Finder](https://apps.apple.com/de/app/movie-finder-movie-by-image/id1560301878) - *Movies / TV*
 * [Airy TV](https://airy.tv/) - *Legal / Live TV*  
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - *Chinese Drama*
 * [RSS Player](https://apps.apple.com/us/app/rss-video-player/id885311320) - *KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)*
-* [Vozee](https://apps.apple.com/ca/app/vozee/id1500539907) - *Download Movies / Music* 
 * [Wako-TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - *Movies / TV / Anime / Real Debrid required*
 * [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962) or [‎Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - *Video Player*
+* [Better Cercube](https://appdb.to/app/cydia/1900000823) - *Modded YouTube iPA / [Reddit Post](https://redd.it/mjw8r6)*
 
 ***
 
@@ -623,7 +621,6 @@ iOS
 * [Anime Taiyaki](https://github.com/Michael24884/TaiYaKiAnime/releases) - *[Discord](https://discord.com/invite/8fzmNSB)*
 * [KATSU](https://apps.apple.com/us/app/katsu-by-orion/id1503693664) + [Discord](https://discord.gg/gjcy6MQ)
 * [NineAnimator](https://nineanimator.marcuszhou.com/) + *[Discord](https://discord.gg/dzTVzeW)*
-* [AnimeGlare](https://apps.apple.com/us/app/animeglare/id1472011019)
 * [AnimeHub](https://apps.apple.com/ca/app/animehub-an-anime-fan-haven/id882620151)
 * [TaiYaKiAnime](https://github.com/Michael24884/TaiYaKiAnime) + *[Discord](https://discord.com/invite/8fzmNSB)*
 
@@ -632,7 +629,6 @@ iOS
 ## ▷ iOS Live TV
 
 * [Strym](https://apps.apple.com/ca/app/strymtv/id1497450933) - *M3U Sports* 
-* [AllSports](https://apps.apple.com/ie/app/sports-tv-live-streaming/id1371395176) - *Sports* 
 
 ***
 

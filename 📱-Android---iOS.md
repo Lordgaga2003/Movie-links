@@ -428,6 +428,7 @@ RSS Player*
 * [SwiftStreams](http://swiftstreamz.com/)
 * [TVTap](http://tvtap.bz/index.php)
 * [HD STREAMZ](https://hdstreamz.app/)
+* [SonyLiv (Modded)](https://forum.mobilism.org/search.php?keywords=SonyLIV+&sr=topics&sf=titleonly)
 * [Airy TV](https://airy.tv/) - *Legal / Live TV* 
 * [ScrubTV](http://netflix.bond/ScrubTV2.apk) - *Episode Streams*
 

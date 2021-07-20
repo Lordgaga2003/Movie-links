@@ -198,12 +198,13 @@
 * [MonsterMash](https://monstermash.zone/) - *Sketch Based Modeling & Animation Tool*
 * [style2paints](https://github.com/lllyasviel/style2paints) - *AI Lineart Colorization Tool* 
 * [Piskel](https://www.piskelapp.com/), [rx](https://rx.cloudhead.io/), [PixelCraft](https://pixelcraft.web.app/) / [GitHub](https://github.com/rgab1508/PixelCraft) or [PixilArt](https://www.pixilart.com/draw) - *Pixel art editor* 
-* [Pedro's Pixel Art Tutorials](https://blog.studiominiboss.com/pixelart) - *Pixal Art Tutorials* 
+* [Pedro's Pixel Art Tutorials](https://blog.studiominiboss.com/pixelart) - *Pixel Art Tutorials* 
 * [Croppola](https://croppola.com/) or [Avatar Cropper](https://avatarcropper.com/) - *Cropping Tool* 
 * [Simple Image Resizer](http://www.simpleimageresizer.com/) - *Resize Images*
 * [Resize App Icon](https://resizeappicon.com/) - *Resize Square Images* 
 * [SSizes](https://ssizes.com/) - *Resize Images for Different Sites*
 * [Image Splitter](https://ruyili.ca/image-splitter/) - *Split Images into Tiles*
+* [imgsli](https://imgsli.com/) - *Create Before & After Sliders*
 * [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q) - *Sketchpad / Notepad* 
 * [Logo Makr](https://logomakr.com/), [Logoshi](https://www.logoshi.com/) or [ACME](https://acme.com/labelmaker/) - *Logo Creator* 
 * [DoodDad](https://doodad.dev/pattern-generator) or [Haikei](https://app.haikei.app/)  *Pattern Generator*
@@ -601,6 +602,7 @@
 * [CertAlert](https://certalert.net/) - *Alerts you when a TLS/SSL Certificate Expires* 
 * [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - *Check which IPFS Gateways are online* 
 * [lew.la](https://lew.la/) - *Reddit video DL, YT to MP3 & More Tools* 
+* [SocialBlade](https://socialblade.com/) - *Social Media Statistics*
 * [Emojipedia](https://emojipedia.org/) - *Emoji Index*
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - *Party Parrot Emojis*
 * [you-get](https://github.com/soimort/you-get) - *Download Media Contents from Webpages* 
@@ -1469,6 +1471,7 @@ General Reading Sites*
 * [Easy Guide to Making Amiibo](https://redd.it/5ywlol) - *How-to Make Your Own Amiibo*
 * [Medal](https://medal.tv/) - *Nvidia Shadowplay for non Nicosia cards*
 * [VibranceGUI](https://vibrancegui.com/) - *Automate Digitial Vibrance Control*
+* [ReShade](https://reshade.me/) - *Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade)*
 * [Achievement Watcher](https://github.com/xan105/Achievement-Watcher) - *Achievement File Parser, Notifications & Playtime Tracker* 
 * [How to Download and Play Flash Games](https://i.imgur.com/T6huIGF.png), [2](https://www.wikihow.com/Download-a-Flash-Game)
 * To Play old Shockwave Games Install [Adobe Shockwave](https://www.adobe.com/products/shockwaveplayer/shwv_distribution3.html) & [K-Meleon Browser](http://kmeleonbrowser.org/)

@@ -129,6 +129,7 @@
 * [Watch free](https://1watch-free.cc/) - *Movies / TV* 
 * [EMovies](https://emovies.io/) - *Movies / TV / Anime*
 * [Movie4k](https://movie4k.123movies.online/) - *Movies / TV*
+* [PrettyFlix](https://prettyflix.gq/) - *Movies / TV / Anime*
 * [SeeHD](https://seehd.nl/) - *Movies / TV / Anime* 
 * [SeeHD.uno](https://www.seehd.uno/) - *Movies / TV / Anime / NSFW* 
 * [Yesmovies.love](https://yesmovies.love/) - *Movies / TV / Anime* 
@@ -251,6 +252,7 @@
 * [AnimePahe](https://animepahe.com/) - *Sub*
 * [AnimehHub](https://animehub.ac/) - *Sub / Dub*
 * [Animesa](https://animesa.ga/) - *Sub / Dub*
+* [11Anime](https://11anime.fr/) - *Sub / Dub*
 * [NoobSubs](https://noobsubs.com/) - *Sub / Dub / [Drive](https://noobftp1.noobsubs.com/)* 
 * [AnimeLon](https://animelon.com/) - *Sub / Learn Japanese*
 * [because.moe](https://because.moe/) - *Legal Anime Sites Search* 
@@ -322,13 +324,14 @@
 
 ## ▷ Cartoon Streaming
 
-* **[KimCartoon.to](https://kimcartoon.to)**
+* **[KimCartoon.to](https://kimcartoon.li/)**
+* [KissCartoon](https://kisscartoon.sh/)
+* [thewatchcartoononline](https://www.thewatchcartoononline.tv/), [wcostream](https://www.wcostream.com/), [wcoforever](https://www.wcoforever.com/ ) or [WCO](https://www.wco.tv/) - *Anime / Cartoons* 
 * [TopCartoons](https://www.topcartoons.tv/)
 * [KissCartoon.info](https://kisscartoon.info/) - *Anime / Cartoons*
 * [Supercartoons](https://www.supercartoons.net/)
 * [b98](https://www.b98.tv/)
 * [cartooncrazy](https://www.cartooncrazy.tv/), [2](http://www.cartooncrazy.net/) - *Anime / Cartoons* 
-* [thewatchcartoononline](https://www.thewatchcartoononline.tv/), [wcostream](https://www.wcostream.com/), [wcoforever](https://www.wcoforever.com/ ) or [WCO](https://www.wco.tv/) - *Anime / Cartoons* 
 * [South Park](https://southpark.cc.com/) - *South Park Episodes* 
 * [ToonamiAftermath](https://www.toonamiaftermath.com/) - *Toonami Stream* 
 

@@ -465,6 +465,7 @@
 * [Smash The Walls](https://smashthewalls.com/) - *Smash Walls*
 * [Petting](http://oos.moxiecode.com/js_webgl/fur/index_petting.html) - *Fur Simulator*
 * [Spider 2 Hammertime](http://oos.moxiecode.com/js_webgl/spiders_2_hammertime/) - *Murder Spiders*
+* [Talk Obama To Me](http://talkobamato.me/) - *Make Obama Say Stuff / [Example](http://talkobamato.me/synth/output/360d56e2f1c524ec996f4bc2d0d77ccc/obama.mp4)*
 * [Slap Kirk](https://www.slapkirk.com/) - *Slap Captain Kirk*
 * [Slide Ventura](https://slideventura.com/) - *Ace Ventura Sliding Door Simulator*
 * [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - *Realistic-looking fake versions of things* 

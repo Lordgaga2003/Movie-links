@@ -98,7 +98,8 @@
 * [BadshahUploads](https://badshahuploads.xyz/) - *Video / Audio / Software / Games / Books / Leech Required* 
 * [FileDown](https://filedown.co/), [DownFree4u](https://www.downfree4u.com/), [rapiddowntorrent](https://www.rapiddowntorrent.com/), [ZipFileTorrent](https://www.zipfiletorrent.com/), [viewdowntorrent](https://www.viewdowntorrent.com/) or [TorrentDown](https://torrentdown.co/) - *Video / Audio / Software / Games / Books / Leech Required* 
 * [Redox](http://www.redox.com.ua/) - *Video / Audio / Software / Books / Magazines / Leech Requored* 
-* [de.ddl](https://en.ddl.me//) - *Video / Books / Games*
+* [de.ddl](https://en.ddl.me//) - *Video / Games / Books*
+* [The Ambassador](https://ambassadorddl.site/) - *Video / Games / Books*
 * [WarzesLover](https://www.warezlover.org/) - *Video / Audio / NSFW* 
 * [Light Downloads](https://www.lightdl.xyz/) - *Video / Software / Games*   
 * [sarzamindownload](https://www.sarzamindownload.com/) - *Software / Games / Android* 

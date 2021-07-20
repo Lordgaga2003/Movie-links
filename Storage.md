@@ -165,6 +165,7 @@
 * [qooxi](http://drama.qooxi.to/) 
 * [GenMovies](https://genomovies.com/)
 * [GenDrama](https://genodrama.com/) 
+* [KDramaHood](https://kdramahood.com/home2/)
 * [movie22](https://mov21.zota.club/) 
 * [DramaNice](https://dramanice.so/) 
 * [MyAsianTV](https://www9.myasiantv.io/) 
@@ -1689,7 +1690,7 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 
 **Players**
 
-**[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [VLC](https://www.videolan.org/), [MPC-HC](https://mpc-hc.org/), [MPC-BE](https://sourceforge.net/projects/mpcbe/), [Pot Player](http://potplayer.daum.net/), [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) 
+**[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [VLC](https://www.videolan.org/), [MPC-HC](https://mpc-hc.org/), [MPC-BE](https://sourceforge.net/projects/mpcbe/), [Pot Player](http://potplayer.daum.net/), [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player), [uView](https://www.idruf.com/) (Floating)
 
 **Tools**
 

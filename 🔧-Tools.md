@@ -497,7 +497,6 @@
 * [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - *Convert AAX to MP3 / FLAC / M4A / OPUS* 
 * [inAudible](https://github.com/rmcrackan/inAudible) - *Audible to MP3 converter*
 * [Soundiiz](https://soundiiz.com/) - *Transfer Playlists Between Streaming Platforms* 
-* [‎VOZEE](https://apps.apple.com/ca/app/vozee/id1500539907) - *Transfer Music from Onedrive / Dropbox to Device* 
 * [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - *CD / DVD Audio Ripper* 
 * [OnlineToneGenerator ](https://onlinetonegenerator.com/) - *Multiple Audio Tools*
 * [#fretflip](https://fretflip.com/) - *Create / Print Guitar Scales & Chord Charts* 

@@ -127,6 +127,7 @@
 * [Lynda Courses](https://bin.snopyta.org/?efe32fb96a945857#GQL7q4hyKjCeB6WLbpq94S12BEwh5JWc4apjmb7RE4SU) - *Lynda Courses / Drive / pw: fmhy*
 * [LyndaFree](https://t.me/lyndafree) - *Lynda Courses / Telegram*
 * [Giga Course](https://gigacourse.com/) - *Udemy Courses / Drive* 
+* [s28.bitdl.ir Udemy](http://s28.bitdl.ir/Compresed/Udemy/) - *Udemy Courses / Drive*
 * [Udemy 24](https://udemy24.com/) - *Udemy Courses* 
 * [Tutorials-eu](https://freetutorials-eu.com/) - *Udemy Courses*
 * [FreeCourseWeb](http://freecourseweb.com/) - *Udemy Courses* 

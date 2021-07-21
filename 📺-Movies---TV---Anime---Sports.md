@@ -47,6 +47,7 @@
 * [TheWebFlicks](https://thewebflicks.com/) - *Movies / Streamtape* 
 * [FZMovies](https://fzmovies.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)* 
 * [MoviesForFree](https://movieforfree.co/) - *Movies / TV*
+* [MKVKing](https://mkvking.me/) - *Movies / TV*
 * [1movies](https://ww2.1movies.is/), [CouchTuner](https://ww1.couchtuner.space/) or [New-Primewire](https://ww1.new-primewire.com/) - *Movies / TV / Anime*
 * [AZMovies](https://azm.to) - *Movies*
 * [HDM.to](https://hdm.to/) - *Movies* 
@@ -117,6 +118,7 @@
 * [YesHD](https://yeshd.net/) - *Movies / TV*
 * [UWatchFree](https://www.uwatchfree.mn/) - *Movies / TV*  
 * [FlixPad](https://flixpad.net/) - *Movies / TV* 
+* [CurtStream](https://curtstream.com/) - *Movies / TV / Anime*
 * [MovieWeTrust](https://moviewetrust.co/) - *Movies / TV / Anime* 
 * [WatchSeriesHD](https://www4.watchserieshd.tv/) - *Movies / TV / Anime* 
 * [DownloadAnyMovie](https://www.downloads-anymovies.com/) - *Movies* 
@@ -196,6 +198,8 @@
 * [Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_asian_drama_sites) - *Asian Drama Sites / English Subs*
 * [Einthusan](https://einthusan.tv/) - *South Asian Film Archive*
 * [IndianCine](https://indiancine.ma/) - *Indian Film Archive*
+* [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - *Japanese Animated Film Archive*
+* [National Film Archive of Japan](https://meiji.filmarchives.jp/) - *Japanese Film Archive*
 * [JP-Films](https://jp-films.com/) - *Japanese Movies / TV / English Subs* 
 * [Watch HK Movies Online](https://vinspirezhk.blogspot.com/) - *Rare Chinese Movies / English Subs* 
 * [Chicago Film Archives](http://www.chicagofilmarchives.org/) - *Chicago Film Archive*
@@ -365,6 +369,7 @@
 * [m3u Index](https://m3u4u.com/), [HLSCat](https://hlscat.com/), [2](https://iptvcat.net/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Plex + Emby Proxy](https://xteve.de/) / [m3u to txt](https://siptv.eu/converter/)
 * [123TV](http://123tv.live/) - *TV / Sports*
 * [streamlive](https://www.streamlive.to/) - *TV / Sports*
+* [ChannelSurf](https://channelsurf.tv/) - *TV / Sports*
 * [SportsBay](https://sportsbay.org/live-streams) - *Sports* 
 * [First Row Sports](https://firstsrowsports.tv/) - *Sports*
 * [720pStream](http://720pstream.tv/) - *Sports*
@@ -478,6 +483,7 @@
 * [MoviesWBB](http://movieswbb.com/) - *Movie / TV*
 * [KatMovieHD](https://katmoviehd.nl/) - *Movies / TV / Anime*
 * [Amadei33](https://www.amadei33.com/) - *Movies / TV*  
+* [MKVKing](https://mkvking.me/) - *Movies / TV*
 * [MKVBee](https://mkvbee.com/) - *Movies / TV*
 * [MKVHOUSE](https://mkvhouse.com/) - *Movies / TV*
 * [Rinzry](https://rinzry.stream/) - *TV / Anime*
@@ -612,10 +618,9 @@
 
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - *Get a VPN before torrenting*
 * **[Stremio](https://www.stremio.com/)** - *Torrent streaming app / [Addons](https://redd.it/ahd6gk) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg)*
-* **[PopcornTime.is](https://getpopcorntime.is/)** - *Movies / TV / Anime*
+* **[PopcornTime.is](http://popcorn-ru.tk/build/)** - *Movies / TV / Anime*
 * **[Jackett](https://github.com/Jackett/Jackett)** or [Watcher](https://nosmokingbandit.github.io/) - *Autodownload Torrents*
 * [Flixerr](https://github.com/carlelieser/Flixerr) - *Movies / TV / r/Flixerr_Official / [Discord](https://discord.gg/KrEYTJb)*
-* [PopcornTime.app](https://popcorntime.app/) - *Movies / TV / Anime*
 * [WatchIt](http://watchitapp.site/) - *Movies / TV / Anime / [GitHub](https://github.com/ZorrillosDev/watchit-desktop)*
 * [Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) - *Some clients allow you to stream torrents*
 * [Radarr](https://github.com/Radarr/Radarr) - *Movie torrent autodownload*
@@ -701,6 +706,7 @@
 * **[ICheckMovies](https://www.icheckmovies.com/)** - *Movies / List Database / [Enhanced](https://greasyfork.org/en/scripts/11541-icheckmovies-enhanced)*
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - *TV / Anime*
 * [IMDb](https://www.imdb.com/) or [TMDb](https://www.themoviedb.org/) - *Movies / TV / Anime*
+* [IMDb Tomatoes](https://greasyfork.org/en/scripts/15222-imdb-tomatoes) - *Rotten Tomatoes Ratings on IMDb*
 * [TVDb](https://www.thetvdb.com/) - *TV / Anime*
 * [Movieo](https://movieo.me/) - *Movies / TV / Anime*
 * [AllMovie](https://www.allmovie.com/) - *Movies / TV / Anime* 

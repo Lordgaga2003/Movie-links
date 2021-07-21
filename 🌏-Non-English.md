@@ -496,6 +496,7 @@
 # ► Japanese 
 
 * [lit.link](https://lit.link/) - *Link All Your Sites on One Page*
+* [jpsubbers.xyz](http://jpsubbers.xyz/Japanese-Subtitles/) - *Japanese Subtitles for J-Dramas*
 
 ## ▷ Downloading
 
@@ -532,6 +533,8 @@
 * [AnimeTime](https://www.animetime.pw/) - *Anime* 
 * [b9good](http://b9good.com/) - *Anime*
 * [AnimeLon](https://animelon.com/) - *Anime / Learn Japanese*
+* [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - *Japanese Animated Film Archive*
+* [National Film Archive of Japan](https://meiji.filmarchives.jp/) - *Japanese Film Archive*
 * [AQ Stream](https://aqstream.com/) - *Live TV* 
 * [kuukunen](https://touhou.kuukunen.net/) - *Music*
 * [Live Japanese M3u](https://ufile.io/vh9e2j6h) - *M3u File for VLC*
@@ -1026,20 +1029,22 @@
 * [serieslan](https://serieslan.com/) - *Cartoons*
 * [Blog De Plis](https://www.blogdepelis.tv/) - *Spanish Disney+* 
 * [NoireStyle](https://noirestyle.com/) - *Film Noir* 
-* [Edutin Academy]https://edutin.com/() - *Courses*
+* [Edutin Academy](https://edutin.com/) - *Courses*
 * [UKIKU](https://ukiku.ga/) - *Anime apk*
 
 ## ▷ Reading
 
-* [epublibre](https://www.epublibre.org/) - *Books / Fiction / Non Fiction*  
-* [Hola Ebook](https://www.holaebook.com/) - *Books / Fiction / Non Fiction*
-* [ebiblioteca](https://ebiblioteca.org/) - *Books / Non Fiction* 
-* [Libros Gratis](https://descargalibrosxd.com/) - *Books / Fiction / Non Fiction*
-* [Libros Gratis XYZ](https://zonadelibrosxyz.com/) - *Fiction / Non Fiction*
-* [bajaebooksgratis](https://bajaebooksgratis.com/) - *Books / Fiction / Non Fiction* 
-* [pirateca](https://pirateca.com/) - *Books / Fiction / Non Fiction* 
-* [lelibros](https://lelibros.online/) - *Books / Fiction / Non Fiction* 
-* [ePub Gratis](https://wvw.epubgratis.org/) - *Books /Fiction / Non fiction* 
+* [epublibre](https://www.epublibre.org/) - *Books*  
+* [Hola Ebook](https://www.holaebook.com/) - *Books*
+* [200.31.177.150](http://200.31.177.150:50050/ebooks/) - *Books*
+* [ebiblioteca](https://ebiblioteca.org/) - *Books* 
+* [Libros Gratis](https://descargalibrosxd.com/) - *Books*
+* [Libros Gratis XYZ](https://zonadelibrosxyz.com/) - *Fiction*
+* [bajaebooksgratis](https://bajaebooksgratis.com/) - *Books* 
+* [pirateca](https://pirateca.com/) - *Books* 
+* [lelibros](https://lelibros.online/) - *Books* 
+* [ePub Gratis](https://wvw.epubgratis.org/) - *Books* 
+* [cvillavicencio](https://www.cvillavicencio.com/archivos/?dir=ebooks) - *Books*
 * [albalearning](https://albalearning.com/) - *Audiobooks* 
 * [leomanga](https://leomanga.me/) - *Manga* 
 * [mangadoor](http://mangadoor.com/) - *Manga* 

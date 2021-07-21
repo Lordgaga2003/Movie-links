@@ -107,7 +107,6 @@
 * [m0nkrus](http://w14.monkrus.ws/) - *Adobe software archive*
 * [upawg](https://upawg.ca) - *Index of audio products*
 * [Telegram Torrents](https://duckduckgo.com/?q=site%3At.me+torrent&ia=web) - *Telegram Torrent Channels*
-* [Torrent Leeching Group](https://t.me/TorrentLeechingGroup) - *Torrent Leeching Groups / Telegram* 
 * [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) - *[ZeroNet Required](https://zeronet.io/) / Video / Audio / Software / Games*
 * [4chan /t/](https://boards.4chan.org/t/) - *Torrents / Imageboard / Some NSFW* 
 * [8kun /t/](https://8kun.top/t/index.html) - *Torrents / Imageboard [.onion](http://jthnx5wyvjvzsxtu.onion/t/)* 

@@ -18,7 +18,7 @@
 * [FunkWhale](https://funkwhale.audio/) - *Streaming*
 * [nuclear](https://github.com/nukeop/nuclear) - *Streaming*
 * [Muffon](https://github.com/staniel359/muffon) - *Streaming*
-* [YTMDesktop](https://github.com/JamesParkDev/ytmdesktop-adblock), [2](https://ytmdesktop.app/), [Youtube-Music](https://github.com/th-ch/youtube-music) or [YMD](https://github.com/MaverickMartyn/youtube-music-desktop) - *YouTube Music Streaming* 
+* [YTMDesktop](https://github.com/JamesParkDev/ytmdesktop-adblock), [2](https://ytmdesktop.app/), [Youtube-Music](https://th-ch.github.io/youtube-music/), [2](https://github.com/th-ch/youtube-music) or [YMD](https://github.com/MaverickMartyn/youtube-music-desktop) - *YouTube Music Streaming* 
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - *Stream / Download Youtube Music from Terminal*
 * [Deezer](https://www.deezer.com/) - *Streaming*
 * [MusicBucket](https://musicbucket.net/) - *Track / Share Music / Telegram* 
@@ -135,6 +135,7 @@
 * [Calmsound](https://www.calmsound.com/) - *Ambient* 
 * [Relaxing World](https://relaxing.world/) - *Ambient* 
 * [Moss Garden](https://moss.garden/) - *Ambient*
+* [Moodli](https://www.moodil.com/) - *Ambient*
 * [Moszen](https://www.moszen.com/) - *Ambient* 
 * [Soundrown](http://soundrown.com/) - *Ambient* 
 * [A Soft Murmur](https://asoftmurmur.com/) - *Ambient* 
@@ -183,7 +184,7 @@
 * [Savify](https://github.com/LaurenceRawlings/savify) or [spotDL](https://github.com/spotDL/spotify-downloader) - *Download Spotify Songs via YouTube* 
 * [smd](https://github.com/artyshko/smd) - *Download Spotify Songs / Linux*
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - *Bandcamp Downloader*
-* [SoundCloud Downloader](https://github.com/NotTobi/soundcloud-dl), [Klickaud](https://www.klickaud.co/), [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837-local-soundcloud-downloader) or [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/) - *Soundcloud Downloader*
+* [SoundCloud Downloader](https://github.com/NotTobi/soundcloud-dl), [Klickaud](https://www.klickaud.co/), [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837-local-soundcloud-downloader), [SoundCloud-Playlist-Sync](https://github.com/erwinkramer/SoundCloud-Playlist-Sync), [Soundcloud-Downloader](https://github.com/Kawaizombi/kawai-scripts/tree/master/projects/soundcloud-downloader) or [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/) - *Soundcloud Downloader*
 * [streamrip](https://github.com/nathom/streamrip) - *Deezer & SoundCloud Downloader*
 * [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - *Audio Command Line Download Tool*
 * [GamesDrive Music-DL](https://discord.gg/PKFAnduGtA) - *GamesDrive TIDAL Music Bot Ripper*

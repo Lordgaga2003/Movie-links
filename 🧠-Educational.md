@@ -40,6 +40,7 @@
 * [LearnOutLoud](https://www.learnoutloud.com/) - *Documentaries / Courses*
 * [Class Central](https://www.classcentral.com/) - *Search for Courses*
 * [cs1000](https://cs1000.vercel.app/) - *Educational Video Playlists* 
+* [media.ccc.de](https://media.ccc.de/) - *Educational Presentations*
 * UC Berkeley Webcast project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://lbry.tv/@UCBerkeley:d?) - *Video Lectures*
 * [WatchKnowLearn](http://www.watchknowlearn.org/) - *Educational Videos*
 * [Mathispower4u](http://www.mathispower4u.com/) - *Math Tutorials*
@@ -127,7 +128,7 @@
 * [Lynda Courses](https://bin.snopyta.org/?efe32fb96a945857#GQL7q4hyKjCeB6WLbpq94S12BEwh5JWc4apjmb7RE4SU) - *Lynda Courses / Drive / pw: fmhy*
 * [LyndaFree](https://t.me/lyndafree) - *Lynda Courses / Telegram*
 * [Giga Course](https://gigacourse.com/) - *Udemy Courses / Drive* 
-* [s28.bitdl.ir Udemy](http://s28.bitdl.ir/Compresed/Udemy/) - *Udemy Courses / Drive*
+* [s28.bitdl.ir Udemy](http://s28.bitdl.ir/Compresed/Udemy/) - *Udemy Courses / Drive / Use VPN*
 * [Udemy 24](https://udemy24.com/) - *Udemy Courses* 
 * [Tutorials-eu](https://freetutorials-eu.com/) - *Udemy Courses*
 * [FreeCourseWeb](http://freecourseweb.com/) - *Udemy Courses* 
@@ -325,6 +326,7 @@
 * [Read Korean Letters](https://readkoreanletters.com/) - *Learn Korean Characters* 
 * [Mandarin Chinese](https://drive.google.com/drive/u/0/mobile/folders/152oeHQoeqvC9RVMk6kJi1irAlSSp7NVk?usp=sharing) - *Mandarin Chinese Learning Books*
 * [Chinese Flashcards](http://www.chineseflashcards.io/) - *Chinese Flashcards*
+* [LearningSwedish](https://learningswedish.se/) - *Swedish Learning Course*
 * [youglish](https://youglish.com/) - *Youtube Word Pronunciations* 
 * [ASL Resources](https://t.me/ASLresources) - *American Sign Language Resources / Telegram* 
 * [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - *American Sign Language* 
@@ -385,7 +387,9 @@
 * [SoftSchools](https://www.softschools.com/) - *Worksheets / Games / Quizzes*
 * [FactMonster](https://www.factmonster.com/) - *Exercises/ Flashcards*
 * [BrainPOP Jr.](https://jr.brainpop.com/) - *Quizzes / Animations*
-* [CrackAP](https://www.crackap.com/) - *Practice AP Tests*
+* [CrackAP](https://www.crackap.com/) - *Practice AP Exams*
+* [/r/ApStudents Resources](https://drive.google.com/open?id=1mPT8O9Nou4udtUQOl0W8dk5JgeRNZHSI) - *Former AP Exams*
+* [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - *AP Exam Comparison Spreadsheet*
 * [The Problem Site](https://www.theproblemsite.com/) - *Problems / Puzzles/ Games*
 * [PuzzlePrime](https://www.puzzleprime.com/) - *Problems / Puzzles*
 * [LateralPuzzles](http://www.lateralpuzzles.com/) - *Lateral Thinking Puzzles*
@@ -410,6 +414,7 @@
 * [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - *Physics Tools* 
 * [Theban Mapping Project](https://thebanmappingproject.com/) - *Valley of the Kings Map* 
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
+* [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
 * [LizardPoint](https://lizardpoint.com/) - *Geography Quizzes* 
 * [The True Size](https://thetruesize.com/) - *Compare Country Size* 
 * [Seeing Theory](https://seeing-theory.brown.edu/) - *Interactive Probability / Statistics Lessons* 
@@ -424,6 +429,7 @@
 * [Ocearch](https://www.ocearch.org/?list) - *Track Marine Life*
 * [The Deep Sea](https://neal.fun/deep-sea/) - *Interactive Deep Sea Life Guide* 
 * [Life Under the Ice](https://lifeundertheice.org/) - *View Antarctic Microbes*
+* [Global Volcanism Program](https://volcano.si.edu/) - *Volcano Information Database*
 * [Xeno-Canto](https://www.xeno-canto.org/) or [Birdnet](https://birdnet.cornell.edu/) - *Bird Sound Index / Identifier* 
 * [Algodoo](http://www.algodoo.com/) - *Interactive Physics Tool*
 * [nanoHUB](https://nanohub.org/) - *Nanotechnology Tool Index*

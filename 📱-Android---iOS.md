@@ -88,6 +88,7 @@
 * [PrimeOS](https://primeos.in/) - *Android Desktop OS*
 * [Android x86](https://www.android-x86.org/) - *Android Desktop OS*
 * [PhoenixOS](http://www.phoenixos.com/en/) - *Android Desktop OS*
+* [ApkOnline](https://www.apkonline.net/) - *Online Android Emulator*
 
 ***
 
@@ -138,6 +139,8 @@
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - *Easily Open Links in Text via Share Function*
 * [Ponydroid](https://forum.mobilism.org/search.php?keywords=ponydroid&amp;sr=topics&amp;sf=titleonly) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - *Download File Manager*
 * [TrebleShot](https://trebleshot.monora.org/) - *Network File Sharing App*
+* [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) - *Send Files to Android TV*
+* [Apps2Fire](https://play.google.com/store/apps/details?id=mobi.koni.appstofiretv) - *Upload Apps to FireTV*
 * [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/Mixplorer), [Solid Explorer](https://forum.mobilism.org/search.php?keywords=solid+explorer&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [MaterialFiles](https://github.com/zhanghai/MaterialFiles) or [IrkFM](https://github.com/lfuelling/lrkFM) - *File Manager*
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - *Download / Torrent Manager* 
 * [Vysor](https://www.vysor.io/) or [scrcpy](https://github.com/Genymobile/scrcpy) - *Control Android via Desktop*
@@ -174,6 +177,7 @@ App Manager
 * [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - *Fire Tablet Tools*
 * [Mematic](https://www.mematic.net/) - *Meme Creator* 
 * [Reface](https://reface.app/) - *Create Face Swap Videos* 
+* [PGS](https://www.pgsharp.com/) - *Modded Pokémon GO*
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
 * [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) - *Extract OTP Tokens*
 * [Swappa](https://swappa.com/imei) - *IMEI, MEID, ESN Checker*
@@ -189,7 +193,7 @@ App Manager
 * **[Lucky Patcher](https://www.luckypatchers.com/download/)** - *Remove Ads / Free In App Purchases / App Patcher / [How to use](https://latestechnews.com/how-to-use-lucky-patcher/)*
 * **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - *Repositories Index*
 * **[Android FOSS](https://github.com/offa/android-foss)**, **[Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md)**, **[/r/u_Jackie7610](https://redd.it/jhtvn4)** or **[Cool FOSS](https://albertomosconi.github.io/foss-apps/)** / [GitHub](https://github.com/albertomosconi/foss-apps) - *Free and Open Source Apps for Android*
-* **[/r/ApksApps](https://www.reddit.com/r/ApksApps)** - *Updated list of modded APK's / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)*
+* **[/r/ApkApps Megathread](https://www.notion.so/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** - *Updated list of modded APK's / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)*
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - *Add Direct DL Links to Google Play* 
 * [F-Droid](https://f-droid.org/), [2](https://rfc2822.gitlab.io/fdroid-firefox/fdroid/repo/) - *FOSS App Repository / [Desktop](https://github.com/mvdan/fdroidcl) / [Alt Client](https://github.com/kitsunyan/foxy-droid), [2](https://gitlab.com/gdroid/gdroidclient) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)* 
 * [F-Droid Repositories](https://t.me/fdroidrepos) - *List of F-Droid Repositories*
@@ -198,7 +202,7 @@ App Manager
 * [DivestOS](https://divestos.org/fdroid/unofficial/), [2](https://divestos.org/fdroid/official/) - *App Repository*
 * [TeamOS](https://www.teamos-hkrg.com/) - *Modded / Forum* 
 * [ACMarket](https://ac-market.org/) - *Modded*
-* [Aurora Store](https://auroraoss.com/) - *Alt Google Play Store / [F-Droid](https://f-droid.org/en/packages/com.aurora.store/)*
+* [Aurora Store](https://auroraoss.com/), [2](https://f-droid.org/en/packages/com.aurora.store/) or [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) - *Alt Google Play Store*
 * [Aptoide](https://aptoide.com/) - *Alt Android App Store*
 * [Android Zone](https://android-zone.ws/) - *Forum*
 * [APKGK](https://apkgk.com/) - *Untouched*
@@ -208,7 +212,9 @@ App Manager
 * [APKCombo](https://apkcombo.com/) - *Untouched* 
 * [APKHere](https://www.apkhere.com/) - *Untouched* 
 * [APK Vision](https://apkvision.com/) - *Untouched*
+* [APKTurbo](https://www.apkturbo.com/) - *Untouched*
 * [APK Award](https://apkaward.com/) - *Untouched*
+* [App Apks](https://www.appapks.net/) - *Untouched*
 * [Android APK](https://android-apk.org/) - *Untouched / Modded* 
 * [APKSum](https://www.apksum.com/) - *Untouched / Modded* 
 * [A2Z APK](https://a2zapk.com/) - *Untouched / Modded*  
@@ -365,8 +371,7 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * [Cunrchyroll Premium](https://forum.mobilism.org/search.php?keywords=crunchyroll&amp;sr=topics&amp;sf=titleonly)
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - *Movies / TV / Anime* 
-* [PopcornTime.app](https://popcorntime.app/) - *Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
-* [PopcornTime.is](https://getpopcorntime.is/) - *Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
+* [PopcornTime](http://popcorn-ru.tk/build/) - *Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * [BeeTV](https://beetvapp.me/) or [NovaTV](https://novatv.app/) - *Movies / TV / Anime / Chromecast*
 * [VivaTV](https://www.vivatv.io/) or [TeaTV](https://teatv.net/) - *Movies / TV / Anime / Chromecast*
 * [ZiniTevi](https://zinitevi.github.io/movieapps/) - *Movies*
@@ -504,6 +509,7 @@ iOS
 * [iEmulators](https://iemulators.com/) - *Emulator Apps*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
 * [3uTools](http://www.3u.com/) - *All in one iOS manager for Windows*
+* [InsightBrowser](https://insightbrowser.com/) - *iOS Browser*
 * [UTM](https://getutm.app/) - *Virtual machines on iOS* 
 * [iSkin](https://iskin.tooliphone.net/) - *No Jailbreak iOS Themes* 
 * [iCustom](https://icustom.tooliphone.net/) - *Make Custom Icons Without Shortcuts* 
@@ -534,6 +540,7 @@ iOS
 * **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - *Open Source iOS App Index* 
 * [TeamOS](https://www.teamos-hkrg.com/) - *Forum* 
 * [AppDB](https://appdb.to/) - *iOS Apps* 
+* [AppAddict](https://www.appaddict.org/) - *iOS Apps*
 * [iPALibrary](https://gitlab.com/Shub_/ipa-library/-/tree/master/Library) - *Hacked/Tweaked iOS App Library* 
 * [Streamiza](https://t.me/streamiza) - *Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)*
 * [DiscordExtras](https://github.com/NotZoeyDev/DiscordExtras) - *Patch Discord Client*
@@ -602,7 +609,6 @@ iOS
 
 * **[Stremio](https://www.stremio.com/downloads)** - *Torrent Streaming App / [Addons](https://redd.it/ahd6gk) / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * [Kodi](https://kodi.tv/) + */r/Addons4Kodi, [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) + [Trending](https://kodiapps.com/addons-chart)*
-* [Popcorn Time](https://getpopcorntime.is/ios.html) - *Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * [MediaBox](https://mediaboxhd.net/) - *Movies / TV*
 * [ZiniTevi](https://zinitevi.github.io/movieapps/) - *Movies* 
 * [Blackbox](https://apps.apple.com/ca/app/black-box-movie-listing/id958957112) - *Movies* 
@@ -637,6 +643,7 @@ iOS
 
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - *Get a VPN before torrenting*
 * [iTransmission](https://iosninja.io/ipa-library/download-itransmission-ipa-ios) - *Torrent Client*
+* [iTorrent](https://github.com/XITRIX/iTorrent) - *Torrent Client*
 * [nzbUnity](https://nzbunity.dozenzb.com/) - *Torrent Manager*
 
 ***

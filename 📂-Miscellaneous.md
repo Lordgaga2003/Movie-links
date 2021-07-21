@@ -178,6 +178,7 @@
 * [chrome-extensions](https://github.com/learn-anything/chrome-extensions) - *List of Chrome Extensions* 
 * [NooBoss](https://ainoob.com/en/project/nooboss) - *Chrome Extension Manager / Extra Features*
 * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - *Add Extensions to Ungoogled Chromium* 
+* [Dark Mode](https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl) - *Dark Mode*
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
@@ -306,6 +307,7 @@
 * [/m/piracy](https://www.reddit.com/user/nbatman/m/piracy/), [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) - *Piracy Multireddit*
 * /r/piracy - *[Backup](https://github.com/nid666/PiracyArchive)*
 * /r/piratedgames - *[Discord](https://discord.gg/Da2akf2)*
+* /r/SoftwarePirates - *Software Piracy Discussion*
 * /r/DataHoarder - *[Telegram](https://t.me/r_DataHoarder)*
 * /r/trackers 
 * /r/usenet 
@@ -341,6 +343,7 @@
 * [Tick Coupon](https://giveaway.tickcoupon.com/windows-giveaway/) - *Software*
 * [Techno360](https://www.techno360.in/category/free-stuff/) - *Software*
 * [Malwaretips Giveaways](https://malwaretips.com/forums/giveaways-promotions-and-contests.75/) - *Software*
+* [Net-Load](https://net-load.com/) - *Software*
 * [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), /r/FreeGamesOnSteam or [SteamDB](https://steamdb.info/upcoming/free/)  - *Steam Games* 
 * [Games Free Today](https://gamesfree.today/) - *Games*
 * [FreeGames.codes](https://freegames.codes/) - *Games / [Android](http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes)*
@@ -648,6 +651,7 @@
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) or [What Font Is](https://www.whatfontis.com/) - *Font identification from an image*
 * [Nerd Fonts](https://www.nerdfonts.com/) - *Iconic Font Aggregator*
 * [FontEdit](https://github.com/ayoy/fontedit), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/) or [Font Forge](https://fontforge.org/en-US/) - *Font Editor* 
+* [Transfonter](https://transfonter.org/) - *Font Converter*
 * [Calligraphr](https://www.calligraphr.com/en/) - *Create Your Own Fonts* 
 * [FontBase](https://fontba.se/) - *Font Manager* 
 * [Zalgo](http://eeemo.net/) or [lingojam](https://lingojam.com/WeirdTextGenerator) - *Weird Font style generators*

@@ -110,12 +110,14 @@
 * [Web Of Trust](https://www.mywot.com/) - *Check Website Safety* 
 * [Scamalytics](https://scamalytics.com/ip) or [IP Address Lookup](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/) - *IP Address Fraud Check*
 * [Virus Checker](https://add0n.com/virus-checker.html) - *Virus Check for Downloads* 
-* [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - *Malware Search Extension* 
-* [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu)
 * [VirusShare](https://virusshare.com/) - *Search / Share Malware Samples* 
+* [Ransomwhere](https://ransomwhe.re/) - *Ransomware Tracker*
 * [SigThief](https://github.com/secretsquirrel/SigThief) - *Signature Test* 
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - *Penetration Testing Index*
 * [wideredist](https://gitlab.com/urbanware-org/wideredist) - *Update Windows Defender Definitions Locally*
+* [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - *Malware Search Extension* 
+* [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu)
+* [theZoo](https://github.com/ytisf/theZoo) - *Live Malware Repository*
 
 ***
 
@@ -449,7 +451,6 @@
 
 * **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)** - *Lists of Proxies*
 * **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
-* [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container) - *Torrent Site Proxies*
 * [ProxySite](https://www.proxysite.com/)
 * [Hide.me](https://hide.me/en/proxy)
 * [KProxy](https://www.kproxy.com/)

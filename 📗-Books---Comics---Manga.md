@@ -211,6 +211,7 @@
 * [cookEbooks](http://cookebooks.info/) - *Cookbooks*
 * [The-Eye Food](https://the-eye.eu/public/Books/Food/) - *Cookbooks* 
 * [YudhaCookbook](https://www.yudhacookbook.my.id/) - *Cookbooks*
+* [DMC Cookbooks](https://archive.lib.msu.edu/DMC/cookbooks/) - *Cookbooks*
 * [Cook Bookshelf](https://t.me/cook_bookshelf) - *Cookbooks / Telegram*
 * [Search-22](https://search-22.com/recipe-search-tools) - *Multi-Site Recipe Search*
 * [SuperCook](https://www.supercook.com/) - *Recipe Search* 
@@ -307,6 +308,7 @@
 * [Magic / Esoteric Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks) - *Magic / Esoterica*
 * [Dhamma Talks](https://www.dhammatalks.org/) - *Sacred Texts / Religion / Buddhism*
 * [Sutta Central](https://suttacentral.net/) - *Sacred Texts / Religion / Buddhism* 
+* [NTSLibrary](http://ntslibrary.com/PDF%20Books/) - *Religion / Philosophy*
 * [Gnostic Society Library](http://www.gnosis.org/library.html) - *Gnosticism*
 * [Kenorb's New Age library](https://www.dropbox.com/sh/2x5qfpd4csenuws/AABxbTrOvXVRcwsW0z9t6AFJa) - *Esoterica / Mythology / Gnosticism* 
 * [Esoterica](https://mega.nz/#F!hQVFBDbT!f3gOa3LUAHJXJJbFZfDytg) - *Esoterica / Philosophy / Gnosticism* 
@@ -384,6 +386,7 @@
 * [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - *Phychonauts Wiki*
 * [HerbologyY](https://t.me/HerbologyY) - *Herbology / Telegram*
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - *Hypnosis / Telegram*
+* [files.afu.se](https://files.afu.se/Downloads/) - *UFO Books, Documents, Magazines ect.*
 * [The Trove](https://thetrove.is/) - *Books / Fantasy / TTRPG / [Wayback Machine](https://web.archive.org/web/20210614215400/https://thetrove.is/), [2](https://web.archive.org/web/20210430220147/https://thetrove.is/)*
 * [Choisey](http://choisey.free.fr/) or [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - *TTRPG Rulebooks*
 * [SimplyScripts](https://www.simplyscripts.com/) or [Scripts.com](https://scripts.com/) - *Movie / TV Scripts* 
@@ -424,6 +427,8 @@
 * [PupilGarage](http://www.pupilgarage.com/)
 * [Libribook](https://libribook.com/) 
 * [Educational Archive](http://s2.bitdownload.ir/)
+* [s2.bitdl.ir](http://s2.bitdl.ir/Ebook/)
+* [114.116.28.83](http://114.116.28.83/)
 * [Heaven](https://drive.google.com/drive/folders/1hxe7Des-ooQpamAtjyR7CX-k_hyqlQ7Q)
 * [Uloz Archive](https://uloz.to/folder/8fpAg2rwEcYh/name/Large-Book-Collection) 
 * [Wikiversity](https://www.wikiversity.org/) - *Learning Resources, Guides, Quizzes, Tools & More*
@@ -464,9 +469,11 @@
 * [EngBookPDF](https://www.engbookspdf.com/) - *Engineering*
 * [EasyEngineering](https://easyengineering.net/) - *Engineering*
 * [EngineeringBooksPDF](https://www.engineeringbookspdf.com/) - *Engineering*
+* [NPTEL_DISK1](http://103.254.244.3/NPTEL_DISK1/EBOOKS/) - *Engineering*
 * [EngineeringEBooks_civil](https://t.me/EngineeringEBooks_civil) - *Civil Engineering*
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - *Electronics* 
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - *Electronics Schematics & Simulations*
+* [159.69.3.96](http://159.69.3.96/ebooks/) - *IT Books*
 * [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - *Philosophy* 
 * [APAOnline](https://www.apaonline.org/) - *Philosophy* 
 * [Philosophy Drive](https://mega.nz/folder/MQBRHBJA#L_on3h-XUrtbc719UaMygw) - *Philosophy* 
@@ -522,6 +529,7 @@
 * [Europeana](https://www.europeana.eu/) - *European Historical Documents*
 * [The National Archives](https://nationalarchives.gov.uk/) - *UK Historical Documents*
 * [History Newsboys of 1899](https://drive.google.com/drive/u/0/mobile/folders/10rKtVNd18i30mrXwIjFnMMPUBveKNdOO?usp=sharing) - *Books / Documents*
+* [Carti](https://enryo.ro/carti/) - *Japanese Martial Arts History Books*
 
 ***
 
@@ -590,6 +598,7 @@
 * [DOAJ](https://www.doaj.org/) - *Journals / Articles*
 * [CyberLeninka](https://cyberleninka.org/) - *Articles / Scientific / Legal* 
 * [Legal Core](https://core.ac.uk/) - *Papers / Academic*
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - *Medical Journals*
 * [SSRN](https://www.ssrn.com/) - *Early Stage Research Papers* 
 * [Open Knowledge Maps](https://openknowledgemaps.org/) - *Research Paper Search* 
 * [PsyArXiv](https://psyarxiv.com/) - *Articles / Psychological Sciences* 
@@ -875,6 +884,7 @@
 * [FlipHTML5](https://fliphtml5.com/exploring)
 * [MagDownload](https://magdownload.org/) 
 * [Retromags](https://www.retromags.com/) - *Retro Game Magazines* 
+* [PC Zone](http://pixsoriginadventures.co.uk/PCZone/) - *PC Zone Magazines*
 * [Atari Magazines](https://www.atarimagazines.com/) - *Classic Computer Magazine Archive* 
 * [Archive Fashion for the World](https://www.archivepdf.net/) - *Fashion Magazine Archive* 
 

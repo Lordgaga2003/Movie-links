@@ -114,7 +114,7 @@
 # ► Emulation / Roms
 
 * **[Recommended Emulator Specs](https://emulation.fandom.com/wiki/Computer_specs#Recommended_Specs)**
-* **[Emulator Index](https://emulation.gametechwiki.com/)**
+* **[Emulator Index](https://emulation.gametechwiki.com/)** or [The Emulator Zone](https://www.emulator-zone.com/)
 * **[Rom Site Index](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#Internet_Archive)**
 * **[Emuparadise](https://www.emuparadise.me/)** - *Emulators / Roms / [DL Script](https://redd.it/968sm6), [2](https://openuserjs.org/scripts/tommyoxox/EmuParadise_Download_Workaround_-_1.1.2), [3](https://gist.github.com/Eptun/3fdcc84552e75e452731cd4621c535e9) / [Forum](https://www.epforums.org/)* 
 * **[Vimms Lair](https://vimm.net/)** - *Emulators / Roms*
@@ -216,7 +216,7 @@
 * [GameBoy Collection](https://archive.org/details/Cyles_Gameboy_roms), [2](https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf), [3](https://drive.google.com/drive/folders/1VxjINYMDvvUSRKA_k2aJqq6JzmRQCI1s), [Unreleased](https://ufile.io/70vmpyng) - *Roms / GameBoy*
 * [DS Collection](https://archive.org/details/noIntroNintendoDsDecrypted2019Jun30), [2](https://mega.nz/folder/33AhDa4T#awOqr7lhZYFgjXoMMu6_8w) - *Roms / DS*
 * [DSi Collection](https://archive.org/details/No-Intro_Nintendo_DSi_2018-06-30) - *Roms / DSi* + [DSi DLC](https://archive.org/details/NintendoDSiDLC2019)
-* [Cia 3DS](https://www.cia-3ds.com/), [2](https://drive.google.com/drive/u/0/folders/1a1U18ImPv-VunSHanHBDTLht6kVf5AP6), [3](https://archive.org/download/3DSCIA_testitem1), [4](https://drive.google.com/drive/folders/1R5c6-nY5mMns8G1u2tcbYumfTCGXDQ5w), [5](https://drive.google.com/drive/folders/1a9BYbFlhQ96zaKtuL99m8N_r4qv8L_FK) - *Roms / 3DS*
+* [Cia 3DS](https://www.cia-3ds.com/), [2](https://drive.google.com/drive/u/0/folders/1a1U18ImPv-VunSHanHBDTLht6kVf5AP6), [3](https://archive.org/download/3DSCIA_testitem1), [4](https://drive.google.com/drive/folders/1R5c6-nY5mMns8G1u2tcbYumfTCGXDQ5w), [5](https://drive.google.com/drive/folders/1a9BYbFlhQ96zaKtuL99m8N_r4qv8L_FK), [6](https://drive.google.com/drive/folders/1vDIlIfJL1I8Nzv616YBIX-QXmudoxKxM?usp=sharing) - *Roms / 3DS*
 * [SNES Collection](https://archive.org/details/CylesSNESRomPack) - *Roms / SNES*
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - *NES, SNES & Playstation Mods*
 * [Dreamcast Collection](https://archive.org/details/almstcmpltdrmcst) - *Roms / Dreamcast*
@@ -245,7 +245,7 @@
 * [AtariMania](http://www.atarimania.com/index.html) - *Browser Emulator / Emulators / Roms / Atari Consoles*
 * [MagiPack](https://www.magipack.games/) - *Retro Games* 
 * [RetroSpec](http://retrospec.sgn.net/) - *Retro Games*
-* [OpenBOR](https://github.com/DCurrent/openbor) - *2D Fighting Game Emulator*
+* [OpenBOR](https://github.com/DCurrent/openbor) or [Mugen](https://web.archive.org/web/20150209191723/http://www.elecbyte.com/mugen) - *2D Fighting Game Emulator*
 * [Japanese PC Compendium](http://japanesepccompendium.blogspot.com/) - *Retro Japanese PC Games*
 * [TOSEC](https://archive.org/details/TOSEC_V2017-04-23), [2](https://archive.org/details/tosec) - *The Old School Emulation Center*
 * [NEC & Turbografx Collection](https://archive.org/details/NEC_PC_Engine_CD-ROM2_System_and_TurboGrafx-CD_2016_Reference_Set_Redump_Validated_ROMs) - *Roms / Nec / Turbo*
@@ -272,7 +272,7 @@
 * [DoomWorld](https://www.doomworld.com/) - *Doom Downloads / Wads / Mods / Editing* 
 * [Doom_wads](https://github.com/Akbar30Bill/DOOM_wads) or [Doom Wad Station](http://www.doomwadstation.net/) - *Doom Wads* 
 * [ZDoom](https://www.zdoom.org/downloads) - *Doom Source Port* 
-* [Br0legs Zandronum](https://drive.google.com/file/d/1B8ze1SPpwE0DI1nDKkyS4iXyfLsO_DbV/view?usp=sharing) - *Doom Mods* 
+* [Br0legs Zandronum](https://drive.google.com/file/d/1B8ze1SPpwE0DI1nDKkyS4iXyfLsO_DbV/view?usp=sharing) or [Realm667](https://www.realm667.com/index.php/en/) - *Doom Mods* 
 * [Zandronum](https://zandronum.com/) or [Doomseeker](http://doomseeker.drdteam.org/)  - *Online Multiplayer Doom* 
 * [Doom64 EX](https://doom64ex.wordpress.com/downloads/) - *Doom 64 PC Port* 
 * [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - *Doom SNES Source Code*
@@ -400,13 +400,16 @@
 * [Bruno-Simon](https://bruno-simon.com/) - *Truck Driving Game*
 * [A Leaf on the Wind](http://anism.org/lotw/) - *Leaf Arcade Game* 
 * [Polka Dot Game](https://www.polkadotgame.com/) - *Dodge & Eat Dots*
+* [Spinner](https://hyperspace-wizard.itch.io/spinner) - *Spinner Timing Game*
 * [SWOOOP](http://swooop.playcanvas.com/) - *Fly a Bi-Plane around an Island* 
+* [Plane Food Simulator](https://sheepandram.itch.io/pfs2021) - *Plane Food Eating Game*
 * [Master Archer](https://playcanv.as/p/JERg21J8/) - *Archery Game* 
 * [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - *Space Combat Game* 
 * [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - *Survive Waves of UFOs* 
 * [Doodle Cricket](https://doodlecricket.github.io/index.html#/) - *Play Cricket as a Cricket* 
 * [Impossible Rush](http://tanksw.com/impossible-rush/) - *Reflex Testing Game*
 * [Incremental Games Plaza](https://plaza.dsolver.ca/) or [Almost Idle](http://almostidle.com/) - *Incremental Games Index*
+* [Idlescape](https://idlescape.com/game) - *Idle MMORPG*
 * [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](http://orteil.dashnet.org/experiments/cookie/), [The Monolith](http://monolith.greenpixel.ca/), [WarClicks](https://warclicks.com/), [Merry Clickmas](http://www.digitalchestnut.com/merryclickmas/) - *Incremental Clicker*   
 * [MousePoint](https://creativetechguy.com/mousepoint) - *Mouse Pointing Game*
 * [Piccolo](https://piccolo.click/web/) - *Othello AI* 
@@ -461,6 +464,7 @@
 * [RoboStorm](https://robostorm.io/) - *Robot Battle Game* 
 * [GPRO](https://www.gpro.net/gb/gpro.asp) - *Multiplayer F1 Manager Game*
 * [Miniconomy](https://www.miniconomy.com/) - *Multiplayer Economy Game*
+* [eWordChallenge](https://www.ewordchallenge.net/) - *Multiplayer Boggle*
 * [tix.tax](https://tix.tax/) - *Ultimate Tic-Tac-Toe*
 * [PlayTicTacToe](https://playtictactoe.org/) - *Tic-Tac-Toe* 
 * [GameKnot Chess](https://gameknot.com/) - *Multiplayer Chess*
@@ -506,6 +510,7 @@
 * [Menneske](https://www.menneske.no/eng/) - *Number Puzzles* 
 * [babble.xyz](https://babbl.xyz/) - *Infinite Scrabble*
 * [WordHub](https://wordhub.com/) - *Scrambled Word Game*
+* [eWordChallenge](https://www.ewordchallenge.net/) - *Multiplayer Boggle*
 
 ***
 

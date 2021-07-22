@@ -624,7 +624,7 @@
 * [WatchIt](http://watchitapp.site/) - *Movies / TV / Anime / [GitHub](https://github.com/ZorrillosDev/watchit-desktop)*
 * [Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) - *Some clients allow you to stream torrents*
 * [Radarr](https://github.com/Radarr/Radarr) - *Movie torrent autodownload*
-* [Sonarr](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - *TV torrent autodownload*
+* [Sonarr](https://sonarr.tv/) / [GitHub](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - *TV Torrent Autodownload*
 * [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - *Movie / TV autodownload / [Discord](https://discord.gg/PFwM4zk)*
 * [SickChill](https://sickchill.github.io/) or [CouchPotato](https://couchpota.to/) - *Automatic torrent/nzb searching, downloading & processing / Manager*
 * [Autodownload Tools](https://redd.it/hbwnb2) - *All Autodownload Tools*

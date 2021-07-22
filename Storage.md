@@ -417,7 +417,7 @@
 
 #### Grammar Check
 
-**[Scribens](https://www.scribens.com/)**, [Wordtune](https://www.wordtune.com/), [DraftMap](https://draftmap.com/), [HemingwayApp](http://hemingwayapp.com/), [Grammark](https://grammark.org/), [SlickWrite](https://www.slickwrite.com/), [Ginger Software](https://www.gingersoftware.com/grammarcheck), [LanguageTool](https://languagetool.org/) 
+**[Scribens](https://www.scribens.com/)**, [Wordtune](https://www.wordtune.com/), [DraftMap](https://draftmap.com/), [HemingwayApp](http://hemingwayapp.com/), [Grammark](https://grammark.org/), [SlickWrite](https://www.slickwrite.com/), [Ginger Software](https://www.gingersoftware.com/grammarcheck), [LanguageTool](https://languagetool.org/), [Grammarly](https://www.grammarly.com/)  / [Free Premium](https://redd.it/kfncju) 
 
 ***
 
@@ -679,6 +679,8 @@ Add the following commands to a search to manually scrape each site.
 * [Subsonic](http://www.subsonic.org/) 
 * [Kawaii-Player](https://github.com/kanishka-linux/kawaii-player)
 * [Streama](https://github.com/streamaserver/streama)
+* [Vigilio](https://vigilio.tugcan.net/) - *[GitHub](https://github.com/tugcanolgun/vigilio)*
+* [Cloudbox](https://cloudbox.works/) - *Cloud Media Ubuntu Server*
 * [Kodi](https://kodi.tv/) 
 * Kodi Tools - /r/Addons4Kodi, [Addons](https://kinkeadtech.com/best-kodi-streaming-addons/), [2](https://kodiapps.com/addons-chart), [MMA](https://www.bestkoditips.com/best-kodi-addons-to-watch-ufc-online/), [KDrama](https://aznhusband.github.io/), [cywteow](https://cywteow.github.io/), [IPTV](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client), [Media Tracker](https://simkl.com/), [Media Manager](https://github.com/komet/mediaelch)
 * [FireStick Jailbreak](https://www.firesticktricks.com/) - *Firestick jailbreaking guide* 
@@ -1082,7 +1084,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Multi-Platform**
 
-[Vivaldi](https://vivaldi.com/), [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium), [Librewolf](https://gitlab.com/librewolf-community/browser/windows), [Librewolf Linux](https://librewolf-community.gitlab.io/), [Librefox](https://github.com/intika/Librefox/), [Netsurf](https://www.netsurf-browser.org/), [Wexond](https://github.com/wexond/desktop), [Dot](https://github.com/dothq/browser) (Linux / Alpha), [Otter](https://otter-browser.org/), [BadWolf](https://hacktivis.me/projects/badwolf), [Sphere](https://sphere.tenebris.cc/), [dumb-browser](https://github.com/f32by/dumb-browser), [Breeze](https://github.com/privacyone/breeze-core), [Dot HQ](https://www.dothq.co/) / [Discord](https://invite.gg/dot)
+[Vivaldi](https://vivaldi.com/), [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium), [Librewolf](https://gitlab.com/librewolf-community/browser/windows), [Librewolf Linux](https://librewolf-community.gitlab.io/), [Librefox](https://github.com/intika/Librefox/), [Netsurf](https://www.netsurf-browser.org/), [Wexond](https://github.com/wexond/desktop), [Dot](https://github.com/dothq/browser) (Linux / Alpha), [Otter](https://otter-browser.org/), [BadWolf](https://hacktivis.me/projects/badwolf), [Sphere](https://sphere.tenebris.cc/), [dumb-browser](https://github.com/f32by/dumb-browser), [Breeze](https://github.com/privacyone/breeze-core), [Dot HQ](https://www.dothq.co/) / [Discord](https://invite.gg/dot), [Waterfox](https://www.waterfox.net/), [Viper-Browser](https://github.com/LeFroid/Viper-Browser)
 
 **Android**
 
@@ -1779,7 +1781,7 @@ Good for finding classic, obscure & short films.
 
 #### Windows 10 Debloater
 
-[Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/), [win10script](https://github.com/ChrisTitusTech/win10script), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline) 
+[Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/), [win10script](https://github.com/ChrisTitusTech/win10script), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [CleanWin](https://github.com/pratyakshm/cleanwin) 
 
 ***
 
@@ -1824,7 +1826,7 @@ Good for finding classic, obscure & short films.
 
 #### YouTube Video Downloaders
 
-**[YouTube-DL](https://github.com/ytdl-org/youtube-dl)** / [GUI](https://mrs0m30n3.github.io/youtube-dl-gui/), [2](https://youtube-dl-helper.github.io/), [3](https://github.com/JaGoLi/ytdl-gui), [4](https://stacher.io/) / [Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection), [YT-DLC](https://github.com/blackjack4494/yt-dlc), [ytmp3](https://ytmp3.cc), [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader), [Loader](https://loader.to/) (playlists), [KeepVid](https://keepvid.works/) (playlists), [ddownr](https://ddownr.com/) (playlists), [Tartube](https://github.com/axcore/tartube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [Youtube Video Downloader](https://github.com/OmarAflak/Youtube-Video-Downloader), [YouTube MP4](https://youtubemp4.to/), [DeURL](http://deturl.com/), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [LocoDownloader](https://locoloader.com/), [FLVto](https://www.flvto.biz/en80/), [FreeMake](https://www.freemake.com/free_video_downloader/), [youtube2video](https://www.youtube2video.com/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [convertmp3](https://www.convertmp3.cc/), [convyoutube](https://www.convyoutube.com/), [YouTubeMultiDownloader (playlists)](https://youtubemultidownloader.net/index.html), [onlinevideoconverter](https://onlinevideoconverter.pro/), [FLVto](https://flvto.video/), [projectlounge ytdl](https://projectlounge.pw/ytdl), [kharasach](http://www.kharasach.com/)
+**[YouTube-DL](https://github.com/ytdl-org/youtube-dl)** / [GUI](https://mrs0m30n3.github.io/youtube-dl-gui/), [2](https://youtube-dl-helper.github.io/), [3](https://github.com/JaGoLi/ytdl-gui), [4](https://stacher.io/) / [Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection), [YT-DLC](https://github.com/blackjack4494/yt-dlc), [ytmp3](https://ytmp3.cc), [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader), [Loader](https://loader.to/) (playlists), [KeepVid](https://keepvid.works/) (playlists), [ddownr](https://ddownr.com/) (playlists), [Tartube](https://github.com/axcore/tartube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [Youtube Video Downloader](https://github.com/OmarAflak/Youtube-Video-Downloader), [YouTube MP4](https://youtubemp4.to/), [DeURL](http://deturl.com/), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [LocoDownloader](https://locoloader.com/), [FLVto](https://www.flvto.biz/en80/), [FreeMake](https://www.freemake.com/free_video_downloader/), [youtube2video](https://www.youtube2video.com/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [convertmp3](https://www.convertmp3.cc/), [convyoutube](https://www.convyoutube.com/), [YouTubeMultiDownloader (playlists)](https://youtubemultidownloader.net/index.html), [onlinevideoconverter](https://onlinevideoconverter.pro/), [FLVto](https://flvto.video/), [projectlounge ytdl](https://projectlounge.pw/ytdl), [kharasach](http://www.kharasach.com/), [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)
 
 ***
 

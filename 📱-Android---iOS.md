@@ -118,6 +118,7 @@
 * [VMOS](https://www.vmos.com/) - *Android Virtual Machine*
 * [MacroDroid](http://macrodroid.com/) - *Android Automation* 
 * [Adebar](https://codeberg.org/izzy/Adebar) - *Device Backup Tool*
+* [Migrate](https://play.google.com/store/apps/details?id=balti.migrate) - *Migration Tool / Root Required*
 * [Videoder](https://www.videoder.com/) - *Video Download Tool* 
 * [SongTube](https://github.com/SongTube/SongTube-App) - *YouTube Audio / Video Downloader*
 * [DankChat](https://github.com/flex3r/DankChat) - *Talk in Multiple Twitch Chats at Once*
@@ -532,6 +533,7 @@ iOS
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
 * [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - *Control Android TV Box with iPhone*
 * [Swappa](https://swappa.com/imei) - *IMEI, MEID, ESN Checker*
+* [Mildred](https://apps.apple.com/us/app/mildred/id1522800022) - *Docker Client*
 
 ***
 
@@ -619,7 +621,7 @@ iOS
 * [RSS Player](https://apps.apple.com/us/app/rss-video-player/id885311320) - *KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)*
 * [Wako-TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - *Movies / TV / Anime / Real Debrid required*
 * [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962) or [‎Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - *Video Player*
-* [Better Cercube](https://appdb.to/app/cydia/1900000823) - *Modded YouTube iPA / [Reddit Post](https://redd.it/mjw8r6)*
+* [Better Cercube](https://appdb.to/app/cydia/1900000823) - *Modded YouTube iPA / [Reddit Post](https://redd.it/olsxri)*
 
 ***
 

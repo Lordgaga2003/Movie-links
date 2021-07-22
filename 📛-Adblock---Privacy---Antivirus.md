@@ -81,12 +81,17 @@
 * **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - *Malware Analysis Tools / Resources*
 * **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - *Malware Avoidance Guide*
 * **[How to Remove Malware](https://redd.it/33evdi)** - *Malware Removal Guide*
-* **[Malwarebytes](https://www.malwarebytes.com/)**, [Kaspersky](https://usa.kaspersky.com/free-cloud-antivirus), [Adaware Antivirus](https://www.adaware.com/free-antivirus-download), [IOBit](https://www.iobit.com/en/malware-fighter.php) or [Immunet](https://www.immunet.com) - *Antivirus*
+* **[Malwarebytes](https://www.malwarebytes.com/)**, [Kaspersky](https://usa.kaspersky.com/free-cloud-antivirus), [Adaware Antivirus](https://www.adaware.com/free-antivirus-download), [IOBit](https://www.iobit.com/en/malware-fighter.php), [ClamAV](https://www.clamav.net/) or [Immunet](https://www.immunet.com) - *Antivirus*
 * **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - *Anti-Adware*
-* **[VirusTotal](https://www.virustotal.com/)**, [VirSCAN](https://www.virscan.org/), [BitBaan](https://lab.bitbaan.com/en/home), [Joe Sandbox](https://www.joesandbox.com/), [MetaDefender](https://metadefender.opswat.com/?lang=en), [Fortiguard](https://www.fortiguard.com/faq/onlinescanner) or [Jotti](https://virusscan.jotti.org/en) - *File Scanners / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader)* 
+* **[VirusTotal](https://www.virustotal.com/)**, [VirSCAN](https://www.virscan.org/), [BitBaan](https://lab.bitbaan.com/en/home), [Joe Sandbox](https://www.joesandbox.com/), [MetaDefender](https://metadefender.opswat.com/?lang=en), [NoDistribute](https://nodistribute.com/), [Fortiguard](https://www.fortiguard.com/faq/onlinescanner) or [Jotti](https://virusscan.jotti.org/en) - *File Scanners / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader)* 
 * **[Hybrid Analysis](https://www.hybrid-analysis.com/)** or [Amnpardaz](https://jevereg.amnpardaz.com/) - *Scan EXE Files*
 * **[URL Void](https://www.urlvoid.com/)**, [ThreatStop](https://threatstop.com/checkip), [urlscan.io](https://urlscan.io/), [Scamadviser](https://www.scamadviser.com/), [SiteSheck](https://sitecheck.sucuri.net/), [IsLegitSite](https://www.islegitsite.com/) or [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search) - *Check Site Legitimacy*
-* [Hard_Configurator](https://hard-configurator.com/) - *GUI to manage Software Restriction Policy* 
+* [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html) or [GlassWire](https://www.glasswire.com/) - *Firewall / Network Monitor* 
+* [Test Your Metal](http://metal.fortiguard.com/) - *Test Firewall* 
+* [Stronghold](https://github.com/alichtman/stronghold) - *Mac Security Settings Terminal*
+* [LuLu](https://objective-see.com/products/lulu.html) - *Mac Firewall* 
+* [OpenSnitch](https://github.com/evilsocket/opensnitch) or [Gufw](http://gufw.org/) - *Linux Firewall* 
+* [Hard_Configurator](https://hard-configurator.com/) - *Software Restriction Policy Management GUI* 
 * [Hardentools](https://github.com/securitywithoutborders/hardentools) - *Disables Risky Windows Features*
 * [Unchecky](https://unchecky.com/) - *Clears Software Installation Checkboxes*
 * [MCShield](https://www.mcshield.net/) - *Removable Drive Antivirus* 
@@ -113,11 +118,12 @@
 * [VirusShare](https://virusshare.com/) - *Search / Share Malware Samples* 
 * [Ransomwhere](https://ransomwhe.re/) - *Ransomware Tracker*
 * [SigThief](https://github.com/secretsquirrel/SigThief) - *Signature Test* 
+* [YARA](https://virustotal.github.io/yara/) - *Malware Identification Tool*
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - *Penetration Testing Index*
 * [wideredist](https://gitlab.com/urbanware-org/wideredist) - *Update Windows Defender Definitions Locally*
 * [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - *Malware Search Extension* 
 * [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu)
-* [theZoo](https://github.com/ytisf/theZoo) - *Live Malware Repository*
+* [theZoo](https://github.com/ytisf/theZoo) - *Live Malware Repository / For Analysis Purposes Only*
 
 ***
 
@@ -181,10 +187,6 @@
 * [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/) - *Stop Telemetry Data Leaks*
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - *Track Torrent Download Leaks*
 * [Safing](https://safing.io/) - *Monitor Network / Block Trackers*
-* [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html) or [GlassWire](https://www.glasswire.com/) - *Firewall / Network Monitor* 
-* [Test Your Metal](http://metal.fortiguard.com/) - *Test Firewall* 
-* [LuLu](https://objective-see.com/products/lulu.html) - *Mac Firewall* 
-* [OpenSnitch](https://github.com/evilsocket/opensnitch) or [Gufw](http://gufw.org/) - *Linux Firewall* 
 * [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/adversarialtools/discord-delete), [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) or [QuickDeleteMessages](https://u.nu/9i9jk) - *Delete Discord Messages / [Warning](https://i.imgur.com/Kt8G430.png)* 
 * [Spyware Watchdog](https://spyware.neocities.org/) - *Spyware Program Index*
 * [Terms of Service; Didn't Read](https://tosdr.org/) - *TLDR TOS*
@@ -198,6 +200,7 @@
 * [Globaleaks](https://www.globaleaks.org/) - *Self-Hosted Whistleblowing Platform*
 * [DeepPrivacy](https://github.com/hukkelas/) - *A Generative Adversarial Network for Face Anonymization*
 * [image-scrubber](https://github.com/everestpipkin/image-scrubber) - *Anonymize Protest Photos*
+* [Mobile Verification Toolkit](https://github.com/mvt-project/mvt) - *Test for Potential Compromises on Android / iOS*
 
 ***
 

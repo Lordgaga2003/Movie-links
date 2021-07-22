@@ -707,7 +707,7 @@
 ## ▷ Comic Sites
 
 * **[Comic Sites Search](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)**
-* **[ReadComicsOnline](https://readcomiconline.to/)**
+* **[ReadComicsOnline](https://readcomiconline.li/)**
 * **[ComicExtra](https://www.comicextra.com/)** or [Comic Online Free](https://comiconlinefree.net/) 
 * **[GetComics](https://getcomics.info/)** - *Downloads / Read Online*
 * [XOXO Comics](https://xoxocomics.com/) 
@@ -715,6 +715,8 @@
 * [Read Comics Online](https://readcomicsonline.ru/) 
 * [Comix-Load](https://comix-load.in/) - *Downloads*
 * [Zip Comic](https://www.zipcomic.com/) - *Downloads*
+* [ComicCodes](http://www.comicscodes.com/) - *Downloads*
+* [UnofficialCBR](https://unofficialcbr.home.blog/) - *Downloads*
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - *Weekly Downloads*
 * [BookDL Comic & Manga](http://booksdl.org/comics0/) - *Comics / Manga / Drive*
 * [The-Eye Comics](http://the-eye.eu/public/Comics/) - *Comic Archive* 
@@ -732,7 +734,7 @@
 * [ComicFlow](https://github.com/swisspol/ComicFlow) - *Manager / Reader / iOS*
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
 * [ComicReader](https://comicreader.netlify.app/) - *Online Comic Reader*
-* [Tenma](https://github.com/Tenma-Server/Tenma) - *Comic Server / Reader*
+* [Tenma](https://github.com/Tenma-Server/Tenma) or [Komga](https://komga.org/) - *Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)*
 
 ***
 
@@ -814,6 +816,7 @@
 * [MangaEditor](https://moeka.me/mangaEditor/) - *Online Manga Editor*
 * [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en) or [Scanlate](https://scanlate.io/) - *Manga Translator*
 * /r/MangaPiracy - *Manga Piracy Subreddit / [Discord](https://discord.gg/pu66ZcNTrT)*
+* [Tenma](https://github.com/Tenma-Server/Tenma) or [Komga](https://komga.org/) - *Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)*
 
 ***
 

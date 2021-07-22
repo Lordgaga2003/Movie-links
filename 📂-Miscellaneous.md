@@ -223,11 +223,11 @@
 * **[Curlie](https://curlie.org/)** - *Topic Directory* 
 * **[The Scene](https://github.com/DRSDavidSoft/Warez)** - *Warez topics, Discussions & Tools / [Discord](https://discord.me/CHEF-KOCH)*
 * **[Open Source Intelligence Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_source_intelligence_indexes)**
-* [The Pirate List](https://thepiratelist.com/) - *Ranks Piracy Sites* 
 * [Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - *Find Software / App Alternatives* 
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - *Open Source Index*
 * /r/InternetIsBeautiful - *Helpful / Fun Sites Subreddit / [Randomizer](https://therandombutton.com/)*
 * [/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index) - */r/Piracy wiki*
+* [/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread) - *Software Piracy Megathread*
 * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://alternate-awesome-piracy.vercel.app/) - *List of awesome warez and piracy links*
 * [Similar Sites](https://www.similarsites.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
 * [DirtyWarez](https://dirtywarez.org/) - *Ranks Sites*
@@ -261,7 +261,7 @@
 * [Index Mania](https://indexmania.org/) - *Link Search Index*
 * [Wikimedia](https://www.wikimedia.org/) - *All Wikimedia Sources*  
 * [Clone Wars](https://gourav.io/clone-wars) - *Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars)* 
-* [Appscope](https://appsco.pe/) or [Electron](https://www.electronjs.org/apps) - *Web App Index*
+* [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/) or [Electron](https://www.electronjs.org/apps) - *Web App Index*
 * [CloudTrip](http://cloudtrip.com/) - *Cloud App Index*
 * [State of the DApps](https://www.stateofthedapps.com/) - *Blockchain App Index* 
 * [List of Lists](https://l-lists.com/en/) - *List Index*

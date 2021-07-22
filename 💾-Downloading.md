@@ -11,6 +11,7 @@
 
 # ► Download Directories
 
+* **WARNING** - Some Open Directories grab IP  addresses, so it's highly recommended to use a VPN or Tor when accessing them.
 * **[The MegaDrive](https://discord.gg/h2P5zsNMxZ)** - *Discord Drive Sharing Community* 
 * **[Open Directories / Teamdrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrives_.2F_open_directories), [2](https://www.google.com/search?q=site:reddit.com/r/opendirectories+odshot+after:2018), [3](https://opndir.com/), [4](https://redd.it/lvdwlm), [5](https://github.com/strawhat-pirates/notes/blob/master/opendirectories.txt), [6](https://bin.disroot.org/?3082f04205be7af6#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34)**
 * **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
@@ -151,6 +152,7 @@
 
 # ► Software Sites
 
+* **[/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread)** - *Software Piracy Megathread*
 * **[Mobilism](https://forum.mobilism.org/)** - *Software / Books / [Mobile App](https://forum.mobilism.org/app/)* 
 * **[soft98](https://soft98.ir/)** - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * **[FileCR](https://filecr.com/en/)** - *Software / Books*

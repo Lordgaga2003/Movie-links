@@ -122,6 +122,7 @@
 * [gaoqing](https://gaoqing.fm/) - *Movies / TV / Anime*
 * [RARBT](http://www.rarbt.cc/) - *Movies* 
 * [ACG.rip](https://acg.rip/) - *Anime / Music* 
+* [Snow-Raws](https://snow-raws.com/) - *Anime / [Official Tracker](https://www.skyey2.com/)*
 * [Ali213](https://ali213.net/) - *Games*
 
 ## ▷ Streaming
@@ -1143,6 +1144,7 @@
 # ► Other Languages
 
 * [Non-English Ebook & Audiobook Sites](https://redd.it/gehkl0)
+* [Zoro.to](https://zoro.to/) - *Multiple Language Subtitles / Anime*
 * [Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_asian_drama_sites)
 * [JioRockers](http://www.jiorockers.uk/) - *Indian Languages / Streaming / Movies*
 * [4MovieRulz](https://4movierulz.gg/) - *Indian Languages / Download / Movies*

@@ -258,6 +258,7 @@
 * [Crello](https://crello.com/) - *Image Templates / Editor*
 * [Worldvectorlogo](https://worldvectorlogo.com/) - *Brand Logos*
 * [Bendodson](https://bendodson.com/projects/itunes-artwork-finder/), [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) - *Find multimedia artwork*
+* [Kemono](https://kemono.party/) - *Patreon Content / Some NSFW*
 * [FanArt](https://fanart.tv/) - *Fan Made Posters / Logos* 
 * [CGPersia](https://cgpersia.com/), [Clara](https://clara.io/library), [Sketchfab](https://sketchfab.com/) or [Free3D](https://free3d.com/) - *3D Models*
 * [CC0 Textures](https://cc0textures.com/) - *Textures for 3D Models* 
@@ -950,12 +951,13 @@ General Reading Sites*
 * [Discord Ban Appeals](https://github.com/patricktechn/discord-ban-appeals) - *Discord Ban Appeal Form*
 * [Discord Auto Upload](https://github.com/tardisx/discord-auto-upload) - *Auto Upload Screenshots*
 * [DSC.BIO](https://dsc.bio/) - *Make Awesome Custom Discord Bios* 
+* [DiscordStatus](https://warze.org/discordstatus/) - *Discord Status Art Creator*
 * [DateTimeCord](https://datetimecord.rauf.wtf/) - *Discord Date & Time Fomatting Tool*
 * [Automod Config](https://docs.google.com/spreadsheets/d/1oAHbnK8gcfnNS62aUuVK985RfORhqyhiZs-dZh4qloE) - *Automod Bot Config*
 * [Dyno](https://dyno.gg/) - *Change Discord Discriminator w/o Nitro / [How-To](https://i.imgur.com/lHRD42c.png)* 
 * [Discord.ID](https://discord.id/) - *Lookup a Discord User or Bot ID* 
 * [Discord Markdown Cheatsheet](https://pbs.twimg.com/media/EhCUbVnWAAE5tHx?format=png&name=900x900), [2](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-) - *Discord Markdown Guide*
-* [Discord Avatar Maker](https://discord-avatar-maker.christianreich.art/) - *Make Discord Avatars* 
+* [Discord Avatar Maker](https://discord-avatar-maker.christianreich.art/), [2](https://discord-avatar-maker.app/) - *Make Discord Avatars* 
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [BetterBG](https://github.com/Flashc0rd/BetterBG) - *Discord Custom Profile Backgrounds / [Discord](https://discord.gg/xBwunSDzPg)* 
 * [Disgradient](https://disgradient.vanished.rocks/) - *Gradients for Discord Folders, Roles ect.*
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - *Adds Custom CSS Support* 
@@ -1116,9 +1118,10 @@ General Reading Sites*
 * [PowerToys](https://github.com/microsoft/PowerToys) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
 * [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), /r/buildapc or [NZXTBld](https://www.letsbld.com/) - *PC Building Sites / [Discord](https://discord.gg/buildapc)*
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - *GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)*
-* [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - *Mouse Click Latency Chart*
 * [r/TechSupport](https://www.reddit.com/r/techsupport/) - *Tech Support Discussion / [Discord](https://discord.gg/2EDwzWa)* 
 * [GetHuman](http://gethuman.com/) or [ContactFound](https://contactfound.com/) - *Tech Support Numbers*
+* [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - *Mouse Click Latency Chart*
+* [Sensor.fyi](https://sensor.fyi/info/) - *Mouse Guide / Information*
 * [Office License Isn't Genuine](https://infohost.github.io/office-license-is-not-genuine) - *Fix Office Activation Issues*
 * [Rufus](https://rufus.ie/), [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) or [WoeUSB](https://github.com/WoeUSB/WoeUSB) - *Create Bootable USB Drives*  
 * [Easy2Boot](https://www.easy2boot.com/) - *Boot Directly from ISO's* 
@@ -1135,6 +1138,7 @@ General Reading Sites*
 * [CCStopper](https://github.com/E-Soda/CCStopper) - *Stop Background Adobe Apps*
 * [AATU](https://amdaputuningutility.com/) - *Ryzen Mobile Laptop Tuning Utility*
 * [NBFC](https://github.com/hirschmann/nbfc) - *Laptop Fan Control*
+* [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - *NVENC & NvFBC Patches*
 * [WizTree](https://wiztreefree.com/), [WinDirStat](https://windirstat.net/), [diskover](https://github.com/shirosaidev/diskover), [baobab](https://github.com/GNOME/baobab), [2](https://gitlab.gnome.org/GNOME/baobab), [HDSentinel](https://www.hdsentinel.com/) or [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - *Disk Usage Analyzer*
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - *Disk Benchmarking Tool*
 * [MyFavoriteGadgets](https://www.myfavoritegadgets.info/) - *System Monitors*
@@ -1218,6 +1222,7 @@ General Reading Sites*
 * [Win95](https://win95.ajf.me/) - *Windows 95 Browser Emulator* 
 * [Windows 1.01](https://classicreload.com/Windows-1-01.html) - *Windows 1.01 Browser Emulator* 
 * [RebornXP](https://rebornxp.js.org/) - *Windows XP Browser Emulator*
+* [SilveOS](https://www.silveos.com/) - *Browser Operating System Emulator*
 * [PCE.js](https://jamesfriend.com.au/pce-js/ibmpc-games/) - *PCDOS 5 Emulator* 
 * [Quantum Playground](http://www.quantumplayground.net/) - *Quantum Computer Simulator*
 * [NetLimiter](https://www.netlimiter.com/) - *Internet Traffic Control / Monitor* 
@@ -1268,6 +1273,7 @@ General Reading Sites*
 * [ScreenStyler](https://screenstyler.com/) -  *Desktop Customization / [Discord](https://discord.gg/u3thTMp9Cd)*
 * [XDesktopSoft](https://www.xwidget.com/) - *Desktop Customization*
 * [VirtualCustoms](https://virtualcustoms.net/), [WinCustomize](https://www.wincustomize.com/) or [7Themes](https://7themes.su/) - *Desktop Customization / Themes / Wallpapers ect.* 
+* [DynaWin](https://github.com/Apollo199999999/DynaWin) - *Dynamic Desktop Themes*
 * [Accent Applicator](https://github.com/mcdenis/AccentApplicator) - *Applies Win 10 Accent Color to OS*
 * [ModernWinver](https://github.com/torchgm/ModernWinver) - *Modernize the About Windows Screen*
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - *Windows 10 Search Appearance Tweaker*

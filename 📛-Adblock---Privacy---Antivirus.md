@@ -81,7 +81,7 @@
 * **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - *Malware Analysis Tools / Resources*
 * **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - *Malware Avoidance Guide*
 * **[How to Remove Malware](https://redd.it/33evdi)** - *Malware Removal Guide*
-* **[Malwarebytes](https://www.malwarebytes.com/)**, [Kaspersky](https://usa.kaspersky.com/free-cloud-antivirus), [Adaware Antivirus](https://www.adaware.com/free-antivirus-download), [IOBit](https://www.iobit.com/en/malware-fighter.php), [ClamAV](https://www.clamav.net/) or [Immunet](https://www.immunet.com) - *Antivirus*
+* **[Malwarebytes](https://www.malwarebytes.com/)**, [Kaspersky](https://usa.kaspersky.com/free-cloud-antivirus), [Adaware Antivirus](https://www.adaware.com/free-antivirus-download), [ClamAV](https://www.clamav.net/) or [Immunet](https://www.immunet.com) - *Antivirus*
 * **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - *Anti-Adware*
 * **[VirusTotal](https://www.virustotal.com/)**, [VirSCAN](https://www.virscan.org/), [BitBaan](https://lab.bitbaan.com/en/home), [Joe Sandbox](https://www.joesandbox.com/), [MetaDefender](https://metadefender.opswat.com/?lang=en), [NoDistribute](https://nodistribute.com/), [Fortiguard](https://www.fortiguard.com/faq/onlinescanner) or [Jotti](https://virusscan.jotti.org/en) - *File Scanners / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader)* 
 * **[Hybrid Analysis](https://www.hybrid-analysis.com/)** or [Amnpardaz](https://jevereg.amnpardaz.com/) - *Scan EXE Files*

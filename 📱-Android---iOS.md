@@ -119,7 +119,7 @@
 * [MacroDroid](http://macrodroid.com/) - *Android Automation* 
 * [Adebar](https://codeberg.org/izzy/Adebar) - *Device Backup Tool*
 * [Migrate](https://play.google.com/store/apps/details?id=balti.migrate) - *Migration Tool / Root Required*
-* [Videoder](https://www.videoder.com/) - *Video Download Tool* 
+* [Videoder](https://www.videoder.com/) or [DVD](https://github.com/yausername/dvd) - *Video Download Tool* 
 * [SongTube](https://github.com/SongTube/SongTube-App) - *YouTube Audio / Video Downloader*
 * [DankChat](https://github.com/flex3r/DankChat) - *Talk in Multiple Twitch Chats at Once*
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - *Reddit Video Downloader*
@@ -369,7 +369,7 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * **[CinemaHD](https://cinemaapk.com/)** - *Movies / TV / Anime / Chromecast*
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - *Ad Free YouTube on Android*
 * **[Zoshy](http://play.google.com/store/apps/details?id=com.sy.syfoo)**, [Noyox](https://play.google.com/store/apps/details?id=com.vid.vidseed) or [Zivcy](https://www.downloader.world/)  - *Movies / TV / Code: 777*
-* [Cunrchyroll Premium](https://forum.mobilism.org/search.php?keywords=crunchyroll&amp;sr=topics&amp;sf=titleonly)
+* [Cunrchyroll Mod](https://forum.mobilism.org/search.php?keywords=crunchyroll&amp;sr=topics&amp;sf=titleonly) or [Kamyroll](https://github.com/hyugogirubato/Kamyroll) - *Anime / Premium Crunchyroll*
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - *Movies / TV / Anime* 
 * [PopcornTime](http://popcorn-ru.tk/build/) - *Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
@@ -394,7 +394,7 @@ Add "huhu.to", "bs.to" or "oha.to"*
 * [RSS Player](https://play.google.com/store/apps/details?id=pis.android.rss.rssplayer&amp;hl=en_US) - *KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)
 RSS Player*
 * [mobi24](https://www.mobi24.net) - *Anime / Cartoons / Drama / Manga*
-* [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv) or [MX Player](https://forum.mobilism.org/search.php?keywords=Mx+player&amp;terms=all&amp;author=Balatan&amp;sc=1&amp;sf=titleonly&amp;sr=topics&amp;sk=t&amp;sd=d&amp;st=0&amp;ch=300&amp;t=0&amp;submit=Search) - *Video Player*
+* [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer) or [MX Player](https://forum.mobilism.org/search.php?keywords=Mx+player&amp;terms=all&amp;author=Balatan&amp;sc=1&amp;sf=titleonly&amp;sr=topics&amp;sk=t&amp;sd=d&amp;st=0&amp;ch=300&amp;t=0&amp;submit=Search) - *Video Player*
 * [Twire](https://f-droid.org/packages/com.perflyst.twire/), [Xtra](https://play.google.com/store/apps/details?id=com.github.exact7.xtra&amp;hl=en_US&amp;gl=US), [multiChat](https://play.google.com/store/apps/details?id=org.mchatty) or [TwitchMod](https://github.com/nopbreak/TwitchMod) - *Ad Free Twitch* 
 * [Android TV Mod](https://t.me/androidtvmod) - *Android TV / Fire TV / Fire Stick / Mods / Telegram*  
 * [Smart YouTube TV](https://smartyoutubetv.github.io/) - *Ad-Free YouTube client for set-top boxes and Android-based TVs*

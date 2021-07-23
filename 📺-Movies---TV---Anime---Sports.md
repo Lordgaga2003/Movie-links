@@ -47,7 +47,6 @@
 * [TheWebFlicks](https://thewebflicks.com/) - *Movies / Streamtape* 
 * [FZMovies](https://fzmovies.net/) - *Movies / [How to Use](https://imgur.com/a/EtLokxO)* 
 * [MoviesForFree](https://movieforfree.co/) - *Movies / TV*
-* [MKVKing](https://mkvking.me/) - *Movies / TV*
 * [1movies](https://ww2.1movies.is/), [CouchTuner](https://ww1.couchtuner.space/) or [New-Primewire](https://ww1.new-primewire.com/) - *Movies / TV / Anime*
 * [AZMovies](https://azm.to) - *Movies*
 * [HDM.to](https://hdm.to/) - *Movies* 
@@ -304,7 +303,6 @@
 * [KimAnime](https://kimanime.ru/) - *Sub / Dub* 
 * [Anime1](http://www.anime1.com/) - *Sub* 
 * [NetAnime](https://netanime.tv/) - *Sub / Dub* 
-* [YugenAnime](https://yugenani.me/) - *Sub / Dub*
 * [tenshi.moe](https://tenshi.moe/) - *Sub / Dub* 
 * [Animefever](https://www.animefever.tv/) - *Sub / Dub* 
 * [Anime-TV](https://anime-tv.fun/) - *Sub* 
@@ -483,7 +481,6 @@
 * [MoviesWBB](http://movieswbb.com/) - *Movie / TV*
 * [KatMovieHD](https://katmoviehd.nl/) - *Movies / TV / Anime*
 * [Amadei33](https://www.amadei33.com/) - *Movies / TV*  
-* [MKVKing](https://mkvking.me/) - *Movies / TV*
 * [MKVBee](https://mkvbee.com/) - *Movies / TV*
 * [MKVHOUSE](https://mkvhouse.com/) - *Movies / TV*
 * [Rinzry](https://rinzry.stream/) - *TV / Anime*
@@ -619,11 +616,11 @@
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - *Get a VPN before torrenting*
 * **[Stremio](https://www.stremio.com/)** - *Torrent streaming app / [Addons](https://redd.it/ahd6gk) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg)*
 * **[PopcornTime.is](http://popcorn-ru.tk/build/)** - *Movies / TV / Anime*
-* **[Jackett](https://github.com/Jackett/Jackett)** or [Watcher](https://nosmokingbandit.github.io/) - *Autodownload Torrents*
+* **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - *Autodownload Torrents*
 * [Flixerr](https://github.com/carlelieser/Flixerr) - *Movies / TV / r/Flixerr_Official / [Discord](https://discord.gg/KrEYTJb)*
 * [WatchIt](http://watchitapp.site/) - *Movies / TV / Anime / [GitHub](https://github.com/ZorrillosDev/watchit-desktop)*
 * [Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) - *Some clients allow you to stream torrents*
-* [Radarr](https://github.com/Radarr/Radarr) - *Movie torrent autodownload*
+* [Radarr](https://radarr.video/) - *Movie Torrent Autodownload / [GitHub](https://github.com/Radarr/Radarr)*
 * [Sonarr](https://sonarr.tv/) / [GitHub](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - *TV Torrent Autodownload*
 * [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - *Movie / TV autodownload / [Discord](https://discord.gg/PFwM4zk)*
 * [SickChill](https://sickchill.github.io/) or [CouchPotato](https://couchpota.to/) - *Automatic torrent/nzb searching, downloading & processing / Manager*
@@ -776,7 +773,7 @@
 * [UniqueStream](https://uniquestream.vip/requests/) - *Movies / TV / Anime*
 * [9Anime](https://9anime.to/) - *Anime / Click Request*
 * [SSAnime](https://ssanime.ga/request) - *Anime* 
-* [AnimeBatchDDL](https://animebatchddl.wordpress.com/) - *[Discord](https://discord.gg/h5pGByTZ9Z)
+* [AnimeBatchDDL](https://animebatchddl.wordpress.com/) - *[Discord](https://discord.gg/XRzMEMhEmu)*
 * [GustaTV](https://www2.gustatv.to/requests/) - *Movies / TV* 
 * [TheWebFlix](https://docs.google.com/forms/d/e/1FAIpQLSe1-DTmK9yuAtmO6_pLMO4fR5UF2aWf0QbMME41blXfFWSQBA/viewform) - *Movies / TV* 
 * [anime-sharing](http://www.anime-sharing.com/forum/anime-requests-19/) - *Anime*

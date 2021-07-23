@@ -359,16 +359,14 @@
 ## ▷ Live TV / Sports 
 
 * **[Sportsurge](https://sportsurge.net/)** - *Sports / Stream Locator*
-* **[Jackal](https://jackal.surge.sh/)** - *TV / Sports*
-* **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - *NBA / NFL*
 * **[WebOas.is TV](http://streamwat.ch/)** - *TV / Sports*
+* **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - *NBA / NFL*
+* **[Jackal](https://jackal.surge.sh/)** - *TV / Sports*
+* [SportsBay](https://sportsbay.org/live-streams) - *Sports* 
 * [Stream2Watch](https://www.stream2watch.is/) - *TV / Sports*
-* [Awesome IPTV](https://github.com/iptv-org/awesome-iptv), [2](https://github.com/iptv-org/iptv) - IPTV Resources / [Kodi app](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client)
-* [m3u Index](https://m3u4u.com/), [HLSCat](https://hlscat.com/), [2](https://iptvcat.net/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Plex + Emby Proxy](https://xteve.de/) / [m3u to txt](https://siptv.eu/converter/)
 * [123TV](http://123tv.live/) - *TV / Sports*
 * [streamlive](https://www.streamlive.to/) - *TV / Sports*
 * [ChannelSurf](https://channelsurf.tv/) - *TV / Sports*
-* [SportsBay](https://sportsbay.org/live-streams) - *Sports* 
 * [First Row Sports](https://firstsrowsports.tv/) - *Sports*
 * [720pStream](http://720pstream.tv/) - *Sports*
 * [CrackStreams](https://crackstreams.io/), [2](https://crackstreams.me/), [3](http://crackstreams.is/) - *Sports / [Discord](https://discord.gg/UhNr5XDx5R)*
@@ -425,6 +423,8 @@
 * [Topstreams](http://topstreams.info/) - *Sports* 
 * [VIPLeague](https://www.vipleague.lc/) or [VIPBox](https://www.vipbox.lc/) - *Sports* 
 * [FreeStream-Live](http://freestreams-live1.com/) - *Sports* 
+* [Awesome IPTV](https://github.com/iptv-org/awesome-iptv), [2](https://github.com/iptv-org/iptv) - IPTV Resources / [Kodi app](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client)
+* [m3u Index](https://m3u4u.com/), [HLSCat](https://hlscat.com/), [2](https://iptvcat.net/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Plex + Emby Proxy](https://xteve.de/) / [m3u to txt](https://siptv.eu/converter/)
 * [TVLab](https://t.me/tvlab) - *IPTV Playlists / Telegram*
 * [iptv_sport](https://t.me/iptv_sport) - *IPTV Sports Playlists / Telegram*
 * [Football Live Stream](https://football-live.stream/free-matches-online-6) - *Football* 

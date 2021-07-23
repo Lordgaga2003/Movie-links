@@ -95,15 +95,12 @@
 # ► Chinese 
 
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
+* [zimuku](http://zimuku.org/) - *Subtitles*
 
 ## ▷ Downloading
 
 * [Ali213](https://ali213.net/) - *Games*
 * [3dmgame](https://www.3dmgame.com/) - *Games / Geolocked / Baidu Required* 
-* [okzyw](https://www.okzyw.com/) - *Movies* 
-* [zimuku](http://www.zimuku.la/) - *Movies* 
-* [pianyuan](http://www.pianyuan.la/) - *Movies*
-* [gugeys](http://www.gugeys.cc/) - *Movies* 
 * [52hdking](http://www.52hdking.com/) - *TV*  
 * [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - *Courses / [icourse163](https://www.icourse163.org/)*
 * [91Flac](https://www.91flac.com/) - *Music* 
@@ -113,13 +110,11 @@
 
 ## ▷ Torrenting
 
-* [ciligou0](http://ciligou0.com/) - *Torrent Magnet Search* 
 * [Csze BT](https://bt.orzx.im/) - *Video / Audio / Software / Games / Books* 
 * [acgnx](https://www.acgnx.se/) - *Video / Audio / Software / Books / NSFW* 
 * [Share.dmhy](http://share.dmhy.org/) - *Anime / Manga / Games / Music* 
 * [dytt8](https://dytt8.net/), [dy2018](https://dy2018.com/), [ygdy8](https://ygdy8.com/index.html) or [dydytt](https://www.dydytt.net) - *Movies / TV / Anime*
 * [piaohua](https://www.piaohua.com/) - *Movies / TV / Anime*
-* [gaoqing](https://gaoqing.fm/) - *Movies / TV / Anime*
 * [RARBT](http://www.rarbt.cc/) - *Movies* 
 * [ACG.rip](https://acg.rip/) - *Anime / Music* 
 * [Snow-Raws](https://snow-raws.com/) - *Anime / [Official Tracker](https://www.skyey2.com/)*
@@ -128,21 +123,17 @@
 ## ▷ Streaming
 
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming) 
-* [9090](http://www.9090.tv/) - *Movies / TV / Anime*  
-* [370kan](http://www.370kan.com/) - *Movies / TV* 
 * [beyondHD ](https://t.me/beyondHD) - *Movies / Subs* 
-* [14tv](http://www.14tv.com/) - *Movies / TV / Anime* 
 * [Watch HK Movies Online](https://vinspirezhk.blogspot.com/) - *Rare Chinese Movies / English Subs* 
 * [duonaolive](https://duonaolive.com/) - *Movies / TV / Anime* 
 * [PangzITV](https://pangzitv.com/) - *Movies / TV / Anime* 
-* [ifvod](https://www.ifvod.tv/) - *Movies / TV / Anime* 
+* [ifsp](https://www.ifsp.tv/) - *Movies / TV / Anime* 
 * [tangrenjie](https://www.tangrenjie.tv/) - *Movies / TV / Anime* 
 * [v.qq](https://v.qq.com/) - *Movies / TV / Anime*
-* [cmdy2020](https://www.cmdy2020.com/) - *Movies / TV / Anime* 
+* [uvod.tv](https://www.uvod.tv/) - *Movies / TV / Anime*
 * [IcDrama](http://icdrama.video/) - *Movies / TV*
 * [Nunu Cinema](https://www.nunuyy.com/) - *Movies / TV*
 * [gangjuw](https://www.gangjuw.com/) - *TV*
-* [xigua12](http://www.xigua12.com/) - *Movies / TV / Anime*
 * [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - *Courses / [icourse163](https://www.icourse163.org/)*
 * [music.163](https://music.163.com/) - *Music*
 * [jsososo](http://y.jsososo.com/), [2](http://music.jsososo.com/) - *Music* 
@@ -155,7 +146,6 @@
 * [BooksThatMakeYouThink](https://t.me/BooksThatMakeYouThink) - *Nonfiction* 
 * [kgbook](https://kgbook.com/) - *Books*
 * [shuge](https://new.shuge.org/) - *Books / Audiobooks / Legal*
-* [pdfbook](http://www.pdfbook.cn/) - *Books*  
 * [pdfzj](http://pdfzj.cn/) - *Books* 
 * [your-ebook](https://your-ebook.xyz/) - *Books / [GitHub](https://github.com/kska32/ebooks)*
 * [haodoo](http://haodoo.net/) - *Books*  
@@ -210,7 +200,6 @@
 
 # ► French
 
-* [WarezienS](https://www.wareziens.net/) - *Piracy Discussion*  
 * [SubSynchro](https://www.subsynchro.com/), [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - *French Subtitles* 
 
 ## ▷ Downloading
@@ -295,6 +284,7 @@
 * [hd-direct.net](https://hd-direct.net/) - *Movies / TV / Anime / Games* 
 * [hd-source](https://hd-source.to/) - *Movies / TV / NSFW* 
 * [movie-blog](https://movie-blog.tv/) - *Movies / TV*
+* [StarWarez](https://starwarez.to/) - *Movies / TV*
 * [MLCBoard](https://mlcboard.com/) - *Movies* 
 * [German Telegram Movie Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_german_telegram_movie_downloads) - *Movies* 
 * [Boerse](https://myboerse.bz/) - *Video / Audio / Software / Android / NSFW*
@@ -316,6 +306,7 @@
 * [HD-Streams](https://hd-streams.org/) - *Movies / TV* 
 * [Serien](https://serien.life/) - *Movies / TV*
 * [Film Palast](https://filmpalast.club/) - *Movies / TV*
+* [MovieTown](https://movietown.org/) - *Movies / TV*
 * [KinoZ](https://kinoz.to/) - *Movies / TV / Anime / NSFW* 
 * [S.TO](https://s.to/) - *TV / Anime* 
 * [SRF.CH](https://www.srf.ch/) - *TV / Sports / Live*

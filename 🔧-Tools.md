@@ -413,7 +413,7 @@
 * **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)** - *Music Production Index* 
 * **[Hitsquad](http://www.hitsquad.com/smm/)** - *Audio Tools / Software Index* 
 * **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
-* **[iBroadcast](https://ibroadcast.com)**, [koel](https://koel.dev/) / [Docker](https://github.com/0xcaff/docker-koel) or [Airsonic](https://airsonic.github.io/) - *Online Music Library / Player*
+* **[iBroadcast](https://ibroadcast.com)**, [koel](https://koel.dev/) / [Docker](https://github.com/0xcaff/docker-koel), [MadSonic](https://www.madsonic.org/pages/index.jsp), [Navidrome](https://www.navidrome.org/), [Koozic](https://koozic.net/), [mStream](https://github.com/IrosTheBeggar/mStream), [Serviio](https://www.serviio.org/) or [Airsonic](https://airsonic.github.io/) - *Online Music Library / Player*
 * **[Audio Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_audio_software)** - *Audio Software Downloads*
 * **[Audio Editors / Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_editors)** - *Edit, Record & Create Audio*
 * **[Online Audio Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_online_audio_editors)** - *Edit Audio / Create Music Online*
@@ -597,6 +597,7 @@
 * [OONI](https://ooni.org/) - *Test Site Blocking / Network Speed*
 * [ISP Logger](https://isplogger.com/) - *Internet Performance Monitor* 
 * [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - *Web Service Coverage Map*
+* [WiFiCard](https://wificard.io/) - *WiFi Info QRCode Generator*
 * [FeedReader](http://www.feedreader.com/), [QuiteRSS](https://quiterss.org/), [RSSOwl](http://www.rssowl.org/), [CommaFeed](https://www.commafeed.com/#/welcome), [RSSHub](https://github.com/DIYgod/RSSHub), [Fluent Reader](https://hyliu.me/fluent-reader/) or [Feeder](https://feeder.co/) - *RSS Feed Reader* 
 * [DatoRSS](https://www.datorss.com/) or [RSS.app](https://rss.app/) - *RSS Feed Search* 
 * [RSS Box](https://rssbox.herokuapp.com/) or [FiveFilters](https://createfeed.fivefilters.org/) - *RSS Feed Creator* 
@@ -785,7 +786,6 @@ General Reading Sites*
 * **[u.nu](https://u.nu/)** - `u.nu/5nhzi`
 * **[t.ly](https://t.ly/)** - `t.ly/qqH6`
 * **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
-* **[polr](https://nxnt.link/)** - `nxnt.link/GuGnw`
 * [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
 * [soo.gd](https://soo.gd/) - `soo.gd/YCtV`
 * [ttf.tf](https://ttf.tf/) - `ttf.tf/Zr7FWU`
@@ -894,10 +894,11 @@ General Reading Sites*
 * [DiscordTools](https://discordtools.io/) - *Discord Tools*
 * [Discordia](https://discordia.me/en/home) - *Community-powered Discord Wiki*
 * [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - *Use Discord Emoji's without Nitro* 
-* [Slackmoji](https://github.com/seanprashad/slackmoji) - *Discord Emojis*
+* [Slackmoji](https://github.com/seanprashad/slackmoji), [emoji.gg](https://emoji.gg/) or [KEE](https://kellphy.com/projects/apps/kee.html) - *Discord Emojis*
 * [Ping and Salar's](https://discord.gg/RuFvp72qY4) - *Free Global Discord Emoji Server List / [Instructions](https://discord.com/channels/290572012437372931/444165499035713537/845971730690473994)*
 * [Emote Manager](https://github.com/EmoteBot/EmoteManager) - *Custom Discord Emote Manager* 
-* [emoji.gg](https://emoji.gg/) or [KEE](https://kellphy.com/projects/apps/kee.html) - *Discord Emotes* 
+* [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - *Discord Emoji Downloader*
+* [Snowsgiving Icons & Emotes](https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - *Snowsgiving Event Icons & Emotes*
 * [Distok](http://distok.top/stickers/) - *Discord Stickers as GIFs* 
 * [Discord Sticker Viewer](https://sticker-view.vercel.app/) - *View / Search Discord Stickers*
 * [DiscordBanners](https://discordbanners.com/) - *Free Custom Banners*
@@ -1150,6 +1151,7 @@ General Reading Sites*
 * [HWiNFO](https://www.hwinfo.com/) - *Hardware Analysis, Monitoring and Reporting*
 * [phwmon](https://gitlab.com/o9000/phwmon) - *System Tray Hardware Monitor*
 * [QDirStat](https://github.com/shundhammer/qdirstat) - *Directory Statistics*
+* [BleachBit](https://www.bleachbit.org/) - *Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.*  
 * [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - *Startup Program Monitor*
 * [Open Shell](https://open-shell.github.io/Open-Shell-Menu/), [2](https://github.com/Open-Shell/Open-Shell-Menu) or [SystemTrayMenu](http://hofknecht.eu/systemtraymenu) / [GitHub](https://github.com/Hofknecht/SystemTrayMenu) - *Improved Start Menu* 
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - *Classic Start Menu* 
@@ -1167,7 +1169,7 @@ General Reading Sites*
 * [Multi Commander](http://multicommander.com/) - *Multi-Tabbed File Manager*
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - *Quickly Change Power Schemes*
 * [Wox](http://www.wox.one/) / [GitHub](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [ChaseApp](https://www.chaseapp.io/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - *Keystroke Launcher* 
-* [ArsClip](http://www.joejoesoft.com/vcms/97/), [Ditto Clipboard Manager](https://ditto-cp.sourceforge.io/), [clipboardmemo](https://gitlab.com/fabrom/clipboardmemo), [CopyQ](https://hluk.github.io/CopyQ/), [Free Clipboard Viewer](https://freeclipboardviewer.com/) or [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots) - *Clipboard Manager* 
+* [ArsClip](http://www.joejoesoft.com/vcms/97/), [Ditto Clipboard Manager](https://ditto-cp.sourceforge.io/), [clipboardmemo](https://gitlab.com/fabrom/clipboardmemo), [CopyQ](https://hluk.github.io/CopyQ/), [Free Clipboard Viewer](https://freeclipboardviewer.com/), [Clip Angel](https://sourceforge.net/projects/clip-angel/) or [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots) - *Clipboard Manager* 
 * [clip](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/clip) - *Redirects Command Output from Command Line to Clipboard*
 * [Almond](https://almond.stanford.edu/) - *Virtual Assistant*
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - *Voice Assistant*
@@ -1202,7 +1204,7 @@ General Reading Sites*
 * [mRemoteNG](https://mremoteng.org/) - *Remote Connections Manager* 
 * [Netmaker](https://gravitl.com/netmaker) - *Create Virtual Network*
 * [Collab-VM](http://computernewb.com/collab-vm/) - *Control Collaborative Virtual Machines* 
-* [Chocolatey](https://chocolatey.org/) - *Windows Package Manager* 
+* [Chocolatey](https://chocolatey.org/) - *Windows Package Manager / [GUI](https://github.com/chocolatey/ChocolateyGUI)* 
 * [TopGrade](https://github.com/r-darwish/topgrade) - *Package Manager Update Automation* 
 * [winget-pkgs](https://github.com/microsoft/winget-pkgs) - *Windows Package Manager manifest repository / [CLI](https://github.com/microsoft/winget-cli)* 
 * [Ninite](https://ninite.com/) - *Install / Update Multiple Programs at Once*
@@ -1214,7 +1216,6 @@ General Reading Sites*
 * [VCRedist](https://github.com/abbodi1406/vcredist) - *AIO Repack for Microsoft Visual C++ Redists*
 * [UUP dump](https://uupdump.net/) - *Download Windows UUP files*   
 * [Dll Downloader](http://www.dlldownloader.com/) - *Download DLL Files for Windows* 
-* [BleachBit](https://www.bleachbit.org/) - *Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.*  
 * [sven dpi](https://www.sven.de/dpi/) - *DPI Calculator* 
 * [JScreenFix](https://www.jscreenfix.com/) - *Repair Stuck Pixels* 
 * [NVDA](https://www.nvaccess.org/download/) - *Screen Reader / [Github](https://github.com/nvaccess/nvda)* 

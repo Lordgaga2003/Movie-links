@@ -173,6 +173,7 @@
 * [K-Vid](https://k-vid.co/) or [KShows](https://kshows.to/)
 * [VoteDrama](https://votedrama.net/) 
 * [viewasian](https://viewasian.co/) 
+* [bagikuy](https://bagikuy.com/)
 * [IcDrama](http://icdrama.video/) - *Chinese*
 * [gangjuw](https://www.gangjuw.com/) - *Chinese*
 * [xigua12](http://www.xigua12.com/) - *Chinese* 
@@ -518,6 +519,7 @@
 * [StatFlux](http://statflux.com/) - *Instagram Analytics* 
 * [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - *Count images on a page* 
 * [auto-like-my-gf-insta-pic](https://github.com/gulzar1996/) - *Auto-Like Pictures* 
+* [InstaAddict](https://github.com/Androz2091/instaddict) - *Instagram Addiction Test*
 
 ***
 
@@ -670,7 +672,6 @@ Add the following commands to a search to manually scrape each site.
 #### Media Servers
 
 * **[Plex](https://www.plex.tv/)** + */r/plexshares / [Linux](https://knapsu.eu/plex/) / [Setup Guide](https://redd.it/ma1hlm), [2](https://hoarding.me/)*
-* [Autodownload Tools](https://redd.it/hbwnb2) - *Companion Apps for Media Servers*
 * [Emby](https://emby.media/) + */r/EmbyShares*
 * [Jellyfin](https://jellyfin.org/) + */r/JellyfinShares*
 * [Universal Media Server](https://www.universalmediaserver.com/)
@@ -679,8 +680,16 @@ Add the following commands to a search to manually scrape each site.
 * [Subsonic](http://www.subsonic.org/) 
 * [Kawaii-Player](https://github.com/kanishka-linux/kawaii-player)
 * [Streama](https://github.com/streamaserver/streama)
+* [Gerbera](https://gerbera.io/)
+* [Serviio](https://www.serviio.org/)
+* [Rygel](https://wiki.gnome.org/Projects/Rygel)
+* [MiniDLNA](https://sourceforge.net/projects/minidlna/)
+* [SimpleDLNA](https://nmaier.github.io/simpleDLNA/) 
 * [Vigilio](https://vigilio.tugcan.net/) - *[GitHub](https://github.com/tugcanolgun/vigilio)*
 * [Cloudbox](https://cloudbox.works/) - *Cloud Media Ubuntu Server*
+* [Autodownload Tools](https://redd.it/hbwnb2) - *Companion Apps for Media Servers*
+* [Ombi](https://ombi.io/) - *Plex / Emby User Request Management*
+* [Overseerr](https://overseerr.dev/) - *Plex User Request Management*
 * [Kodi](https://kodi.tv/) 
 * Kodi Tools - /r/Addons4Kodi, [Addons](https://kinkeadtech.com/best-kodi-streaming-addons/), [2](https://kodiapps.com/addons-chart), [MMA](https://www.bestkoditips.com/best-kodi-addons-to-watch-ufc-online/), [KDrama](https://aznhusband.github.io/), [cywteow](https://cywteow.github.io/), [IPTV](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client), [Media Tracker](https://simkl.com/), [Media Manager](https://github.com/komet/mediaelch)
 * [FireStick Jailbreak](https://www.firesticktricks.com/) - *Firestick jailbreaking guide* 

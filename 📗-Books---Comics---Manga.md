@@ -726,14 +726,14 @@
 * [RichieRichcomicsfanclub](https://richierichcomicsfanclub.wordpress.com/) - *Richie Rich Comics* 
 * [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - *Tor required* 
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - *Comic Downloading App*
-* [Tachiyomi](https://tachiyomi.org/) - *Android / Manga / Comic Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/)* 
-* [Cover](http://www.frenchfrysoftware.com/cover/) - *Manager / Reader*
-* [gazee](https://hub.docker.com/r/linuxserver/gazee/) - *Manager / Reader / Linux*
-* [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - *Manager / Reader / Android*
+* [Cover](http://www.frenchfrysoftware.com/cover/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - *Reader / Manager*
+* [MComix](https://sourceforge.net/p/mcomix/wiki/Home/) - *Reader*
+* [gazee](https://hub.docker.com/r/linuxserver/gazee/) or [Komikku](https://gitlab.com/valos/Komikku) - *Reader / Manager  / Linux*
+* [Tachiyomi](https://tachiyomi.org/), [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary) or [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - *Manager / Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / Android* 
 * [MediaBoxHD](https://mediaboxhd.net/comic) - *Manager / Reader / Android / iOS*
 * [ComicFlow](https://github.com/swisspol/ComicFlow) - *Manager / Reader / iOS*
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
-* [ComicReader](https://comicreader.netlify.app/) - *Online Comic Reader*
+* [ComicReader](https://comicreader.netlify.app/) - *Online Reader*
 * [Tenma](https://github.com/Tenma-Server/Tenma) or [Komga](https://komga.org/) - *Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)*
 
 ***
@@ -775,6 +775,7 @@
 * [MangaFreak](https://w11.mangafreak.net/)
 * [MangaInn](https://mangainn.net/) 
 * [ISekaiScan](https://isekaiscan.com/)
+* [Manganato](https://manganato.com/)
 * [EvilFlowers](http://reader.evilflowers.com/)
 * [DeathTollScans](https://www.deathtollscans.net/)
 * [Manga Rock](https://mangarock.to/)
@@ -808,9 +809,10 @@
 * [WhereCanIReadManga?](https://wherecanireadmanga.com/) - *Legal*
 * [OtakuGallery](http://www.otakugallery.com/) - *Manga Artbooks*
 * [WebToons](https://www.webtoons.com/en/) - *Manga Webtoons*  
-* [AllMangasReader](http://allmangasreader.com/) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - *Organizer / Reader*
-* [Tachiyomi](https://tachiyomi.org/) - *Android / Manga / Comic Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / [Desktop](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb)* 
-* [manga-py](https://github.com/manga-py/manga-py) - *Python line manga downloader* 
+* [AllMangasReader](http://allmangasreader.com/), [OpenComic](https://github.com/ollm/OpenComic) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - *Manager / Reader*
+* [Tachiyomi](https://tachiyomi.org/) - *Manga / Comic Reader / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/) / [Desktop](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb) / Android* 
+* [Komikku](https://gitlab.com/valos/Komikku) - *Reader / Manager / Linux*
+* [manga-py](https://github.com/manga-py/manga-py) - *Python Line Manga Downloader* 
 * [MangaUpdates](https://www.mangaupdates.com/) - *Manga Release Updates*  
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
 * [MangaEditor](https://moeka.me/mangaEditor/) - *Online Manga Editor*
@@ -1004,6 +1006,7 @@
 
 # ► Helpful Sites / Apps
 
+* [Readarr](https://readarr.com/) - *Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)*
 * [BookCut](https://github.com/costis94/bookcut) - *eBook Download Tool* 
 * [Borrow Only DL Script](https://redd.it/ofcqds) - *Download Borrow Only Archive.org Books*
 * [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - *Google Book Downloader w/ Proxy Support*

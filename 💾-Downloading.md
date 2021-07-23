@@ -156,7 +156,6 @@
 * **[Mobilism](https://forum.mobilism.org/)** - *Software / Books / [Mobile App](https://forum.mobilism.org/app/)* 
 * **[soft98](https://soft98.ir/)** - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * **[FileCR](https://filecr.com/en/)** - *Software / Books*
-* **[freesoff](https://freesoff.com/)** - *Software / Courses*
 * **[nsane.down](https://www.nsaneforums.com/)**
 * **[LRepacks](https://lrepacks.net/)** - *Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * **[AppNee](https://appnee.com/)**

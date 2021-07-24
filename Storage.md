@@ -170,6 +170,7 @@
 * [movie22](https://mov21.zota.club/) 
 * [DramaNice](https://dramanice.so/) 
 * [MyAsianTV](https://www9.myasiantv.io/) 
+* [MKVDrama](https://mkvdrama.com/)
 * [K-Vid](https://k-vid.co/) or [KShows](https://kshows.to/)
 * [VoteDrama](https://votedrama.net/) 
 * [viewasian](https://viewasian.co/) 
@@ -341,7 +342,7 @@
 
 **File Syncing Programs**
 
-[dropbox](https://www.dropbox.com/), [file.pizza](https://file.pizza/), [lftp](https://lftp.tech/), [keybase](https://book.keybase.io/docs/files), [syncthing](https://syncthing.net/), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/), [WinSCP](https://winscp.net/eng/index.php), [freefilesync](https://freefilesync.org/), [allwaysync](https://allwaysync.com/), [sharik](https://github.com/marchellodev/sharik)
+[dropbox](https://www.dropbox.com/), [file.pizza](https://file.pizza/), [lftp](https://lftp.tech/), [keybase](https://book.keybase.io/docs/files), [syncthing](https://syncthing.net/), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/), [WinSCP](https://winscp.net/eng/index.php), [freefilesync](https://freefilesync.org/), [allwaysync](https://allwaysync.com/), [sharik](https://github.com/marchellodev/sharik), [KDEConnect](https://kdeconnect.kde.org/)
 
 **Multi Host Uploaders**
 
@@ -758,7 +759,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### News Feed Aggregators
 
-**[WebOasis News](https://weboas.is/news/)**, **[QotNews](https://news.t0.vc/)**, [spidr](https://spidr.today/), [Knewz](https://knewz.com/), [All Sides](https://www.allsides.com/), [News Radius](https://newsradius.news/), [NewsLookup](http://www.newslookup.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/), [TechMeme](https://www.techmeme.com/m/), [Unfeeder](https://unfeeder.com/)
+**[WebOasis News](https://weboas.is/news/)**, **[QotNews](https://news.t0.vc/)**, [spidr](https://spidr.today/), [Knewz](https://knewz.com/), [All Sides](https://www.allsides.com/), [News Radius](https://newsradius.news/), [NewsLookup](http://www.newslookup.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/), [TechMeme](https://www.techmeme.com/m/), [Unfeeder](https://unfeeder.com/), [RealClearPolitics](https://www.realclearpolitics.com/)
 
 ***
 
@@ -843,7 +844,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Password Data Breach Check
 
-**[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)**, [Breach Alarm](https://breachalarm.com/), [Intelligence X](https://intelx.io/), [psbdmp](https://psbdmp.ws/), [Dehashed](https://dehashed.com/) or [Spycloud](https://spycloud.com/)
+**[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)**, [Breach Alarm](https://breachalarm.com/), [Intelligence X](https://intelx.io/), [psbdmp](https://psbdmp.ws/), [Dehashed](https://dehashed.com/) or [Spycloud](https://spycloud.com/), [PasswordSearchBot](https://t.me/PasswordSearchBot)
 
 ***
 
@@ -1073,7 +1074,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Popup Blocker Links
 
-[Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/) (firefox), [Popup Blocker Strict](https://add0n.com/popup-blocker.html) (Other browsers)
+[Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/) (firefox), [Popup Blocker Strict](https://add0n.com/popup-blocker.html) / [GitHub](https://github.com/schomery/popup-blocker) (Other browsers)
 
 ***
 
@@ -1313,6 +1314,7 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 * https://team.hackgence.com/
 * https://td.hackgence.com/
 * https://teamdrive.mfoxx.workers.dev/
+* https://team.gdrive.vip/
 * https://gd.zxd.workers.dev/
 * https://driveflask.herokuapp.com/
 * https://tv.ssr.workers.dev/
@@ -1753,6 +1755,9 @@ Good for finding classic, obscure & short films.
 * [zloekino](https://zloekino.su/)
 * [metacafe](https://www.metacafe.com)
 * [tudou](https://www.tudou.com/) 
+* [BitView](https://www.bitview.net/)
+* [Vidlii](https://www.vidlii.com/)
+* [odysee](https://odysee.com/)
 * [lbry](https://lbry.com/) - *App*
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/Category:Videos) 
 * [Myspace Videos](https://myspace.com/search/videos) 

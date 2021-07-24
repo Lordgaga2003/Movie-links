@@ -69,6 +69,7 @@
 * [7 Cups](https://www.7cups.com/) - *Free Care & Therapy*
 * [Helpmap](https://helpmap.io/) - *Nonprofit Donation Map* 
 * [findhelp.org](https://www.findhelp.org/) - *Find Assistive Programs*
+* [TuboTax Sucks Ass](http://turbotaxsucksass.net/) - *File Taxes for Free*
 
 ***
 
@@ -161,7 +162,6 @@
 * **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)**
 * [Lychee](https://lycheeorg.github.io/) - *Self-Hosted Image Host* 
 * [Pixiv](https://www.pixiv.net/en/) - *User made Image Host / [Downloader](https://github.com/nonPointer/PixivDownloader)*
-* [How to take a Screenshot](https://www.take-a-screenshot.org/) - *Multi Platform Screenshot Guides* 
 * [RootAbout](https://rootabout.com/) - *Archive / OpenlLibrary Reverse Image Search* 
 * [PimEyes](https://pimeyes.com/en/) - *Reverse Face Image Search* 
 * [trace.moe](https://trace.moe/) - *Anime Scene Reverse Image Search* 
@@ -211,6 +211,7 @@
 * [DoodDad](https://doodad.dev/pattern-generator) or [Haikei](https://app.haikei.app/)  *Pattern Generator*
 * [stripegenerator](http://www.stripegenerator.com/) - *Stripe Generator* 
 * [BannerEasy](https://www.bannereasy.com) - *Create Custom Banners*
+* [Meta-Mapper](https://meta-mapper.com/) - *Website Metadata Thumbnails*
 * [Band-Flyers](https://band-flyers.com/) - *Band Flyer Creator*
 * [Quote Maker](https://quotescover.com/) - *Quote Picture Generator*
 * [The Wood Workshop](http://spiralgraphics.biz/ww_overview.htm) - *Wood Texture Editor / Creator*
@@ -276,6 +277,7 @@
 * [Image-to-Image](https://affinelayer.com/pixsrv/) - *Interactive Image Translation*
 * [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - *Chimera Generator* 
 * [Squoosh](https://squoosh.app/) - *Image Codec Comparison*
+* [How to take a Screenshot](https://www.take-a-screenshot.org/) - *Multi Platform Screenshot Guides* 
 * [Screenshot Applications](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screenshot_tools) - *Screenshot Applications*
 * [Screenshot Guru](https://screenshot.guru/) - *Online Site Screenshots* 
 * [puush](https://puush.me/) - *Easily Share Screenshots*
@@ -288,7 +290,7 @@
 * [text2img](https://master.ayra.ch/text2img/) - *Convert Text to Image*
 * [Bigjpg](https://bigjpg.com/), [ImageUpscaler](https://imageupscaler.com/) or [waifu2x](https://github.com/nagadomi/waifu2x) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/tanakamura/waifu2x-converter-cpp), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/), [5](https://waifu2x.me/), [6](https://waifu2x.udp.jp/) - *Image Upscaler  / [Guide](https://i.imgur.com/55s8sU5.png)*
 * [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - *Scale Pixel Art w/o Quality Loss*   
-* [Capture2Text](http://capture2text.sourceforge.net/), [Online OCR](https://www.onlineocr.net/), [IMG2TXT](http://img2txt.com/), [NewOCR](https://www.newocr.com/), [OCR.SPACE](https://ocr.space/) or [OnlineOCR](https://www.onlineocr.net/) - *Image to Text* 
+* [Capture2Text](http://capture2text.sourceforge.net/), [TextShot](https://github.com/ianzhao05/textshot), [Online OCR](https://www.onlineocr.net/), [IMG2TXT](http://img2txt.com/), [NewOCR](https://www.newocr.com/), [OCR.SPACE](https://ocr.space/) or [OnlineOCR](https://www.onlineocr.net/) - *Image to Text* 
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - *Find out what a font is from a image*
 * [Visual Recognition](https://visual-recognition-code-pattern.ng.bluemix.net/) - *Analyzes Images for Scenes, Objects, Text ect.* 
 * [Color Schemes / Palettes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes/) - *Color Scheme / Palette Tools*
@@ -753,6 +755,7 @@ General Reading Sites*
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - *Forum Search Engine* 
 * [Blog Search Engine](http://www.blogsearchengine.org/) - *Blog Search*
 * [Mibbit](https://search.mibbit.com/) - *IRC Channel Search*
+* [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [SearchBuzz](http://search.buzz.im/) - *Telegram Search Engine*
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - *Search Engine for lightweight web pages*
 * [Search My Site](https://searchmysite.net/) - *Search Engine for Independent and Personal websites / Open Source*
 * [algolia](https://hn.algolia.com/) - *Hacker News Search* 
@@ -980,6 +983,7 @@ General Reading Sites*
 * [ddpe](https://ddpe.androz2091.fr/) - *Discord Data Package Explorer / [GitHub](https://github.com/Androz2091/discord-data-package-explorer)*
 * [Discord InfluxDB exporter](https://github.com/terorie/discord-influx) - *Export Discord Metrics to InfluxDB*
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - *Datamining Discord changes from the JS files*
+* [Discord Previews](https://discord.gg/QMw7gQGMHj) - *New Discord Builds / Changes*
 * [Discord.sale](https://discord.sale/) - *Discord Client Build Info*
 * [discasset](https://github.com/Commandtechno/discasset), [2](https://gitlab.com/derpystuff/discasset) - *Discord Asset Grabber *
 * [Hypesquad](https://cdn.discordapp.com/attachments/668986791797325824/844589771653382194/unknown.png) - *Get a Discord Profile Badge*
@@ -1023,8 +1027,9 @@ General Reading Sites*
 * [yt2pod](https://github.com/frou/yt2pod) - *Create Podcasts from YouTube Channels* 
 * [YouTube Comment Scraper](https://github.com/philbot9/youtube-comment-scraper-cli) - *YouTube Comment Scraping CLI* 
 * [YouTube first comment finder](https://first-comment.com/) - *Find first comment of YouTube video*   
-* [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - *Fix Youtube Search & Declutter Homepage* 
+* [Hadzy](https://hadzy.com/) - *YouTube Comment Search*
 * [YouTube Live Comments](https://addons.mozilla.org/en-US/firefox/addon/ytlc/) - *Show YouTube Live Comments during Playback* 
+* [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - *Fix Youtube Search & Declutter Homepage* 
 * [YouTube Chronological Order](https://github.com/SleekPanther/youtube-chronological-order) - *Watch YouTube Videos in Chronological Order* 
 * [Video Speed Controller](https://github.com/codebicycle/videospeed) - *Control Speed of YouTube Videos* 
 * [Watch Frame by Frame](http://www.watchframebyframe.com/) - *Watch Videos Frame by Frame* 
@@ -1048,6 +1053,7 @@ General Reading Sites*
 * [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/) or [ytwrk](https://github.com/terorie/ytwrk) - *YouTube Data Extraction* 
 * [Youtube DataViewer](https://citizenevidence.amnestyusa.org/) or [YouTube-MA](https://github.com/CorentinB/YouTube-MA) - *YouTube Video Data Viewer* 
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - *Grab YouTube Thumbnails* 
+* [YouTube-Grab](https://github.com/ArchiveTeam/youtube-grab) - *YouTube Video Metadata Grabber*
 
 ***
 
@@ -1118,10 +1124,12 @@ General Reading Sites*
 * [Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png), [2](https://i.imgur.com/A36Yd7F.png)
 * [PowerToys](https://github.com/microsoft/PowerToys) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
 * [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), /r/buildapc or [NZXTBld](https://www.letsbld.com/) - *PC Building Sites / [Discord](https://discord.gg/buildapc)*
+* /r/SuggestALaptop - *Laptop Suggestion Community / [Discord](https://discord.gg/pes68JM)*
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - *GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)*
 * [r/TechSupport](https://www.reddit.com/r/techsupport/) - *Tech Support Discussion / [Discord](https://discord.gg/2EDwzWa)* 
 * [GetHuman](http://gethuman.com/) or [ContactFound](https://contactfound.com/) - *Tech Support Numbers*
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - *Mouse Click Latency Chart*
+* [Piper](https://github.com/libratbag/piper) - *Gaming Mouse Config Tool*
 * [Sensor.fyi](https://sensor.fyi/info/) - *Mouse Guide / Information*
 * [Office License Isn't Genuine](https://infohost.github.io/office-license-is-not-genuine) - *Fix Office Activation Issues*
 * [Rufus](https://rufus.ie/), [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) or [WoeUSB](https://github.com/WoeUSB/WoeUSB) - *Create Bootable USB Drives*  
@@ -1198,8 +1206,8 @@ General Reading Sites*
 * [here.fm](https://here.fm/ ) - *Screen Sharing Tool*
 * [AnyDesk](https://anydesk.com/), [RustDesk](https://rustdesk.com/), [Parsec](https://parsec.app/), [TeamViewer](https://www.teamviewer.com/en-us/) or [NoMachine](https://www.nomachine.com/) - *Remote Desktop Clients*
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - *Free Ubuntu VNC*
-* [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - *Free Google Colab Code Server & RDP*
-* [windowsrdpfree](https://github.com/fmcpetermux/windowsrdpfree) - *Free Windows RDP Server*
+* [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) or [Ubuntu-Grdp](https://github.com/Area69Lab/Ubuntu-Grdp) - *Free Google RDP*
+* [windowsrdpfree](https://github.com/fmcpetermux/windowsrdpfree) - *Free Windows RDP*
 * [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) - *Free Google Colab VPS on 25GB RAM*
 * [mRemoteNG](https://mremoteng.org/) - *Remote Connections Manager* 
 * [Netmaker](https://gravitl.com/netmaker) - *Create Virtual Network*
@@ -1593,6 +1601,7 @@ General Reading Sites*
 * [Amulet](https://www.amuletmc.com/) - *Minecraft Map Editor / Viewer*
 * [Classic Minecraft](https://classic.minecraft.net/) - *Play Classic Minecraft* 
 * [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 
+* [Baritone](https://github.com/cabaletta/baritone) - *Minecraft Pathfinding System*
 
 ***
 

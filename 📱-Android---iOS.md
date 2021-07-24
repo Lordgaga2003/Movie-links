@@ -11,7 +11,7 @@
 
 # ► Android Adblocking
 
-* **[Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)**, [AeroInsta](https://aeroinsta.com/) or [WebApps](https://github.com/tobykurien/WebApps/) - *App Containers* 
+* **[Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)**, [AeroInsta](https://aeroinsta.com/), [NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid) or [WebApps](https://github.com/tobykurien/WebApps/) - *App Containers* 
 * **[Bromite](https://www.bromite.org/)** - *Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)*
 * **[AdGuard Premium](https://forum.mobilism.org/search.php?keywords=adguard+&sr=topics&sf=titleonly)** - *Adblocking App*
 * **uBlock Origin** - *[Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Yandex](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) &amp; [Kiwi](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)* 
@@ -138,7 +138,7 @@
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - *Booru Client / [Telegram](https://t.me/Flexbooru/161)*
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - *Article / Link Viewer*
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - *Easily Open Links in Text via Share Function*
-* [Ponydroid](https://forum.mobilism.org/search.php?keywords=ponydroid&amp;sr=topics&amp;sf=titleonly) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - *Download File Manager*
+* [Ponydroid](https://forum.mobilism.org/search.php?keywords=ponydroid&amp;sr=topics&amp;sf=titleonly) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - *Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)*
 * [TrebleShot](https://trebleshot.monora.org/) - *Network File Sharing App*
 * [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) - *Send Files to Android TV*
 * [Apps2Fire](https://play.google.com/store/apps/details?id=mobi.koni.appstofiretv) - *Upload Apps to FireTV*
@@ -368,7 +368,6 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * **[CucoTV](https://cucotv.github.io/)** - *Movies / TV* 
 * **[CinemaHD](https://cinemaapk.com/)** - *Movies / TV / Anime / Chromecast*
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - *Ad Free YouTube on Android*
-* **[Zoshy](http://play.google.com/store/apps/details?id=com.sy.syfoo)**, [Noyox](https://play.google.com/store/apps/details?id=com.vid.vidseed) or [Zivcy](https://www.downloader.world/)  - *Movies / TV / Code: 777*
 * [Cunrchyroll Mod](https://forum.mobilism.org/search.php?keywords=crunchyroll&amp;sr=topics&amp;sf=titleonly) or [Kamyroll](https://github.com/hyugogirubato/Kamyroll) - *Anime / Premium Crunchyroll*
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - *Movies / TV / Anime* 
@@ -388,6 +387,7 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * [Tuner Radio](https://www.downloader.world/) - *Movies / TV*
 * [Rokkr](http://www.rokkr.net/ ) - *Movies / TV / 
 Add "huhu.to", "bs.to" or "oha.to"* 
+* [Zoshy](http://play.google.com/store/apps/details?id=com.sy.syfoo), [Noyox](https://play.google.com/store/apps/details?id=com.vid.vidseed) or [Zivcy](https://www.downloader.world/)  - *Movies / TV / Code: 777*
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - *YTS Torrents* 
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - *Chinese Drama* 
 * [aDrama](https://adrama.online/) - *Asian Drama / [Addons](https://forum.mobilism.org/search.php?keywords=adrama&sr=topics&sf=titleonly)*

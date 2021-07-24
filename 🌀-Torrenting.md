@@ -28,7 +28,6 @@
 * [FrostWire](https://www.frostwire.com/) - *[Screenshot](https://i.imgur.com/3wJSJmg.png)*
 * [Tornado](https://tornado-torrent.gitlab.io/) - *[Screenshot](https://i.imgur.com/H3mvifU.png)*
 * [BiglyBT](https://www.biglybt.com/) - *[Screenshot](https://i.imgur.com/Gopf4tZ.png)* 
-* [Free Download Manager](https://www.freedownloadmanager.org/) - *[Sourceforge](https://sourceforge.net/projects/freedownload/)*
 * [Tribler](https://www.tribler.org/) - *Tor-inspired Client / [Screenshot](https://i.imgur.com/IzmanCf.png) / [Github](https://github.com/Tribler/tribler)*
 * [aria2](https://aria2.github.io/) - *Terminal Torrent Client / [Screenshot](https://i.imgur.com/KV0pSjt.png) / [Github](https://github.com/aria2/aria2)*
 * [mtorrent](https://github.com/nektro/mtorrent) - *Terminal Torrent Client* 
@@ -37,6 +36,7 @@
 * [VLC Torrent Streamer](http://www.vlcstreamer.com/) - *Stream torrents in VLC*
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
 * [Loadbt](https://www.loadbt.com/) - *Torrent / Stream to Cloud*  
+* [Torrent-Indexer ](https://github.com/sayem314/torrent-indexer) - *Torrent Scraping Tool*
 * [SpreadsheetUI](https://github.com/JohnDoee/spreadsheetui) - *Speadsheet Torrent webUI* 
 * [flood](https://github.com/jfurrow/flood) - *Web UI for rTorrent, qBittorrent & Transmission* 
 * [swizzin](https://swizzin.ltd/) - *All-in-one Seedbox Solution for Ubuntu / Debian* 

@@ -198,7 +198,7 @@
 
 * **[Audio Download Sites Search](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** + [Audio Download Sites 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w)
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "audio"*
-* **[RipRequests](https://reddit.com/r/riprequests)** - *FLAC / MP3 / Ripping Discussion / [Discord](https://discord.gg/y4MSkdvWYg)*
+* **[RipRequests](https://reddit.com/r/riprequests)** - *FLAC / MP3 / Ripping Discussion / [Discord](https://discord.gg/riprequests)*
 * **[Free MP3 Download](https://free-mp3-download.net/)** - *Search / MP3 / FLAC*
 * **[Mudome](https://mudome.org/)** - *MP3 / FLAC*
 * [Plus Premieres](https://www.pluspremieres.ws/) - *iTunes M4A*
@@ -355,7 +355,7 @@
 # ► Request Music
 
 * **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)** 
-* [RIP REQUESTS](https://discord.gg/r7wwuAam3t) - *MP3 / FLAC / r/riprequests*
+* [RIPREQUESTS](https://discord.gg/riprequests) - *MP3 / FLAC / r/riprequests*
 * [WorldSrc](https://t.me/WorldsrcOfficial)
 * [TehParadox](https://www.tehparadox.net/requests/)
 * [Sanet.st](https://sanet.st/community/t/requests) 

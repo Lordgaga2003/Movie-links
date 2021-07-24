@@ -177,7 +177,6 @@
 * [onHax](https://onhax.io/)
 * [MAZTERIZE](https://www.mazterize.com/) 
 * [PCSoftFull](https://pcsoftsfull.com/) 
-* [DownToPC](https://downtopc.com/)
 * [SoftnCracks](https://softncracks.com/) 
 * [KickassCracks](https://kickasscracks.com/) 
 * [SoftHouse](http://softhouse.cc/)

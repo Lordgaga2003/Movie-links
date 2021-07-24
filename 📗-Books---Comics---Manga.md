@@ -69,7 +69,6 @@
 * [freeforbook](https://freeforbook.com/) - *Books / Magazines / Newspapers* 
 * [29GB Mega Folder](https://mega.nz/folder/x4VG3DRL#lqecF4q2ywojGLE0O8cu4A) - *Books* 
 * [bitdl 1](http://s1.bitdl.ir/), [2](http://s2.bitdl.ir/), [3](http://s3.bitdl.ir/), [4](http://s4.bitdl.ir/), [5](http://s5.bitdl.ir/), [7](http://s7.bitdl.ir/), [8](http://s8.bitdl.ir/), [9](http://s9.bitdl.ir/), [10](http://s10.bitdl.ir/), [11](http://s11.bitdl.ir/), [13](http://s13.bitdl.ir/), [14](http://s14.bitdl.ir/) - *Books*
-* [StudyCrux](https://www.studycrux.com/) - *Books / [Telegram](https://t.me/joinchat/OrqFslALXomP5uajuXUYAA)* 
 * [Books.cat](https://books.cat/) - *Books  / Forum / Requests* 
 * [Read Any Book](https://www.readanybook.com/) - *Books*
 * [openlibrary](https://openlibrary.org/) - *Books* 
@@ -474,6 +473,7 @@
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - *Electronics* 
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - *Electronics Schematics & Simulations*
 * [159.69.3.96](http://159.69.3.96/ebooks/) - *IT Books*
+* [Cyber Security & IT](https://mega.nz/folder/9kxTnLCI#BThv3CtkC27JqcJ4ZWD_cA) - *Cyber Security / IT Books & Courses*
 * [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - *Philosophy* 
 * [APAOnline](https://www.apaonline.org/) - *Philosophy* 
 * [Philosophy Drive](https://mega.nz/folder/MQBRHBJA#L_on3h-XUrtbc719UaMygw) - *Philosophy* 
@@ -733,7 +733,7 @@
 * [MediaBoxHD](https://mediaboxhd.net/comic) - *Manager / Reader / Android / iOS*
 * [ComicFlow](https://github.com/swisspol/ComicFlow) - *Manager / Reader / iOS*
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
-* [ComicReader](https://comicreader.netlify.app/) - *Online Reader*
+* [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - *Online Reader*
 * [Tenma](https://github.com/Tenma-Server/Tenma) or [Komga](https://komga.org/) - *Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)*
 
 ***
@@ -858,6 +858,7 @@
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - *Novels / Audio Recordings*  
 * [Wuxiaworld](https://www.wuxiaworld.co/) - *Chinese Novels*  
 * [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [QuickNovel](https://github.com/LagradOst/QuickNovel) or [Novel-Grabber](https://github.com/Flameish/Novel-Grabber) - *Light-Novel Downloader*
+* [WebToEpub](https://github.com/dteviot/WebToEpub) - *Novel to EPUB Converter*
 
 ***
 

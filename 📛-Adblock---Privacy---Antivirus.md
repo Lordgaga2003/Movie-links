@@ -60,6 +60,7 @@
 * [nixnet DNS](https://docs.nixnet.services/DNS)
 * [ControlD](https://controld.com/) - *DNS Manager*
 * [Spamhaus](https://www.spamhaus.org/) - *DNS Blocklists*
+* [Phishing Army](https://phishing.army/) - *DNS Phishing Blocklist*
 * [BIND](https://gitlab.isc.org/isc-projects/bind9) - *Portable DNS Protocol*
 * [Maza](https://maza-ad-blocking.andros.dev/) - *Local DNS Adblocking* 
 * [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter/) - *DNS filter proxy*
@@ -264,14 +265,13 @@
 * **[ffprofile](https://ffprofile.com/)**, **[ghacks-user.js](https://github.com/arkenfox/user.js)**, [firefox-debloat](https://github.com/amq/firefox-debloat), [pyllyukko](https://github.com/pyllyukko/user.js/) / [2](https://github.com/pyllyukko/user.js/) - *Privacy hardened Firefox / [user.js warning](https://i.imgur.com/ZMQJHwC.png)*
 * **[Tor Browser](https://www.torproject.org/)** or [Lokinet](https://lokinet.org/) - *Onion-Routed Browser / [Unblock Tor](https://i.imgur.com/bQStFyI.gifv) / [Leak Scan](https://github.com/s-rah/onionscan) / [Access Client](https://dragonfruit.network/onionfruit) / [GitHub](https://github.com/dragonfruitnetwork/onionfruit/)*
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - *Browsers with a focus on Privacy* 
-* **[Password Data Breach Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
+* **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
 * **[PrivacySpy](https://privacyspy.org/)** - *Grades a Sites Privacy Policies* 
 * **[ACCOUNTKILLER](https://www.accountkiller.com/)** or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - *Find / Terminate Old Accounts* 
 * [What every Browser knows about you](https://webkay.robinlinus.com/) - *Browser Data Leak Demonstration*
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - *Password Strength Checker*
-* [LeakedSource](https://leakedsource.ru/) - *Multiple Data Breach Checks*
-* [Vigilante.pw](http://vigilante.pw/) - *Search for sites that have been breached* 
-* [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/) or [leakpeek](https://leakpeek.com/) - *Data Breach Search Engine* 
+* [LeakedSource](https://leakedsource.ru/) or [h8Mail](http://github.com/khast3x/h8mail) - *Multiple Data Breach Checks*
+* [Vigilante.pw](http://vigilante.pw/), [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/) or [leakpeek](https://leakpeek.com/) - *Data Breach Search Engine* 
 * [DataBunker](https://databunker.org/) - *Data Leak Prevention*
 * [RS Lookup](http://rslookup.com/) - *Check if your RuneScape data has been breached* 
 * [Canarytokens](https://canarytokens.org/generate) - *Network Breach Check* 
@@ -411,7 +411,8 @@
 * [Mozilla FPN](https://fpn.firefox.com/) - *VPN Extension / [Pricing](https://i.imgur.com/wW5rVO2.png) / Mullvad Servers*
 * [WireHole](https://github.com/IAmStoxe/wirehole) - *Wireguard VPN w/ Adblocking Capabilities* 
 * [Syntropy](https://www.syntropystack.com/vpn) or [Outline](https://getoutline.org/) - *Self-Hosted VPN*
-* [WebOasis WireGuard VPN](https://weboas.is/forum/index.php?topic=2657.0) - *Free VPN*
+* [WebOasis WireGuard](https://weboas.is/forum/index.php?topic=2657.0) - *Free VPN Config*
+* [Razorback OpenVPN](https://discord.gg/vgnaeka) - *Free VPN Config / [How-To](https://imgur.com/a/nyToc6t)*
 * [Kaspersky ](https://www.kaspersky.co.uk/vpn-secure-connection) - *Free VPN / 200 MB per day / No Account Required*
 * [TurboVPN](https://turbovpn.com/) - *Free VPN*
 * [Free VPN Online](http://freevpnonline.com/) - *Free VPN*
@@ -467,7 +468,7 @@
 * [Unblocked.cyou](https://unblocked.cyou/)
 * [Google Translate](https://translate.google.com/) - *[How to use](https://redd.it/fawkjy)*
 * [DarknetProxy](https://darknetproxy.com/) - *DeepWeb / I2P Proxy*
-* [b.007](https://b.007.workers.dev/), [2](https://b.lulu.workers.dev/), [3](https://b.jsproxy.workers.dev/), [4](https://noisy-tooth-2ee5.susheng.workers.dev/), [5](https://b.hehe.workers.dev/) - *Cloudflare Workers Proxies* 
+* [b.007](https://b.007.workers.dev/), [2](https://b.lulu.workers.dev/), [3](https://b.jsproxy.workers.dev/), [4](https://noisy-tooth-2ee5.susheng.workers.dev/) - *Cloudflare Workers Proxies* 
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - *Python Library for Retrieving Free Proxies*
 * [CheckSocks5](https://checksocks5.com/) - *Socks5 Proxy Checker*
 * [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - *Iranian Proxies*

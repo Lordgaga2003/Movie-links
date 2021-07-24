@@ -178,6 +178,7 @@
 * [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - *Add More Roms to NES/SNES Classic Mini*
 * [Homebrew Gang](https://thehbg.shop/main.html) - *Switch Homebrew Community*
 * /r/ps3homebrew - *PS3 Homebrew Subreddit*
+* [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) - *Yuzu Emulator Setup Guide*
 
 ***
 
@@ -273,6 +274,7 @@
 * [Doom_wads](https://github.com/Akbar30Bill/DOOM_wads) or [Doom Wad Station](http://www.doomwadstation.net/) - *Doom Wads* 
 * [ZDoom](https://www.zdoom.org/downloads) - *Doom Source Port* 
 * [Br0legs Zandronum](https://drive.google.com/file/d/1B8ze1SPpwE0DI1nDKkyS4iXyfLsO_DbV/view?usp=sharing) or [Realm667](https://www.realm667.com/index.php/en/) - *Doom Mods* 
+* [SLADE](https://slade.mancubus.net/) - *Doom Modding Tool / [GitHub](https://github.com/sirjuddington/SLADE)*
 * [Zandronum](https://zandronum.com/) or [Doomseeker](http://doomseeker.drdteam.org/)  - *Online Multiplayer Doom* 
 * [Doom64 EX](https://doom64ex.wordpress.com/downloads/) - *Doom 64 PC Port* 
 * [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - *Doom SNES Source Code*

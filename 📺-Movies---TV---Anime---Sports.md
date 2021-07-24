@@ -320,7 +320,8 @@
 * [thewatchcartoononline](https://www.thewatchcartoononline.tv/), [wcostream](https://www.wcostream.com/), [wcoforever](https://www.wcoforever.com/ ) or [WCO](https://www.wco.tv/) - *Anime / Cartoons* 
 * [Otaku-Streamers](https://otaku-streamers.com/) - *Sub (Account Required)* 
 * [Funimation](https://www.funimation.com/shows/free/) - *Sub / Dub* 
-* [CrunchyRoll](https://www.crunchyroll.com/videos/anime) - *Sub / Dub* 
+* [Crunchyroll](https://www.crunchyroll.com/videos/anime) - *Sub / Dub* 
+* [Crunchyroll iFrame Player](https://greasyfork.org/en/scripts/411391-crunchyroll-iframe-player) - *Crunchyroll Premium Bypass Script*
 
 ***
 
@@ -457,8 +458,8 @@
 * **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "video"*
 * **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - *Download videos from streaming sites*
-* **[pahe.ph](http://pahe.ph/)** - *Movies / TV / Anime / HD / [Discord](https://discord.gg/33P8hpR)*
-* **[snahp.it](https://snahp.it/)** - *Movies / TV / Anime / HD / Passwords: snahp.it or snahp*
+* **[Pahe](http://pahe.ph/)** - *Movies / TV / Anime / [Discord](https://discord.gg/33P8hpR)*
+* **[Snahp](https://snahp.it/)** - *Movies / TV / Anime / [Decoder](https://github.com/blackcodesun/snahp-forum-helper) / [DL Script](https://github.com/Jwiggiff/snahp-downloader)*
 * **[MovieParadise](https://movieparadise.org/)** - *Movies / TV*
 * **[Worlds Cinema](http://worldscinema.org/)** - *Old / Classic / Cult Films*
 * **[TopNow](http://topnow.se/)** - *Movies / [Discord](https://discord.gg/WHYmgeB)*
@@ -598,12 +599,11 @@
 * [Anime Time Drive](https://atdrive.animetimeserver.workers.dev/0:/) - *Drive* 
 * [FFA DDL BATCH](https://ffa.shiraha.workers.dev/) - *Drive* 
 * [nibl](https://nibl.co.uk/bots.php) - *Anime Downloads / XDCC*
-* [Monkey-DL](https://github.com/Oshan96/monkey-dl), [HakuNeko](https://hakuneko.download/) / [2](https://github.com/manga-download/hakuneko), [anime-dl](https://github.com/anime-dl/anime-downloader) or [ultimate-batch-anime-downloader](https://github.com/KorigamiK/ultimate-batch-anime-downloader) - *Bulk Anime Downloader*
+* [Monkey-DL](https://github.com/Oshan96/monkey-dl), [HakuNeko](https://hakuneko.download/) / [2](https://github.com/manga-download/hakuneko), [Anime Downloader](https://github.com/anime-dl/anime-downloader)  or [ultimate-batch-anime-downloader](https://github.com/KorigamiK/ultimate-batch-anime-downloader) - *Bulk Anime Downloader*
 * [manyame](https://github.com/asakura42/manyame/) - *IRC Anime Download Script* 
 * [Anime DL](https://archive.org/details/animedl4.0_202004) - *Stream & Download Anime in VLC*
 * [Crunchyroll.dl](https://github.com/Sakurai07/Crunchyroll.dl), [Crunchyroll Downloader NX](https://github.com/anidl/crunchyroll-downloader-nx) or [Crunchyroll Downloader](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - *Crunchyroll Downloaders (Non-Premium Only)* 
 * [Funimation Downloader NX](https://github.com/anidl/funimation-downloader-nx) - *Funimation Downloader (Non-Premium Only)* 
-* [DMHY](https://github.com/yaqinking/DMHY) - *OS X Anime Autodownloader* 
 
 ***
 
@@ -665,7 +665,8 @@
 
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - *Get a VPN before torrenting*
 * **[Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)**
-* **[nyaa](https://nyaa.si/)**, [2](http://nyaa.iss.one/), [3](http://meowinjapanese.cf/) - *[Scrape Tool](https://github.com/natanbc/nyaasi)*
+* **[Nyaa](https://nyaa.si/)**, [2](http://nyaa.iss.one/), [3](http://meowinjapanese.cf/) 
+* **Nyaa Tools** - [TUI Client](https://github.com/irevenko/koneko) / [CLI Client](https://github.com/natanbc/nyaasi) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy)
 * **[Anidex](https://anidex.info/)**
 * **[Hi10Anime](https://hi10anime.com/)**
 * **[SubsPlease](https://subsplease.org/)**
@@ -685,6 +686,8 @@
 * [Erai-Raws](https://www.erai-raws.info/) - *[Discord](https://discord.gg/2PfWaar)*
 * [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - *[ZeroNet Required](https://zeronet.io/)*
 * [nyaamal](https://github.com/laxyapahuja/nyaamal) - *Add torrents DL's to MAL / Anilist*
+* [Aniloader](https://github.com/Xanahol/Aniloader) - *Anime Torrent Autodownloader*
+* [DMHY](https://github.com/yaqinking/DMHY) - *Anime Torrent Autodownloader / OS X* 
 
 ***
 

@@ -179,6 +179,7 @@
 * [Homebrew Gang](https://thehbg.shop/main.html) - *Switch Homebrew Community*
 * /r/ps3homebrew - *PS3 Homebrew Subreddit*
 * [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) - *Yuzu Emulator Setup Guide*
+* [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - *PSCX Development Emulator*
 
 ***
 
@@ -409,6 +410,7 @@
 * [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - *Space Combat Game* 
 * [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - *Survive Waves of UFOs* 
 * [Doodle Cricket](https://doodlecricket.github.io/index.html#/) - *Play Cricket as a Cricket* 
+* [Doodle Champion Island Games!](https://www.google.com/) - *Olympics JRPG Game*
 * [Impossible Rush](http://tanksw.com/impossible-rush/) - *Reflex Testing Game*
 * [Incremental Games Plaza](https://plaza.dsolver.ca/) or [Almost Idle](http://almostidle.com/) - *Incremental Games Index*
 * [Idlescape](https://idlescape.com/game) - *Idle MMORPG*

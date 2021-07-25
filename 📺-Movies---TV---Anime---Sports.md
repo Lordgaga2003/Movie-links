@@ -99,6 +99,7 @@
 * [Movie-Forum](https://movie-forum.co/forum.php) - *Movies / TV*
 * [K a p K e y K](https://kpkyk.com/) - *Movies / TV*
 * [IceFilms](https://wwv.icefilms-info.com/) - *Movies / TV*
+* [2Embed](https://www.2embed.ru/library) - *Movies / TV*
 * [LosMovies](https://losmovies.live/) - *Movies / TV / Anime* 
 * [GoldMovies](https://goldmovies.to/) - *Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_goldmovies_clones)* 
 * [Dutafilm](https://dutafilm.network/) - *Movies / TV / Anime*
@@ -243,6 +244,7 @@
 
 * **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
 * **[/r/AnimePiracy Index](https://piracy.moe/)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
+* **[Zoro](https://zoro.to/)** - *Sub / Dub*
 * **[9Anime](https://www12.9anime.to/)** or [9anime.ru](https://www12.9anime.ru/) - *Sub / Dub / [Mirrors](https://9anime.zone/) / [Use Filter](https://redd.it/c330dx)*
 * **[Anime Twist](https://twist.moe/)** - *Sub / [Discord](https://discord.gg/Ea3Mq9n)*
 * **[Anime8](https://anime8.ru/)** - *Sub / Dub*
@@ -250,7 +252,6 @@
 * **[AniMixPlay](https://animixplay.to/)** - *Sub / Dub / [Discord](https://discord.gg/YyQ9cpS)* 
 * **[AnimeTribes](https://animetribes.ru/)** - *Sub* 
 * **[AnimeKisa](https://animekisa.tv/)** - *Sub / Dub*
-* **[Zoro](https://zoro.to/)** - *Sub / Dub*
 * [Aninow](https://aninow.net/) - *Sub / Dub*
 * [AnimePahe](https://animepahe.com/) - *Sub*
 * [AnimehHub](https://animehub.ac/) - *Sub / Dub*
@@ -364,6 +365,8 @@
 * **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - *NBA / NFL*
 * **[Jackal](https://jackal.surge.sh/)** - *TV / Sports*
 * [SportsBay](https://sportsbay.org/live-streams) - *Sports* 
+* [Icelz](https://icelz.newsrade.com/) - *The Olympics*
+* [7Plus](https://7plus.com.au/) - *The Olympics / Australian VPN Required*
 * [Stream2Watch](https://www.stream2watch.is/) - *TV / Sports*
 * [123TV](http://123tv.live/) - *TV / Sports*
 * [streamlive](https://www.streamlive.to/) - *TV / Sports*
@@ -413,7 +416,7 @@
 * [BestSolaris](http://bestsolaris.com/) - *Sports*
 * [DudeStream](http://dudestream.com/) - *Sports*
 * [SummerLivestream](http://summerlivestream.com/) - *Sports*
-* [Cricworld](http://cricworld.club/) - **
+* [Cricworld](http://cricworld.club/) - *Sports*
 * [UFCKhabib](http://ufckhabib.com/) or [NBATVSport](http://nbatvsport.com/) - *Sports*
 * [6Streams](http://6streams.tv/) - *Sports*
 * [NodelayTV](http://nodelaytv.pw/) - *Sports*
@@ -559,7 +562,6 @@
 * [4k Movie Collection](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w) - *HD Movies*
 * [r/MegaLinks Backup](https://mega.nz/folder/fv4lCaZQ#6tS6HpQiWAjx6Ibr1N_D8w), [2](https://www71.zippyshare.com/v/behLhk3F/file.html)
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_indexes) - *Most contain videos* 
-* [Audio-Track](https://www.audio-track.com/en) - *Download audio tracks for movies / tv*
 
 ***
 
@@ -656,7 +658,7 @@
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - *Movies*
 * [YTS](https://yts.mx/) - **WARNING:** Do [*NOT*](https://androidrookies.com/top-torrent-website-yts-is-sharing-user-emails-and-ip-addresses-with-anti-piracy-law-firm/) make a YTS account! - *Movies / [Mirror](https://yify.netlify.app/)* 
 * [xbit](https://xbit.pw/) - *Movie Torrent Release Information*
-* [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all), [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) or [TMDB-Torrent-Movie-Database ](https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - *Add Torrent Site Results to IMDb Pages*
+* [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all), [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout, [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) or [TMDB-Torrent-Movie-Database](https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - *Add Torrent Site Results to IMDb Pages*
 * [IMDB to RARBG](https://greasyfork.org/en/scripts/376793-imdb-to-rarbg-torrent-search) - *RARBG Torrent / Magnet Links on IMDB* 
 
 ***
@@ -829,8 +831,7 @@
 * [amara](https://amara.org/en/) - *Add Subs to Youtube Videos*
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - *YouTube Live Stream Translator* 
 * [Bazarr](https://www.bazarr.media/) - *Auto-Download Subtitles* 
-* [Subliminal](https://github.com/Diaoul/subliminal) - *Python Script* 
-* [SubtitleBOX](https://github.com/sameera-madushan/SubtitleBOX) - *Python Script* 
+* [Subliminal](https://github.com/Diaoul/subliminal), [SubtitleBOX](https://github.com/sameera-madushan/SubtitleBOX) or [Subtitle-Downloader](https://github.com/manojmj92/subtitle-downloader) - *Python Download Script* 
 * [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - *Plex Subtitles* 
 * [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [autosubsync](https://github.com/oseiskar/autosubsync) or [subslider.js](https://github.com/micheleb/subslider.js) / [2](https://micheleb.github.io/subslider.js/) - *Sync Subtitles* 
 * [SubtitleDLbot](https://t.me/SubtitleDLbot), [TV Sub Bot](https://t.me/Tv_subtitles_bot), [subtitle_dl_bot](https://t.me/subtitle_dl_bot) or [subtitlepoolbot](https://t.me/subtitlepoolbot) - *Telegram Subtitles Bot* 

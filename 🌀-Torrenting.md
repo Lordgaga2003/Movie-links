@@ -16,7 +16,7 @@
 # ► Torrent Clients
 
 * **[qBittorrent](https://www.qbittorrent.org/)** - *[Screenshot](https://i.imgur.com/B9KBUXs.png)*
-* **qBittorrent Tools** - [VPN Bind (Important)](https://www.ghacks.net/2016/03/23/qbittorrent-block-transfers-vpn-disconnect/) / [Plugins](https://github.com/qbittorrent/search-plugins#search-plugins) / [Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) / [Themes](https://github.com/jagannatharjun/qbt-theme) / [iOS Theme](https://github.com/ntoporcov/iQbit/) / [Docker](https://github.com/linuxserver/docker-qbittorrent) / [WebUI](https://github.com/WDaan/VueTorrent) / [Mega Upload](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent_MEGA.ipynb) / [Gdrive Upload](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb)
+* **[qBittorrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)**
 * **[Transmission](https://transmissionbt.com/)** - *[Screenshot](https://i.imgur.com/IjdECzR.png)*
 * **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)** - *Download Torrents to Google Drive*
 * [from-torrent](https://multiup.org/en/upload/from-torrent) - *Upload Torrent Files to DDL Sites / [Bypass 10GB Limit](https://i.imgur.com/ChMcdq8.png)*
@@ -33,10 +33,9 @@
 * [mtorrent](https://github.com/nektro/mtorrent) - *Terminal Torrent Client* 
 * [libtorrent](https://www.libtorrent.org/) - *C++ BitTorrent Client*
 * [Rats Search](https://github.com/DEgITx/rats-search) - *Torrent Search Client / [Screenshot](https://github.com/DEgITx/rats-search#screenshots)* 
-* [VLC Torrent Streamer](http://www.vlcstreamer.com/) - *Stream torrents in VLC*
+* [VLC Torrent Streamer](http://www.vlcstreamer.com/) - *Stream Torrents in VLC*
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
 * [Loadbt](https://www.loadbt.com/) - *Torrent / Stream to Cloud*  
-* [Torrent-Indexer ](https://github.com/sayem314/torrent-indexer) - *Torrent Scraping Tool*
 * [SpreadsheetUI](https://github.com/JohnDoee/spreadsheetui) - *Speadsheet Torrent webUI* 
 * [flood](https://github.com/jfurrow/flood) - *Web UI for rTorrent, qBittorrent & Transmission* 
 * [swizzin](https://swizzin.ltd/) - *All-in-one Seedbox Solution for Ubuntu / Debian* 
@@ -73,9 +72,10 @@
 
 # ► Torrent Sites
 
-* **[Torrent Site Rankings](https://dirtywarez.org/cat/tracker)** - *alexa rankings*
-* **[1337](https://1337x.to/)** - *Video / Audio / Games / Software / NSFW / [Proxy](https://1337x.proxyserver.cf/), [2](https://1337x.iamproxy.gq/) / [Mirrors](https://1337x.to/about) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot)*
-* **[RarBG](https://rarbg.to)** - *Video / Audio / Games / Software / NSFW / [Python Interface](https://github.com/verybada/rarbgapi) / [Advanced Filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) / [Add Links](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links) / [Proxy](https://rarbg.proxyserver.cf/index80.php), [2](https://rarbg.iamproxy.gq/index80.php)*
+* **[1337](https://1337x.to/)** - *Video / Audio / Games / Software / NSFW* 
+* **1337x Tools** - [Proxy](https://1337x.proxyserver.cf/), [2](https://1337x.iamproxy.gq/) / [Mirrors](https://1337x.to/about) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot)
+* **[RarBG](https://rarbg.to)** - *Video / Audio / Games / Software / NSFW* 
+* **RarBG Tools** - [Python Interface](https://github.com/verybada/rarbgapi) / [Advanced Filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) / [Add Links](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links) / [Proxy](https://rarbg.proxyserver.cf/index80.php), [2](https://rarbg.iamproxy.gq/index80.php)
 * **[RuTracker](http://rutracker.org)** - *Video / Audio / Games / Software / Android / Comics / Magazines / [Onion](http://rutrackerripnext.onion/) / [Telegram Bot](https://t.me/ru_tracker_bot)*
 * [TorrentGalaxy](https://torrentgalaxy.to/) - *Video / Audio / Games / Software / NSFW / [Mirrors](https://proxygalaxy.pw/), [2](https://torrentgalaxy.org/)*
 * [Demonoid](https://www.demonoid.is/) - *Video / Audio / Software / Games / Books / Comics*
@@ -110,6 +110,7 @@
 * [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) - *[ZeroNet Required](https://zeronet.io/) / Video / Audio / Software / Games*
 * [4chan /t/](https://boards.4chan.org/t/) - *Torrents / Imageboard / Some NSFW* 
 * [8kun /t/](https://8kun.top/t/index.html) - *Torrents / Imageboard [.onion](http://jthnx5wyvjvzsxtu.onion/t/)* 
+* [Torrent Site Rankings](https://dirtywarez.org/cat/tracker) - *Alexa Rankings*
 
 ***
 

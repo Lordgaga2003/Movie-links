@@ -12,7 +12,8 @@
 # ► General Tools
 
 * **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)** - *Sites with Multiple Tools*
-* **[MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb)** - *Google Colab Multi-Tool*
+* **[MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb)** - *Multi-Tool Google Colab*
+* [ShellBot](https://github.com/MannyHackers/ShellBot) - *Multi-Tool Telegram Bot*
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - *Open Source Tools* 
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - *AI Experiments / Tools* 
 * [Yandex Disk](https://disk.yandex.com/) - *Cloud Storage / File Sharing / Office Tools* 
@@ -674,11 +675,13 @@
 * [Namechk](https://namechk.com/), [Username Checker](https://checkuser.org/), [CheckUserNames](https://checkusernames.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - *Check Username / Domain Availability*
 * [Pyfunceble](https://pyfunceble.github.io/#/) or [Domainr](https://domainr.com/) - *Check IP / Domain Availability* 
 * [HostsDock](https://eshengsky.github.io/HostsDock/) - *Manage & Switch Hosts* 
-* [My IP Address](https://myipaddress.ru/) or [WhatIsMyIPLookup](https://whatismyiplookup.com/) - *Check your IP Address*
+* [2ip.io](https://2ip.io/) - *Multiple IP Address Tools*
+* [My IP Address](https://myipaddress.ru/), [IPInfoDB](https://ipinfodb.com/), [IP Burger](https://www.ipburger.com/ip/), [IfConfig](https://ifconfig.me/) or [WhatIsMyIPLookup](https://whatismyiplookup.com/) - *Check IP Address*
 * [open-ports](https://www.yougetsignal.com/tools/open-ports/) - *Port Forwarding Tester*
 * [DownloadTestr](http://txti.es/downloadtestr) - *Download Test Files to Test Download Speed* 
 * [Hotel WiFi Test](https://www.hotelwifitest.com/) - *Test Hotel WiFi Speeds* 
 * [YouTube](https://dlogic.lk/projects/youtubedatacalc.php), [Music Streaming](https://dlogic.lk/projects/music.php), [Netflix](https://dlogic.lk/projects/netflix.php), [Zoom](https://dlogic.lk/projects/zoom.php) - *Data Usage Calculators*
+* [IP2Proxy](https://www.ip2proxy.com/) - *Proxy / VPN IP Detector*
 * [browserbench](https://browserbench.org/) - *Multiple Browser Benchmark Tests*
 * [VsyncTester](https://vsynctester.com/) - *Browser VSYNC Test*
 * [QuteBrowser](https://qutebrowser.org/) - *Keyboard Focused Browser* 
@@ -1324,6 +1327,7 @@ General Reading Sites*
 * [ConvertCSV](https://www.convertcsv.com/) - *CSV data conversion*
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - *DataHoarding Tools Index*   
 * [FileInfo](https://fileinfo.com/) or [File-Extensions](https://www.file-extensions.org/) - *File Extension Library*
+* [download](https://github.com/kevva/download) - *File Download Tool / Extractor / [CLI](https://github.com/kevva/download-cli)*
 * [RollMyFile](https://rollmyfile.com/) - *Open Files Online*
 * [Tmp.Ninja](https://tmp.ninja/) - *Temp File Host (48hrs)*
 * [megabasterd](https://github.com/tonikelope/megabasterd) - *MEGA Downloader / Uploader / Streaming / Quota Bypass*

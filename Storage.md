@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/JcfEP7N.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/aGS4x7c.png)** - *For mobile users*
 
 ***
 ***
@@ -340,9 +340,9 @@
 
 #### File Sharing Tools
 
-**File Syncing Programs**
+**File Sync / Network Share**
 
-[dropbox](https://www.dropbox.com/), [file.pizza](https://file.pizza/), [lftp](https://lftp.tech/), [keybase](https://book.keybase.io/docs/files), [syncthing](https://syncthing.net/), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/), [WinSCP](https://winscp.net/eng/index.php), [freefilesync](https://freefilesync.org/), [allwaysync](https://allwaysync.com/), [sharik](https://github.com/marchellodev/sharik), [KDEConnect](https://kdeconnect.kde.org/)
+[dropbox](https://www.dropbox.com/), [file.pizza](https://file.pizza/), [lftp](https://lftp.tech/), [keybase](https://book.keybase.io/docs/files), [syncthing](https://syncthing.net/), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/), [WinSCP](https://winscp.net/eng/index.php), [freefilesync](https://freefilesync.org/), [allwaysync](https://allwaysync.com/), [sharik](https://github.com/marchellodev/sharik), [Simple.Savr](https://www.ssavr.com/), [FileBrowser](https://filebrowser.org/), [Snapdrop](https://snapdrop.net/) / [Android](https://github.com/fm-sys/snapdrop-android), [KDEConnect](https://kdeconnect.kde.org/)
 
 **Multi Host Uploaders**
 
@@ -356,10 +356,6 @@
 **SkyNet**
 
 [Skynet](https://www.siacdn.com/), [2](https://skydrain.net/), [3](https://skynet.luxor.tech/), [4](https://skynet.tutemwesi.com/), [5](https://vault.lightspeedhosting.com/), [6](https://sialoop.net/), [7](https://skynethub.io/), [8](https://skynet.utxo.no/), [9](https://siasky.net/)
-
-**Network Share**
-
-[FileRoom](https://fileroom.io/), [Simple.Savr](https://www.ssavr.com/), [FileBrowser](https://filebrowser.org/), [Snapdrop](https://snapdrop.net/) / [Android](https://github.com/fm-sys/snapdrop-android)
 
 *** 
 
@@ -672,7 +668,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Media Servers
 
-* **[Plex](https://www.plex.tv/)** + */r/plexshares / [Linux](https://knapsu.eu/plex/) / [Setup Guide](https://redd.it/ma1hlm), [2](https://hoarding.me/)*
+* **[Plex](https://www.plex.tv/)** + */r/plexshares / [Linux](https://knapsu.eu/plex/) / [Setup Guide](https://redd.it/ma1hlm), [2](https://hoarding.me/) / [Linux](https://github.com/binhex/arch-plexpass)*
 * [Emby](https://emby.media/) + */r/EmbyShares*
 * [Jellyfin](https://jellyfin.org/) + */r/JellyfinShares*
 * [Universal Media Server](https://www.universalmediaserver.com/)
@@ -815,6 +811,12 @@ Add the following commands to a search to manually scrape each site.
 #### Open Source Intelligence Indexes
 
 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)**, **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)**, [OSINT Framework](https://osintframework.com/), [OSINT Essentials](https://www.osintessentials.com/), [OSINT Collection](https://github.com/Ph055a/OSINT_Collection), [OSINT Sources](https://github.com/imuledx/OSINT_sources), [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools), [OSINT Recherche](https://atlas.mindmup.com/digintel/digital_intelligence_training/index.html), [Open Source Intelligence](https://start.me/p/gy0NXp/open-source-intelligence-osint), [geoint](https://start.me/p/W1kDAj/geoint), [OSINT Tools](https://start.me/p/wMdQMQ/tools), [Sector035](https://sector035.nl/links), [Nixintel's OSINT](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list), [datajournalism-resources](https://github.com/r3mlab/datajournalism-resources/blob/master/README.md), [UK-OSINT](https://www.uk-osint.net/index.html), [OSINTGeek](https://osintgeek.de/tools), [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT), [Hackers Arise OSINT](https://www.hackers-arise.com/osint)
+
+***
+
+#### Panic Button
+
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/panic-button/) / [Chrome](https://chrome.google.com/webstore/detail/panic-button/faminaibgiklngmfpfbhmokfmnglamcm) / [Edge](https://microsoftedge.microsoft.com/addons/detail/panic-button/diijhljenjjfegglhjlehppiengdadcb) / [Opera](https://addons.opera.com/en/extensions/details/hide-tabs-panic-button/)
 
 ***
 
@@ -1111,6 +1113,12 @@ Add the following commands to a search to manually scrape each site.
 #### Privacy Tools
 
 **[Privacy Tools](https://www.privacytools.io/)**, **[Privacy Tools List](https://privacytoolslist.com/)**, **[Prism-Break](https://prism-break.org/)**, [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting), [Awesome Privacy](https://github.com/pluja/awesome-privacy), [online-tools-for-the-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic), [Snopyta](https://snopyta.org/), [Hostux](https://hostux.network/), [Security List](https://security-list.js.org/), [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy), [Thunix](https://thunix.net/), [Zero Data App](https://0data.app/), [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/), [Alternative Internet](https://github.com/redecentralize/alternative-internet), [silkky.cloud](https://silkky.cloud/), [EPIC](https://www.epic.org/privacy/tools.html), [Techxodus](https://wiki.techxodus.org/en/home)
+
+***
+
+#### qBitorrent Tools
+
+[VPN Bind (Important)](https://www.ghacks.net/2016/03/23/qbittorrent-block-transfers-vpn-disconnect/) / [Plugins](https://github.com/qbittorrent/search-plugins#search-plugins) / [Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) / [Themes](https://github.com/jagannatharjun/qbt-theme) / [iOS Theme](https://github.com/ntoporcov/iQbit/) / [Docker](https://github.com/linuxserver/docker-qbittorrent) / [WebUI](https://github.com/WDaan/VueTorrent) / [Mega Upload](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent_MEGA.ipynb) / [Gdrive Upload](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb)
 
 ***
 
@@ -1635,7 +1643,7 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 
 **Bots** 
 
-[Torrent all-in-one bot](https://github.com/patheticGeek/torrent-aio-bot), [Codemaster](https://github.com/mohitjoshi155/Codemaster), [Mirror-Bot](https://github.com/KenHV/Mirror-Bot), [TorrentLeech](https://github.com/gautamajay52/TorrentLeech-Gdrive), [TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+[Torrent all-in-one bot](https://github.com/patheticGeek/torrent-aio-bot), [Codemaster](https://github.com/mohitjoshi155/Codemaster), [Mirror-Bot](https://github.com/KenHV/Mirror-Bot), [TorrentLeech](https://github.com/gautamajay52/TorrentLeech-Gdrive), [TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX), [google-drive-torrent](https://github.com/karl-chan/google-drive-torrent), [torrents-to-google_drive](https://github.com/dabare/torrents-to-google_drive)
 
 **Telegram Bots**
 
@@ -1677,7 +1685,7 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 
 #### URL Unshorteners 
 
-**[urlex](https://urlex.org/)**, **[CheckShortURL](https://checkshorturl.com/)**, [ExpandURL](https://www.expandurl.net/), [unshort.link](https://unshort.link/), [URL Shortener Unshortener](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener), [Real Link bot (Telegram)](https://t.me/RealLinkBot), [GetLinkInfo](http://www.getlinkinfo.com/), [Unshorten.it](https://unshorten.it/), [WhereGoes](https://wheregoes.com/)
+**[urlex](https://urlex.org/)**, **[CheckShortURL](https://checkshorturl.com/)**, [ExpandURL](https://www.expandurl.net/), [unshort.link](https://unshort.link/), [URL Shortener Unshortener](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener), [Real Link bot (Telegram)](https://t.me/RealLinkBot), [GetLinkInfo](http://www.getlinkinfo.com/), [Unshorten.it](https://unshorten.it/), [WhereGoes](https://wheregoes.com/), [LongURL](https://longurl.info/)
 
 ***
 

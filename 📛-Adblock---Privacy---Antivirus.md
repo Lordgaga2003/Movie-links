@@ -86,7 +86,7 @@
 * **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - *Anti-Adware*
 * **[VirusTotal](https://www.virustotal.com/)**, [VirSCAN](https://www.virscan.org/), [BitBaan](https://lab.bitbaan.com/en/home), [Joe Sandbox](https://www.joesandbox.com/), [MetaDefender](https://metadefender.opswat.com/?lang=en), [NoDistribute](https://nodistribute.com/), [Fortiguard](https://www.fortiguard.com/faq/onlinescanner) or [Jotti](https://virusscan.jotti.org/en) - *File Scanners / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader)* 
 * **[Hybrid Analysis](https://www.hybrid-analysis.com/)** or [Amnpardaz](https://jevereg.amnpardaz.com/) - *Scan EXE Files*
-* **[URL Void](https://www.urlvoid.com/)**, [ThreatStop](https://threatstop.com/checkip), [urlscan.io](https://urlscan.io/), [Scamadviser](https://www.scamadviser.com/), [SiteSheck](https://sitecheck.sucuri.net/), [IsLegitSite](https://www.islegitsite.com/) or [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search) - *Check Site Legitimacy*
+* **[URL Void](https://www.urlvoid.com/)**, [ThreatStop](https://threatstop.com/checkip), [urlscan.io](https://urlscan.io/), [Scamadviser](https://www.scamadviser.com/), [SiteSheck](https://sitecheck.sucuri.net/), [IsLegitSite](https://www.islegitsite.com/), [scanurl](https://scanurl.net/) or [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search) - *Check Site Legitimacy*
 * [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html) or [GlassWire](https://www.glasswire.com/) - *Firewall / Network Monitor* 
 * [Test Your Metal](http://metal.fortiguard.com/) - *Test Firewall* 
 * [Stronghold](https://github.com/alichtman/stronghold) - *Mac Security Settings Terminal*
@@ -209,6 +209,8 @@
 
 * **[ClearURLs](https://github.com/ClearURLs/Addon/releases)** / [2](https://gitlab.com/KevinRoebert/ClearUrls), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - *Removes tracking elements from URLs*
 * **[LocalCDN](https://www.localcdn.org/)**, [WhatCampaign](https://addons.mozilla.org/en-US/firefox/addon/whatcampaign/) or [TrackMeNot](http://trackmenot.io/) - *Tracking Protection*
+* []() - **
+
 * [File Guard](https://mybrowseraddon.com/file-encryptor.html) - *File Encryption / Decryption*
 * [Trace](https://absolutedouble.co.uk/trace/) - *Privacy Toolkit* 
 * [Site Bleacher](https://github.com/wooque/site-bleacher) - *Auto remove cookies, local storages, IndexedDBs, service workers, cache storages, filesystems & webSQLs*
@@ -280,7 +282,8 @@
 * [WhoTracksMe](https://whotracks.me/) or [Trackography](https://trackography.org/) - *Site Tracking Info*  
 * [YourAdChoices](https://optout.aboutads.info/?c=2&lang=EN) - *Check Your Current IBA Status*
 * [I2P](https://geti2p.net/en/) - *Encrypted Private Network Layer / [Resource Index](https://github.com/mikalv/awesome-i2p)* 
-* [NothingPrivate](https://www.nothingprivate.ml/), [Device Info](https://www.deviceinfo.me/), [Privacy Test](https://privacy.net/analyzer/), [IPX](https://ipx.ac/run) or [BrowserAudit](https://browseraudit.com/) - *Browser Data Leak Test*
+* [NothingPrivate](https://www.nothingprivate.ml/), [Device Info](https://www.deviceinfo.me/), [Privacy Test](https://privacy.net/analyzer/), [IPX](https://ipx.ac/run) , [Sploit](https://sploit.io/test.php
+)or [BrowserAudit](https://browseraudit.com/) - *Browser Data Leak Test*
 * [IP / DNS Leak Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_dns_leak_tests) - *Test for IP & DNS Leaks*
 * [DNSCookie](http://dnscookie.com/) - *Identify Related Network Flows*
 * [Turn off IPv6 to Prevent Leaks](https://www.itechguides.com/disable-ipv6-windows-10/) - *[IPv6 Leak Test](https://ip6.nl/), [2](https://test-ipv6.com/)* 

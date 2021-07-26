@@ -1316,7 +1316,6 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 * Note that these can and do get deleted
 * https://gd.404edu.workers.dev/
 * https://td.crackhub.site/
-* https://teamdrive.xcpx.workers.dev/ 
 * https://white-limit-b897.kfuentes.workers.dev/
 * https://drive.hackgence-com.workers.dev/
 * https://team.hackgence.com/
@@ -1606,22 +1605,9 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 
 #### Telegram Video Download
 
-* [FreemiumMovies](https://t.me/freemiummovies) - *Movies / TV* 
-* [HD Movies Netflix](https://t.me/joinchat/AAAAAFfJ0Uazf61y9XnwQg) - *Movies*
-* [GDrive Movies Download](https://t.me/gdrivemovielink) - *Movies*
-* [MoviesX](https://t.me/moviesx_dl) - *Movies*
-* [WMR_X265](https://t.me/WMR_X265) - *Movies*
-* [KLHEVC](https://t.me/KLHEVC) - *Movies*
-* [ALL MOVIES HUB](https://t.me/vibes616) - *Movies* 
-* [hollywoodcine](https://t.me/hollywoodcine) - *Movies*
-* [CC_X265](https://t.me/CC_X265) - *Movies*
 * [Rare Films](https://t.me/rarefilms) - *Movies* 
-* [New_Hollywood_Netflix_Movies](https://t.me/New_Hollywood_Netflix_Movies) - *Movies*
 * [MoviesVerse](https://t.me/MoviesHomeOFFICIALS) - *Movies / TV* 
-* [Request_movies_series_bot](https://t.me/Request_movies_series_bot) - *TV*
-* [SciFiMovies4U](https://t.me/SciFiMovies4U) - *Sci-Fi Movies* 
 * [Warrior Spirits](https://t.me/warriorspirits) - *Action Movies*
-* [cultclassics](https://t.me/cultclassics) - *Classic*
 * [pre_code](https://t.me/pre_code) - *Classic*
 * [StommeFilms](https://t.me/StommeFilms) - *Classic*
 * [ZwartwitFilms](https://t.me/ZwartwitFilms) - *Classic*

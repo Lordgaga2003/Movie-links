@@ -123,6 +123,7 @@
 * [Emulator Netplay Tools](http://emulation.gametechwiki.com/index.php/Netplay) - *Multiplayer Emulation*
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - *Roms / [Discord](https://discord.gg/rH9wRpu2vh)* 
 * [PlayStationDiscord-Games](https://github.com/Tustin/PlayStationDiscord-Games) - *PS4 Remote Play* 
+* [retrogames.cc](https://www.retrogames.cc/) - *Browser Emulator / [Download Guide](https://i.imgur.com/jSAsSb6.png)*
 * [Emulator.Games](https://emulator.games/) - *Browser Emulator / Roms*
 * [GamulatoR](https://www.gamulator.com/roms) - *Browser Emulator / Roms*
 * [Play Emulator](https://www.playemulator.com/) - *Browser Emulator* 
@@ -234,7 +235,7 @@
 * **[My Abandonware](https://www.myabandonware.com/)** - *Browser Emulator / Downloads*
 * **[RetroGames](https://www.retrogames.cz/)** - *Browser Emulator*
 * **[Console Living Room](https://archive.org/details/consolelivingroom)** - *Browser Emulator* 
-* **[retrogames.cc](https://www.retrogames.cc/)** - *Browser Emulator*
+* **[retrogames.cc](https://www.retrogames.cc/)** - *Browser Emulator / [Download Guide](https://i.imgur.com/jSAsSb6.png)*
 * [MISC Windows](https://drive.google.com/drive/folders/15A3j8X0IDxNyJC7tPjJ0gvKIPKPaKylO) - *Windows 98 / XP Games*
 * [ClassicReload](https://classicreload.com/) - *Browser Emulator*
 * [Free80sArcade](http://www.free80sarcade.com/) - *Browser Emulator*

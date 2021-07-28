@@ -52,7 +52,7 @@
 * **Calibre Tools** - [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre), [3](https://the-eye.eu/public/Books/Calibre_Libraries/) / [Search](https://www.shodan.io/search?query=server%3A+calibre), [2](https://calishot-eng-1.herokuapp.com/), [3](https://calishot-eng-2.herokuapp.com/index-eng/summary), [4](https://calishot-eng-3.herokuapp.com/index-eng/summary), [5](https://calishot-eng-4.herokuapp.com/index-eng/summary), [6](https://redd.it/nugkl3) / [Web App](https://github.com/janeczku/calibre-web)  
 * **[Library Genesis](https://libgen.fun/)** - *Comics / Manga*
 * **Lib Gen Tools** - *[Desktop](https://wiki.mhut.org/software:libgen_desktop) / [Mobile](https://github.com/manuelvargastapia/libgen_mobile_app), [2](https://github.com/FunkyMuse/Aurora) / [Download Tool](https://github.com/bagaswastu/librebook) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Telegram Bot](https://t.me/BotBookClub) / [Extension](https://github.com/samj1912/Genesis) / [Python Script](https://github.com/NadalVRoMa/PyLibGen) / [Mirrors](https://whereislibgen.now.sh/), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_clones), [3](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [4](https://sguru.org/libgen-proxy/) / [Onion](http://genotypeinczgrxr.onion/) / [Backup](https://redd.it/edwi9b) / /r/libgen*
-* **[Z-Library](https://z-lib.org/)** - *Books / Comics / Educational / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_mirrors) / [Telegram Bot](https://t.me/zlibrarybot)*
+* **[Z-Library](https://z-lib.org/)** - *Books / Comics / Educational / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_mirrors) / [Telegram Bot](https://t.me/zlibrarybot) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Amazon Links](https://github.com/annaelmoussa/amazon-zlibrary)*
 * **[eBookHunter](https://ebook-hunter.org/)** - *Books / Comics*
 * **[ebook3000](http://www.ebook3000.com/)** - *Books / Audiobooks / Comics / Magazines / Newspapers*
 * **[The-Eye Books](https://the-eye.eu/public/Books/)** - *Books*
@@ -245,6 +245,7 @@
 * [MyRecipeMagic](https://www.myrecipemagic.com/) - *Recipes*
 * [SparkPeople](https://recipes.sparkpeople.com/) - *Recipes*
 * [KeyIngridient](https://www.keyingredient.com/) - *Recipes*
+* [Chowdown](https://chowdown.io/) - *Recipes / [GitHub](https://github.com/clarklab/chowdown)*
 * [RecipeArchive](http://www.recipearchive.com/) - *Recipes*
 * [Alastra](http://recipes2.alastra.com/) - *Recipes*
 * [RobbieHaf](http://recipes.robbiehaf.com/) - *Recipes*
@@ -386,7 +387,7 @@
 * [HerbologyY](https://t.me/HerbologyY) - *Herbology / Telegram*
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - *Hypnosis / Telegram*
 * [files.afu.se](https://files.afu.se/Downloads/) - *UFO Books, Documents, Magazines ect.*
-* [The Trove](https://thetrove.is/) - *Books / Fantasy / TTRPG / [Wayback Machine](https://web.archive.org/web/20210614215400/https://thetrove.is/), [2](https://web.archive.org/web/20210430220147/https://thetrove.is/)*
+* [The Trove](https://thetrove.is/) - *Books / Fantasy / TTRPG / [Wayback Machine](https://web.archive.org/web/20210614215400/https://thetrove.is/), [2](https://web.archive.org/web/20210430220147/https://thetrove.is/) / [Unofficial Discord](https://discord.gg/GwTuGr7N8p)*
 * [Choisey](http://choisey.free.fr/) or [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - *TTRPG Rulebooks*
 * [SimplyScripts](https://www.simplyscripts.com/) or [Scripts.com](https://scripts.com/) - *Movie / TV Scripts* 
 * [Kialo]( https://www.kialo.com/) - *Popular Debates / Discussion* 
@@ -840,6 +841,16 @@
 * [Shin Translations](https://shintranslations.com/)
 * [Novel Updates](https://www.novelupdates.com/)  
 * [Henkan Epubs](https://henkanepubs.wordpress.com/) 
+* [Light Novel Pub](https://www.lightnovelpub.com/)
+* [JPMTL](https://jpmtl.com/) 
+* [LNWNCentral](https://lnwncentral.wordpress.com/) 
+* [NovelOnlineFull](https://novelonlinefull.com/)
+* [BestLightNovel](https://bestlightnovel.com/)
+* [LightNovelPDF](https://lightnovelpdf.com/)
+* [AsianHobbyist](https://www.asianhobbyist.com/)
+* [DaoNovel](https://daonovel.com/)
+* [FreeWebNovel](https://freewebnovel.com/) 
+* [NovelCake](https://novelcake.com/)
 * [Novel Translations](https://lightnovelstranslations.com/)
 * [Nakimushitl](https://nakimushitl.wordpress.com/)
 * [Novel Free](https://mnovelfree.com/)
@@ -872,6 +883,7 @@
 * [ENMagazine](https://t.me/enmagazine) - *Telegram*
 * [Magazines4U](https://t.me/Magazines4U) - *Telegram* 
 * [newspaper_archive](https://t.me/newspaper_archive) - *Telegram*
+* [BookCrush Newsstand](https://t.me/BookCrushNewsstand) - *Telegram*
 * [World Mags](https://www.worldmags.net/)
 * [World of Magazine](https://www.worldofmagazine.com/)
 * [PDF Magazines Download](https://pdf-magazines-download.com/)
@@ -902,6 +914,7 @@
 * **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)**
 * **[Google Newspaper Search](https://news.google.com/newspapers)**
 * **[Newspapers Magazines](https://t.me/newspapersmagaziness)** - *Telegram* 
+* [BookCrush Newsstand](https://t.me/BookCrushNewsstand) - *Telegram*
 * [Sanet.st](https://sanet.st/newspapers/)
 * [Elephind](https://www.elephind.com/) - *Historical Newspaper Search*
 * [EngNewspapers](https://vk.com/engnewspapers) - *Telegram*
@@ -991,8 +1004,6 @@
 * [gonitro](https://www.gonitro.com/pdf-reader) - *PDF Reader / PC*
 * [PdfPreviewbot](https://t.me/PdfPreviewbot) - *Telegram PDF Reader*
 * [Readera](https://play.google.com/store/apps/details?id=org.readera) - *Manager / Reader / Android*
-* [fViewer](https://www.fviewer.com/) - *Online book / document viewer*
-* [ePubReader](https://www.epubread.com/en/) - *Firefox ePub reader*
 * [Foliate](https://johnfactotum.github.io/foliate/) - *Manager / Reader / Linux*
 * [WinDjView](https://windjview.sourceforge.io/) - *DjVu Reader / PC*
 * [DjVuLibr](http://djvu.sourceforge.net/) - *DjVu Reader / PC*
@@ -1000,7 +1011,7 @@
 * [All My Books](https://www.bolidesoft.com/allmybooks.html) - *Book Catalog* 
 * [Raven Reader](https://ravenreader.app/) - *Article Reader / Manager* 
 * [Cubari](https://cubari.moe/) - *Image Proxy / Reader*
-* [Reader View](https://add0n.com/chrome-reader-view.html), [EpubPress](https://epub.press/), [Reader View](https://mybrowseraddon.com/reader-view.html, [Mercury](https://mercury.postlight.com/) or [2read](https://2read.net/) - *Open Pages in Reader View*
+* [fViewer](https://www.fviewer.com/), [Reader View](https://add0n.com/chrome-reader-view.html), [EpubPress](https://epub.press/), [Reader View](https://mybrowseraddon.com/reader-view.html, [ePubReader](https://www.epubread.com/en/), [Mercury](https://mercury.postlight.com/), [ReadWok](https://readwok.com/) or [2read](https://2read.net/) - *Online Reader*
 * [Ebook Sender](https://telegram.me/to_kindle_bot) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - *Send Ebooks to Kindle*
 
 ***

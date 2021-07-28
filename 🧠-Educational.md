@@ -142,6 +142,7 @@
 * [6.04 TB Paid [C]ourses](https://mega.nz/folder/vRhSiagQ#H_G_aUZNrbLE5fPtTjPoeQ/folder/TAhQRSqK) - *Marketing Courses / Drive*
 * [hackingworld.best 1.3TB](https://mega.nz/folder/eeIzlAjL#zGa0iHkQJu0JmP4BayAJ3A) - *Marketing Courses* 
 * [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
+* [ProCrack_Team](https://www.mediafire.com/folder/l4w8gcdcqsqtw/ProCrack_Team) - *Marketing Courses*
 * [Udemy - Cybersecurity Collection](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD) - *Cyber Security Courses*
 * [Cyber Security & IT](https://mega.nz/folder/9kxTnLCI#BThv3CtkC27JqcJ4ZWD_cA) - *Cyber Security / IT Books & Courses*
 * [CertCommunity](https://www.certcommunity.org/forum/) - *IT Cert Courses*
@@ -243,6 +244,7 @@
 * **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - *Sites with Multiple Calculators* 
 * **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - *Advanced Calculator*
 * **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://forum.mobilism.org/search.php?keywords=photomath&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) / [Pro](https://pastebin.com/wA3QQkCj) - *Math Problem Solver with Steps*
+* [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - *Multi-Calculator App / Android*
 * [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - *Matrix Calculator*
 * [Mathcha](https://www.mathcha.io/) - *Online Math Editor*
 * [Weboasis Convert](https://weboas.is/convert/) - *Conversion Calculators*
@@ -320,6 +322,7 @@
 * [Lang-8](https://lang-8.com/) - *Learn Languages with help from Native Speakers* 
 * [Readlang](https://readlang.com/) - *Learn a Language While Web Browsing* 
 * [Polyglot](https://polyglotclub.com/) - *Offline Language Exchange* 
+* [StudySpanish](https://studyspanish.com/) - *Spanish Learning Tutorials*
 * [AnimeLon](https://animelon.com/) - *Streaming / Anime / Learn Japanese*
 * [Marshall's Site](https://marshallyin.com/) or [Tofugu](https://www.tofugu.com/) - *Learn Japanese* 
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - *Japanese Practice Material*
@@ -390,6 +393,7 @@
 * [SoftSchools](https://www.softschools.com/) - *Worksheets / Games / Quizzes*
 * [FactMonster](https://www.factmonster.com/) - *Exercises/ Flashcards*
 * [BrainPOP Jr.](https://jr.brainpop.com/) - *Quizzes / Animations*
+* [The SAT: Practice Test 3](https://collegereadiness.collegeboard.org/pdf/sat-practice-test-3.pdf) - *SAT Practice Test*
 * [CrackAP](https://www.crackap.com/) - *Practice AP Exams*
 * [/r/ApStudents Resources](https://drive.google.com/open?id=1mPT8O9Nou4udtUQOl0W8dk5JgeRNZHSI) - *Former AP Exams*
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - *AP Exam Comparison Spreadsheet*
@@ -458,4 +462,5 @@
 * [P2PU](https://www.p2pu.org/) - *Join Learning Groups Using Free Courses*
 * [CollegeComendium](https://collegecompendium.goldin.io/) - *Free Computer Science Classes*
 * [Top Universities](https://www.topuniversities.com/) - *University Rankings*
+* [College Map](https://nces.ed.gov/ipeds/collegemap/) - *College Information Map*
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - *Professor Ratings*

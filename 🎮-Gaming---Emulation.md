@@ -53,6 +53,9 @@
 * [pc_game_down](https://t.me/pc_game_down) - *Telegram*
 * [g4u](https://g4u.to/) - *Password: 404*
 * [ApunKaGames](https://www.apunkagames.biz/) 
+* [Gload](https://gload.cc/) - *Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
+* [GoodOldDownloads Backup](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view)
+* [PCGames-Download Backup](https://1fichier.com/?hy7lsbep6bqtu4loy1j6)
 * [FreeToGame](https://www.freetogame.com/games) or [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - *F2P Games*
 * [LibreGameWiki](https://libregamewiki.org/List_of_games) - *FOSS Games* 
 * [itch.io](https://itch.io/games/new-and-popular/featured/free) or [Game Jolt](https://gamejolt.com/games?price=free) - *Indie Games* 
@@ -70,9 +73,7 @@
 * [The-Eye Linux](https://the-eye.eu/public/Games/Linux/) - *Linux Games*
 * [The KDE Games Center](https://games.kde.org/) - *Linux Games*
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - *Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
-* [Gload](https://gload.cc/) - *Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
-* [GoodOldDownloads Backup](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view)
-* [PCGames-Download Backup](https://1fichier.com/?hy7lsbep6bqtu4loy1j6)
+* [Link Scrape](https://github.com/reggiiie/link-scrape) - *Linux Game Search Script*
 * [CsWaRzOnE](https://www.cswarzone.com/) - *Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)*
 * [Minetest](https://www.minetest.net/) - *F2P Minecraft Alternative* 
 * [Unciv](https://github.com/yairm210/Unciv) - *Civ V Remake*
@@ -151,6 +152,8 @@
 * [Roms Download](https://roms-download.com/) - *Emulators / Roms* 
 * [RomsGet](https://www.romsget.io/) - *Emulators / Roms*
 * [EasyRoms](https://easyroms.com/) - *Emulators / Roms* 
+* [ROMSPURE](https://romspure.com/) - *Emulators / Roms*
+* [SoftCobra](https://www.softcobra.com/) - *Roms / [Block Overlay](https://github.com/NicolaeNMV/BehindTheOverlay)*
 * [Game Wii](https://gamewii.net/), [All Xbox Game](https://downloadgamexbox.com/) or  [DownloadgamePSP](https://downloadgamepsp.com/) - *Roms*
 * [RomToHome](https://romtohome.com/) - *Roms*
 * [EdgeEmulation](https://edgeemu.net/) - *Roms*
@@ -451,6 +454,7 @@
 * [Curve Fever](https://curvefever.pro/) - *Multiplayer Line Battles*
 * [LOLBeans](https://lolbeans.io/) - *"Fall guys" like game*
 * [Betrayal](https://betrayal.io/) - *"Among Us" like game*
+* [TownOfSalem](https://blankmediagames.com/TownOfSalem/) - *Role Based Mystery Solving MMO*
 * [Slither.io](http://slither.io/) or [worm.is](http://play.worm.is/) - *Grow the longest worm*
 * [diep.io](https://diep.io/) - *Become the strongest tank* 
 * [Hexar.io](http://www.hexar.io/), [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - *Control the Map*   
@@ -505,9 +509,11 @@
 * [MasasGames](http://masasgames.com/index.html) - *Virtual Escape Rooms*
 * [Sokoban](https://suppilulemur.neocities.org/) - *Box Moving Puzzle Game / Zelda-Themed*
 * [BestCrosswords](https://www.bestcrosswords.com/), [USAToday](https://games.usatoday.com/games/uclick-crossword) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - *Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)*
+* [Regex Cross­word](https://regexcrossword.com/) - *Regex Cross­words*
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - *Online Jigsaw Puzzles*
 * [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - *Solve a Rubix Cube / [Solver](https://rubiksolve.com/)* 
 * [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&ia=answer) or [2048](https://play2048.co/) - *Play 2048*
+* [PROXX](https://proxx.app/) - *Space Minesweeper*
 * [Rockbasher](https://www.rockbasher.com/) - *Retro Style Puzzle Game*
 * [Blocks](https://theblocks.netlify.app/) - *Puzzle Game* 
 * [Game about Squares](http://gameaboutsquares.com/) - *Puzzle Game*

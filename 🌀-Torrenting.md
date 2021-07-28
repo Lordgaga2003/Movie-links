@@ -28,6 +28,7 @@
 * [FrostWire](https://www.frostwire.com/) - *[Screenshot](https://i.imgur.com/3wJSJmg.png)*
 * [Tornado](https://tornado-torrent.gitlab.io/) - *[Screenshot](https://i.imgur.com/H3mvifU.png)*
 * [BiglyBT](https://www.biglybt.com/) - *[Screenshot](https://i.imgur.com/Gopf4tZ.png)* 
+* [NeoLoader](https://neoloader.com/) - *[Screenshot](https://neoloader.com/neo/image1.jpg)*
 * [Tribler](https://www.tribler.org/) - *Tor-inspired Client / [Screenshot](https://i.imgur.com/IzmanCf.png) / [Github](https://github.com/Tribler/tribler)*
 * [aria2](https://aria2.github.io/) - *Terminal Torrent Client / [Screenshot](https://i.imgur.com/KV0pSjt.png) / [Github](https://github.com/aria2/aria2)*
 * [mtorrent](https://github.com/nektro/mtorrent) - *Terminal Torrent Client* 
@@ -76,7 +77,7 @@
 * **1337x Tools** - [Proxy](https://1337x.proxyserver.cf/), [2](https://1337x.iamproxy.gq/) / [Mirrors](https://1337x.to/about) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot)
 * **[RarBG](https://rarbg.to)** - *Video / Audio / Games / Software / NSFW* 
 * **RarBG Tools** - [Python Interface](https://github.com/verybada/rarbgapi) / [Advanced Filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) / [Add Links](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links) / [Proxy](https://rarbg.proxyserver.cf/index80.php), [2](https://rarbg.iamproxy.gq/index80.php)
-* **[RuTracker](http://rutracker.org)** - *Video / Audio / Games / Software / Android / Comics / Magazines / [Onion](http://rutrackerripnext.onion/) / [Telegram Bot](https://t.me/ru_tracker_bot)*
+* **[RuTracker](http://rutracker.org)** - *Video / Audio / Games / Software / Android / Comics / Magazines / [Onion](http://rutrackerripnext.onion/) / [Telegram Bot](https://t.me/ru_tracker_bot) / [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/)*
 * [TorrentGalaxy](https://torrentgalaxy.to/) - *Video / Audio / Games / Software / NSFW / [Mirrors](https://proxygalaxy.pw/), [2](https://torrentgalaxy.org/)*
 * [Demonoid](https://www.demonoid.is/) - *Video / Audio / Software / Games / Books / Comics*
 * [Pirateiro](http://pirateiro.com) - *Video / Audio / Games / Roms / Software / Android / Books / Comics / NSFW*
@@ -159,6 +160,7 @@
 * [Toorgle](http://www.toorgle.com/) - *Multi site search* 
 * [Torrents.csv](https://torrents-csv.ml/#/) - *Torrent csv Search*
 * [BTDigg](https://btdig.com/index.htm) - *Torrent DHT Search Engine*
+* [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - *Magnet Web App Search*
 * [magnetico](https://github.com/boramalper/magnetico) or [Torrentinim](https://github.com/sergiotapia/torrentinim) - *Self Hosted Torrent Search Engine*
 * [Veoble](http://veoble.com/torrent/) - *Multi Site Search* 
 * [torrentsearcher_bot](https://t.me/torrentsearcher_bot), [torrenthuntbot](https://t.me/torrenthuntbot) or [FDTorrentSearchBot](https://t.me/FDTorrentSearchBot) - *Telegram Torrent Search Bot* 

@@ -31,6 +31,7 @@
 * [Fakespot](https://www.fakespot.com/) - *Identifies Fake Reviews & Counterfeits*
 * [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm), [VideoAdBlockForTwitch](https://github.com/saucettv/VideoAdBlockForTwitch) or [Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/) - *Twitch Adblocker* 
 * [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - *Multiple Twitch Adblocking Methods*
+* [CleanYouTube](https://mybrowseraddon.com/adblocker-for-youtube.html) - *YouTube Adblocker*
 * [Facebook Hide Ads](https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts) - *Remove Sponsored Posts from Facebook* 
 * [LinkedIn Unsponsored](https://greasyfork.org/en/scripts/379003-linkedin-unsponsored) - *Remove Sponsored Posts from LinkedIn* 
 * [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) or [Behind The Overlay Revival](https://addons.mozilla.org/en-US/firefox/addon/behind-the-overlay-revival/) - *Close Website Overlays* 
@@ -82,13 +83,15 @@
 * **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - *Malware Analysis Tools / Resources*
 * **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - *Malware Avoidance Guide*
 * **[How to Remove Malware](https://redd.it/33evdi)** - *Malware Removal Guide*
-* **[Malwarebytes](https://www.malwarebytes.com/)**, [Kaspersky](https://usa.kaspersky.com/free-cloud-antivirus), [Adaware Antivirus](https://www.adaware.com/free-antivirus-download), [ClamAV](https://www.clamav.net/) or [Immunet](https://www.immunet.com) - *Antivirus*
+* **[Malwarebytes](https://www.malwarebytes.com/)**, [Hitman Pro](https://filecr.com/?s=HitmanPro), [Kaspersky](https://usa.kaspersky.com/free-cloud-antivirus), [Adaware Antivirus](https://www.adaware.com/free-antivirus-download), [ClamAV](https://www.clamav.net/) or [Immunet](https://www.immunet.com) - *Antivirus*
 * **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - *Anti-Adware*
 * **[Virus File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scan_files)** - *Scan Files*
 * **[Hybrid Analysis](https://www.hybrid-analysis.com/)** or [Amnpardaz](https://jevereg.amnpardaz.com/) - *Scan EXE Files*
 * **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)** - *Scan URL's*
 * [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html) or [GlassWire](https://www.glasswire.com/) - *Firewall / Network Monitor* 
 * [Test Your Metal](http://metal.fortiguard.com/) - *Test Firewall* 
+* [Nmap](https://nmap.org/) - *Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)* 
+* [Waircut](https://sourceforge.net/projects/waircut/) - *WPS Network Monitor*
 * [Stronghold](https://github.com/alichtman/stronghold) - *Mac Security Settings Terminal*
 * [LuLu](https://objective-see.com/products/lulu.html) - *Mac Firewall* 
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [Gufw](http://gufw.org/) - *Linux Firewall* 
@@ -254,6 +257,7 @@
 * [HTTP Header Live](https://github.com/Nitrama/HTTP-Header-Live) - *Display / Edit the HTTP Header*
 * [Open Two Factor Authenticator](https://add0n.com/two-factor-authenticator.html) - *Two-Factor Authentication Addon* 
 * [Social Book Post Manager](https://chrome.google.com/webstore/detail/social-book-post-manager/ljfidlkcmdmmibngdfikhffffdmphjae) - *Delete Facebook Posts in Bulk* 
+* [WAIncognito](https://chrome.google.com/webstore/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil?hl=en) - *Disable WhatsApps Read Receipts & Presence Updates*
 * [Who's Selling My Info?](https://github.com/swow2015/Who-sSellingMyInfo-) - *Detect Pages with "Do Not Sell My Information" Links*
 * [IndicateTLS](https://github.com/jannispinter/indicatetls) - *Display a Sites the TLS Protocol Version* 
 * [Lightbeam](https://github.com/princiya/lightbeam-we) - *Tracker Visualization* 

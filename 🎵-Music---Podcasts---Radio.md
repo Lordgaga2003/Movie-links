@@ -13,7 +13,7 @@
 ## ▷ Streaming Apps
 
 * **[Spotify Client](https://spotify.com/)** or [XpoMusic](https://xpomusic.com/) - *Streaming*
-* **Spotify Tools** - [Block Ads](https://github.com/mrpond/BlockTheSpot), [2](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/), [3](https://github.com/Lyut/SpotiHook2) / [Lyrics](https://versefy.app/) / [Spicetify](https://github.com/khanhas/spicetify-cli), [2](https://github.com/khanhas/Spicetify) / [Spicetify Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Dedup](https://spotify-dedup.com/) / [Hotkeys](https://github.com/aleab/toastify) / [Colorize](https://colorify.live/) / [Backup](http://www.spotmybackup.com/) / [Library Size](https://opslagify.deruever.nl/)
+* **Spotify Tools** - [Block Ads](https://github.com/mrpond/BlockTheSpot), [2](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/), [3](https://github.com/Lyut/SpotiHook2) / [Lyrics](https://versefy.app/) / [Ad Host Files](https://gist.github.com/teomaragakis/cb187d880c9a3ca2c8a2), [2](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57) / [Spicetify](https://github.com/khanhas/spicetify-cli), [2](https://github.com/khanhas/Spicetify) / [Spicetify Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Dedup](https://spotify-dedup.com/) / [Hotkeys](https://github.com/aleab/toastify) / [Colorize](https://colorify.live/) / [Backup](http://www.spotmybackup.com/) / [Library Size](https://opslagify.deruever.nl/) / [Plex Player](https://github.com/fuzeman/Spotify2.bundle)
 * **[Freezer](https://freezer.life/)** - *Streaming / [Discord](https://discord.com/invite/qwJpa3r4dQ) / [Telegram](https://t.me/joinchat/Se4zLEBvjS1NCiY9)*
 * [FunkWhale](https://funkwhale.audio/) - *Streaming*
 * [nuclear](https://github.com/nukeop/nuclear) - *Streaming*
@@ -28,7 +28,7 @@
 
 ## ▷ Streaming Sites
 
-* **[Spotify](https://open.spotify.com/)** - *Browser Music / [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Listen Together](http://jqbx.fm/)*
+* **[Spotify](https://open.spotify.com/)** - *Browser Music / [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae)/ [Mute Ads](https://github.com/guihkx/spotishush) / [Listen Together](http://jqbx.fm/)*
 * **[YouTube Music](https://music.youtube.com/)** - *Browser Music*
 * **[Reddit Music Player](https://reddit.musicplayer.io/)** - *Subreddit Music Player*
 * **[SoundCloud](https://soundcloud.com/)** - *User made songs*
@@ -181,7 +181,7 @@
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - *Music Download Tool* 
 * [RipMe](https://github.com/RipMeApp/ripme) - *Bulk Album Downloader*  
 * [Spytify](https://jwallet.github.io/spy-spotify/overview.html) or [spy-spotify](https://github.com/jwallet/spy-spotify) - *Record / Download Spotify Songs*
-* [Savify](https://github.com/LaurenceRawlings/savify) or [spotDL](https://github.com/spotDL/spotify-downloader) - *Download Spotify Songs via YouTube* 
+* [Savify](https://github.com/LaurenceRawlings/savify), [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) or [spotDL](https://github.com/spotDL/spotify-downloader) - *Download Spotify Songs via YouTube* 
 * [smd](https://github.com/artyshko/smd) - *Download Spotify Songs / Linux*
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - *Bandcamp Downloader*
 * [SoundCloud Downloader](https://github.com/NotTobi/soundcloud-dl), [Klickaud](https://www.klickaud.co/), [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837-local-soundcloud-downloader), [SoundCloud-Playlist-Sync](https://github.com/erwinkramer/SoundCloud-Playlist-Sync), [Soundcloud-Downloader](https://github.com/Kawaizombi/kawai-scripts/tree/master/projects/soundcloud-downloader) or [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/) - *Soundcloud Downloader*
@@ -304,7 +304,6 @@
 * **[Redtopia](https://git.fuwafuwa.moe/cairn/Redtopia)** - *Redtopia Repository / FLAC*
 * **[the /kpg/ torrent](https://kpg.neocities.org/)** - *800gb+ Torrent File*
 * **[Lidarr](https://github.com/Lidarr/Lidarr)** - *Autodownload Music Torrents*
-* [Music Torrent](http://music-torrent.net/) - *FLAC*
 * [Flactor](https://flactor.ru/) - *FLAC*
 * [Metal Tracker](https://en.metal-tracker.com/) - *Metal / MP3*
 * [RockBox](https://rawkbawx.rocks/) - *Metal / MP3*
@@ -324,7 +323,7 @@
 
 # ► Tracking / Discovery
 
-* **[Last.fm](https://www.last.fm/home)** or [Libre](https://libre.fm/) - *Automatically track music you listen to + [Manual Scrobble](https://openscrobbler.com/)*
+* **[Last.fm](https://www.last.fm/home)** or [Libre](https://libre.fm/) - *Automatically track music you listen to / [Manual Scrobble](https://openscrobbler.com/)*
 * **[Has it leaked](https://hasitleaked.com/)** or [LEAKED](https://leaked.cx/) - *Album Leak Tracker*
 * **[Muspy](https://muspy.com/)** - *Get album release updates*
 * **[Sputnik](https://www.sputnikmusic.com/)** - *Album Ratings / Reviews*

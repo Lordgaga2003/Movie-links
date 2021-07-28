@@ -17,6 +17,10 @@
 * **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
 * [ODCrawler](https://odcrawler.xyz/), [CatFiles](https://www.catfiles.net/) or [mmnt](https://www.mmnt.net/) - *Open Directory Search Engine*
 * [ODS](https://sites.google.com/view/l33tech/tools/ods) - *Open Directory CSE*
+* [Napalm FTP](https://www.searchftps.net/) or [Search-22](https://search-22.com/ftp-search-tools) - *FTP Search*
+* [dedigger](https://www.dedigger.com/) - *GDrive File Search* 
+* [MegaDownload](http://megadownload.net/) - *Search Mega* 
+* [Megasearch](http://megasearch.co/) - *Search Mega / Use Adblocker* 
 * [/r/opendirectories](https://www.reddit.com/r/opendirectories/) - *Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner*
 * [Create Open Directory Search Engine](https://redd.it/d3w2fu)
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) or [AutoIndex](http://autoindex.sourceforge.net/) - *Open Directory Indexer* 
@@ -38,6 +42,7 @@
 * **[The-Eye](https://the-eye.eu/)** - *Audio / Roms / Books / Comics / Magazines / Software / [Search](https://eyedex.org/) / [Discord](https://discord.gg/the-eye)*
 * **[Uloz](https://ulozto.net/)** - *Video / Audio* 
 * [DDLValley](https://www.ddlvalley.me/) - *Video / Audio / Games / Roms / Software / Android / Books / Comics / Magazines*
+* [WarezForums](https://warezforums.com/) - *Video / Audio / Games / Roms / Software / Books / Comics / Android / [Account Application](https://t.me/joinchat/AAAAAFRH5fns4IiE-T2TcA)*
 * [Releaselog](http://www.rlslog.net/) - *Video / Games / Roms / Software / Books / Comics / Magazines / Android*
 * [FilmSofts](https://www.filmsofts.com/) - *Video / Audio / Games / Roms / Software / Books / Comics / NSFW*
 * [Warez-Serbia](https://www.warez-serbia.com/) - *Video / Audio / Games / Software / Android / Books / Magazines / NSFW* 
@@ -117,13 +122,9 @@
 * **[Download Sites Search](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** + [Download Sites 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h)
 * **[ZippyShareSearch](https://zippysharesearch.com/)** - *Search Zippyshare* 
 * [FilePursuit](https://filepursuit.com) + *[Discord](https://discord.gg/xRfFd8h)*
-* [dedigger](https://www.dedigger.com/) - *GDrive File Search* 
 * [scnlog](https://scnlog.me/)
-* [Napalm FTP](https://www.searchftps.net/)
 * [filesearch.link](http://filesearch.link/)
 * [Linktury](https://www.linktury.com/) 
-* [MegaDownload](http://megadownload.net/) - *Search Mega* 
-* [Megasearch](http://megasearch.co/) - *Search Mega / Use Adblocker* 
 * [Hitfilesearch](https://www.hitfilesearch.com/) - *Search HitFile*
 * [WarezOmen](https://warezomen.com/) - *Indexer / Search Engine*
 * [SunXDCC](http://sunxdcc.com/), [ixIRC](https://ixirc.com/), [xdcc.it](https://xdcc.it/) or [XDCC.EU](https://www.xdcc.eu/) - *XDCC / Search Engine*
@@ -321,6 +322,7 @@
 * [abnzb](https://www.abnzb.com/)
 * [nzb.su](https://www.nzb.su/)
 * [NZB Index](https://www.nzbindex.com/) 
+* [Newznab](https://www.newznab.com/)
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
 * [DrunkenSlug](https://drunkenslug.com/) 

@@ -17,7 +17,7 @@
 * **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - *Open-Source Extension Index*
 * **[Buster](https://github.com/dessant/buster)** or **[AntCpt](https://antcpt.com/eng/home.htm)** - *Auto Captcha Solver*
 * **[Privacy Pass](https://privacypass.github.io/)** - *Skip Captchas* 
-* **[Dark Reader](https://darkreader.org/)**, [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html), or [222](https://github.com/x08d/222) - *Dark Mode* 
+* **[Dark Reader](https://darkreader.org/)**, [Into The Black Hole](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_into_the_black_hole), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html), or [222](https://github.com/x08d/222) - *Dark Mode* 
 * [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [VimC](https://github.com/1995eaton/chromium-vim), [Web Search Navigator](https://github.com/infokiller/web-search-navigator) or [Vimium C](https://github.com/gdh1995/vimium-c) - *Keyboard Shortcuts* 
 * [Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/) or [Link Clump](https://github.com/benblack86/linkclump) - *Select & Open Multiple Links at Once* 
 * [Glitter Drag](https://github.com/harytfw/glitterdrag) - *Adds Actions on Dragging* 
@@ -33,11 +33,13 @@
 * [definer](https://lumetrium.com/definer/) or [phlinx](https://phlinx.com/) - *Highlight Search & Definitions*
 * [WebMemex](https://blog.webmemex.org/) - *Organize & Store Webpages* 
 * [Bandwidth Hero](https://bandwidth-hero.com/) - *Reduce Browsing Data Usage*
+* [Save-Data: On](https://www.daniel.priv.no/web-extensions/save-data.html) - *Auto-Enable Data Savings Mode*
 * [Auto Tab Discard](https://add0n.com/tab-discard.html), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs), [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) or [The Great Suspender](https://github.com/aciidic/thegreatsuspender-notrack) - *Discard Inactive Tabs to Reduce Memory / CPU Usage*
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - *Temporarily Snooze Tabs* 
-* [One Tab](https://www.one-tab.com/) or [TabMerger](https://lbragile.github.io/TabMerger-Extension/) - *Merge & Organize Tabs* 
+* [OneTab](https://www.one-tab.com/), [Better OneTab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg) or [TabMerger](https://lbragile.github.io/TabMerger-Extension/) - *Merge & Organize Tabs* 
 * [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn) or [Tabli](https://www.gettabli.com/) - *Tab Manager* 
 * [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups) or [Acid Tabs](https://github.com/jdhayford/acid-tabs-extension) - *Group Tabs* 
+* [Tab for a Cause](https://tab.gladly.io/) - *New Tabs = Charity Donation*
 * [Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button) - *Quickly Close All Tabs*
 * [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Saladict](https://saladict.crimx.com/) or [ImTranslator](https://imtranslator.net/) - *Translator* 
 * [Dictionaries](https://github.com/pnlpal/dictionaries) - *Popup Dictionary* 
@@ -48,7 +50,7 @@
 * [Mouse Gestures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mouse_gestures) - *Control Browser via Gestures*
 * [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/), [2](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - *Merges a Sites "Next" Pages*
 * [Video Downloader](https://provd.net/), [DownThemAll](https://www.downthemall.org/) or [Download Helper](http://www.downloadhelper.net/) - *Download Manager*
-* [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - *Play Videos in Theater Mode*
+* [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - *Play Videos in Theater Mode*
 * [Screen Recorder](https://mybrowseraddon.com/screen-recorder.html) - *Screen Recorder*
 * [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - *Audio Recorder*
 * [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - *Easily Mute All Tabs*
@@ -88,6 +90,7 @@
 * [NSFW-Filter](https://github.com/nsfw-filter/nsfw-filter) - *Block NSFW Images*
 * [Block Image Video](https://mybrowseraddon.com/block-image-video.html) - *Block All Images & Videos*
 * [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - *Disconnect Browser from the Internet*
+* [Forest](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_forest) - *Site Blocker / Productivity Booster*
 * [Wayback Machine](https://github.com/internetarchive/wayback-machine-webextension), [Web Archives](https://github.com/dessant/web-archives) or [Archiveror](https://github.com/rahiel/archiveror) - *View Archived / Cached Webpages*
 * [WaybackEverywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox) - *Auto Load Archived Versions of Dead Pages*
 * [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - *Alt Twitch Player* 
@@ -120,9 +123,6 @@
 * [Forecastfox](http://www.s3blog.org/forecastfox.html) - *Weather Addon* 
 * [Timer](https://eccorem.com/apps/timer.html) - *Timer, Alarm & Stopwatch* 
 * [XKit](https://github.com/new-xkit/XKit) - *Make Tumblr More Usable*
-* [Extensity](https://sergiokas.github.io/Extensity/index.html) - *Quickly Enable / Disable Chrome Extensions* 
-* [CRXExtractor](https://crxextractor.com/) - *Get .CRX Chrome Extension Files* 
-* [CRX Viewer](https://github.com/Rob--W/crxviewer) or - *View Extension Source Code* 
 * [Breeze Duo for KDE Plasma](https://github.com/vfrico/firefox-breeze-duo) - *Breeze Theme for better KDE Integration* 
 * [WhatRuns](https://www.whatruns.com/) - *Discover what makes a site run* 
 * [Tab Session Manager](https://tab-session-manager.sienori.com/) or [Session Buddy](https://sessionbuddy.com/) - *Session Manager* 
@@ -181,11 +181,14 @@
 * [NooBoss](https://ainoob.com/en/project/nooboss) - *Chrome Extension Manager / Extra Features*
 * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - *Add Extensions to Ungoogled Chromium* 
 * [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - *Quickly Enable / Disable Chrome Extensions*
+* [CRXExtractor](https://crxextractor.com/) - *Get .CRX Chrome Extension Files* 
+* [CRX Viewer](https://github.com/Rob--W/crxviewer) or - *View Extension Source Code* 
 * [Dark Mode](https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl) - *Dark Mode*
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
-* [Copy Paste Pro](https://chrome.google.com/webstore/detail/copy-paste-pro/epgndihjbcepnbadocaoofjnfaophlio?hl=en) - *Copy text from any site*
+* [Copy Paste Pro](https://chrome.google.com/webstore/detail/copy-paste-pro/epgndihjbcepnbadocaoofjnfaophlio?hl=en) - *Force Allow Copying Text*
+* [Beanote](https://chrome.google.com/webstore/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) - *Web Page Note Taking*
 * [Dualless](https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd) - *Split Browser Window* 
 * [chromewm](https://gitlab.com/EduCampi/chromewm) - *Tile Windows / Emulate Workspaces*
 * [Go Back in Time](https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj) - *View Archived / Cached Webpages*
@@ -194,6 +197,7 @@
 * [Mate Translate](https://gikken.co/mate-translate/chrome/) - *Translator*
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej) - *Discover Similar Webpages* 
 * [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - *View Extension Source Code* 
+* [Current Moon Phase](https://chrome.google.com/webstore/detail/current-moon-phase/ippnbhhbamibfpljlfmgogaondodicgi) - *Current Moon Phases*
 
 ## ▷ Userscripts
 
@@ -229,9 +233,10 @@
 * [Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - *Find Software / App Alternatives* 
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - *Open Source Index*
 * /r/InternetIsBeautiful - *Helpful / Fun Sites Subreddit / [Randomizer](https://therandombutton.com/)*
-* [/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index) - */r/Piracy wiki*
+* [/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index) - */r/Piracy Index*
 * [/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread) - *Software Piracy Megathread*
-* [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://alternate-awesome-piracy.vercel.app/) - *List of awesome warez and piracy links*
+* [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://alternate-awesome-piracy.vercel.app/) - *Piracy Index*
+* [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - *Piracy Index*
 * [Similar Sites](https://www.similarsites.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
 * [DirtyWarez](https://dirtywarez.org/) - *Ranks Sites*
 * [WAREZZ](https://piracy.now.sh/), [2](https://warezz.now.sh/), [3](https://github.com/xuac/warezz) - *Piracy Index*
@@ -314,7 +319,7 @@
 * /r/DataHoarder - *[Telegram](https://t.me/r_DataHoarder)*
 * /r/trackers 
 * /r/usenet 
-* /r/CrackSupport - *Piracy / Gaming / Cracking Discussion / [Discord](https://discord.gg/eTsaTNpsxj) / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch )*
+* /r/CrackSupport - *Piracy / Gaming / Cracking Discussion / [Discord](https://discord.gg/eTsaTNpsxj) / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch)*
 * [PGames](https://discord.gg/dZWwhUy) - *Piracy / Gaming / Discord*
 * [CS.RIN.RU](https://cs.rin.ru/forum)
 * [Ru.Board](http://forum.ru-board.com/)
@@ -332,6 +337,7 @@
 * [RipRequests](https://reddit.com/r/riprequests) - *FLAC / MP3 / Ripping Discussion / [Discord](https://discord.gg/y4MSkdvWYg)*
 * [GenP](https://www.reddit.com/r/GenP) - *Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)*
 * [Torrent Community](https://t.me/TorrentCommunity) - *Telegram*
+* [Archive Team](https://wiki.archiveteam.org/) - *Data Archiving Community / [Subreddit](https://www.reddit.com/r/Archiveteam/)*
 * [The Lost Media Wiki](https://lostmediawiki.com/) / [Forum](https://forums.lostmediawiki.com/)
 * [Krinkels](https://krinkels.org/) or [Encode](https://encode.su/) - *Data Compression Discussion*
 * [WJunction](https://www.wjunction.com/) - *Pirate webhost / provider discussion* 
@@ -355,6 +361,7 @@
 * [IndieGala](https://freebies.indiegala.com/) - *Games*
 * [ClaimFreeGames](https://claimfreegames.com/) - *Games* 
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - *Games*
+* [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - *Auto-Claim Free Epic Games*
 * /r/googleplaydeals - *Paid apps* 
 * [Android App Sales](https://t.me/androidappsales) - *Paid apps / Telegram* 
 * [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - *Paid apps*
@@ -463,6 +470,7 @@
 * [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - *How well do you recognize hit songs?*
 * [Themes.moe](https://themes.moe/) - *Anime Opening / Theme Search*
 * [GeekPrank](https://geekprank.com/) - *Windows Pranks*
+* [Speedtest Faker](https://jkctech.nl/projects/speedtest/) - *Fake Speedtest Results*
 * [Hacktyper](https://hackertyper.net/) or [Geektyper](https://geektyper.com/) - *Fake Hacking Screen* 
 * [Peter Answers](https://www.peteranswers.com/) - *Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack)* 
 * [No Paint](https://nopaint.art/) - *Press "Paint" if you like what you see, "No" if you don't* 
@@ -557,6 +565,7 @@
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - *Create Room / Lo-Fi Player*
 * [Michaelbach](https://michaelbach.de/ot/) - *Optical Illusions* 
 * [nobody.live](https://nobody.live/) - *Zero Viewer Twitch Stream Roulette* 
+* [Pogged](https://pogged.tv/) - *Twitch Highlights Stream*
 * [Urlebird](https://urlebird.com/) - *3rd Party TikTok with better UI*
 * [Gravity Points](https://codepen.io/akm2/full/rHIsa) or [Gravity](http://justfound.co/gravity/) - *Play with gravity* 
 * [bongo.cat](https://bongo.cat/) - *Become Bongo Cat* 

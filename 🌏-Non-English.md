@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/079IKP4.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/aPeJrjd.png)** - *For mobile users*
 
 ***
 ***
@@ -101,6 +101,7 @@
 
 * [Ali213](https://ali213.net/) - *Games*
 * [3dmgame](https://www.3dmgame.com/) - *Games / Geolocked / Baidu Required* 
+* [BD2020](https://www.bd2020.com/) - *Movies*
 * [52hdking](http://www.52hdking.com/) - *TV*  
 * [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - *Courses / [icourse163](https://www.icourse163.org/)*
 * [91Flac](https://www.91flac.com/) - *Music* 
@@ -132,6 +133,7 @@
 * [v.qq](https://v.qq.com/) - *Movies / TV / Anime*
 * [uvod.tv](https://www.uvod.tv/) - *Movies / TV / Anime*
 * [IcDrama](http://icdrama.video/) - *Movies / TV*
+* [Meiju](https://www.meiju11.com/) or [iMeiju](https://www.imeiju.net/) - *Movies / TV*
 * [Nunu Cinema](https://www.nunuyy.com/) - *Movies / TV*
 * [gangjuw](https://www.gangjuw.com/) - *TV*
 * [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - *Courses / [icourse163](https://www.icourse163.org/)*
@@ -427,6 +429,7 @@
 * [BDEBooks](https://bdebooks.com/) - *Books*
 * [requesthindibooks](https://t.me/requesthindibooks) - *Books / Request*
 * [English_Hindi_Novels_Magazine](https://t.me/English_Hindi_Novels_Magazine) - *Books / Magazines*
+* [ENewspaperEarly](https://t.me/EnewsPaperEarly) - *Newspapers*
 
 ***
 
@@ -503,7 +506,7 @@
 * [Sukidesuost](https://sukidesuost.info/) - *Music / MP3 / FLAC*
 * [Yogurk](https://www.yogurk.com/) - *Music / FLAC*
 * [Hikarinoakariost](https://hikarinoakari.com/) - *Music / MP3*
-* [jpop80ss](https://jpop80ss.blogspot.com/) - *Music / MP3*
+* [jpop80ss](https://jpop80ss.blogspot.com/), [2](https://jpop80ss2.blogspot.com/) - *Music / MP3*
 * [9tensu](http://www.9tensu.com/) - *Music / MP3*
 * [DoujinStyle.com](https://doujinstyle.com/) - *Music / MP3* 
 * [Music Fusion World](https://fusion-world-30.blogspot.com/) - *Music / MP3*
@@ -776,6 +779,7 @@
 ## ▷ Reading
 
 * [Le Livros](https://lelivros.love/) - *Books* 
+* [Biblioteca Brasiliana](https://digital.bbm.usp.br/) - *Books*
 * [Tudo De Bom em Audiolivros](https://tudodebomemaudiobooks.blogspot.com/) - *Audiobooks*
 
 ***
@@ -1132,17 +1136,23 @@
 
 ***
 
+# ► Multi Indian Languages
+
+* [0GoMovies](https://0gomovies.io/) - *Streaming / Movies / TV*
+* [JioRockers](http://www.jiorockers.uk/) - *Streaming / Movies*
+* [v100v.net](https://www.v100v.net/) - *Streaming / Movies*
+* [4MovieRulz](https://4movierulz.gg/) - *Download / Movies*
+* [TamilBlasters](https://tamilblasters.unblockit.onl/) - *Torrent / Movies*
+* [indianebooks](https://t.me/indianebooks) - *Books*
+* [OnlineFMRadio](https://www.onlinefmradio.in/) - *Radio*
+
+***
+
 # ► Other Languages
 
 * [Non-English Ebook & Audiobook Sites](https://redd.it/gehkl0)
 * [Zoro.to](https://zoro.to/) - *Multiple Language Subtitles / Anime*
 * [Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_asian_drama_sites)
-* [JioRockers](http://www.jiorockers.uk/) - *Indian Languages / Streaming / Movies*
-* [4MovieRulz](https://4movierulz.gg/) - *Indian Languages / Download / Movies*
-* [v100v.net](https://www.v100v.net/) - *Indian Languages / Streaming / Movies*
-* [TamilBlasters](https://tamilblasters.unblockit.onl/) - *Indian Languages / Torrent / Movies*
-* [indianebooks](https://t.me/indianebooks) - *Indian Languages / Books*
-* [OnlineFMRadio](https://www.onlinefmradio.in/) - *Indian Languages / Radio*
 * [Einthusan](https://einthusan.tv/intro/) - *South Asian Films Archive*
 * [wlext](https://wlext.is/) - *Turkish / Filipino / Thai / Streaming / Movies*
 * [KlikFilm](https://klikfilm.org/) - *Serbian / Streaming / Movies / TV*
@@ -1153,6 +1163,6 @@
 * [KannadaCine](https://www.kannadacine.com/) - *Kannada / Streaming / Movies*
 * [Filmarkivet](https://www.filmarkivet.se/) - *Swedish / Short Films*
 * [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - *Malaysian / Audio / Telegram*
-* [PinoyMovies](https://pinoymovies.de/) - *Filipino / Stream / Download / Movies* 
+* [PinoyMovies](https://pinoymovies.ch/), [2](https://pinoymovies.es/) - *Filipino / Stream / Download / Movies* 
 * [9jaflaver](https://9jaflaver.com/) - *Nigerian / MP3*
 * [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - *Converts Steam Prices to Argentine Pesos*

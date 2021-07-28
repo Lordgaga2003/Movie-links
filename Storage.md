@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/mZWR39X.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/ReeSgI8.png)** - *For mobile users*
 
 ***
 ***
@@ -33,7 +33,7 @@
 * **https://go.mail.ru/**
 * **https://www.baidu.com/**
 * **https://r0.ru/** 
-* **https://www.ecosia.org/**
+* **https://www.ecosia.org/** - *[Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)*
 * https://www.dogedoge.com/
 * https://oceanhero.today/
 * https://www.lycos.com/
@@ -213,6 +213,12 @@
 
 ***
 
+#### Bulk File Renamers 
+
+[Advanced Renamer](https://www.advancedrenamer.com/), [theRenamer](http://therenamer.com/), [Hydrus](https://hydrusnetwork.github.io/hydrus/), [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/), [tinyMediaManager](https://www.tinymediamanager.org/), [Bruji](https://www.bruji.com/), [mnamer](https://github.com/jkwill87/mnamer), [Szyszka](https://github.com/qarmin/szyszka), [MediaMonkey](https://www.mediamonkey.com/), [MassiveFileRenamer](https://github.com/IvanRF/MassiveFileRenamer), [Massren](https://github.com/laurent22/massren)
+
+***
+
 #### Calculator Sites
 
 * **[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)**, [RapidTables](https://www.rapidtables.com/), [Omni Calculator](https://www.omnicalculator.com/), [Calculator.net](https://www.calculator.net/sitemap.html), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [NumberEmpire](https://www.numberempire.com/), [Easy Calculation](https://www.easycalculation.com/)
@@ -356,7 +362,7 @@
 
 **File Hosts**
 
-**[File Sharing Host List](https://dirtywarez.org/cat/filehost)**, **[Weboas.is Upload](https://weboas.is/upload/)**, **[mega](https://mega.nz/)**, [mixdrop](https://mixdrop.co/), [File Pizza](https://file.pizza/), [disk.yandex](https://disk.yandex.com/), [sharedrop](https://www.sharedrop.io/), [xkcd949](http://xkcd949.com/), [wetransfer](https://wetransfer.com/), [justbeamit](https://justbeamit.com/), [krakenfiles](https://krakenfiles.com/), [lufi](https://upload.disroot.org/), [share.riseup](https://share.riseup.net/), [ufile](https://ufile.io/), [volafile](https://volafile.org/), [put.re](https://put.re/), [envelop](https://envelop.app/), [swisstransfer](https://www.swisstransfer.com/en), [globalupload](https://globalupload.io/), [UploadCenter](https://uploadcenter.com/), [Bayfiles](https://bayfiles.com/), [FireLoad](https://www.fireload.com/), [mshares](https://mshares.net/), [cyberdrop](https://cyberdrop.me/), [Cum.zone](https://thecum.zone/), [tresorit](https://send.tresorit.com/) / [2](https://web.tresorit.com/), [pixeldrain](https://pixeldrain.com/), [anonfiles](https://anonfiles.com/), [StrongFiles](https://strongfiles.net/), [SecureHa](https://securesha.re/), [dropmb](https://dropmb.com/), [zippyshare](https://www.zippyshare.com/), [catbox](https://catbox.moe/), [wormhole](https://wormhole.app/), [demo.lufi](https://demo.lufi.io/), [filewhopper](https://filewhopper.com/), [mediafire](https://www.mediafire.com/), [megaup](https://megaup.io/), [filedropper](https://www.filedropper.com/), [filesupload](https://filesupload.org/), [clicknupload](https://clicknupload.co/), [tusfiles](https://tusfiles.com/), [gofile](https://gofile.io/), [dmca.gripe](https://dmca.gripe/), [safe.fiery](https://safe.fiery.me/), [takemetospace](https://take-me-to.space/), [fileup](https://fileup.pro/), [safe.0x0](https://safe.0x0.la/), [vortex](https://vortex.64i.de/), [iizu](https://iizu.dev/), [awoo](https://awoo.cafe/), [anonvodka](https://files.anonvodka.xyz/), [file.lozy.pink](https://file.lozy.pink/), [gachimuchi](https://manly.gachimuchi.men/), [myonri](https://i.myonri.me/), [msafe](https://msafe.i0.tf/), [btrfs](https://i.btrfs.no/), [afuckingle](https://afuckingle.af/), [fuckingweeb](https://fuckingweeb.site/), [safe.vikavo](https://safe.vikavo.lt/), [imouto](https://imouto.kawaii.su/), [zz](https://zz.ht/), [edisk](https://www.edisk.cz/), [ttm](https://ttm.sh/), [youdbox](https://youdbox.com/), [ge.tt](http://ge.tt/), [send-anywhere](https://send-anywhere.com/), [1fichier](https://1fichier.com/), [9xupload](https://9xupload.asia/), [indishare](https://www.indishare.org/), [desiupload](https://dl1.desiupload.to/), [uploadflix](https://uploadflix.org/), [filestore](http://filestore.to/), [hubfiles](https://hubfiles.ws/), [uploadraja](http://uploadraja.com/), [doodrive](https://doodrive.com/), [download.gg](https://download.gg/), [dl.free](http://dl.free.fr/), [megaup](https://megaup.net/), [upload.ee](https://www.upload.ee/), [datafilehost](https://www.datafilehost.com/), [dropapk](https://dropapk.to/), [tusfiles](https://tusfiles.com/), [upload.vaa.red](https://upload.vaa.red/), [sql.gg](https://sql.gg/), [teknik](https://upload.teknik.io/), [starfiles](https://starfiles.co/), [opacity](https://www.opacity.io/), [send](https://gitlab.com/timvisee/send) / [instances](https://gitlab.com/timvisee/send-instances), [Gokapi](https://github.com/Forceu/Gokapi), [intoupload](http://intoupload.net/), [skytransfer](https://skytransfer.hns.siasky.net/), [vault.ooo](https://vault.ooo/), [blackhost](https://blackhost.xyz/?id=fup), [pipe](https://miroware.io/pipe/)
+**[File Sharing Host List](https://dirtywarez.org/cat/filehost)**, **[Weboas.is Upload](https://weboas.is/upload/)**, **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz), [mixdrop](https://mixdrop.co/), [File Pizza](https://file.pizza/), [disk.yandex](https://disk.yandex.com/), [sharedrop](https://www.sharedrop.io/), [xkcd949](http://xkcd949.com/), [wetransfer](https://wetransfer.com/), [justbeamit](https://justbeamit.com/), [krakenfiles](https://krakenfiles.com/), [lufi](https://upload.disroot.org/), [share.riseup](https://share.riseup.net/), [ufile](https://ufile.io/), [volafile](https://volafile.org/), [put.re](https://put.re/), [envelop](https://envelop.app/), [swisstransfer](https://www.swisstransfer.com/en), [globalupload](https://globalupload.io/), [UploadCenter](https://uploadcenter.com/), [Bayfiles](https://bayfiles.com/), [FireLoad](https://www.fireload.com/), [mshares](https://mshares.net/), [cyberdrop](https://cyberdrop.me/), [Cum.zone](https://thecum.zone/), [tresorit](https://send.tresorit.com/) / [2](https://web.tresorit.com/), [pixeldrain](https://pixeldrain.com/), [anonfiles](https://anonfiles.com/), [StrongFiles](https://strongfiles.net/), [SecureHa](https://securesha.re/), [dropmb](https://dropmb.com/), [zippyshare](https://www.zippyshare.com/), [catbox](https://catbox.moe/), [wormhole](https://wormhole.app/), [demo.lufi](https://demo.lufi.io/), [filewhopper](https://filewhopper.com/), [mediafire](https://www.mediafire.com/), [megaup](https://megaup.io/), [filedropper](https://www.filedropper.com/), [filesupload](https://filesupload.org/), [clicknupload](https://clicknupload.co/), [tusfiles](https://tusfiles.com/), [gofile](https://gofile.io/), [dmca.gripe](https://dmca.gripe/), [safe.fiery](https://safe.fiery.me/), [takemetospace](https://take-me-to.space/), [fileup](https://fileup.pro/), [safe.0x0](https://safe.0x0.la/), [vortex](https://vortex.64i.de/), [iizu](https://iizu.dev/), [awoo](https://awoo.cafe/), [anonvodka](https://files.anonvodka.xyz/), [file.lozy.pink](https://file.lozy.pink/), [gachimuchi](https://manly.gachimuchi.men/), [myonri](https://i.myonri.me/), [msafe](https://msafe.i0.tf/), [btrfs](https://i.btrfs.no/), [afuckingle](https://afuckingle.af/), [fuckingweeb](https://fuckingweeb.site/), [safe.vikavo](https://safe.vikavo.lt/), [imouto](https://imouto.kawaii.su/), [zz](https://zz.ht/), [edisk](https://www.edisk.cz/), [ttm](https://ttm.sh/), [youdbox](https://youdbox.com/), [ge.tt](http://ge.tt/), [send-anywhere](https://send-anywhere.com/), [1fichier](https://1fichier.com/), [9xupload](https://9xupload.asia/), [indishare](https://www.indishare.org/), [desiupload](https://dl1.desiupload.to/), [uploadflix](https://uploadflix.org/), [filestore](http://filestore.to/), [hubfiles](https://hubfiles.ws/), [uploadraja](http://uploadraja.com/), [doodrive](https://doodrive.com/), [download.gg](https://download.gg/), [dl.free](http://dl.free.fr/), [megaup](https://megaup.net/), [upload.ee](https://www.upload.ee/), [datafilehost](https://www.datafilehost.com/), [dropapk](https://dropapk.to/), [tusfiles](https://tusfiles.com/), [upload.vaa.red](https://upload.vaa.red/), [sql.gg](https://sql.gg/), [teknik](https://upload.teknik.io/), [starfiles](https://starfiles.co/), [opacity](https://www.opacity.io/), [send](https://gitlab.com/timvisee/send) / [instances](https://gitlab.com/timvisee/send-instances), [Gokapi](https://github.com/Forceu/Gokapi), [intoupload](http://intoupload.net/), [skytransfer](https://skytransfer.hns.siasky.net/), [vault.ooo](https://vault.ooo/), [blackhost](https://blackhost.xyz/?id=fup), [pipe](https://miroware.io/pipe/)
 
 
 **SkyNet**
@@ -373,6 +379,12 @@
 * [Movies7](https://movies7.to/)
 * [Flixtor](https://flixtor.one/)
 * [BFlix](https://www1.bflix.to/)
+
+***
+
+#### Forest 
+
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/forest-stay-focused-be-present/) / [Chrome](https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk)
 
 ***
 
@@ -421,7 +433,7 @@
 
 #### Grammar Check
 
-**[Scribens](https://www.scribens.com/)**, [Wordtune](https://www.wordtune.com/), [DraftMap](https://draftmap.com/), [HemingwayApp](http://hemingwayapp.com/), [Grammark](https://grammark.org/), [SlickWrite](https://www.slickwrite.com/), [Ginger Software](https://www.gingersoftware.com/grammarcheck), [LanguageTool](https://languagetool.org/), [Grammarly](https://www.grammarly.com/)  / [Free Premium](https://redd.it/kfncju) 
+**[Scribens](https://www.scribens.com/)**, [Wordtune](https://www.wordtune.com/), [DraftMap](https://draftmap.com/), [HemingwayApp](http://hemingwayapp.com/), [Grammark](https://grammark.org/), [SlickWrite](https://www.slickwrite.com/), [Ginger Software](https://www.gingersoftware.com/grammarcheck), [LanguageTool](https://languagetool.org/), [Grammarly](https://www.grammarly.com/)  / [Free Premium](https://redd.it/kfncju), [Grammica](https://grammica.com/) 
 
 ***
 
@@ -535,6 +547,12 @@
 #### Internet Speed Test
 
 [fast](https://fast.com/), [LibreSpeed](https://librespeed.org/), [Xfinity Speed Test](https://speedtest.xfinity.com/), [DLS Reports](http://www.dslreports.com/tools), [Bandwidth Place](https://www.bandwidthplace.com/), [Cloudflare](https://speed.cloudflare.com/), [Speedtest](https://www.speedtest.net/), [wifiman](http://wifiman.com/), [PeerFast](https://diegorbaquero.github.io/PeerFast/) (P2P)
+
+***
+
+#### Into The Black Hole
+
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/into-the-black-hole/) / [Chrome](https://chrome.google.com/webstore/detail/into-the-black-hole-true/faeadnfmdfamenfhaipofoffijhlnkif)
 
 ***
 
@@ -676,7 +694,7 @@ Add the following commands to a search to manually scrape each site.
 
 * **[Plex](https://www.plex.tv/)** + */r/plexshares / [Linux](https://knapsu.eu/plex/) / [Setup Guide](https://redd.it/ma1hlm), [2](https://hoarding.me/) / [Linux](https://github.com/binhex/arch-plexpass)*
 * [Emby](https://emby.media/) + */r/EmbyShares*
-* [Jellyfin](https://jellyfin.org/) + */r/JellyfinShares*
+* [Jellyfin](https://jellyfin.org/) + */r/JellyfinShares / [Anime Plugin](https://github.com/jellyfin-archive/jellyfin-plugin-anime) / [Desktop Client](https://github.com/jellyfin/jellyfin-media-player) / [Playlist Export](https://github.com/pyluyten/jellyfin_playlist_exporter)* 
 * [Universal Media Server](https://www.universalmediaserver.com/)
 * [OSMC](https://osmc.tv/)
 * [Olaris](https://gitlab.com/olaris/olaris-server/tree/master)
@@ -689,13 +707,20 @@ Add the following commands to a search to manually scrape each site.
 * [MiniDLNA](https://sourceforge.net/projects/minidlna/)
 * [SimpleDLNA](https://nmaier.github.io/simpleDLNA/) 
 * [Vigilio](https://vigilio.tugcan.net/) - *[GitHub](https://github.com/tugcanolgun/vigilio)*
+* [ErsatzTV](https://ersatztv.org/) - *Live Channel Media Server*
+* [dizqueTV](https://github.com/vexorian/dizquetv) - *Live Channel Media Server*
 * [Cloudbox](https://cloudbox.works/) - *Cloud Media Ubuntu Server*
 * [Autodownload Tools](https://redd.it/hbwnb2) - *Companion Apps for Media Servers*
 * [Ombi](https://ombi.io/) - *Plex / Emby User Request Management*
 * [Overseerr](https://overseerr.dev/) - *Plex User Request Management*
-* [Kodi](https://kodi.tv/) 
-* Kodi Tools - /r/Addons4Kodi, [Addons](https://kinkeadtech.com/best-kodi-streaming-addons/), [2](https://kodiapps.com/addons-chart), [MMA](https://www.bestkoditips.com/best-kodi-addons-to-watch-ufc-online/), [KDrama](https://aznhusband.github.io/), [cywteow](https://cywteow.github.io/), [IPTV](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client), [Media Tracker](https://simkl.com/), [Media Manager](https://github.com/komet/mediaelch)
-* [FireStick Jailbreak](https://www.firesticktricks.com/) - *Firestick jailbreaking guide* 
+
+**Kodi**
+
+* [Kodi](https://kodi.tv/) - *Media Server / Streaming App*
+* Kodi Addons - /r/Addons4Kodi, [Addon Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) /  [2](https://kodiapps.com/addons-chart)
+* [MMA](https://www.bestkoditips.com/best-kodi-addons-to-watch-ufc-online/) - *MMA App*
+* [KDrama](https://aznhusband.github.io/) or [cywteow](https://cywteow.github.io/) - *KDrama Apps*
+* Kodi Tools - [IPTV](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) / [Media Tracker](https://simkl.com/) / [Media Manager](https://github.com/komet/mediaelch) / [Plex](https://github.com/plexinc/plex-for-kodi)
 
 ***
 
@@ -1184,7 +1209,7 @@ Add the following commands to a search to manually scrape each site.
 
 ####  Screen Recorders
 
-**[OBS](https://obsproject.com/)**, [Bandicam](https://filecr.com/?s=bandicam), [FFmpeg](https://ffmpeg.org/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php), [Screenpresso](https://www.screenpresso.com/), [LiteCam](https://www.litecam.net/en/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [EZVid](https://www.ezvid.com/), [Captura](https://mathewsachin.github.io/Captura/), [Kap](https://getkap.co/), [Screen Recorder](https://mybrowseraddon.com/screen-recorder.html) (addon)
+**[OBS](https://obsproject.com/)**, [Bandicam](https://filecr.com/?s=bandicam), [FFmpeg](https://ffmpeg.org/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php), [Screenpresso](https://www.screenpresso.com/), [LiteCam](https://www.litecam.net/en/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [EZVid](https://www.ezvid.com/), [Captura](https://mathewsachin.github.io/Captura/), [ScreenRecorder.2.0](https://github.com/Samuel-dot-cloud/ScreenRecorder.2.0), [Kap](https://getkap.co/), [Screen Recorder](https://mybrowseraddon.com/screen-recorder.html) (addon)
 
 ***
 
@@ -1194,6 +1219,8 @@ Add the following commands to a search to manually scrape each site.
 * [Flameshot](https://flameshot.org/) / [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
 * [Greenshot](https://getgreenshot.org/)
 * [Gyazo](https://gyazo.com/)
+* [KSnip](https://github.com/ksnip/ksnip)
+* [MagicCap](https://magiccap.me/) - *Mac / Linux*
 
 ***
 
@@ -1647,7 +1674,7 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 
 **Bots** 
 
-[Torrent all-in-one bot](https://github.com/patheticGeek/torrent-aio-bot), [Codemaster](https://github.com/mohitjoshi155/Codemaster), [Mirror-Bot](https://github.com/KenHV/Mirror-Bot), [TorrentLeech](https://github.com/gautamajay52/TorrentLeech-Gdrive), [TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX), [google-drive-torrent](https://github.com/karl-chan/google-drive-torrent), [torrents-to-google_drive](https://github.com/dabare/torrents-to-google_drive), [EmbetaCloud](https://github.com/Mrigank11/embetacloud), [TorrentMega2GoogleDrive](https://github.com/kakamband/TorrentMega2GoogleDrive), [Torrent-To-Google-Drive-Downloader](https://github.com/FKLC/Torrent-To-Google-Drive-Downloader) / [2](https://github.com/puki56/Torrent-To-Google-Drive-Downloader)
+[Torrent all-in-one bot](https://github.com/patheticGeek/torrent-aio-bot), [Codemaster](https://github.com/mohitjoshi155/Codemaster), [Mirror-Bot](https://github.com/KenHV/Mirror-Bot), [TorrentLeech](https://github.com/gautamajay52/TorrentLeech-Gdrive) / [2](https://github.com/alfianandaa/TorrentLeech-Gdrive), [TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX), [google-drive-torrent](https://github.com/karl-chan/google-drive-torrent), [torrents-to-google_drive](https://github.com/dabare/torrents-to-google_drive), [EmbetaCloud](https://github.com/Mrigank11/embetacloud), [TorrentMega2GoogleDrive](https://github.com/kakamband/TorrentMega2GoogleDrive), [Torrent-To-Google-Drive-Downloader](https://github.com/FKLC/Torrent-To-Google-Drive-Downloader) / [2](https://github.com/puki56/Torrent-To-Google-Drive-Downloader)
 
 **Telegram Bots**
 
@@ -1719,13 +1746,13 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 
 #### Video Players
 
-**Players**
+**Players** - **[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [VLC](https://www.videolan.org/), [MPC-HC](https://mpc-hc.org/), [MPC-BE](https://sourceforge.net/projects/mpcbe/), [Pot Player](http://potplayer.daum.net/), [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player), [uView](https://www.idruf.com/) (Floating)
 
-**[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [VLC](https://www.videolan.org/), [MPC-HC](https://mpc-hc.org/), [MPC-BE](https://sourceforge.net/projects/mpcbe/), [Pot Player](http://potplayer.daum.net/), [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player), [uView](https://www.idruf.com/) (Floating)
+**MPV Tools** - [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [Sub Navigation](https://github.com/perogiue/mpv-scripts/releases/) / [SponsorBlock](https://github.com/po5/mpv_sponsorblock) / [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) / [MPC-DiscordRPC](https://github.com/angeloanan/MPC-DiscordRPC)
 
-**Tools**
+**VLC Tools** - [Browser Control](https://mybrowseraddon.com/remote-vlc-player.html) / [Sub Downloader](https://github.com/exebetche/vlsub) / [OpenWithVLC](https://addons.mozilla.org/en-US/firefox/addon/open-with-vlc/)
 
-[Codecs](http://www.codecguide.com/download_kl.htm) / [MPV Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [MPV Sub Navigation](https://github.com/perogiue/mpv-scripts/releases/) / [MPV SponsorBlock](https://github.com/po5/mpv_sponsorblock) / [VLC Browser Control](https://mybrowseraddon.com/remote-vlc-player.html) / [VLC Sub Downloader](https://github.com/exebetche/vlsub) / [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) / [MPC-DiscordRPC](https://github.com/angeloanan/MPC-DiscordRPC)
+**[Codecs](http://www.codecguide.com/download_kl.htm)**
 
 ***
 

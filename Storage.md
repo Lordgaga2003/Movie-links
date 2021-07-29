@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/ReeSgI8.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/nVPZPJF.png)** - *For mobile users*
 
 ***
 ***
@@ -758,7 +758,7 @@ Add the following commands to a search to manually scrape each site.
 
 [PineTools](https://pinetools.com/), [123Apps](https://123apps.com/), [iTools](http://itools.com/), [Framasoft](https://framasoft.org/), [browserling Tools](https://www.browserling.com/tools/)
 [Dan's Tools](https://www.danstools.com/), [WebBrowserTools](https://webbrowsertools.com/) 
-[CyberChef](https://gchq.github.io/CyberChef/), [ManyTools](https://manytools.org/), [Comment Picker](https://commentpicker.com/other-tools.php), [OSINT Combine](https://www.osintcombine.com/tools), [MxToolbox](https://mxtoolbox.com/NetworkTools.aspx), [Sumo](https://sumo.app/), [Melobytes](https://melobytes.com/en) 
+[CyberChef](https://gchq.github.io/CyberChef/), [ManyTools](https://manytools.org/), [Comment Picker](https://commentpicker.com/other-tools.php), [OSINT Combine](https://www.osintcombine.com/tools), [MxToolbox](https://mxtoolbox.com/NetworkTools.aspx), [Sumo](https://sumo.app/), [Melobytes](https://melobytes.com/en), [PatorJK](https://www.patorjk.com/) 
 
 ***
 
@@ -818,6 +818,7 @@ Add the following commands to a search to manually scrape each site.
 * https://malahu.n5.myws.ca/
 * https://od.wasonliu.workers.dev/
 * https://office-user-auto-create.zaya.workers.dev/
+* [90 Day Trial](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 
 ***
 
@@ -1149,7 +1150,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### qBitorrent Tools
 
-[VPN Bind (Important)](https://www.ghacks.net/2016/03/23/qbittorrent-block-transfers-vpn-disconnect/) / [Plugins](https://github.com/qbittorrent/search-plugins#search-plugins) / [Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) / [Themes](https://github.com/jagannatharjun/qbt-theme) / [iOS Theme](https://github.com/ntoporcov/iQbit/) / [Docker](https://github.com/linuxserver/docker-qbittorrent) / [WebUI](https://github.com/WDaan/VueTorrent) / [Mega Upload](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent_MEGA.ipynb) / [Gdrive Upload](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb)
+[VPN Bind (Important)](https://www.ghacks.net/2016/03/23/qbittorrent-block-transfers-vpn-disconnect/) / [Plugins](https://github.com/qbittorrent/search-plugins#search-plugins) / [Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) / [Themes](https://github.com/jagannatharjun/qbt-theme) / [iOS Theme](https://github.com/ntoporcov/iQbit/) / [Docker](https://github.com/linuxserver/docker-qbittorrent) / [Web Client](https://github.com/sobuj53/web_qbittorrent), [2](https://github.com/WDaan/VueTorrent) / [Mega Upload](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent_MEGA.ipynb) / [Gdrive Upload](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb)
 
 ***
 
@@ -1186,6 +1187,12 @@ Add the following commands to a search to manually scrape each site.
 #### Restore Classic Google Icons
 
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/classic-google-icons/), [Chrome](https://chrome.google.com/webstore/detail/restore-old-google-icons/iellnmonjokmoagdlggagdmfjgpiahmb/)
+
+***
+
+#### Resume Makers
+
+[cvmkr](https://cvmkr.com/), [resumonk](https://www.resumonk.com/), [ceev](https://ceev.io/), [creddle](http://creddle.io/), [ineedaresu](https://ineedaresu.me/), [flowcv](https://flowcv.io/), [cv2you](https://cv2you.com/), [cvservant](https://cvservant.com/cv/), [resume-nation](https://resume-nation.github.io/)
 
 ***
 
@@ -1371,7 +1378,7 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 * https://driveflask.herokuapp.com/
 * https://tv.ssr.workers.dev/
 * https://penglai.ga/
-* https://td.msgsuite.workers.dev/
+* https://td.msgsuite.workers.dev/ + [Telegram Chat](https://t.me/msgsuitechat)
 * https://team.leehaiha.com/
 * https://tb.mygindex.workers.dev/
 * https://create.klprojects.tech/
@@ -1674,11 +1681,11 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 
 **Bots** 
 
-[Torrent all-in-one bot](https://github.com/patheticGeek/torrent-aio-bot), [Codemaster](https://github.com/mohitjoshi155/Codemaster), [Mirror-Bot](https://github.com/KenHV/Mirror-Bot), [TorrentLeech](https://github.com/gautamajay52/TorrentLeech-Gdrive) / [2](https://github.com/alfianandaa/TorrentLeech-Gdrive), [TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX), [google-drive-torrent](https://github.com/karl-chan/google-drive-torrent), [torrents-to-google_drive](https://github.com/dabare/torrents-to-google_drive), [EmbetaCloud](https://github.com/Mrigank11/embetacloud), [TorrentMega2GoogleDrive](https://github.com/kakamband/TorrentMega2GoogleDrive), [Torrent-To-Google-Drive-Downloader](https://github.com/FKLC/Torrent-To-Google-Drive-Downloader) / [2](https://github.com/puki56/Torrent-To-Google-Drive-Downloader)
+[Torrent all-in-one bot](https://github.com/patheticGeek/torrent-aio-bot), [Codemaster](https://github.com/mohitjoshi155/Codemaster), [Mirror-Bot](https://github.com/KenHV/Mirror-Bot), [TorrentLeech](https://github.com/gautamajay52/TorrentLeech-Gdrive) / [2](https://github.com/alfianandaa/TorrentLeech-Gdrive), [TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX), [google-drive-torrent](https://github.com/karl-chan/google-drive-torrent), [torrents-to-google_drive](https://github.com/dabare/torrents-to-google_drive), [EmbetaCloud](https://github.com/Mrigank11/embetacloud), [TorrentMega2GoogleDrive](https://github.com/kakamband/TorrentMega2GoogleDrive), [Torrent-To-Google-Drive-Downloader](https://github.com/FKLC/Torrent-To-Google-Drive-Downloader) / [2](https://github.com/puki56/Torrent-To-Google-Drive-Downloader), [Torrents-to-Google-Drive](https://github.com/cheems/Torrents-to-Google-Drive)
 
 **Telegram Bots**
 
-**[Telegram Bots List](https://rentry.co/torrent2gdrive)**, [TorrentBots](https://t.me/), [TorrentLeechingGroup](https://t.me/TorrentLeechingGroup)
+**[Telegram Bots List](https://rentry.co/torrent2gdrive)**, [TorrentBots](https://t.me/), [TorrentLeechingGroup](https://t.me/TorrentLeechingGroup), [MirrorBots](https://t.me/MirrorBots)
 
 *** 
 

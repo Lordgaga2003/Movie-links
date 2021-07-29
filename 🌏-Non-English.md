@@ -96,6 +96,7 @@
 
 * [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - *Chinese Site / Tool Index*
 * [zimuku](http://zimuku.org/) - *Subtitles*
+* [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
 
 ## ▷ Downloading
 
@@ -427,6 +428,7 @@
 ## ▷ Reading
 
 * [BDEBooks](https://bdebooks.com/) - *Books*
+* [Hindiebooks](https://t.me/Hindiebooks), [2](https://t.me/EbookzStuff) - *Books*
 * [requesthindibooks](https://t.me/requesthindibooks) - *Books / Request*
 * [English_Hindi_Novels_Magazine](https://t.me/English_Hindi_Novels_Magazine) - *Books / Magazines*
 * [ENewspaperEarly](https://t.me/EnewsPaperEarly) - *Newspapers*
@@ -657,6 +659,7 @@
 * [A101](http://a101.ir/) - *Anime* 
 * [anidlencodes](https://anidlencodes.xyz/) - *Anime* 
 * [my2amidl](http://my2amidl.pw/) - *Anime* 
+* [List20](https://www.anime-list20.site/) - *Anime*
 * [otakutales](https://otakutales.site/) - *Anime*
 * [bia2anime99](http://bia2anime99.ml/) - *Anime*
 * [anime-list16](https://anime-list16.site/) - *Anime*
@@ -1142,6 +1145,7 @@
 * [JioRockers](http://www.jiorockers.uk/) - *Streaming / Movies*
 * [v100v.net](https://www.v100v.net/) - *Streaming / Movies*
 * [4MovieRulz](https://4movierulz.gg/) - *Download / Movies*
+* [Indian Flac Songs](https://t.me/indianflacsongs) - *Download / Music*
 * [TamilBlasters](https://tamilblasters.unblockit.onl/) - *Torrent / Movies*
 * [indianebooks](https://t.me/indianebooks) - *Books*
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - *Radio*
@@ -1163,6 +1167,7 @@
 * [KannadaCine](https://www.kannadacine.com/) - *Kannada / Streaming / Movies*
 * [Filmarkivet](https://www.filmarkivet.se/) - *Swedish / Short Films*
 * [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - *Malaysian / Audio / Telegram*
+* [PDFlibrary](https://t.me/PDFlibrary) - *Malayalam / Books / Telegram*
 * [PinoyMovies](https://pinoymovies.ch/), [2](https://pinoymovies.es/) - *Filipino / Stream / Download / Movies* 
 * [9jaflaver](https://9jaflaver.com/) - *Nigerian / MP3*
 * [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - *Converts Steam Prices to Argentine Pesos*

@@ -27,9 +27,10 @@
 * [DLGames](https://dlgames.fun/)
 * [GoG Games](https://gog-games.com/)
 * [Torrminatorr](https://forum.torrminatorr.com/)
-* [Rekulous Repacks](https://discord.gg/zSXWwzav7R)
+* [SteamRIP](https://steamrip.com/) - *[Discord](https://discord.gg/hj8dU5BFHE)*
 * [KaOsKrew](https://www.kaoskrew.org/)
 * [Crohasit](https://crohasit.net/)
+* [Rekulous Repacks](https://discord.gg/zSXWwzav7R)
 * [Le Fishe Repacks](https://lefishe.rf.gd/) - *[Discord](https://discord.gg/W3MfGDXhAS)*
 * [ElAmigos](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
 * [Black Box Repack](http://www.blackboxrepack.com/) 
@@ -176,10 +177,12 @@
 * [Pleasuredome](http://www.pleasuredome.org.uk/) - *Roms / Torrent*
 * [NesFiles](https://www.nesfiles.com/) - *NES Roms / Emulators* 
 * [Eclipse](https://eclipseemu.me/play/) - *Online Mobile Multi-Console Emulator* 
-* [/r/Roms](https://www.reddit.com/r/Roms/) - *Discussion sub*
+* [webnofrendo](https://zardam.github.io/webnofrendo/) - *NES Numworks Emulator*
+* [/r/Roms](https://www.reddit.com/r/Roms/) - *Discussion Sub*
 * [GameBoy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - *Gameboy Tools*
 * [GameBoy Book Reader](https://www.mqp.com/fun/) - *Gameboy Book Reader*
 * [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - *Add More Roms to NES/SNES Classic Mini*
+* [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - *.XBE to ISO File Converter*
 * [Homebrew Gang](https://thehbg.shop/main.html) - *Switch Homebrew Community*
 * /r/ps3homebrew - *PS3 Homebrew Subreddit*
 * [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) - *Yuzu Emulator Setup Guide*

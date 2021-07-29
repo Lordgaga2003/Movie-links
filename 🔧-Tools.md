@@ -67,6 +67,7 @@
 * [SlidesGo](https://slidesgo.com/) or [ThePOPP](https://thepopp.com/) - *Google Slides / Powerpoint Templates* 
 * [QR Tiger](https://www.qrcode-tiger.com/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - *QR Code Generator* 
 * [QRpicture](https://www.qrpicture.com/) - *Picture to QR Code Converter* 
+* [Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers) - *Create Resumes for Free*
 * [7 Cups](https://www.7cups.com/) - *Free Care & Therapy*
 * [Helpmap](https://helpmap.io/) - *Nonprofit Donation Map* 
 * [findhelp.org](https://www.findhelp.org/) - *Find Assistive Programs*
@@ -271,9 +272,9 @@
 * [FaceMaker](http://facemaker.uvrg.org/) - *Face / Avatar Generator* 
 * [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - *AI Art Generation Guide*
 * [ImgOps](https://imgops.com/) - *Image operations meta-tool*
-* [Gravit Designer](https://www.designer.io/) - *Graphic design app*
-* [MagicaVoxel](https://ephtracy.github.io/) - *Voxel art editor / interactive path tracing renderer*
-* [FreeCAD](https://www.freecadweb.org/) - *3D parametric modeler*
+* [Gravit Designer](https://www.designer.io/) - *Graphic Design App*
+* [MagicaVoxel](https://ephtracy.github.io/) - *Voxel Art Editor / Interactive Path Tracing renderer*
+* [FreeCAD](https://www.freecadweb.org/) - *3D Parametric Modeler*
 * [vrn](https://cvl-demos.cs.nott.ac.uk/vrn/) - *3D Face Reconstruction* 
 * [Image-to-Image](https://affinelayer.com/pixsrv/) - *Interactive Image Translation*
 * [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - *Chimera Generator* 
@@ -305,6 +306,7 @@
 * [FotoForensics](http://www.fotoforensics.com/), [Forensically](https://29a.ch/photo-forensics/) or [Ghiro](http://www.getghiro.org/) - *Photo Forensics Tool* 
 * [Image Identification Project](https://www.imageidentify.com/) - *Image Identification Tool* 
 * [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [ImSter](https://github.com/armytricks/ImSter) or [stegpy](https://github.com/dhsdshdhk/stegpy) - *Embed & Extract Hidden Data in Images / Steganography* 
+* [Verbex](https://www.vedbex.com/fakeproof) - *Fake "Proof" Generator*
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - *Blur Images / Scrub Metadata*
 * [CompressOrDie](https://compress-or-die.com/), [Caesium](https://saerasoft.com/caesium/) or [Batch Compress](https://batchcompress.com/en) - *Image Compressor* 
 * [TinyPNG](https://tinypng.com/) or [PNGQuant](https://pngquant.org/) - *PNG Compressor* 
@@ -456,6 +458,7 @@
 * [Airsonic](https://github.com/airsonic/airsonic) - *Audio Media Server* 
 * [TheAudioScene](https://theaudioscene.net/) - *Daws / VSTi / Samples / Presets* 
 * [FlsAudio](https://flsaudio.com/en/gb/) - *FLStudio Samples / Presets / Plugins* 
+* [FLStudio Skins](https://mega.nz/folder/LBA0AB4S#z0QoDfFcJkeh2QXWvynZ2Q) - *Skins for FLStudio*
 * [AirWindows](http://www.airwindows.com/) - *Reverbs, Equalizers, Plugins ect.*
 * [Webamp](https://webamp.org/) - *Winamp in browser* 
 * [Winamp Skin Museum](https://skins.webamp.org/) - *Skins for Winamp/Webamp* 
@@ -569,6 +572,7 @@
 * [Mobac](https://mobac.sourceforge.io/) - *Mobile Atlas Creator*
 * [American Panorama](https://dsl.richmond.edu/panorama/) - *Interactive US Historical Maps*
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
+* [Gas Price Map](https://www.gasbuddy.com/gaspricemap) - *US Gas Price Map*
 * [CellMapper](https://www.cellmapper.net/) - *Cell Tower Map*
 * [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - *Web Service Coverage Map*
 * [PowerOutage](https://poweroutage.us/) - *Power Outage Map*
@@ -641,6 +645,9 @@
 * [Delta Chat](https://delta.chat/en/) - *Email Based Messenger* 
 * [Unigram](https://github.com/UnigramDev/Unigram), [Tok](https://invent.kde.org/network/tok) or [Kotatogram](https://github.com/kotatogram/kotatogram-desktop) - *Telegram Desktop Client*
 * [Web.Telegram](https://web.telegram.org/), [2](https://webk.telegram.org/), [3](https://webz.telegram.org/) - *Telegram Web Client*
+* [Rose](https://t.me/MissRose_bot) - *Telegram Group Manager*
+* [TGCF](https://github.com/aahnik/tgcf) - *Telegram Message Forwarding*
+* [Userge](http://theuserge.tech/) - *Multi-Tool Telegram Bot*
 * [Matrix Public Homeservers](https://publiclist.anchel.nl/) - *Free Matrix Home Servers* 
 * [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) - *Matrix Server List*
 * [Jitsi](https://desktop.jitsi.org/index.html), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone) or [Briefing](https://brie.fi/ng) - *Video Chat* 
@@ -716,6 +723,7 @@
 * [PrintFriendly](https://www.printfriendly.com/) or [PrintWhatYouLike](https://www.printwhatyoulike.com/) - *Printer / PDF Version of Webpages*
 * [Textise](https://textise.net/) - *Remove Everything from a Page Except Text* 
 * [Signature Maker](https://signature-maker.net/) - *Digital / Email Signature Maker* 
+* [FreeMail](https://extrassl.actalis.it/portal/uapub/freemail?lang=en) - *Free Mail Certificate*
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - *User Agent Archive* 
 * [FaxZero](https://faxzero.com/) - *Free Internet Faxing* 
 * [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/) - *Helps Generate Privacy Policies* 
@@ -774,7 +782,7 @@ General Reading Sites*
 * [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - *40 Custom Search Engines*
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - *Facebook Search Formulas* 
 * [Graph.tips](https://graph.tips/beta/) - *Advanced Facebook Search Tool* 
-* [Google Search Operator Cheat Sheets](https://moz.com/learn/seo/search-operators), [2](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [3](https://ahrefs.com/blog/google-advanced-search-operators/)
+* [Google Search Operator Cheat Sheets](https://moz.com/learn/seo/search-operators), [2](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [3](https://ahrefs.com/blog/google-advanced-search-operators/), [4](https://l-lists.com/en/lists/m1mdwx.html)
 * [Google Search Guide](https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters) + [Advanced](https://coursebuilder.withgoogle.com/)
 * [Cyber](https://cyber.page/) - *Hash Search Engine* 
 * [Proisk](https://proisk.com/) - *FTP Search Engine*
@@ -922,7 +930,7 @@ General Reading Sites*
 * [bdCompat](https://github.com/Juby210/bdCompat) - *Use BD Plugins in Powercord*
 * [Revert Rebrand](https://betterdiscord.app/theme/Revert%20Rebrand) - *Revert Discord’s Rebrand on BetterDiscord / Powercord / [GitHub](https://github.com/Goose-Nest/GT-RevertRebrand)*
 * [Discord Portable](https://portapps.io/app/discord-portable/) - *Portable Discord Stable & [PTB PortApps](https://portapps.io/app/discord-ptb-portable/)*
-* [Unicord](https://github.com/WamWooWam/Unicord) - *Open Source Discord Client* 
+* [Unicord](https://github.com/WamWooWam/Unicord) - *Open Source Discord Client / [Discord](https://discord.gg/64g7M5Y)* 
 * [Fosscord](https://github.com/fosscord/fosscord) - *FOSS Discord Client*
 * [GooseMod](https://goosemod.com/) - *Modifiable Discord Client / [Firefox](https://addons.mozilla.org/addon/goosemod-for-web/) / [Chrome](https://chrome.google.com/webstore/detail/goosemod-for-web/clgkdcccmbjmjdbdgcigpocfkkjeaeld)*
 * [OpenDiscord](https://github.com/505e06b2/OpenDiscord) - *Modifiable Discord Client*
@@ -996,8 +1004,9 @@ General Reading Sites*
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - *Datamining Discord changes from the JS files*
 * [Discord Previews](https://discord.gg/QMw7gQGMHj) - *New Discord Builds / Changes*
 * [Discord.sale](https://discord.sale/) - *Discord Client Build Info*
-* [discasset](https://github.com/Commandtechno/discasset), [2](https://gitlab.com/derpystuff/discasset) - *Discord Asset Grabber *
+* [discasset](https://github.com/Commandtechno/discasset), [2](https://gitlab.com/derpystuff/discasset) - *Discord Asset Grabber*
 * [Hypesquad](https://cdn.discordapp.com/attachments/668986791797325824/844589771653382194/unknown.png) - *Get a Discord Profile Badge*
+* [Imagine](https://imagine.vanished.rocks/) - *Imagine Discord Branding Image Creator*
 * [Discord Games](https://discord-games.cf/) - *Discord Rickrolling*
 * [DiscordExtras](https://github.com/NotZoeyDev/DiscordExtras) - *Patch iOS Discord Client*
 * [Figma](https://www.figma.com/community/file/992144378612759941/Discord-Resources) - *Discord Resources / [Desktop](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)*
@@ -1224,7 +1233,6 @@ General Reading Sites*
 * [Parsec](https://parsec.app/), [RustDesk](https://rustdesk.com/), [RemoteDesktop](https://remotedesktop.google.com/), [AnyDesk](https://anydesk.com/en), [TeamViewer](https://www.teamviewer.com/en-us/) or [NoMachine](https://www.nomachine.com/) - *Remote Desktop Clients*
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - *Free Ubuntu VNC*
 * [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) or [Ubuntu-Grdp](https://github.com/Area69Lab/Ubuntu-Grdp) - *Free Google RDP*
-* [windowsrdpfree](https://github.com/fmcpetermux/windowsrdpfree) - *Free Windows RDP*
 * [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) - *Free Google Colab VPS on 25GB RAM*
 * [mRemoteNG](https://mremoteng.org/) - *Remote Connections Manager* 
 * [Netmaker](https://gravitl.com/netmaker) - *Create Virtual Network*
@@ -1295,7 +1303,7 @@ General Reading Sites*
 * [SuperDuperWallpaper](https://gitlab.com/sech1p/superduperwallpaper) or [ScreenPlay](https://screen-play.app/) - *Wallpaper Manager*
 * [ScreenStyler](https://screenstyler.com/) -  *Desktop Customization / [Discord](https://discord.gg/u3thTMp9Cd)*
 * [XDesktopSoft](https://www.xwidget.com/) - *Desktop Customization*
-* [VirtualCustoms](https://virtualcustoms.net/), [WinCustomize](https://www.wincustomize.com/) or [7Themes](https://7themes.su/) - *Desktop Customization / Themes / Wallpapers ect.* 
+* [WindowsCustomization](https://windowscustomization.com/), [VirtualCustoms](https://virtualcustoms.net/), [WinCustomize](https://www.wincustomize.com/) or [7Themes](https://7themes.su/) - *Desktop Customization / Themes / Wallpapers ect.* 
 * [DynaWin](https://github.com/Apollo199999999/DynaWin) - *Dynamic Desktop Themes*
 * [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) - *System Lighting Control*
 * [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - *Audio Visualizer / FX Engine for Keyboards, Mice & Accessories*
@@ -1356,12 +1364,13 @@ General Reading Sites*
 * [Unlimited Mega Storage](https://redd.it/ffrkf3) - *Unimited Mega Storage Guide*
 * [MegaBox](https://github.com/ALIILAPRO/megabox) - *Get Direct Links from Mega* 
 * [Mega-to-Google-Drive](https://github.com/cheems/Mega-to-Google-Drive) - *Transfer Files from Mega to GDrive*
+* [GDrive Guides](https://t.me/gdriveguides) - *GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)*
 * [Torrent2Drive](https://t.me/torrent_2_drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - *DDL to GDrive Tool*
 * [GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) - *GoIndex to GDrive Downloader*
 * [gd-utils](https://github.com/roshanconnor123/gd-utils) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - *Google Drive Limit Bypass* 
-* [Google-Drive-Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index), [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - *Google Drive Index*
+* [Google-Drive-Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index), [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex), [GDI](https://github.com/anymeofu/GDI) or [gdrive-index](https://github.com/alx-xlx/gdrive-index) - *Google Drive Index*
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - *Host Direct Links on GDrive* 
-* [gdrive-copy](https://github.com/ericyd/gdrive-copy), [googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader), [TgFolderClone](https://github.com/Loli-Killer/TgFolderClone) or [GDrive-Clone](https://github.com/alx-xlx/gdrive-clone) / [Bot](https://github.com/MsGsuite/CloneBot) - *Copy Google Drive*
+* [gdrive-copy](https://github.com/ericyd/gdrive-copy), [googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader), [TgFolderClone](https://github.com/Loli-Killer/TgFolderClone), [Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot) or [GDrive-Clone](https://github.com/alx-xlx/gdrive-clone) / [Bot](https://github.com/MsGsuite/CloneBot) - *Copy Google Drive*
 * [gd-efc](https://anadius.github.io/gd-efc/) - *Copy Encrypted Google Drive* 
 * [RemoteStream](https://remotestre.am/) - *Encrypt your Google Drive Links* 
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - *Google Drive Link Encryptor for GD-EFC*
@@ -1384,6 +1393,7 @@ General Reading Sites*
 * [RClone](https://rclone.org/), [2](https://github.com/rclone/rclone), [Rethink Files](https://rethink.software/), [RaiDrive](https://www.raidrive.com/), [Air Explorer](https://airexplorer.net/en/), [MultiCloud](https://www.multcloud.com/) or [gclone](https://github.com/donwa/gclone) - *Multi-Site Cloud Storage File Manager / [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20) / [Telegram](https://github.com/wrenfairbank/telegram_gcloner) / [Heroku](https://github.com/The-Antrax/heroku-buildpack-rclone-mod)* 
 * [AutoRclone](https://drive.google.com/file/d/11yrXPUfWEP6bAeIw0fibjr-JxeWa-1Da/) / [GitHub](https://github.com/xyou365/AutoRclone) - *Create Google Service Accounts for RClone*
 * [rclone-colab](https://github.com/Pavithran-R/rclone-colab) - *Run Rclone in Colab*
+* [EasyClone](https://github.com/xd003/easyclone) - *Improved RClone Operations Script*
 * [Cyberduck](https://cyberduck.io/) - *Libre Server / Cloud Storage Browser*
 * [myDrive](https://mydrive-storage.com/) - *Open-Source Cloud File Storage*
 * [FolderClone](http://www.folderclone.com/) - *Clone / Backup Folders*
@@ -1493,6 +1503,7 @@ General Reading Sites*
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - *DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)*
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - *Controller Connectivity Testers*
 * [AimTrainer](https://aimtrainer.io/) - *Aim Trainer*
+* [MacroGamer](https://www.itoady.com/) - *Game Macro Recorder*
 * [Blitz](https://blitz.gg/) - *Post Match Performance Analyzer / [Adblocker](https://github.com/lulzsun/blitz-app-adblock)* 
 * [Map Genie](https://mapgenie.io/) - *Explore Game Maps* 
 * [noclip](https://noclip.website/) - *Explore Game Environments* 
@@ -1536,6 +1547,7 @@ General Reading Sites*
 * [How To Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
 * [AltCtrls](https://altctrls.info/) - *Custom Controller Crafting Resources*
 * [Gamesoft](http://www.gamesoft.com/) - *Gaming News Feed Manager*
+* [Payday 2 Social Safe](https://www.overkillsoftware.com/payday2-social-safe/) - *Free Payday 2 Offers*
 * [WordPlays](https://www.wordplays.com/) - *Cheat at Scrabble, Words with Friends & Crossword Puzzles*
 
 *** 
@@ -1622,7 +1634,6 @@ General Reading Sites*
 * [mcsrvstat](https://mcsrvstat.us/) - *Server Status Updates*
 * [Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers) 
 * [tLauncher](https://tlauncher.org/en/), [Salwyrr Launcher](https://www.salwyrr.com/) or [MultiMC5-Cracked](https://github.com/AfoninZ/MultiMC5-Cracked) - *Free Premium Minecraft Launchers*
-* [PVP Lounge](https://pvplounge.com/) - *Modded Minecraft PVP Launcher*
 * [Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods) - *Mod Minecraft* 
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) - *Minecraft Modding API* 
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - *Minecraft World Overview Display Tool*

@@ -122,6 +122,7 @@
 * [GetFreeMagz](https://getfreemagz.club/) - *Books* 
 * [eBook Lobby](http://www.ebooklobby.com/) - *Books*  
 * [1Lib](https://1lib.limited/) - *Books*
+* [IKindle](https://ikindlebooks.com/) - *Books*
 * [Free eBooks](http://www.freebooks.com) - *Books* 
 * [GrayCity](https://graycity.net/) - *Books*
 * [CentslessBooks](https://centslessbooks.com/) - *Books* 
@@ -212,6 +213,7 @@
 * [YudhaCookbook](https://www.yudhacookbook.my.id/) - *Cookbooks*
 * [DMC Cookbooks](https://archive.lib.msu.edu/DMC/cookbooks/) - *Cookbooks*
 * [Cook Bookshelf](https://t.me/cook_bookshelf) - *Cookbooks / Telegram*
+* [Cookbook](https://archive.org/details/southerncookbook00lustrich/page/34/mode/2up) - *Cookbook Southern*
 * [Search-22](https://search-22.com/recipe-search-tools) - *Multi-Site Recipe Search*
 * [SuperCook](https://www.supercook.com/) - *Recipe Search* 
 * [MyFridgeFood](https://www.myfridgefood.com/) - *Recipe Search* 

@@ -380,7 +380,6 @@
 * [Have I Been Sold?](https://haveibeensold.app/) - *Check if your email has been sold to third parties*
 * [Anon Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_send_anonymous_emails) - *Send Anonymous Emails*
 * [Scaremail](https://github.com/bengrosser/scaremail) - *Disrupt NSA Email Surveillance / [Account Gen](https://bengrosser.com/projects/scaremail/scaremail-generator/)*
-* [PGP Email Guide](https://ssd.eff.org/en/module/how-use-pgp-windows) 
 * /r/emailprivacy  - *Discussion of Email Privacy / Security / Anonymity* 
 * [Block Sender](https://blocksender.io/) - *Block Unwanted Emails* 
 * [E4ward](http://e4ward.com/) - *Spam Email Filter* 

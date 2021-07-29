@@ -278,7 +278,7 @@
 * [RFS](https://t.me/rfsnotes) - *Telegram Channels / TeamDrives / Tools*  
 * [Telegram Channels](https://telegramchannels.me/), [TELEGRAM INDEX](https://t.me/tg_indexs), [tg_indexs](https://t.me/tg_indexs) or [Telegramic](https://telegramic.org/) - *Telegram Channel Index*
 * [Searchee Bot](https://t.me/SearcheeBot) - *Telegram Channel Search* 
-* [BotsArchive](https://t.me/BotsArchive), [2](https://github.com/ebertti/awesome-telegram), [3](https://github.com/DenisIzmaylov/awesome-telegram-bots), [4](https://github.com/abdelhai/awesome-bots), [5](https://github.com/stkw0/awesome-telegram-groups), [6](https://github.com/serhii-londar/awesome-telegram), [7](https://github.com/lorien/awesome-telegram-lists) - *Telegram Bots Indexes* 
+* [BotsArchive](https://t.me/BotsArchive), [2](https://github.com/ebertti/awesome-telegram), [3](https://github.com/DenisIzmaylov/awesome-telegram-bots), [4](https://github.com/abdelhai/awesome-bots), [5](https://github.com/stkw0/awesome-telegram-groups), [6](https://github.com/serhii-londar/awesome-telegram), [7](https://github.com/lorien/awesome-telegram-lists), [8](https://t.me/aryan_bots) - *Telegram Bots Indexes* 
 * [Lyzem](https://lyzem.com/), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - *Telegram Channel / Bot Search*
 * [NetSplit](https://netsplit.de/) - *IRC Channel Index*
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) - *API index* 
@@ -327,6 +327,7 @@
 * [Babiato](https://babiato.co/) 
 * [Weboas.is Forum](https://weboas.is/forum/) - *[Chat](https://webchat.is/)*
 * [FileSharingTalk](https://filesharingtalk.com/forum.php)
+* [GDrive Guides](https://t.me/gdriveguides) - *GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)*
 * [Fileforums](https://fileforums.com/) - *Gaming / Emulator / Data Compression Discussion*
 * [X-Forum](https://xforum.tech/) - *Discussion / Piracy / Guides*
 * [Pirate Haven](https://pirate-haven.github.io/) - *Guides / Discussion / [Discord](https://discord.gg/JWqrdfN9Y8)*

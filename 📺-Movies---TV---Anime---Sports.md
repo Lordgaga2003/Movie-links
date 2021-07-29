@@ -410,6 +410,7 @@
 * [CricHD](https://fc2.crichd.com/new-home7) - *Sports* 
 * [MyP2Px](http://myp2px.eu/) - *Sports*
 * [LiveOnScore](http://liveonscore.tv/) - *Sports* 
+* [Sports24](https://sports24.stream/) - *Sports*
 * [Black Tie Sports](https://blacktiesports.net/) - *Sports* 
 * [MamaHD](https://mamahd.best/) - *Sports*
 * [DaddyLive](https://daddylive.co/) - *Sports*
@@ -626,7 +627,8 @@
 * **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - *Autodownload Torrents*
 * [Flixerr](https://github.com/carlelieser/Flixerr) - *Movies / TV / r/Flixerr_Official / [Discord](https://discord.gg/KrEYTJb)*
 * [WatchIt](http://watchitapp.site/) - *Movies / TV / Anime / [GitHub](https://github.com/ZorrillosDev/watchit-desktop)*
-* [Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) - *Some clients allow you to stream torrents*
+* [Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) - *Stream Torrents via Clients*
+* [Magnet Player](https://ferrolho.github.io/magnet-player/) - *Stream Torrents in Browser*
 * [Radarr](https://radarr.video/) - *Movie Torrent Autodownload / [GitHub](https://github.com/Radarr/Radarr)*
 * [Sonarr](https://sonarr.tv/) / [GitHub](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - *TV Torrent Autodownload*
 * [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - *Movie / TV autodownload / [Discord](https://discord.gg/PFwM4zk)*

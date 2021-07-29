@@ -126,7 +126,7 @@
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - *Reddit Video Downloader*
 * [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - *MyAnimeList App*
 * [Uploadgram App](https://github.com/pato05/uploadgram-app) - *Uploadgram Frontend*
-* [Instander](https://thedise.me/instander/) - *Modded Instagram Client*
+* [Instander](https://thedise.me/instander/) - *Modded Instagram Client / [Telegram](https://t.me/instander)*
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) - *Feature-rich Facebook Client*
 * [Frost](https://f-droid.org/en/packages/com.pitchedapps.frost/) or [SlimFacebook](https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook/) - *Facebook Webwrapper*
 * [SlimTwitter](https://f-droid.org/en/packages/it.rignanese.leo.slimtwitter/) - *Twitter Webwrapper*
@@ -258,11 +258,13 @@ App Manager
 * [Gdrivehub Apps](https://t.me/gdrivehubapps) - *Modded / Telegram* 
 * [MODZILLA](https://t.me/Modzilla) - *Modded / Telegram*
 * [Cracked Apps](https://t.me/crackedapks) - *Modded / Telegram* 
+* [ReleaseAPK ](https://t.me/ReleaseAPK_Forum) - *Modded / Telegram*
 * [DroidApks](https://t.me/DroidApks) - *Modded / Telegram*
 * [apkmod_s](https://t.me/apkmod_s) - *Modded / Telegram*  
 * [Pro App Share](https://t.me/proappshare) - *Modded / Telegram*   
 * [xdapiratesbot](https://t.me/joinchat/AAAAAEGvyb2EPtoW2_Yf-A) - *Modded / Telegram*  
 * [Software_Android_Apps_Games](https://t.me/Software_Android_Apps_Games) - *Modded / Telegram*   
+* [Aero Apps](https://t.me/aerolla) - *Modded Social Media Apps*
 * [FossDroid](https://fossdroid.com/) - *Open source apps / /r/fossdroid*
 * [Moderse ](https://t.me/Moderse) - *Android Apk Telegram Channel by well know modder- Stabiron*
 * [APK Downloader ](https://apk.support/apk-downloader) - *Download Google Play apks*
@@ -394,7 +396,6 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * [Tuner Radio](https://www.downloader.world/) - *Movies / TV*
 * [Rokkr](http://www.rokkr.net/ ) - *Movies / TV / 
 Add "huhu.to", "bs.to" or "oha.to"* 
-* [Zoshy](http://play.google.com/store/apps/details?id=com.sy.syfoo), [Noyox](https://play.google.com/store/apps/details?id=com.vid.vidseed), [Goyok](https://play.google.com/store/apps/details?id=com.sy.syfoo&hl=en_US&gl=US) or [Zivcy](https://www.downloader.world/)  - *Movies / TV / Code: 777*
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - *YTS Torrents* 
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - *Chinese Drama* 
 * [aDrama](https://adrama.online/) - *Asian Drama / [Addons](https://forum.mobilism.org/search.php?keywords=adrama&sr=topics&sf=titleonly)*
@@ -412,20 +413,20 @@ RSS Player*
 
 ## ▷ Android Anime
 
-* [AnimeGlare](https://animeglare.xyz/) + *[Discord](https://discord.gg/tN8hDNd)*
+* **[AnimeGlare](https://animeglare.xyz/)** - *[Discord](https://discord.gg/tN8hDNd)*
 * [FireAnime](https://github.com/XenTeckzX/FireAnime) - *Chromecast*
 * [AnimeXStream](https://github.com/mukul500/AnimeXStream/)
 * [AnimeTwistFlut](https://github.com/simrat39/AnimeTwistFlut/releases)
-* [TaiYaKiAnime](https://github.com/Michael24884/TaiYaKiAnime), [2](https://michael24884.github.io/TaiYaKiAnime/) + *[Discord](https://discord.com/invite/8fzmNSB)*
-* [AnimeDLR](https://cyberneticlifeform.wixsite.com/cylonu87/animedlr) + *[Discord](https://discord.com/invite/wKxRqKc)*
-* [AnimeUltima](https://www1.animeultima.to/app) + *[Discord](https://discord.gg/Am89tCjYkY)*
+* [TaiYaKiAnime](https://github.com/Michael24884/TaiYaKiAnime), [2](https://michael24884.github.io/TaiYaKiAnime/) - *[Discord](https://discord.com/invite/8fzmNSB)*
+* [AnimeDLR](https://cyberneticlifeform.wixsite.com/cylonu87/animedlr) - *[Discord](https://discord.com/invite/wKxRqKc)*
+* [AnimeUltima](https://www1.animeultima.to/app) - *[Discord](https://discord.gg/Am89tCjYkY)*
 * [aniryu](https://anime.pokurt.me/)
 * [AnimeBoya](https://github.com/Tu2l/AnimeBoya)
 * [Aniyomi](https://github.com/jmir1/aniyomi)
 * [Animebay](https://animebay.tech/)
 * [AnimeFanz Tube](https://apkpure.com/anime-fanz-tube/com.animefanzapp.tube) - *Anime*
 * [Animezone](https://animezone.info/) - *Anime / [GitHub](https://github.com/spyderbibek/Anime-Zone)* 
-* [KATSU](https://katsu.pw/) + [Discord](https://discord.gg/gjcy6MQ)
+* [KATSU](https://katsu.pw/) - [Discord](https://discord.gg/gjcy6MQ)
 * [Anime HD 3.0](https://archive.org/details/anime-hd.-3.0)
 * [Anime-DL](https://github.com/sharn25/Anime-DL-Android-Verison) - *Download Anime / [Discord](https://discord.gg/Ee3fegN)* 
 
@@ -451,6 +452,7 @@ RSS Player*
 
 * **[Complete Jailbreak Chart](https://docs.google.com/spreadsheets/d/11DABHIIqwYQKj1L83AK9ywk_hYMjEkcaxpIg6phbTf0/)** - *Jailbreak Tools Index*
 * [iOS Guide](https://ios.cfw.guide/) - *Modding / Jailbreaking Guide*
+* [Sideloading Beginners Guide](https://redd.it/orqzau) - *iOS Sideloading Guide*
 * [Can I Jailbreak](https://iosninja.io/jailbreak-wizard-can-i-jailbreak) - *Check if your Phone can be Jailbroken* 
 * /r/jailbreak - *Jailbreaking Subreddit*
 * /r/sideloaded - *Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)*
@@ -495,7 +497,7 @@ iOS
 * [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - *Skip YouTube Sponsorships* 
 * [Should I Answer?](http://www.shouldianswer.net/) or [Hiya](https://www.hiya.com/) - *Block Spam Calls*
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - *Opt Out of Telemarketing Calls* 
-* [Slide](https://apps.apple.com/us/app/slide-for-reddit/id1260626828) - *Ad Free Reddit Client* 
+* [Slide](https://apps.apple.com/us/app/slide-for-reddit/id1260626828) or [Apollo](https://apps.apple.com/us/app/apollo-for-reddit/id979274575) - *Ad Free Reddit Client* 
 
 ***
 
@@ -581,7 +583,7 @@ iOS
 
 # ► iOS Audio
 
-* **[Spotify++](https://ipaspot.app/categories/tweakedapps.html)** (JB Required) or **[Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580)** - *Streaming*
+* **[Spotify++](https://appdb.to/app/cydia/1900000540)** / [2](https://ipaspot.app/categories/tweakedapps.html) (JB Required) or **[Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580)** - *Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)*
 * [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151) - *Streaming*
 * [Deezer](https://apps.apple.com/app/deezer/id292738169) - *Streaming*
 * [Musi](https://apps.apple.com/us/app/musi-simple-music-streaming/id591560124) - *Streaming* 

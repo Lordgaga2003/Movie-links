@@ -329,7 +329,6 @@
 * [FileSharingTalk](https://filesharingtalk.com/forum.php)
 * [GDrive Guides](https://t.me/gdriveguides) - *GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)*
 * [Fileforums](https://fileforums.com/) - *Gaming / Emulator / Data Compression Discussion*
-* [X-Forum](https://xforum.tech/) - *Discussion / Piracy / Guides*
 * [Pirate Haven](https://pirate-haven.github.io/) - *Guides / Discussion / [Discord](https://discord.gg/JWqrdfN9Y8)*
 * [The MegaDrive](https://discord.gg/FQ6EaprXyr) - *Piracy / DataHoarding Discussion*
 * [/r/AnimePiracy Discord](https://discord.gg/piracy)

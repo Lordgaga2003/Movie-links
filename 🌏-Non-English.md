@@ -1048,6 +1048,8 @@
 * [leomanga](https://leomanga.me/) - *Manga* 
 * [mangadoor](http://mangadoor.com/) - *Manga* 
 * [Ninemanga](https://ninemanga.net/) - *Manga* 
+* [TuMangaOnline ](https://lectortmo.com/) - *Manga*
+* [Manga en Español](https://t.me/manga_es) - *Manga*
 * [HeavenManga](http://heavenmanga.com/) - *Manga* 
 * [SubManga](https://submanga.io/) - *Manga* 
 * [InManga](https://inmanga.com/) - *Manga* 

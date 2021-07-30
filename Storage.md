@@ -694,7 +694,7 @@ Add the following commands to a search to manually scrape each site.
 
 * **[Plex](https://www.plex.tv/)** + */r/plexshares / [Linux](https://knapsu.eu/plex/) / [Setup Guide](https://redd.it/ma1hlm), [2](https://hoarding.me/) / [Linux](https://github.com/binhex/arch-plexpass)*
 * [Emby](https://emby.media/) + */r/EmbyShares*
-* [Jellyfin](https://jellyfin.org/) + */r/JellyfinShares / [Anime Plugin](https://github.com/jellyfin-archive/jellyfin-plugin-anime) / [Desktop Client](https://github.com/jellyfin/jellyfin-media-player) / [Playlist Export](https://github.com/pyluyten/jellyfin_playlist_exporter)* 
+* [Jellyfin](https://jellyfin.org/) + */r/JellyfinShares / [Anime Plugin](https://github.com/jellyfin-archive/jellyfin-plugin-anime) / [Desktop Client](https://github.com/jellyfin/jellyfin-media-player) / [Playlist Export](https://github.com/pyluyten/jellyfin_playlist_exporter) / [Customization Guide](https://youtu.be/F85qMyBeiDI)* 
 * [Universal Media Server](https://www.universalmediaserver.com/)
 * [OSMC](https://osmc.tv/)
 * [Olaris](https://gitlab.com/olaris/olaris-server/tree/master)
@@ -1460,6 +1460,7 @@ SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](h
 * https://t.me/AnimeCrunch
 * https://t.me/Anime_Library
 * https://t.me/Anime_4u_Geng
+* https://t.me/for_otaku
 * https://t.me/anime_everywhere
 * https://t.me/AnimeList
 * https://t.me/Hd_Anime_Series

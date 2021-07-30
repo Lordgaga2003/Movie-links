@@ -768,6 +768,7 @@
 * [Readmng](https://www.readmng.com/) 
 * [LoveHeaven](https://loveheaven.net/)
 * [ZinManga](https://zinmanga.com/)
+* [The Manga Library](https://archive.org/details/manga_library)
 * [SenseScans](https://sensescans.com/)
 * [Mangasy](https://www.mangasy.com/)
 * [Manga Toon](https://mangatoon.mobi/)

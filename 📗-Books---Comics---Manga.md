@@ -22,6 +22,7 @@
 * [HDAudiobook](https://hdaudiobook.com/) - *Listen Online*
 * [BigAudiobooks](https://bigaudiobooks.net/) - *Listen Online*
 * [BookAudiobook](https://bookaudiobook.com/) - *Listen Online*
+* [GalaxyAudiobooks](https://galaxyaudiobook.com/) - *Listen Online*
 * [GoodAudiobook](https://goodaudiobook.com/) - *Listen Online*
 * [Audiobook Slab](https://audiobookslab.com/) - *Listen Online*
 * [AudioBook Reviews](https://audiobookreviews.com/) 
@@ -83,6 +84,7 @@
 * [Only Books](https://onlybooks.org/) - *Books*
 * [Repository z0ro](http://index-of.co.uk/) - *Books* 
 * [Ocean of EPUB](https://oceanofepub.com/) - *Books / Manga*
+* [PDFGet](http://www.pdfget.com/) - *Books*
 * [MoJoBB](https://mojobb.com/) - *Books / Magazines*
 * [BooksToLearn](https://www.booktolearn.com) - *Books*
 * [NovelLibrary](http://novellibrary.com/) - *Books / [Drive](http://dl.novellibrary.com/)* 
@@ -145,6 +147,7 @@
 * [zqktlwi4fecvo6ri](http://zqktlwi4fecvo6ri.onion/wiki/Libraries) - *Tor Required* 
 * [xfmro77i3lixucja](http://xfmro77i3lixucja.onion/) - *Tor Required* 
 * [The Imperial Library of Trantor](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/) - *Tor Required / [Unofficial Mirror](https://trantor.is/)*
+* [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books / iOS*
 * [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
 * /r/opendirectories
 * /r/EBook_Resources/
@@ -738,6 +741,7 @@
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
 * [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - *Online Reader*
 * [Tenma](https://github.com/Tenma-Server/Tenma) or [Komga](https://komga.org/) - *Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)*
+* [Webtoons Downloader](http://www.mediafire.com/file/7243pcp72ttzisk/Webtoons_Downloader_by_RieqyNS13.zip/file) - *Webtoons Downloader*
 
 ***
 
@@ -1030,6 +1034,7 @@
 * [Read Shit Faster](http://readshitfaster.com/) - *Read Things Faster*
 * [Skimcast](http://www.skimcast.com/), [SummaryGenerator](https://summarygenerator.com/), [Text Rewriter](http://textrewriter.com/) or [SMMRY](https://smmry.com/) - *Summary Generator* 
 * [FicSave](http://ficsave.xyz/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - *Fanfiction Download Tool* 
+* [SmartStich](https://github.com/MechTechnology/SmartStitch) - *Stitch Together Webtoons*
 * [Library Extension](https://www.libraryextension.com/) - *Check book availability from your local library*
 * [Bypass Quora login](https://onehack.us/t/bypass-quora-login-for-unlimited-reading-new-method-legal/92786)
 * [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) or [Remove eBook DRM](https://apprenticealf.wordpress.com/) - *Remove ebook DRM*

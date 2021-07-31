@@ -244,7 +244,7 @@
 * **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - *List of interactive math sites*
 * **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - *Sites with Multiple Calculators* 
 * **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - *Advanced Calculator*
-* **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://forum.mobilism.org/search.php?keywords=photomath&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) / [Pro](https://pastebin.com/wA3QQkCj) - *Math Problem Solver with Steps*
+* **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://forum.mobilism.org/search.php?keywords=photomath&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) / [Pro](https://pastebin.com/wA3QQkCj) - *Math Problem Solver with Steps*
 * [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - *Multi-Calculator App / Android*
 * [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - *Matrix Calculator*
 * [Mathcha](https://www.mathcha.io/) - *Online Math Editor*
@@ -398,6 +398,7 @@
 * [CrackAP](https://www.crackap.com/) - *Practice AP Exams*
 * [/r/ApStudents Resources](https://drive.google.com/open?id=1mPT8O9Nou4udtUQOl0W8dk5JgeRNZHSI) - *Former AP Exams*
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - *AP Exam Comparison Spreadsheet*
+* [AQA GCSE 2019](https://drive.google.com/drive/folders/1xIaxfQYePlTT2XxRXYMOjXduvZzaYyP7?usp=sharing) - *AQA 2019 GCSE Exams*
 * [The Problem Site](https://www.theproblemsite.com/) - *Problems / Puzzles/ Games*
 * [PuzzlePrime](https://www.puzzleprime.com/) - *Problems / Puzzles*
 * [LateralPuzzles](http://www.lateralpuzzles.com/) - *Lateral Thinking Puzzles*

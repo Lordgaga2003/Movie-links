@@ -163,7 +163,7 @@
 * **[Instagram Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_instagram_tools)**
 * **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)**
 * [Lychee](https://lycheeorg.github.io/) - *Self-Hosted Image Host* 
-* [Pixiv](https://www.pixiv.net/en/) - *User made Image Host / [Downloader](https://github.com/nonPointer/PixivDownloader)*
+* [Pixelfed](https://pixelfed.org/) - *Open Source Instagram Alternative*
 * [RootAbout](https://rootabout.com/) - *Archive / OpenlLibrary Reverse Image Search* 
 * [PimEyes](https://pimeyes.com/en/) - *Reverse Face Image Search* 
 * [trace.moe](https://trace.moe/) - *Anime Scene Reverse Image Search* 
@@ -194,6 +194,7 @@
 * [Piwigo](https://piwigo.org/) - *Photo Manager / Viewer*
 * [Pinry](https://docs.getpinry.com/ ) - *Image Tiling Board*
 * [darktable](https://www.darktable.org/) - *Virtual Lighttable & Darkroom*
+* [GradientArt](https://gra.dient.art/) - *Gradient Editor*
 * [Krita](https://krita.org/en/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/) or [MediBang](https://medibangpaint.com/en/) - *Painting*
 * [Pixel Painter](https://jenniferdewalt.com/pixel_painter.html) - *Paint with Pixels*
 * [AutoDraw](https://www.autodraw.com/) - *Machine Learning Drawing Tool* 
@@ -262,6 +263,7 @@
 * [Worldvectorlogo](https://worldvectorlogo.com/) - *Brand Logos*
 * [Bendodson](https://bendodson.com/projects/itunes-artwork-finder/), [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) - *Find multimedia artwork*
 * [Kemono](https://kemono.party/) - *Patreon Content / Some NSFW*
+* [Pixiv](https://www.pixiv.net/en/) - *User Made Image Host / [Downloader](https://github.com/nonPointer/PixivDownloader)*
 * [FanArt](https://fanart.tv/) - *Fan Made Posters / Logos* 
 * [CGPersia](https://cgpersia.com/), [Clara](https://clara.io/library), [Sketchfab](https://sketchfab.com/) or [Free3D](https://free3d.com/) - *3D Models*
 * [CC0 Textures](https://cc0textures.com/) - *Textures for 3D Models* 
@@ -290,11 +292,12 @@
 * [PaperFile](http://www.paperfile.net/) or [StructuRise](http://structurise.com/screenshot-ocr/) - *Convert picture text to text file*
 * [Vectorizer](https://www.vectorizer.io/) - *Convert Images to Vector Art* 
 * [text2img](https://master.ayra.ch/text2img/) - *Convert Text to Image*
-* [Bigjpg](https://bigjpg.com/), [ImageUpscaler](https://imageupscaler.com/) or [waifu2x](https://github.com/nagadomi/waifu2x) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/tanakamura/waifu2x-converter-cpp), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/), [5](https://waifu2x.me/), [6](https://waifu2x.udp.jp/) - *Image Upscaler  / [Guide](https://i.imgur.com/55s8sU5.png)*
+* [Bigjpg](https://bigjpg.com/), [ImageUpscaler](https://imageupscaler.com/) or [waifu2x](https://github.com/nagadomi/waifu2x) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/tanakamura/waifu2x-converter-cpp), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/), [5](https://waifu2x.me/), [6](https://waifu2x.udp.jp/) - *Image Upscaler  / [Guide](https://i.imgur.com/55s8sU5.png)*
 * [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - *Scale Pixel Art w/o Quality Loss*   
 * [Capture2Text](http://capture2text.sourceforge.net/), [TextShot](https://github.com/ianzhao05/textshot), [Online OCR](https://www.onlineocr.net/), [IMG2TXT](http://img2txt.com/), [NewOCR](https://www.newocr.com/), [OCR.SPACE](https://ocr.space/) or [OnlineOCR](https://www.onlineocr.net/) - *Image to Text* 
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - *Find out what a font is from a image*
 * [Visual Recognition](https://visual-recognition-code-pattern.ng.bluemix.net/) - *Analyzes Images for Scenes, Objects, Text ect.* 
+* [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - *Scan & Digitize Documents / iOS*
 * [Color Schemes / Palettes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes/) - *Color Scheme / Palette Tools*
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - *Image Color Scatter Plot* 
 * [Remove.bg](https://www.remove.bg/), [Rembg](https://github.com/danielgatis/rembg) or [Background Burner](https://burner.bonanza.com/) - *Remove background from a image / [Gimp Plugin](https://github.com/manu12121999/RemoveBG-GIMP) unlimited accounts w/ [Temp Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)*
@@ -346,7 +349,7 @@
 * **[Video Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_editors)** - *Free Video Editing Software*
 * **[Video Hosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_hosting_sites)** - *Upload / Stream Videos* 
 * **[VideoHelp](https://www.videohelp.com/software)** - *Video Software Archive* 
-* **[HandBrake](https://handbrake.fr/)**, [XMedia Recode](https://www.xmedia-recode.de/en/), [staxrip](https://github.com/staxrip/staxrip/), or [Evano](https://evano.com/online-video-converter) - *Video File Converters / Encoders*
+* **[HandBrake](https://handbrake.fr/)**, [XMedia Recode](https://www.xmedia-recode.de/en/), [staxrip](https://github.com/staxrip/staxrip/), [AVC](https://www.any-video-converter.com/), [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes) or [Evano](https://evano.com/online-video-converter) - *Video File Converters / Encoders*
 * **[Video Encoding Guides](https://sometimes-archives-things.github.io/archived-things/)** - *Learn how to Encode Videos*
 * **[Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders)** - *Record your Screen*
 * **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)**
@@ -357,7 +360,7 @@
 * [DMVideo](https://dmvideo.download/) - *DailyMotion Video Downloader* 
 * [GetFVid](https://www.getfvid.com/) or [FBDown](https://fbdown.net/) - *Facebook Video Downloader* 
 * [RipTok](https://github.com/adamsatyr/RipTok) - *Tik-Tok Channel Bulk Downloader*
-* [How to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/)
+* [How to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/), [3](https://www.removeddit.com/r/Piracy/comments/ou31y8/how_to_rip_from_amazon_other_streaming_services/), [4](https://0bin.net/paste/cYxSEPRq#w7i1vJSMVKTRKgGmdURaXdvNpimP2p9IxgF38I75NUQ)
 * [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/) 
 * [FFmpeg](https://ffmpeg.org/) - *Record, convert and stream audio & video / [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom)*
 * [ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot) or [File2videoconvbot](https://t.me/File2videoconvbot) - *File to Video Telegram Bots* 
@@ -549,13 +552,13 @@
 
 ## ▷ Map Tools
 
-* **[DuckDuckGo](https://duckduckgo.com/?q=maps&ia=web&iaxm=maps)**, [Yandex](https://yandex.com/maps/), [Google](https://www.google.com/maps/), [Bing](https://www.bing.com/maps), [Wego.Here](https://wego.here.com/), [Terrafly](http://www.terrafly.com/) or [OrganicMaps](https://organicmaps.app/) - *Maps / Satellite Views* 
+* **[DuckDuckGo](https://duckduckgo.com/?q=maps&ia=web&iaxm=maps)**, [Yandex](https://yandex.com/maps/), [Google](https://www.google.com/maps/), [Bing](https://www.bing.com/maps), [Wego.Here](https://wego.here.com/), [Terrafly](http://www.terrafly.com/) or [OrganicMaps](https://organicmaps.app/) - *Maps, Satellite & Street Views* 
 * **[OpenStreetMap](https://www.openstreetmap.org/)** - *Street Map* 
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - *Earth Viewer*
 * [MapChannels](https://www.mapchannels.com/) - *Mapping / Navigation Tools* 
 * [OldMapsOnline](https://www.oldmapsonline.org/) - *Historical Maps Tool* 
 * [Map Crunch](https://www.mapcrunch.com/) or [RandomStreetView](https://randomstreetview.com/) - *Random Street View*
-* [Mapillary](https://www.mapillary.com/) - *Street-Level Imagery* 
+* [KartaView](https://kartaview.org/landing) or [Mapillary](https://www.mapillary.com/) - *Street View Map* 
 * [Loc Maps](https://www.loc.gov/collections/general-maps/) - *Historical Maps*
 * [1940's.nyc](https://1940s.nyc/) - *Explore 1940's New York* 
 * [Snap Map](https://map.snapchat.com/) - *Snap Chat Map*
@@ -575,6 +578,7 @@
 * [Gas Price Map](https://www.gasbuddy.com/gaspricemap) - *US Gas Price Map*
 * [CellMapper](https://www.cellmapper.net/) - *Cell Tower Map*
 * [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - *Web Service Coverage Map*
+* [Broadband Map](https://broadbandmap.fcc.gov/) - *Fixed Broadband Deployment Map*
 * [PowerOutage](https://poweroutage.us/) - *Power Outage Map*
 * [City Generator](https://probabletrain.itch.io/city-generator) - *City Map Generator* 
 * [RSOE](http://hisz.rsoe.hu/) - *Emergency and Disaster Map* 
@@ -606,8 +610,14 @@
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - *Test Internet Speed*
 * [OONI](https://ooni.org/) - *Test Site Blocking / Network Speed*
 * [ISP Logger](https://isplogger.com/) - *Internet Performance Monitor* 
+* [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) - *OpenSSH Client / Server*
+* [NetLimiter](https://www.netlimiter.com/) - *Internet Traffic Control / Monitor* 
+* [Natlas](https://github.com/natlas/natlas) - *Scaling Network Scanning* 
+* [Nmap](https://nmap.org/) - *Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)* 
+* [FNSRWR](https://github.com/dannyvoid/FNSRWR) - *Reset Windows Network Stack*
 * [AreWeDown?](https://github.com/shukriadams/arewedown) - *HTTP Uptime Monitor*
 * [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - *Web Service Coverage Map*
+* [Broadband Map](https://broadbandmap.fcc.gov/) - *Fixed Broadband Deployment Map*
 * [WiFiCard](https://wificard.io/) - *WiFi Info QRCode Generator*
 * [FeedReader](http://www.feedreader.com/), [QuiteRSS](https://quiterss.org/), [RSSOwl](http://www.rssowl.org/), [CommaFeed](https://www.commafeed.com/#/welcome), [RSSHub](https://github.com/DIYgod/RSSHub), [FreshRSS](https://freshrss.org/), [Fluent Reader](https://hyliu.me/fluent-reader/) or [Feeder](https://feeder.co/) - *RSS Feed Reader* 
 * [DatoRSS](https://www.datorss.com/) or [RSS.app](https://rss.app/) - *RSS Feed Search* 
@@ -623,6 +633,7 @@
 * [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - *Check which IPFS Gateways are online* 
 * [lew.la](https://lew.la/) - *Reddit video DL, YT to MP3 & More Tools* 
 * [SocialBlade](https://socialblade.com/) - *Social Media Statistics*
+* [4stats](https://4stats.io/) - *4chan Board & Thread Stats*
 * [Emojipedia](https://emojipedia.org/) - *Emoji Index*
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - *Party Parrot Emojis*
 * [you-get](https://github.com/soimort/you-get) - *Download Media Contents from Webpages* 
@@ -642,6 +653,7 @@
 * [Hack.chat](https://hack.chat/) - *Minimal, Account Free Chat* 
 * [KiwiIRC](https://kiwiirc.com/) - *WebIRC Client*
 * [AdiIRC](https://adiirc.com/) - *IRC Client*
+* [Cinny](https://cinny.in/) - *Matrix Client*
 * [Delta Chat](https://delta.chat/en/) - *Email Based Messenger* 
 * [Unigram](https://github.com/UnigramDev/Unigram), [Tok](https://invent.kde.org/network/tok) or [Kotatogram](https://github.com/kotatogram/kotatogram-desktop) - *Telegram Desktop Client*
 * [Web.Telegram](https://web.telegram.org/), [2](https://webk.telegram.org/), [3](https://webz.telegram.org/) - *Telegram Web Client*
@@ -865,7 +877,7 @@ General Reading Sites*
 * [Pushshift Reddit Search](https://www.redditsearch.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - *Advanced Reddit Search*  
 * [KarmaDecay](http://karmadecay.com/) - *Reddit Reverse Image Search* 
 * [Reddit Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_alternatives) - *Alternative Reddit Style Sites*
-* [lurrker](https://lurrker.com/), [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/), [kddit](https://kddit.kalli.st/) or [js4.red](https://js4.red/) - *Alt Reddit Browser*
+* [lurrker](https://lurrker.com/), [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/), [kddit](https://kddit.kalli.st/), [Nuxtit](https://nuxtit.netlify.com/) or [js4.red](https://js4.red/) - *Alt Browsers / Web Clients*
 * [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/) or [teddit](https://teddit.net/), [2](https://codeberg.org/teddit/teddit) - *Reddit Frontends*
 * [Snew](https://snew.notabug.io/), [Reddit-Search](https://camas.github.io/reddit-search/), [Reveddit](https://www.reveddit.com/), [politicbot](http://politicbot.github.io/) or [Removeddit](https://www.removeddit.com/about/) - *View Deleted Reddit Posts*
 * [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - *View Deleted Reddit Comments* 
@@ -960,7 +972,8 @@ General Reading Sites*
 * [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) - *MPV Rich Presence* 
 * [MPC-DiscordRPC](https://github.com/angeloanan/MPC-DiscordRPC) - *MPC Rich Presence*
 * [Discord.io](https://discord.io/) or [dsc.gg](https://dsc.gg/) - *Create Custom Discord Invites*
-* [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot) - *1337x Discord Bot* 
+* [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot) - *1337x Discord Bot*
+* [Forms](https://gitlab.com/rubellite/engineering/forms ) - *Google Form Responses as Discord Embeds*
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter), [Discord History Tracker](https://dht.chylex.com/), [discord-archiver](https://github.com/nektro/discord-archiver) or [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper) - *Archive / Export Discord Chats* 
 * [Discord Style](https://www.discord.style/) - *Discord Server Templates*
 * [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/)
@@ -1124,7 +1137,8 @@ General Reading Sites*
 * [Unfollow Monkey](https://unfollow-monkey.com/) - *Unfollower Notifications*
 * [Fix Twitter Links](https://openuserjs.org/scripts/lucio-martinez/Fix_Twitter_links) - *Unshorten Twitter Feed URLs* 
 * [twitit](https://twitit.gq/) - *Scroll Twitter without Authentication*
-* [Twidere](https://github.com/TwidereProject/Twidere-Android) - *Ad-Free Twitter App*
+* [Twidere](https://github.com/TwidereProject/Twidere-Android) - *Ad-Free Twitter Apk*
+* [Tweebot 6](https://apps.apple.com/us/app/tweetbot-6-for-twitter/id1527500834) - *Ad-Free Twitter iOS App*
 * [TwitterAudit](https://www.twitteraudit.com/) - *Check How Many of your Followers are Real*
 * [ListCopy](http://projects.noahliebman.net/listcopy/connect.php) - *Copy Twitter Lists* 
 * [Twlets](http://twlets.com/) - *Export Twitter Data* 
@@ -1146,6 +1160,8 @@ General Reading Sites*
 * [Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png), [2](https://i.imgur.com/A36Yd7F.png)
 * [PowerToys](https://github.com/microsoft/PowerToys) or [JoeWare](https://www.joeware.net/freetools/index.htm) - *System Tools* 
 * [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), /r/buildapc or [NZXTBld](https://www.letsbld.com/) - *PC Building Sites / [Discord](https://discord.gg/buildapc)*
+* /r/BuildAPCForMe - *PC Building Community*
+* /r/SuggestAPC  - *PC Suggestion Community / [Discord](https://discord.gg/TmNgXbwrqJ)*
 * /r/SuggestALaptop - *Laptop Suggestion Community / [Discord](https://discord.gg/pes68JM)*
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - *GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)*
 * [r/TechSupport](https://www.reddit.com/r/techsupport/) - *Tech Support Discussion / [Discord](https://discord.gg/2EDwzWa)* 
@@ -1185,7 +1201,10 @@ General Reading Sites*
 * [WhatPulse](https://whatpulse.org/) - *Mouse / Keyboard Usage Analyzer*
 * [BleachBit](https://www.bleachbit.org/) - *Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.*  
 * [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - *Startup Program Monitor*
+* [RegExp](https://github.com/zodiacon/RegExp) - *Improved Registry Explorer*
+* [Desktop Management](https://github.com/DeveloperWOW64/deskmgr) - *Improved Computer Management*
 * [Open Shell](https://open-shell.github.io/Open-Shell-Menu/), [2](https://github.com/Open-Shell/Open-Shell-Menu) or [SystemTrayMenu](http://hofknecht.eu/systemtraymenu) / [GitHub](https://github.com/Hofknecht/SystemTrayMenu) - *Improved Start Menu* 
+* [UltraCopier](http://ultracopier.first-world.info/) - *Improved File Copy Dialogs*
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - *Classic Start Menu* 
 * [Search Deflector](https://github.com/spikespaz/search-deflector) - *Change Cortana Search Engine / Browser*
 * [Recoll](https://www.lesbonscomptes.com/recoll/) or [AnyTXT](https://anytxt.net/) - *Improved Windows Search / [Site Indexer](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/)* 
@@ -1233,6 +1252,7 @@ General Reading Sites*
 * [Parsec](https://parsec.app/), [RustDesk](https://rustdesk.com/), [RemoteDesktop](https://remotedesktop.google.com/), [AnyDesk](https://anydesk.com/en), [TeamViewer](https://www.teamviewer.com/en-us/) or [NoMachine](https://www.nomachine.com/) - *Remote Desktop Clients*
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - *Free Ubuntu VNC*
 * [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) or [Ubuntu-Grdp](https://github.com/Area69Lab/Ubuntu-Grdp) - *Free Google RDP*
+* [Alexdanca's RDP](https://github.com/alexdanca/3h4hdoet924gwoedb395heb4boDi3hfn) or [WindowsRDP](https://github.com/best-noob-tricky/WindowsRDP/) - *Free RDP*
 * [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) - *Free Google Colab VPS on 25GB RAM*
 * [mRemoteNG](https://mremoteng.org/) - *Remote Connections Manager* 
 * [Netmaker](https://gravitl.com/netmaker) - *Create Virtual Network*
@@ -1259,12 +1279,8 @@ General Reading Sites*
 * [SilveOS](https://www.silveos.com/) - *Browser Operating System Emulator*
 * [PCE.js](https://jamesfriend.com.au/pce-js/ibmpc-games/) - *PCDOS 5 Emulator* 
 * [Quantum Playground](http://www.quantumplayground.net/) - *Quantum Computer Simulator*
-* [NetLimiter](https://www.netlimiter.com/) - *Internet Traffic Control / Monitor* 
+* [CrossOver](https://www.codeweavers.com/crossover) - *Run Windows Programs on Mac / Linux / Infinite Free Trials*
 * [Hosts File Editor](https://hostsfileeditor.com/) - *Windows Hosts File Editor*
-* [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) - *OpenSSH Client / Server*
-* [Natlas](https://github.com/natlas/natlas) - *Scaling Network Scanning* 
-* [Nmap](https://nmap.org/) - *Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)* 
-* [FNSRWR](https://github.com/dannyvoid/FNSRWR) - *Reset Windows Network Stack*
 * [StreamPi](https://stream-pi.com/) - *ElGato Streamdeck Alternative*
 * [EarTrumpet](https://eartrumpet.app/) - *Better Volume Button for Windows* 
 * [WinMute](https://github.com/lx-s/WinMute/) - *Automatically Mute PC*
@@ -1574,6 +1590,8 @@ General Reading Sites*
 * [ChronoCrash](http://www.chronocrash.com/forum/) - *Game Modding Forum*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
 * [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - *Cheat Engine Table for Singple Player Games*
+* [OpenVR FSR](https://github.com/fholger/openvr_fsr) - *Steam VR FidelityFX Super Resolution Mod*
+* [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - *GTA5 FidelityFX Super Resolution Mod*
 * [Plutonium](https://plutonium.pw/) - *Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)* 
 * [IW4x / IW6x](https://xlabs.dev/) - *COD MW2 Mod Project* 
 * [Project Reality](https://www.realitymod.com/about) - *BF2 & ARMA 2 Realism Mod*

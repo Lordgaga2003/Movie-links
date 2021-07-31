@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/aPeJrjd.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/XbOdxIj.png)** - *For mobile users*
 
 ***
 ***
@@ -77,6 +77,7 @@
 * [download-pdf-ebooks](https://download-pdf-ebooks.online/) - *Books* 
 * [kutub](https://www.kutub-pdf.net/) - *Books* 
 * [foulabook](https://foulabook.com/) - *Books* 
+* [Manga Plus](https://t.me/Manga_Plus_Ar) - *Manga*
 
 ***
 
@@ -187,6 +188,15 @@
 * [FilmCentralen](https://filmcentralen.dk/) - *Movies* 
 * [Free TV Stream](http://www.freetvstream.in/) - *TV / Sports / Live*
 * [DR.DK](https://www.dr.dk/) - *Movies / TV / Live* 
+
+***
+
+# ► Filipino 
+
+## ▷ Streaming
+
+* [Pinoy Movies Hub](https://pinoymovieshub.de/), [2](https://pinoymovieshub.su/) - *Stream / Movies*
+* [PinoyMovies](https://pinoymovies.ch/), [2](https://pinoymovies.es/) - *Stream / Movies* 
 
 ***
 
@@ -933,6 +943,7 @@
 * [Twirpx](https://www.twirpx.com/) - *Book / Educational* 
 * [kodges](https://www.kodges.ru/) - *Books* 
 * [royallib](https://royallib.com/) - *Books*  
+* [Filibusta](https://flibusta.site/) - *Books*
 * [coollib](https://coollib.xyz/) - *Books* 
 * [rulit](https://www.rulit.me/) - *Books* 
 * [sblib](http://sblib3fk2gryb46d.onion/) - *Books / .onion* 
@@ -1038,7 +1049,8 @@
 * [200.31.177.150](http://200.31.177.150:50050/ebooks/) - *Books*
 * [ebiblioteca](https://ebiblioteca.org/) - *Books* 
 * [Libros Gratis](https://descargalibrosxd.com/) - *Books*
-* [Libros Gratis XYZ](https://zonadelibrosxyz.com/) - *Fiction*
+* [Libros Gratis XYZ](https://zonadelibrosxyz.com/) - *Books*
+* [Ebookelo](https://www.ebookelo.com/) - *Books*
 * [bajaebooksgratis](https://bajaebooksgratis.com/) - *Books* 
 * [pirateca](https://pirateca.com/) - *Books* 
 * [lelibros](https://lelibros.online/) - *Books* 
@@ -1137,7 +1149,7 @@
 
 ## ▷ Reading
 
-* [ShareScript ](https://sharescript.net/) - *Script / Code Index*
+* [ShareScript](https://sharescript.net/) - *Script / Code Index*
 
 ***
 
@@ -1170,6 +1182,5 @@
 * [Filmarkivet](https://www.filmarkivet.se/) - *Swedish / Short Films*
 * [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - *Malaysian / Audio / Telegram*
 * [PDFlibrary](https://t.me/PDFlibrary) - *Malayalam / Books / Telegram*
-* [PinoyMovies](https://pinoymovies.ch/), [2](https://pinoymovies.es/) - *Filipino / Stream / Download / Movies* 
 * [9jaflaver](https://9jaflaver.com/) - *Nigerian / MP3*
 * [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - *Converts Steam Prices to Argentine Pesos*

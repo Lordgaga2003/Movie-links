@@ -493,7 +493,7 @@
 
 #### Image Editing Software
 
-**[Gimp](https://www.gimp.org/)** / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP), [2](https://github.com/cttynul/gimpshop-reloaded), [PhotoDemon](https://github.com/tannerhelland/PhotoDemon), [Paint.net](https://www.getpaint.net/index.html), [Glimpse](https://glimpse-editor.github.io/), [Photoscape](http://www.photoscape.org/), [PhotoFiltre](http://www.photofiltre.com/), [Polarr](https://www.polarr.com/), [ImageMagick](https://imagemagick.org/index.php) / [Scripts](http://www.fmwconcepts.com/imagemagick/index.php), [Pinta Project](https://www.pinta-project.com/), [RawTherapee](https://rawtherapee.com/), [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) (VS Code)
+**[Gimp](https://www.gimp.org/)** / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP), [2](https://github.com/cttynul/gimpshop-reloaded), [PhotoDemon](https://github.com/tannerhelland/PhotoDemon), [Paint.net](https://www.getpaint.net/index.html), [Glimpse](https://glimpse-editor.github.io/), [Photoscape](http://www.photoscape.org/), [PhotoFiltre](http://www.photofiltre.com/), [Polarr](https://www.polarr.com/), [ImageMagick](https://imagemagick.org/index.php) / [Scripts](http://www.fmwconcepts.com/imagemagick/index.php), [Pinta Project](https://www.pinta-project.com/), [RawTherapee](https://rawtherapee.com/), [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) (VS Code), [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) (Mac)
 
 ***
 
@@ -511,7 +511,6 @@
 
 #### Instagram Tools
 
-* **[Bibliogram](https://bibliogram.art/)** - *Instagram Privacy Frontend / [GitHub](https://github.com/cloudrac3r/bibliogram)*
 * **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** - *Multiple Tools* 
 * [Instander](https://thedise.me/instander/) - *Modded Android Client*
 * [InstaFollowers](https://www.instafollowers.co/instagram-tools) - *Multiple Tools* 
@@ -711,6 +710,7 @@ Add the following commands to a search to manually scrape each site.
 * [dizqueTV](https://github.com/vexorian/dizquetv) - *Live Channel Media Server*
 * [Cloudbox](https://cloudbox.works/) - *Cloud Media Ubuntu Server*
 * [Autodownload Tools](https://redd.it/hbwnb2) - *Companion Apps for Media Servers*
+* [Autoscan](https://github.com/Cloudbox/autoscan) - *Real-Time Plex & Emby File Changes*
 * [Ombi](https://ombi.io/) - *Plex / Emby User Request Management*
 * [Overseerr](https://overseerr.dev/) - *Plex User Request Management*
 
@@ -830,7 +830,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Online Photo Editors
 
-**[Photopea](https://www.photopea.com/)**, [Pixlr](https://pixlr.com/), [BeFunky](https://www.befunky.com/), [Resize Pixel](https://www.resizepixel.com/), [FotoFlexer](https://fotoflexer.com/), [Sumopaint](https://www.sumopaint.com/), [Lunapic](https://lunapic.com/), [Polotno Studio](https://studio.polotno.dev/), [OIE](https://www.online-image-editor.com/), [ResizeImage](https://resizeimage.net/), [IMG online](https://www.imgonline.com.ua/eng/), [BitMappery](https://www.igorski.nl/application/bitmappery/), [Kapwing](https://www.kapwing.com/), [Photoshop.adobe](https://photoshop.adobe.com/), [ILoveImg](https://www.iloveimg.com/photo-editor)
+**[Photopea](https://www.photopea.com/)** / [Adblocker](https://www.photopea.com/), [Pixlr](https://pixlr.com/), [BeFunky](https://www.befunky.com/), [Resize Pixel](https://www.resizepixel.com/), [FotoFlexer](https://fotoflexer.com/), [Sumopaint](https://www.sumopaint.com/), [Lunapic](https://lunapic.com/), [Polotno Studio](https://studio.polotno.dev/), [OIE](https://www.online-image-editor.com/), [ResizeImage](https://resizeimage.net/), [IMG online](https://www.imgonline.com.ua/eng/), [BitMappery](https://www.igorski.nl/application/bitmappery/), [Kapwing](https://www.kapwing.com/), [Photoshop.adobe](https://photoshop.adobe.com/), [ILoveImg](https://www.iloveimg.com/photo-editor)
 
 ***
 
@@ -1331,7 +1331,11 @@ Add the following commands to a search to manually scrape each site.
 
 #### SMS Verification Sites
 
-[TextNow](https://www.textnow.com/), [Tempophone](https://tempophone.com/), [2ndline](https://www.2ndline.co/), [ReceiveaSMS](https://www.receiveasms.com/), [SMS Receive Free](https://smsreceivefree.com/), [SMS Online](https://sms-online.co/), [smsreceiveonline](https://smsreceiveonline.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](http://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [7Sim](http://7sim.net/), [hs3x](https://hs3x.com/), [receivefreesms](http://receivefreesms.com/), [receivesmsonline](https://receivesmsonline.in/), [receive-sms-online](https://receive-sms-online.com/), [smsver](https://www.smsver.com/), [Sellaite](http://sms.sellaite.com/), [Send SMS Now](https://www.sendsmsnow.com/), [Free Online Phone](https://www.freeonlinephone.org/), [SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](http://receivesmsonline.me/), [My Trash Mobile](https://es.mytrashmobile.com/numeros/), [Temp-Mails](https://www.temp-mails.com/), [GlobFone](https://globfone.com/), [receive-sms](https://receive-sms.com/), [receive-sms-now](http://receive-sms-now.com/), [freesmsverification](http://freesmsverification.com/), [temp-mails-number](https://www.temp-mails.com/number)
+[TextNow](https://www.textnow.com/), [Tempophone](https://tempophone.com/), [2ndline](https://www.2ndline.co/), [ReceiveaSMS](https://www.receiveasms.com/), [SMS Receive Free](https://smsreceivefree.com/), [SMS Online](https://sms-online.co/), [smsreceiveonline](https://smsreceiveonline.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](http://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [7Sim](http://7sim.net/), [hs3x](https://hs3x.com/), [receivefreesms](http://receivefreesms.com/), [receivesmsonline](https://receivesmsonline.in/), [receive-sms-online](https://receive-sms-online.com/), [smsver](https://www.smsver.com/), [Sellaite](http://sms.sellaite.com/), [Send SMS Now](https://www.sendsmsnow.com/), [Free Online Phone](https://www.freeonlinephone.org/), [SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](http://receivesmsonline.me/), [My Trash Mobile](https://es.mytrashmobile.com/numeros/), [Temp-Mails](https://www.temp-mails.com/), [GlobFone](https://globfone.com/), [receive-sms](https://receive-sms.com/), [receive-sms-now](http://receive-sms-now.com/), [freesmsverification](http://freesmsverification.com/), [temp-mails-number](https://www.temp-mails.com/number), [countrycode](https://countrycode.org/)
+
+**No CC Required Trial Sites**
+
+[esendex](https://www.esendex.co.uk/), [burstsms](https://burstsms.com.au/), [directsms](https://www.directsms.com.au/), [vumber](https://www.vumber.com/)
 
 ***
 

@@ -124,6 +124,7 @@
 * [SongTube](https://github.com/SongTube/SongTube-App) - *YouTube Audio / Video Downloader*
 * [DankChat](https://github.com/flex3r/DankChat) - *Talk in Multiple Twitch Chats at Once*
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - *Reddit Video Downloader*
+* [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books / iOS*
 * [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - *MyAnimeList App*
 * [Uploadgram App](https://github.com/pato05/uploadgram-app) - *Uploadgram Frontend*
 * [Instander](https://thedise.me/instander/) - *Modded Instagram Client / [Telegram](https://t.me/instander)*
@@ -133,7 +134,7 @@
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
 * [Google Lens](https://lens.google/) - *Multiple Camera Tools*
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) - *Google Camera Ports / [Telegram](https://t.me/googlecameraport)*
-* [CutTheCord](https://gitdab.com/distok/cutthecord), [Treecord](https://github.com/Treecord/Treecord or [Aliucord](https://github.com/Aliucord/Aliucord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
+* [CutTheCord](https://gitdab.com/distok/cutthecord) or [Treecord](https://github.com/Treecord/Treecord or [Aliucord](https://github.com/Aliucord/Aliucord) / [Discord](https://discord.gg/EsNDvBaHVU) - *Modded Discord Client* 
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - *Telegram Client*
 * [Uploadgram](https://github.com/Pato05/uploadgram-app) - *Telegram File Upload*
 * [FluffyChat](https://fluffychat.im/en/) - *Matrix Client*
@@ -378,7 +379,7 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * **[CucoTV](https://cucotv.github.io/)** - *Movies / TV* 
 * **[CinemaHD](https://cinemaapk.com/)** - *Movies / TV / Anime / Chromecast*
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - *Ad Free YouTube on Android*
-* [Cunrchyroll Mod](https://forum.mobilism.org/search.php?keywords=crunchyroll&amp;sr=topics&amp;sf=titleonly) or [Kamyroll](https://github.com/hyugogirubato/Kamyroll) - *Anime / Premium Crunchyroll*
+* [Cunrchyroll Mod](https://forum.mobilism.org/search.php?keywords=crunchyroll&amp;sr=topics&amp;sf=titleonly) - *Anime / Premium Crunchyroll*
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - *Movies / TV / Anime* 
 * [PopcornTime](http://popcorn-ru.tk/build/) - *Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
@@ -444,7 +445,6 @@ RSS Player*
 * [TVTap](http://tvtap.bz/index.php)
 * [HD STREAMZ](https://hdstreamz.app/)
 * [SonyLiv (Modded)](https://forum.mobilism.org/search.php?keywords=SonyLIV+&sr=topics&sf=titleonly)
-* [Airy TV](https://airy.tv/) - *Legal / Live TV* 
 * [ScrubTV](http://netflix.bond/ScrubTV2.apk) - *Episode Streams*
 
 ***
@@ -488,7 +488,6 @@ iOS
 * [Lockdown Apps](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) - *Adblocker* 
 * [BlockParty](https://github.com/krishkumar/BlockParty) - *Adblocker* 
 * [Swab](http://swabthe.com/) - *Adblocker* 
-* [Aesther](https://aesther.net/) - *Blocks Ads, Trackers, Malware &amp; Revokes* 
 * [DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351) - *DNS Adblocker*
 * [Naka AdBlocker](https://apps.apple.com/ca/app/naka-adblocker/id1525185489) - *DNS Adblocker* 
 * [Blokada](https://apps.apple.com/ca/app/blokada/id1508341781) - *DNS Adblocker* 
@@ -496,6 +495,7 @@ iOS
 * [BlockBear](https://apps.apple.com/ca/app/blockbear/id1023924541) or [Adblock Plus for iOS](https://gitlab.com/eyeo/adblockplus/adblock-plus-for-safari) - *Safari Adblocker* 
 * [MobileAdsBlock](https://gitlab.com/Shub_/mobile-ads-block/-/raw/master/list) - *Ad / Tracker filter*
 * [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - *Skip YouTube Sponsorships* 
+* [Tweebot 6](https://apps.apple.com/us/app/tweetbot-6-for-twitter/id1527500834) - *Ad-Free Twitter*
 * [Should I Answer?](http://www.shouldianswer.net/) or [Hiya](https://www.hiya.com/) - *Block Spam Calls*
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - *Opt Out of Telemarketing Calls* 
 * [Slide](https://apps.apple.com/us/app/slide-for-reddit/id1260626828) or [Apollo](https://apps.apple.com/us/app/apollo-for-reddit/id979274575) - *Ad Free Reddit Client* 
@@ -520,30 +520,40 @@ iOS
 * [iOS eBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *eBook / Audiobook readers* 
 * [iEmulators](https://iemulators.com/) - *Emulator Apps*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
-* [3uTools](http://www.3u.com/) - *All in one iOS manager for Windows*
-* [InsightBrowser](https://insightbrowser.com/) - *iOS Browser*
-* [UTM](https://getutm.app/) - *Virtual machines on iOS* 
+* [Halide Mark II](https://apps.apple.com/us/app/halide-mark-ii-pro-camera/id885697368) - *Camera App*
+* [Fantastical](https://apps.apple.com/app/fantastical-2-for-iphone/id718043190?ls=1) - *Calendar & Tasks App*
+* [3uTools](http://www.3u.com/) - *iOS Manager for Windows*
+* [InsightBrowser](https://insightbrowser.com/) - *Browser*
+* [UTM](https://getutm.app/) - *Virtual Machines* 
+* [Fonts Keyboard](https://apps.apple.com/us/app/fonts/id1454061614) - *Fonts & Emoji Keyboard Amazing*
 * [iSkin](https://iskin.tooliphone.net/) - *No Jailbreak iOS Themes* 
+* [moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) - *iOS Themes & Icons* 
+* [Themify](https://apps.apple.com/us/app/themify-icon-themes-widgets/id1534126062) - *Icon Themes & Widgets*
 * [iCustom](https://icustom.tooliphone.net/) - *Make Custom Icons Without Shortcuts* 
-* [widgetopia](https://apps.apple.com/us/app/widgetopia-widgets-weather/id1536432615) - *iOS Widgets*
+* [WidgetSmith](https://apps.apple.com/us/app/widgetsmith/id1523682319) or [widgetopia](https://apps.apple.com/us/app/widgetopia-widgets-weather/id1536432615) - *iOS Widgets*
 * [DownTube](https://github.com/MrAdamBoyd/DownTube) or [YouDown](https://apps.apple.com/sa/app/youdown/id1487658334) - *YouTube Downloader* 
 * [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - *MyAnimeList App*
 * [Grffe](https://apps.apple.com/ca/app/grffe-wallpapers/id1521368829) - *Static and Live Backgrounds* 
 * [Artpaper](https://gikken.co/artpaper) or [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - *Wallpapers*
 * [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - *Default iOS Wallpapers*
 * [Iterm](https://github.com/kaneki07/iterm) - *Terminal Emulator*
+* [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - *Universal Remote*
 * [Instdown](https://apps.apple.com/ca/app/instdown-video/id1452076756) - *Download Videos from Social Media* 
 * [FCC Speed Test](https://apps.apple.com/us/app/fcc-speed-test/id794322383) or [Iperf 3](https://apps.apple.com/us/app/iperf-3-wifi-speed-test/id1462260546) - *Internet Speed Test*
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
+* [Beam](https://apps.apple.com/nl/app/beam-for-reddit/id937987469) - *Reddit Client*
 * [Nicegram](https://nicegram.app/) - *Telegram Client*
 * [GoodLinks](https://goodlinks.app/) - *Save Links*
 * [Flarify](http://www.flairify.com/) - *Touchscreen Typing Practice* 
-* [moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) - *iOS Themes & Icons* 
+* [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - *Scan & Digitize Documents*
+* [PhotoMath](https://apps.apple.com/us/app/photomath/id919087726) - *Math Problem Solver with Steps*
+* [Ringtones](https://apps.apple.com/us/app/ringtones-for-iphone-ringtune/id1036141497) - *Custom Ringtone Creator*
 * [Project Sandcastle](https://projectsandcastle.org/) - *Android for the iPhone* 
 * [Mematic](https://www.mematic.net/) - *Meme Creator* 
 * [Reface](https://reface.app/) - *Create Face Swap Videos* 
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
 * [GGMorse](https://github.com/ggerganov/ggmorse) - *Morse Code Decoding App*
+* [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id375589283) - *Delivery Tracker*
 * [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - *Control Android TV Box with iPhone*
 * [Swappa](https://swappa.com/imei) - *IMEI, MEID, ESN Checker*
 * [Mildred](https://apps.apple.com/us/app/mildred/id1522800022) - *Docker Client*
@@ -591,6 +601,7 @@ iOS
 * [eSound](https://apps.apple.com/ca/app/esound-music-player-app-mp3/id1224933860) - *Streaming* 
 * [Tubizu](https://apps.apple.com/ca/app/tubizu-music-player-streamer/id1426207462) - *Stream / Download* 
 * [Audiomack](https://apps.apple.com/ca/app/audiomack-download-new-music/id921765888) - *Streaming* 
+* [VOX](https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494) - *Streaming*
 * [Quorus](https://quorus.net/) - *Collaborative Playlists* 
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *Download / FLAC / MP3*
 * [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - *Spotify Release Tracker / Metrics* 
@@ -623,12 +634,14 @@ iOS
 # ► iOS Streaming
 
 * **[Stremio](https://www.stremio.com/downloads)** - *Torrent Streaming App / [Addons](https://redd.it/ahd6gk) / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
-* [Kodi](https://kodi.tv/) + */r/Addons4Kodi, [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) + [Trending](https://kodiapps.com/addons-chart)*
+* [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
 * [MediaBox](https://mediaboxhd.net/) - *Movies / TV*
+* [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756) - *Movies / TV*
 * [ZiniTevi](https://zinitevi.github.io/movieapps/) - *Movies* 
 * [Blackbox](https://apps.apple.com/ca/app/black-box-movie-listing/id958957112) - *Movies* 
 * [Zivcy](https://www.downloader.world/) - *Movies / TV*
 * [Movie Finder](https://apps.apple.com/de/app/movie-finder-movie-by-image/id1560301878) - *Movies / TV*
+* [Finnci](https://apps.apple.com/us/app/finnci/id1576317327) - *Movies*
 * [Airy TV](https://airy.tv/) - *Legal / Live TV*  
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - *Chinese Drama*
 * [RSS Player](https://apps.apple.com/us/app/rss-video-player/id885311320) - *KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)*

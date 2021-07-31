@@ -184,6 +184,7 @@
 * [CRXExtractor](https://crxextractor.com/) - *Get .CRX Chrome Extension Files* 
 * [CRX Viewer](https://github.com/Rob--W/crxviewer) or - *View Extension Source Code* 
 * [Dark Mode](https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl) - *Dark Mode*
+* [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - *Picture-in-Picture Mode*
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
@@ -196,6 +197,7 @@
 * [Social Tools](https://chrome.google.com/webstore/detail/facebook-block-read-recei/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) - *Block "Sending" & "Seen" Facebook Chat Indicators* 
 * [Mate Translate](https://gikken.co/mate-translate/chrome/) - *Translator*
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej) - *Discover Similar Webpages* 
+* [Email Tracker](https://snov.io/email-tracker) - *Gmail Engagement Tracker*
 * [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - *View Extension Source Code* 
 * [Current Moon Phase](https://chrome.google.com/webstore/detail/current-moon-phase/ippnbhhbamibfpljlfmgogaondodicgi) - *Current Moon Phases*
 
@@ -543,7 +545,7 @@
 * [FutureTimeline](https://www.futuretimeline.net/) - *Timeline of future predictions* 
 * [House creep](https://www.housecreep.com/) - *Homes With A Curious or Criminal History* 
 * [16 Personalities](https://www.16personalities.com/) - *Personality Tests*
-* [Six Triangles](https://sixtriangles.github.io/), [9 Axes](https://9axes.github.io/), [8dreams](https://8dreams.github.io/) or [8 Values](https://8values.github.io/) - *Political Alignment Test*
+* [Six Triangles](https://sixtriangles.github.io/), [9 Axes](https://9axes.github.io/), [8dreams](https://8dreams.github.io/), [ISideWith](https://www.isidewith.com/) or [8 Values](https://8values.github.io/) - *Political Alignment Test*
 * [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - *Test of Patience*
 * [Hypochondriapp](http://hypochondriapp.io/) - *Get a terrible diagnosis for your symptoms*
 * [Cube Rule](https://cuberule.com/) - *The Cube Rule of Food* 
@@ -645,6 +647,7 @@
 * [Google Fonts](https://fonts.google.com/)
 * [Dafont Free](https://www.dafontfree.net/) 
 * [Font Squirrel](https://www.fontsquirrel.com/)
+* [Free Fonts Family](https://freefontsfamily.com/)
 * [1001 Free Fonts ](https://www.1001freefonts.com/)
 * [Velvetyne](https://velvetyne.fr/)
 * [Font Library](https://fontlibrary.org/) 

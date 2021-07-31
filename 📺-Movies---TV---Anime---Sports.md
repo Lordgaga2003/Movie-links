@@ -483,6 +483,7 @@
 * [megaDDL](https://megaddl.co/) - *Movies / TV*
 * [GDriveDL](https://gdrivedl.com/) - *Movies / TV*
 * [Movies Ni Pipay](https://moviesnipipay.me/) - *Movies / TV*
+* [Reqzone](https://reqzone.com/) - *Movies / TV*
 * [DHAKA FTP](http://103.205.233.70/), [2](http://dhakaftp.com/) - *Movies / TV*
 * [Movies, Series... in English](https://redd.it/ns1ejo), [2](https://redd.it/ns1kdi), [3](https://redd.it/nsb38a), [4](https://redd.it/ns2avz), [5](https://redd.it/ns2wcv) - *Movies / TV*
 * [HDPopcorns](https://hdpopcorns.blog/) - *Movies*

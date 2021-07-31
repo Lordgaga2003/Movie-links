@@ -52,7 +52,6 @@
 * [Ali213](https://ali213.net/) - *May Require VPN / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [pc_game_down](https://t.me/pc_game_down) - *Telegram*
 * [g4u](https://g4u.to/) - *Password: 404*
-* [Gload](https://gload.cc/) - *Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [GoodOldDownloads Backup](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view)
 * [PCGames-Download Backup](https://1fichier.com/?hy7lsbep6bqtu4loy1j6)
 * [FreeToGame](https://www.freetogame.com/games) or [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - *F2P Games*
@@ -165,7 +164,6 @@
 * [Arcade Punks](https://www.arcadepunks.com/) - *Roms*
 * [CDRomance](https://cdromance.com/) - *Roms*
 * [LoveRoms](https://www.loveroms.online/) - *Roms* 
-* [GLoad](https://gload.cc/) - *Roms*
 * [FantasyAnime](https://fantasyanime.com/) - *Roms* 
 * [Emulanium](http://www.emulanium.com/roms.php) - *Roms*
 * [Ziperto](https://ziperto.com/) - *Roms*
@@ -530,7 +528,7 @@
 
 * [skribbl](https://skribbl.io/) or [Gartic](https://gartic.io/) - *Drawing / Guessing Game / Multiplayer*
 * [GuessMe!](https://cer0zz.itch.io/guessme) - *Guess Answers*
-* [GeoGuessr](https://www.geoguessr.com/) or [Geotastic](https://geotastic.de/) - *Location Guessing Game*
+* [GeoGuessr](https://www.geoguessr.com/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - *Location Guessing Game*
 * [City Guesser](https://virtualvacation.us/guess) - *City Guessing Game* 
 * [LanguageGuesser](https://languageguesser.com/) - *Guess Music Video Languages* 
 * [schoolprison](https://www.schoolprison.com/) - *Is this Building a School or Prison?* 

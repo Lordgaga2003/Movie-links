@@ -143,6 +143,7 @@
 * **[Authy](https://authy.com/)** or [WinAuth](https://winauth.github.io/winauth/) - *Two-Factor Authentication*  
 * [Obsidian](https://obsidianapp.io/) - *OS X/ iOS Two-Factor Authentication*
 * [Authenticator](https://authenticator.cc/) - *Generate Two-Factor Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)* 
+* [StrongPasswordGenerator](https://strongpasswordgenerator.com/), [ExpressVPN PW Generator](https://www.expressvpn.com/password-generator) or [Bitwarden PW Generator](https://bitwarden.com/password-generator/) - *Password Generators*
 * [Privacy / Safety Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides) - *Internet Privacy / Safety Guides* 
 * [Privacy.Sexy](https://privacy.sexy/) - *Privacy Scripts* 
 * [Team Elite](https://www.te-home.net/) - *Security Software*
@@ -311,7 +312,6 @@
 * [Invidious](https://invidiou.site/) / [2](https://tube.cadence.moe/), [FreeTubeApp](https://freetubeapp.io/), [Piped](https://github.com/TeamPiped/Piped) or [Youtube-local](https://github.com/user234683/youtube-local) - *YouTube frontend / Free / No Account Required / [Instances](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)* 
 * [Wikiless](https://wikiless.org/) - *Wikipedia Frontend / [Source](https://codeberg.org/orenom/Wikiless)*
 * [Yotter](https://yotter.kavin.rocks/) - *Youtube / Twitter Frontend* 
-* [Bibliogram](https://bibliogram.art/) - *Instagram frontend / [Open Source](https://github.com/cloudrac3r/bibliogram)*
 * [nitter](https://nitter.net/) - *Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)*
 * [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/) or [teddit](https://teddit.net/), [2](https://codeberg.org/teddit/teddit) - *Reddit Frontends*
 * [Metalune](https://translate.metalune.xyz/) / [2](https://gtranslate.metalune.xyz/) - *Google Translate Frontend* 

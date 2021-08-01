@@ -85,6 +85,7 @@
 * [Kukufm](https://kukufm.com/) - *Podcasts / Radio* 
 * [Podbean](https://www.podbean.com/) - *Podcasts*
 * [Podbay](https://podbay.fm/) - *Podcasts*
+* [player.fm](https://player.fm/) - *Podcasts*
 * [WebOasis Radio](http://streamwat.ch/radio/) - *Genre-Based Radio*
 * [Chiru.no](https://chiru.no/) - *Multiple Online Radio Sites* 
 * [Archive.org](https://archive.org/details/audio?&sort=-downloads&page=1) - *News / Classic Radio / Podcasts*

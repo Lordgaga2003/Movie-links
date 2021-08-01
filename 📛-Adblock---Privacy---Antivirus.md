@@ -403,8 +403,9 @@
 * **[Proton](https://protonvpn.com)** - *[Pricing](https://i.imgur.com/hkhZGg1.png) / [More Info](https://i.imgur.com/RZqOXKH.png) - Note that you can't torrent with the free version*
 * **[Windscribe](https://windscribe.com)** - *[Pricing](https://i.imgur.com/D7015rq.png) / [More Info](https://i.imgur.com/qmdyfp6.png) / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites) / free version available / [Chrome](https://chrome.google.com/webstore/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/windscribe/)*
 * **[Surfshark](https://surfshark.com/)** - *[Pricing](https://i.imgur.com/YaiKjpX.png) / [More Info](https://i.imgur.com/IPBVPNA.png)*
-* **[WireGuard](https://www.wireguard.com/)** - *VPN Tunnel*
 * **[Riseup](https://riseup.net/en/vpn)** - *Free VPN* 
+* **[Razorback OpenVPN](https://discord.gg/vgnaeka)** - *Free VPN Config / [How-To](https://imgur.com/a/nyToc6t)*
+* **[WireGuard](https://www.wireguard.com/)** - *VPN Tunnel*
 * [Perfect Privacy](https://www.perfect-privacy.com/) - *[Pricing](https://i.imgur.com/Rtfwu2t.png) / [More Info](https://i.imgur.com/Y9MRLcg.png)*
 * [IVPN](https://www.ivpn.net/) - *[Pricing](https://i.imgur.com/Iq92wOO.png) / [More Info](https://i.imgur.com/8MDJoYQ.png) / [Free Trial](https://redd.it/nzjmqa)*
 * [ExpressVPN](https://www.expressvpn.com) - *[Pricing](https://i.imgur.com/c1Gzjac.png) / [More Info](https://i.imgur.com/jx7Qz70.png)*
@@ -417,7 +418,6 @@
 * [WireHole](https://github.com/IAmStoxe/wirehole) - *Wireguard VPN w/ Adblocking Capabilities* 
 * [Syntropy](https://www.syntropystack.com/vpn) or [Outline](https://getoutline.org/) - *Self-Hosted VPN*
 * [WebOasis WireGuard](https://weboas.is/forum/index.php?topic=2657.0) - *Free VPN Config*
-* [Razorback OpenVPN](https://discord.gg/vgnaeka) - *Free VPN Config / [How-To](https://imgur.com/a/nyToc6t)*
 * [Kaspersky ](https://www.kaspersky.co.uk/vpn-secure-connection) - *Free VPN / 200 MB per day / No Account Required*
 * [TurboVPN](https://turbovpn.com/) - *Free VPN*
 * [Free VPN Online](http://freevpnonline.com/) - *Free VPN*

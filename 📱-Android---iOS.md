@@ -124,7 +124,7 @@
 * [SongTube](https://github.com/SongTube/SongTube-App) - *YouTube Audio / Video Downloader*
 * [DankChat](https://github.com/flex3r/DankChat) - *Talk in Multiple Twitch Chats at Once*
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - *Reddit Video Downloader*
-* [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books / iOS*
+* [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
 * [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - *MyAnimeList App*
 * [Uploadgram App](https://github.com/pato05/uploadgram-app) - *Uploadgram Frontend*
 * [Instander](https://thedise.me/instander/) - *Modded Instagram Client / [Telegram](https://t.me/instander)*
@@ -531,6 +531,7 @@ iOS
 * [iCustom](https://icustom.tooliphone.net/) - *Make Custom Icons Without Shortcuts* 
 * [WidgetSmith](https://apps.apple.com/us/app/widgetsmith/id1523682319) or [widgetopia](https://apps.apple.com/us/app/widgetopia-widgets-weather/id1536432615) - *iOS Widgets*
 * [DownTube](https://github.com/MrAdamBoyd/DownTube) or [YouDown](https://apps.apple.com/sa/app/youdown/id1487658334) - *YouTube Downloader* 
+* [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
 * [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - *MyAnimeList App*
 * [Grffe](https://apps.apple.com/ca/app/grffe-wallpapers/id1521368829) - *Static and Live Backgrounds* 
 * [Artpaper](https://gikken.co/artpaper) or [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - *Wallpapers*

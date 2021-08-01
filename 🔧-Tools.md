@@ -1298,6 +1298,7 @@ General Reading Sites*
 * [PowerShell](https://github.com/powershell/powershell) - *PC / Mac / Linux PowerShell*
 * [Starship](https://starship.rs/) - *Cross-Shell Prompt*
 * [GNU Parallelel](https://www.gnu.org/software/parallel/) - *Execute Commands / Scripts in Parallel using Multiple Computers* 
+* [Slides](http://maaslalani.com/slides/) - *Terminal Presentation Tool / [GitHub](https://github.com/maaslalani/slides)*
 * [Resource Hacker](http://www.angusj.com/resourcehacker/) - *Resource Editor* 
 * [grepWin](https://github.com/stefankueng/grepWin) - *Regular expression search and replace* 
 * [ngrep](https://github.com/jpr5/ngrep) - *Specify Expressions to match against Data Payloads of Packets* 

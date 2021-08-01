@@ -520,7 +520,6 @@ iOS
 * [iOS eBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *eBook / Audiobook readers* 
 * [iEmulators](https://iemulators.com/) - *Emulator Apps*
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - *Office Suite* 
-* [Halide Mark II](https://apps.apple.com/us/app/halide-mark-ii-pro-camera/id885697368) - *Camera App*
 * [Fantastical](https://apps.apple.com/app/fantastical-2-for-iphone/id718043190?ls=1) - *Calendar & Tasks App*
 * [3uTools](http://www.3u.com/) - *iOS Manager for Windows*
 * [InsightBrowser](https://insightbrowser.com/) - *Browser*

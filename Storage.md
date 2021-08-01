@@ -1923,7 +1923,6 @@ Good for finding classic, obscure & short films.
 
 #### Z-Library Mirrors 
 
-* https://1lib.eu/
 * https://1lib.us/
 * https://b-ok.xyz/
 * https://b-ok.org/

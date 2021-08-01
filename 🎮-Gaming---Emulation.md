@@ -210,7 +210,6 @@
 * [PS4.td](https://ps4.td-index.workers.dev/0:/) - *Roms / PS4* 
 * [NoPayStation](https://nopaystation.com/) or [PSNDL](https://psndl.net/) - *Roms / Sony Consoles*
 * [psp.hm7.moe](https://psp.hm7.moe/) - *Modded PSP Collection* 
-* [Xbox Collection](https://archive.org/details/xboxcds?sort=-downloads) - *Roms / Xbox / DDL / Torrents*
 * [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) - *Roms / Wii U*
 * [WiiWare Collection](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - *Roms / WiiWare*
 * [Nintendo Wii Collection](https://archive.org/details/RedumpNintendoWiiAmericaPart1), [2](https://archive.org/details/RedumpNintendoWiiAmericaPart2), [3](https://archive.org/details/RedumpNintendoWiiAmericaPart3), [4](https://archive.org/details/RedumpNintendoWiiAmericaPart5)
@@ -227,6 +226,7 @@
 * [Dreamcast Collection](https://archive.org/details/almstcmpltdrmcst) - *Roms / Dreamcast*
 * [Sega Saturn Collection](https://archive.org/details/SgaStrnCmplt) - *Roms / Sega Saturn*
 * [3DO Roms](https://archive.org/details/3DO_2017_Reference_Set_Redump_Validated_ROMs), [2](https://archive.org/details/Panasonic-3DO-Redump.org-2019-05-14) - *Roms / 3DO*
+* [Xbox Collection](https://archive.org/details/xboxcds?sort=-downloads) - *CD Roms / Xbox / DDL / Torrents*
 * [datcheck](https://github.com/pkos/datcheck) - *Compare No-Intro / Redump dat files to rom or disc collection* 
 * [HiddenPalace](https://hiddenpalace.org/) - *Game Development Media Archive*
 

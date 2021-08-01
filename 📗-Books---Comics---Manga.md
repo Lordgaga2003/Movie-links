@@ -147,7 +147,7 @@
 * [zqktlwi4fecvo6ri](http://zqktlwi4fecvo6ri.onion/wiki/Libraries) - *Tor Required* 
 * [xfmro77i3lixucja](http://xfmro77i3lixucja.onion/) - *Tor Required* 
 * [The Imperial Library of Trantor](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/) - *Tor Required / [Unofficial Mirror](https://trantor.is/)*
-* [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books / iOS*
+* [Libby](https://www.overdrive.com/apps/libby/) - *Borrow Digital Library Books / Mobile*
 * [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
 * /r/opendirectories
 * /r/EBook_Resources/
@@ -467,7 +467,6 @@
 * [Space.com](https://www.space.com/) - *News / Exploration / Astronomy / Space*
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) - *Books / Notes / Astronomy*
 * [phys](https://phys.org/) - *Latest / News / Article / Physics* 
-* [linguistics_library](https://t.me/linguistics_library) - *Linguistics Books*
 * [RealNotComplex](https://realnotcomplex.com/) - *Math / Books*
 * [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial) - *Reverse Engineering Course* 
 * [HowtoForge](https://www.howtoforge.com/) - *Linux / Tutorials*

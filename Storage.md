@@ -1222,7 +1222,8 @@ Add the following commands to a search to manually scrape each site.
 
 #### Screenshot Tools
 
-* [ShareX](https://getsharex.com/) / [SXIE Archive](https://mega.nz/folder/1goUgJBZ#XaqM3dm5nY40luhtoxyzWg) / [Imgur Upload](https://sxcu.net/)
+* [ShareX](https://getsharex.com/) / [SXIE Archive](https://mega.nz/folder/1goUgJBZ#XaqM3dm5nY40luhtoxyzWg) / [Imgur Upload](https://sxcu.net/) / [Android Upload](Xshare
+https://github.com/tsudoko/xshare)
 * [Flameshot](https://flameshot.org/) / [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
 * [Greenshot](https://getgreenshot.org/)
 * [Gyazo](https://gyazo.com/)

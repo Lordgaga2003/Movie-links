@@ -93,6 +93,7 @@
 
 * **[freesoff](https://freesoff.com/)** - *Courses*
 * **[TutFlix](https://tutflix.com/)** - *Courses / Mega Host / [Forum](https://tutflix.org/)* 
+* **[Large Collection of Useful Mega DL's](https://pastebin.com/ZMtZa2JV)** - *Courses / Drives*
 * [Iit jee lectures](https://t.me/Iitjeeinveins2) - *Lectures / Telegram*   
 * [downloadly](https://downloadly.ir/) - *Courses*
 * [Coursed](https://coursed.co/) - *Courses*
@@ -377,7 +378,7 @@
 * /r/educationalgifs  - *Learn With GIFs* 
 * [KausalFlow](https://tools.kausalflow.com/) - *Academic Research Tools* 
 * [Zotero](https://www.zotero.org/) - *Research Organization Tool* 
-* [PaperRater](https://www.paperrater.com/), [CopyScape](https://www.copyscape.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
+* [Plagiarism Checker](https://www.grammarly.com/plagiarism-checker), [PaperRater](https://www.paperrater.com/), [PlagiarismDetector](http://www.plagiarismdetector.net/), [CopyScape](https://www.copyscape.com/) or [PLText](https://pltext.com/) - *Plagiarism Detection*
 * [cb2bib](https://www.molspaces.com/cb2bib/) - *Reference Extractor / Manager*
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - *Grade School Educational Tools*
 * [Stublio](https://stublio.com/) - *Keep Track of what you're Studying* 
@@ -461,6 +462,7 @@
 * [SciGen](https://pdos.csail.mit.edu/archive/scigen/) - *CS Paper Generator*
 * [pdfparanoia](https://github.com/kanzure/pdfparanoia) - *Academic Paper Watermark Removal*
 * [Future Vision BIE](https://hemanthrajhemu.github.io/) - *VTU Study Materials*
+* [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - *Noam Chomsky Content Index Tool*
 * [P2PU](https://www.p2pu.org/) - *Join Learning Groups Using Free Courses*
 * [CollegeComendium](https://collegecompendium.goldin.io/) - *Free Computer Science Classes*
 * [Top Universities](https://www.topuniversities.com/) - *University Rankings*

@@ -168,7 +168,7 @@
 * [PimEyes](https://pimeyes.com/en/) - *Reverse Face Image Search* 
 * [trace.moe](https://trace.moe/) - *Anime Scene Reverse Image Search* 
 * [icon_finder](https://codeberg.org/cauf/icon_finder) - *Search for Icons via Patterns*
-* [WebOasis Editors](https://weboas.is/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [BrandFolder](https://brandfolder.com/workbench-suite) or [FastStone](https://www.faststone.org/index.htm) - *Multiple Image Tools*
+* [WebOasis Editors](https://weboas.is/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [Img2Go](https://www.img2go.com/), [BrandFolder](https://brandfolder.com/workbench-suite) or [FastStone](https://www.faststone.org/index.htm) - *Multiple Image Tools*
 * [Vectr](https://vectr.com/) - *Online Vector Graphics Editor* 
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - *Mac Image Editing Software* 
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - *Linux Image Editing Software* 
@@ -460,6 +460,7 @@
 * [FLAC2iTunes](https://github.com/pathartl/FLAC2iTunes/releases/tag/1.0.0) - *Convert FLAC to ALAC* 
 * [Airsonic](https://github.com/airsonic/airsonic) - *Audio Media Server* 
 * [TheAudioScene](https://theaudioscene.net/) - *Daws / VSTi / Samples / Presets* 
+* [Fresh Stuff For You](https://freshstuff4you.com/) - *Daws / Samples / Presets*
 * [FlsAudio](https://flsaudio.com/en/gb/) - *FLStudio Samples / Presets / Plugins* 
 * [FLStudio Skins](https://mega.nz/folder/LBA0AB4S#z0QoDfFcJkeh2QXWvynZ2Q) - *Skins for FLStudio*
 * [AirWindows](http://www.airwindows.com/) - *Reverbs, Equalizers, Plugins ect.*
@@ -701,7 +702,7 @@
 * [Pyfunceble](https://pyfunceble.github.io/#/) or [Domainr](https://domainr.com/) - *Check IP / Domain Availability* 
 * [HostsDock](https://eshengsky.github.io/HostsDock/) - *Manage & Switch Hosts* 
 * [2ip.io](https://2ip.io/) - *Multiple IP Address Tools*
-* [My IP Address](https://myipaddress.ru/), [IPInfoDB](https://ipinfodb.com/), [IP Burger](https://www.ipburger.com/ip/), [NSUpdate](https://www.nsupdate.info/), [IfConfig](https://ifconfig.me/) or [WhatIsMyIPLookup](https://whatismyiplookup.com/) - *Check IP Address*
+* [My IP Address](https://myipaddress.ru/), [WhatIsMyIPAdress](https://whatismyipaddress.com/), [IPInfoDB](https://ipinfodb.com/), [IP Burger](https://www.ipburger.com/ip/), [NSUpdate](https://www.nsupdate.info/), [IfConfig](https://ifconfig.me/) or [WhatIsMyIPLookup](https://whatismyiplookup.com/) - *Check IP Address*
 * [open-ports](https://www.yougetsignal.com/tools/open-ports/) - *Port Forwarding Tester*
 * [DownloadTestr](http://txti.es/downloadtestr) - *Download Test Files to Test Download Speed* 
 * [Hotel WiFi Test](https://www.hotelwifitest.com/) - *Test Hotel WiFi Speeds* 
@@ -869,7 +870,7 @@ General Reading Sites*
 
 * **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)** or [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - *Browser Extension /  [Feature List](https://redditenhancementsuite.com/features/)*
 * **[redditlist](http://redditlist.com/)** - *Subreddit search / index*
-* /u/SaveVideo, [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/) or [Reddit.tube](https://reddit.tube/) - *Download Reddit Videos* 
+* /u/SaveVideo, [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://www.redditsave.com/), [redv.co](https://redv.co/) or [Reddit.tube](https://reddit.tube/) - *Download Reddit Videos* 
 * [saveddit](https://github.com/p-ranav/saveddit) - *Reddit Bulk Media Downloader*
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown)
 * [/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all) - *Explore Multireddits*
@@ -923,7 +924,7 @@ General Reading Sites*
 ## ▷ Discord Tools
 
 * **WARNING** - Misuse of Chat Archivers, Deleters, Mods & 3rd Party Clients is against Discords TOS, so use them at your own risk. 
-* [Disboard](https://disboard.org/), [DiscordServers](https://discordservers.com/), [Discord Street](https://discord.st/), [Disforge](https://disforge.com/), [DiscordServers.me](https://discordservers.me/) or [Discord Me](https://discord.me/) - *Discover Discord Servers / Bots* 
+* [Disboard](https://disboard.org/), [DiscordServers](https://discordservers.com/), [Discord Street](https://discord.st/), [Disforge](https://disforge.com/), [discordlist.io](https://discordlist.io/), [DiscordServers.me](https://discordservers.me/) or [Discord Me](https://discord.me/) - *Discover Discord Servers / Bots* 
 * [DiscordTools](https://discordtools.io/) - *Discord Tools*
 * [Discordia](https://discordia.me/en/home) - *Community-powered Discord Wiki*
 * [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - *Use Discord Emoji's without Nitro* 
@@ -989,7 +990,7 @@ General Reading Sites*
 * [DSC.BIO](https://dsc.bio/) - *Make Awesome Custom Discord Bios* 
 * [DiscordStatus](https://warze.org/discordstatus/) - *Discord Status Art Creator*
 * [DateTimeCord](https://datetimecord.rauf.wtf/) - *Discord Date & Time Fomatting Tool*
-* [Automod Config](https://docs.google.com/spreadsheets/d/1oAHbnK8gcfnNS62aUuVK985RfORhqyhiZs-dZh4qloE) - *Automod Bot Config*
+* [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - *Automod Bot Config*
 * [Dyno](https://dyno.gg/) - *Change Discord Discriminator w/o Nitro / [How-To](https://i.imgur.com/lHRD42c.png)* 
 * [Discord.ID](https://discord.id/) - *Lookup a Discord User or Bot ID* 
 * [Discord Markdown Cheatsheet](https://pbs.twimg.com/media/EhCUbVnWAAE5tHx?format=png&name=900x900), [2](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-) - *Discord Markdown Guide*
@@ -998,7 +999,7 @@ General Reading Sites*
 * [Disgradient](https://disgradient.vanished.rocks/) - *Gradients for Discord Folders, Roles ect.*
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - *Adds Custom CSS Support* 
 * [Discord Status](https://discordstatus.com/) - *Check Discord Status* 
-* [Guild Counter](https://rauf.wtf/guildcount) - *Check how many servers you're in* 
+* [Guild Counter](https://rauf.wtf/guildcount) - *Check how many servers you're in*
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - *Preview Role Colors Role*
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - *Encode videos to <8MB*
 * [Movata](https://movata.cc/) - *Video Stream Sync / Watch Parties*
@@ -1257,10 +1258,9 @@ General Reading Sites*
 * [mRemoteNG](https://mremoteng.org/) - *Remote Connections Manager* 
 * [Netmaker](https://gravitl.com/netmaker) - *Create Virtual Network*
 * [Collab-VM](http://computernewb.com/collab-vm/) - *Control Collaborative Virtual Machines* 
-* [Chocolatey](https://chocolatey.org/) - *Windows Package Manager / [GUI](https://github.com/chocolatey/ChocolateyGUI)* 
 * [TopGrade](https://github.com/r-darwish/topgrade) - *Package Manager Update Automation* 
 * [winget-pkgs](https://github.com/microsoft/winget-pkgs) - *Windows Package Manager manifest repository / [CLI](https://github.com/microsoft/winget-cli)* 
-* [Ninite](https://ninite.com/) - *Install / Update Multiple Programs at Once*
+* [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI) or [Ninite](https://ninite.com/) - *Install / Update Multiple Programs at Once*
 * [Revo Uninstaller](https://www.revouninstaller.com/), [Soft Organizer](https://www.dropbox.com/s/5k5pm5f2xwbk7gb/soft-organizer-746-setup.exe), [Geek Uninstaller](https://geekuninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - *Software Uninstallation Tool*
 * [Update Notifier](http://cleansofts.org/view/update-notifier.html) - *Scan Computer for Software Updates* 
 * [SnappyDrivers](https://www.snappy-driver-installer.org/) - *Update / Install Missing Drivers* 
@@ -1307,6 +1307,7 @@ General Reading Sites*
 * [store.rg](https://store.rg-adguard.net/) - *Microsoft Store Link Generator* 
 * [amogOS](https://github.com/jostroOS/amogOS) - *Rasberry Pi OS*
 * [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - *Identify why your PC isn't Windows 11 ready*
+* [BetaWiki](https://betawiki.net/wiki/Main_Page) - *Operating System / Software History / [Discord](https://discord.gg/4TMJb8P)*
 
 ***
 
@@ -1323,6 +1324,7 @@ General Reading Sites*
 * [XDesktopSoft](https://www.xwidget.com/) - *Desktop Customization*
 * [WindowsCustomization](https://windowscustomization.com/), [VirtualCustoms](https://virtualcustoms.net/), [WinCustomize](https://www.wincustomize.com/) or [7Themes](https://7themes.su/) - *Desktop Customization / Themes / Wallpapers ect.* 
 * [DynaWin](https://github.com/Apollo199999999/DynaWin) - *Dynamic Desktop Themes*
+* [UltraUXThemePatcher](https://www.majorgeeks.com/files/details/ultrauxthemepatcher.html) - *Third Party Windows Themes Patcher*
 * [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) - *System Lighting Control*
 * [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - *Audio Visualizer / FX Engine for Keyboards, Mice & Accessories*
 * [MechaKeys](https://mechakeys.robolab.io/) - *Keyboard Soundpacks*

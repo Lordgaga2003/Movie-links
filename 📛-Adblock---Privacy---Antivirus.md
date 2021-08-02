@@ -290,7 +290,8 @@
 * [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - *SSL/TLS Browser Capabilities Test*
 * [IP / DNS Leak Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_dns_leak_tests) - *Test for IP & DNS Leaks*
 * [DNSCookie](http://dnscookie.com/) - *Identify Related Network Flows*
-* [Turn off IPv6 to Prevent Leaks](https://www.itechguides.com/disable-ipv6-windows-10/) - *[IPv6 Leak Test](https://ip6.nl/), [2](https://test-ipv6.com/)* 
+* [How-To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - *Prevent IP Leaks*
+* [IPv6 Leak Test](https://ip6.nl/), [Test-IPv6](https://test-ipv6.com/) or [IPv6 Test](https://ipv6-test.com/) - *IPv6 Leak Test*
 * [Voidsec](https://ip.voidsec.com/) or [WebRTC Leak Test](https://www.expressvpn.com/webrtc-leak-test) - *WebRTC Leak Test*
 * [webwormhole](https://github.com/saljam/webwormhole) - *Peer Authenticated WebRTC*
 * [WhatsMyUA?](https://www.whatsmyua.info/) or [WhatIsMyBrowser](https://www.whatismybrowser.com/detect/what-is-my-user-agent) - *User-Agent Detection* 
@@ -304,7 +305,7 @@
 * [Dark Launch Referer Test](https://www.darklaunch.com/tools/test-referer) - *Check Link Referrer*
 * [Link Cleaner](https://linkcleaner.app/) - *Remove Tracking Elements / Extra Garbage from URLs*
 * [whoer](https://whoer.net/) or [f.vision](http://www.f.vision/) - *Check Network / Browser Security*
-* [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [PixelScan](https://pixelscan.net/) or [AmIUnique](https://amiunique.org/) / [Timeline](https://amiunique.org/timeline) - *Browser Fingerprinting Test*
+* [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [PixelScan](https://pixelscan.net/), [Unique Machine](https://uniquemachine.org/) or [AmIUnique](https://amiunique.org/) / [Timeline](https://amiunique.org/timeline) - *Browser Fingerprinting Test*
 * [fluxfonts](https://github.com/da2x/fluxfonts) - *Hide Unique Font Fingerprint*
 * [dataskydd](https://webbkoll.dataskydd.net/) or [Blacklight](https://themarkup.org/blacklight) - *Check what data-protecting measures a site has taken*
 * [uBO-Scope](https://github.com/gorhill/uBO-Scope) - *Measure 3rd Party Exposure* 
@@ -475,5 +476,6 @@
 * [DarknetProxy](https://darknetproxy.com/) - *DeepWeb / I2P Proxy*
 * [b.007](https://b.007.workers.dev/), [2](https://b.lulu.workers.dev/), [3](https://b.jsproxy.workers.dev/), [4](https://noisy-tooth-2ee5.susheng.workers.dev/) - *Cloudflare Workers Proxies* 
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - *Python Library for Retrieving Free Proxies*
+* [Proxy-Checker](https://proxy-checker.net/) - *Proxy Checker*
 * [CheckSocks5](https://checksocks5.com/) - *Socks5 Proxy Checker*
 * [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - *Iranian Proxies*

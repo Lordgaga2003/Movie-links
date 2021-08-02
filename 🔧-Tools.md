@@ -1325,7 +1325,7 @@ General Reading Sites*
 * [XDesktopSoft](https://www.xwidget.com/) - *Desktop Customization*
 * [WindowsCustomization](https://windowscustomization.com/), [VirtualCustoms](https://virtualcustoms.net/), [WinCustomize](https://www.wincustomize.com/) or [7Themes](https://7themes.su/) - *Desktop Customization / Themes / Wallpapers ect.* 
 * [DynaWin](https://github.com/Apollo199999999/DynaWin) - *Dynamic Desktop Themes*
-* [UltraUXThemePatcher](https://www.majorgeeks.com/files/details/ultrauxthemepatcher.html) - *Third Party Windows Themes Patcher*
+* [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - *Third Party Windows Themes Patcher*
 * [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) - *System Lighting Control*
 * [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - *Audio Visualizer / FX Engine for Keyboards, Mice & Accessories*
 * [MechaKeys](https://mechakeys.robolab.io/) - *Keyboard Soundpacks*

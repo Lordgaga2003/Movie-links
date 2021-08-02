@@ -337,7 +337,6 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * [Quorus](https://quorus.net/) - *Collaborative Playlists* 
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *Download / FLAC / MP3*
 * [smd](https://github.com/artyshko/smd) - *Spotify Music Downloader* 
-* [Boom](https://apps.apple.com/us/app/boom-bass-booster-equalizer/id1065511007) - *Audio Equalizer*
 * [AudioSwitch](https://play.google.com/store/apps/details?id=com.nordskog.LesserAudioSwitch) - *Switch Audio to Different Outputs Lesser*
 
 ***
@@ -609,6 +608,7 @@ iOS
 * [Quorus](https://quorus.net/) - *Collaborative Playlists* 
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *Download / FLAC / MP3*
 * [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - *Spotify Release Tracker / Metrics* 
+* [Boom](https://apps.apple.com/us/app/boom-bass-booster-equalizer/id1065511007) - *Audio Equalizer*
 
 ***
 

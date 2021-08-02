@@ -103,6 +103,7 @@
 * [DXOMARK](https://www.dxomark.com/) - *Smartphone Quality Testing*
 * [eBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *eBook / Audiobook Readers* 
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - *Note Taking Apps*
+* [Magisk](https://magisk.me/) - *Android Root Tool / [Mods](https://t.me/magiskmod_update)*
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - *Debloat non-rooted Androids*
 * [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - *File / URL Virus Scanner* 
 * [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app ) - *Libgen Mobile App* 
@@ -243,6 +244,7 @@ App Manager
 * [Source of APK](https://sourceofapk.com/) - *Modded*
 * [AGXAPKS](https://www.agxapks.com/) - *Modded* 
 * [iHackedit](http://ihackedit.com/) - *Modded* 
+* [Modules Repositor](https://t.me/modulesrepo) - *Modded*
 * [AndroPalace](https://www.andropalace.org/) - *Modded* 
 * [APK Home](https://apkhome.net/) - *Modded* 
 * [DlAndroid](https://dlandroid.com/) - *Modded* 
@@ -335,6 +337,7 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * [Quorus](https://quorus.net/) - *Collaborative Playlists* 
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - *Download / FLAC / MP3*
 * [smd](https://github.com/artyshko/smd) - *Spotify Music Downloader* 
+* [Boom](https://apps.apple.com/us/app/boom-bass-booster-equalizer/id1065511007) - *Audio Equalizer*
 * [AudioSwitch](https://play.google.com/store/apps/details?id=com.nordskog.LesserAudioSwitch) - *Switch Audio to Different Outputs Lesser*
 
 ***
@@ -379,7 +382,7 @@ https://github.com/stephane-r/HoloPlay) or [YMusic](https://ymusic.io/) - *YouTu
 * **[CucoTV](https://cucotv.github.io/)** - *Movies / TV* 
 * **[CinemaHD](https://cinemaapk.com/)** - *Movies / TV / Anime / Chromecast*
 * **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - *Ad Free YouTube on Android*
-* [Cunrchyroll Mod](https://forum.mobilism.org/search.php?keywords=crunchyroll&amp;sr=topics&amp;sf=titleonly) - *Anime / Premium Crunchyroll*
+* [Cunrchyroll Mod](https://forum.mobilism.org/search.php?keywords=crunchyroll&amp;sr=topics&amp;sf=titleonly) or [Kamyroll](https://github.com/hyugogirubato/Kamyroll) - *Anime / Premium Crunchyroll*
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - *Movies / TV / Anime* 
 * [PopcornTime](http://popcorn-ru.tk/build/) - *Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
@@ -423,6 +426,7 @@ RSS Player*
 * [AnimeDLR](https://cyberneticlifeform.wixsite.com/cylonu87/animedlr) - *[Discord](https://discord.com/invite/wKxRqKc)*
 * [AnimeUltima](https://www1.animeultima.to/app) - *[Discord](https://discord.gg/Am89tCjYkY)*
 * [aniryu](https://anime.pokurt.me/)
+* [ZAnime](https://github.com/linkkader/zanime)
 * [AnimeBoya](https://github.com/Tu2l/AnimeBoya)
 * [Aniyomi](https://github.com/jmir1/aniyomi)
 * [Animebay](https://animebay.tech/)

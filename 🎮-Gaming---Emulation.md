@@ -17,7 +17,7 @@
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)**
 * **[Masquerade Repacks](https://masquerade.site/)** - *[Discord](https://discord.gg/HP5sQ6c)*
 * **[SteamUnlocked](https://steamunlocked.net/)** - *Use Adblocker*
-* **[Steam Underground](https://cs.rin.ru/)**
+* **[Steam Underground](https://cs.rin.ru/)** - *[Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod)*
 * **[GamesDrive](https://gamesdrive.net/)** - *[Discord](https://discord.gg/PKFAnduGtA)*
 * **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
 * **[GoG Games](https://gog-games.com/)**
@@ -34,6 +34,7 @@
 * [Le Fishe Repacks](https://lefishe.rf.gd/) - *[Discord](https://discord.gg/W3MfGDXhAS)*
 * [ElAmigos](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
 * [Black Box Repack](http://www.blackboxrepack.com/) 
+* [GLoad](https://gload.to/)
 * [Ova Games](http://www.ovagames.com/)
 * [Rihno Games](https://rihnogames.com/)
 * [SEHS Gamess](https://www.sehsgames.com/)
@@ -157,6 +158,7 @@
 * [EdgeEmulation](https://edgeemu.net/) - *Roms*
 * [RomsForever](https://romsforever.co/) - *Roms* 
 * [Replayers](https://replayers.org/) - *Roms*
+* [GLoad](https://gload.to/) - *Roms*
 * [WowRoms](https://wowroms.com/en/) - *Roms*
 * [FreeRoms](https://www.freeroms.com/) - *Roms*
 * [NanoRoms](https://nanoroms.com/) - *Roms*
@@ -183,6 +185,7 @@
 * /r/ps3homebrew - *PS3 Homebrew Subreddit*
 * [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) - *Yuzu Emulator Setup Guide*
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - *PSCX Development Emulator*
+* [RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list) - *Emulator Tool Index*
 
 ***
 

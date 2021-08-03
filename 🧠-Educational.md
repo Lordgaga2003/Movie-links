@@ -55,7 +55,7 @@
 * [pad.ma](https://pad.ma/) - *Text-annotated Videos* 
 * [How to Become a Computer Science Engineer](https://laconicml.com/computer-science-engineer-mit-university/) - *Computer Science Courses* 
 * [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree) - *Computer Science Courses*
-* [Open Source Society University](https://github.com/ossu/computer-science) - *Computer Science Courses / [Site](https://ossu.firebaseapp.com/) / [Discord](https://discord.gg/wuytwK5s9h)*
+* [Open Source Society University](https://github.com/ossu/computer-science) - *Computer Science Courses / [GitHub](https://github.com/ossu) / [Discord](https://discord.gg/wuytwK5s9h)*
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - *Computer Science Courses*
 * [UdemyFreeCourses](https://udemyfreecourses.org/) - *Udemy Courses*
 * [TutsNode](https://tutsnode.net/) - *Udemy Courses*

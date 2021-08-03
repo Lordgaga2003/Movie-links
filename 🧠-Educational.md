@@ -82,7 +82,6 @@
 * [ThoughtMaybe](https://thoughtmaybe.com/) 
 * [Folkstreams](https://www.folkstreams.net/) 
 * [Films For Action](https://www.filmsforaction.org/) 
-* [Documentary Addict](https://documentaryaddict.com/)
 * /r/Documentaries 
 
 ***

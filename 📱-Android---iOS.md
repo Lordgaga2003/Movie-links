@@ -527,7 +527,6 @@ iOS
 * [3uTools](http://www.3u.com/) - *iOS Manager for Windows*
 * [InsightBrowser](https://insightbrowser.com/) - *Browser*
 * [UTM](https://getutm.app/) - *Virtual Machines* 
-* [Fonts Keyboard](https://apps.apple.com/us/app/fonts/id1454061614) - *Fonts & Emoji Keyboard Amazing*
 * [iSkin](https://iskin.tooliphone.net/) - *No Jailbreak iOS Themes* 
 * [moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) - *iOS Themes & Icons* 
 * [Themify](https://apps.apple.com/us/app/themify-icon-themes-widgets/id1534126062) - *Icon Themes & Widgets*

@@ -428,7 +428,7 @@
 * **[Audio Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_downloading_apps)** - *Download Audio from Various Sites* 
 * **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - *Audio Visualization Resource Index* 
-* **[Determine Audio File Quality](https://redd.it/3l0yxp)** - *How to determine the true quality of an audio file*
+* **[Determine Audio File Quality](https://redd.it/3l0yxp)**, [Spek](http://spek.cc/) or [Spectro](http://spectro.enpts.com/) - *Determine Quality of Audio Files*
 * **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)** - *Audio compression examples*
 * [OpenAudio](https://github.com/webprofusion/OpenAudio) or [PLUGINS4FREE](https://plugins4free.com/) - *Audio Plugins & Apps* 
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - *Learn How to Play Music*
@@ -507,8 +507,6 @@
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) - *Clone Human Voices*
 * [Sound Branch](https://soundbran.ch/) - *Create / Share / Podcasts / Voice Messages* 
 * [Gibber](https://gibber.cc/) - *Audiovisual Code Composer* 
-* [Spek](http://spek.cc/) - *Spectral Analysis Tool / Audio File Analyzer* 
-* [Spectro](http://spectro.enpts.com/) - *Audio File Analyzer* 
 * [dBpoweramp](https://www.dbpoweramp.com/dmc.htm) - *Music Converter / [Registered exe](https://anonfiles.com/71K53cz1p6)* 
 * [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - *Convert AAX to MP3 / FLAC / M4A / OPUS* 
 * [inAudible](https://github.com/rmcrackan/inAudible) - *Audible to MP3 converter*

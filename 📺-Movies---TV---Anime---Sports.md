@@ -165,7 +165,6 @@
 * [FSAPI](https://fsapi.xyz/) - *Search API, IMDb ids*
 * [IMDbStream](https://imdbstream.xyz/) - *Search API, IMDb ids*
 * [NetU](https://netu.io/view_page.php?pid=4) - *Search by clicking the [blue box](https://i.imgur.com/c19hKLw.png), try IMDb ids*
-* [Streamy-Flix](https://streamy-flix.my-trials.ml/) - *Multi host search* 
 * [DBGO](https://dbgo.fun/) - *Search API, IMDb ids / [Content List](https://dbgo.fun/list.php)*
 * [ApiMDB](https://apimdb.net/) - *Search API, IMDb ids*
 * [VPlus.ucoz](http://vplus.ucoz.com/) - *Search API, IMDb ids* 
@@ -260,7 +259,6 @@
 * [NoobSubs](https://noobsubs.com/) - *Sub / Dub / [Drive](https://noobftp1.noobsubs.com/)* 
 * [AnimeLon](https://animelon.com/) - *Sub / Learn Japanese*
 * [because.moe](https://because.moe/) - *Legal Anime Sites Search* 
-* [WonderfulSubs](https://www.wonderfulsubs.com/) - *Sub / Dub / [Discord](https://discord.com/invite/AQkYAbb)*
 * [Aniwoofy](https://aniwoofy.ml/) - *Sub / Dub / [Discord](https://discord.gg/7FbaqBWKzb)* 
 * [Simplyaweeb](https://simplyaweeb.com/) - *Sub / Dub / [Discord](https://discord.gg/4uGvPUV)* 
 * [DubbedAnime](https://www.dubbedanime.vip/) - *Sub / Dub / [Discord](https://discord.gg/8FyN3w5)*
@@ -280,7 +278,6 @@
 * [KissCartoon.info](https://kisscartoon.info/) - *Anime / Cartoons / Sub / Dub*
 * [Soul-Anime](http://ww9.soul-anime.us/) - *Sub*
 * [NWAnime](https://nwanime.tv/) - *Sub* 
-* [AniOrb](https://aniorb.me/) - *Sub*
 * [DarkAnime](https://darkanime.stream/) - *Sub*
 * [Kawaiifu](https://kawaiifu.com/) - *Sub / Dub*
 * [AnimeDaisuk](https://animedaisuki.moe/) - *Sub*
@@ -289,7 +286,6 @@
 * [AnimeHeaven](https://animeheaven.ru/) - *Sub / Dub* 
 * [AnimeDao](https://animedao.to/) - *Sub*
 * [AnimePill](https://animepill.com/) - *Sub*
-* [AniMumu](https://animumu.ga/) - *Sub*
 * [Shiro](https://shiro.is/) - *Sub / Dub* 
 * [Array Anime](https://www.arrayanime.com/) - *Sub / Dub* 
 * [Pantsubase](https://pantsubase.tv/) - *Sub / Dub* 
@@ -298,14 +294,12 @@
 * [AnimeLand](https://www.animeland.us/) - *Dub* 
 * [Animetake](https://animetake.tv/) - *Sub* 
 * [AnimeVibe](https://animevibe.tv/) - *Sub* 
-* [AnimePace](https://www3.animepace.si/) - *Sub* 
 * [DivineAnime](https://www.divineanime.ru/) - *Sub / Dub* 
 * [Animeow.me](https://animeow.me/) - *Sub / Dub* 
 * [KimAnime](https://kimanime.ru/) - *Sub / Dub* 
 * [Anime1](http://www.anime1.com/) - *Sub* 
 * [NetAnime](https://netanime.tv/) - *Sub / Dub* 
 * [tenshi.moe](https://tenshi.moe/) - *Sub / Dub* 
-* [Animefever](https://www.animefever.tv/) - *Sub / Dub* 
 * [Anime-TV](https://anime-tv.fun/) - *Sub* 
 * [AnimeFrenzy](https://animefrenzy.org/) - *Sub* 
 * [AnimeSuge](https://animesuge.io/) - *Sub / Dub* 
@@ -368,7 +362,6 @@
 * [SportsBay](https://sportsbay.org/live-streams) - *Sports* 
 * [Icelz](https://icelz.newsrade.com/) - *The Olympics*
 * [7Plus](https://7plus.com.au/) - *The Olympics / Australian VPN Required*
-* [Stream2Watch](https://www.stream2watch.is/) - *TV / Sports*
 * [123TV](http://123tv.live/) - *TV / Sports*
 * [streamlive](https://www.streamlive.to/) - *TV / Sports*
 * [ChannelSurf](https://channelsurf.tv/) - *TV / Sports*

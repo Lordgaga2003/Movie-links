@@ -565,7 +565,6 @@ iOS
 # ► iOS Apps
 
 * **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - *Open Source iOS App Index* 
-* [TeamOS](https://www.teamos-hkrg.com/) - *Forum* 
 * [AppDB](https://appdb.to/) - *iOS Apps* 
 * [AppAddict](https://www.appaddict.org/) - *iOS Apps*
 * [iPALibrary](https://gitlab.com/Shub_/ipa-library/-/tree/master/Library) - *Hacked/Tweaked iOS App Library* 

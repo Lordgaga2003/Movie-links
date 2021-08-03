@@ -306,6 +306,7 @@
 * [uu.canna.to](http://uu.canna.to/) - *Music / Audiobooks* 
 * [ddl-albums](https://ddl-albums.net/) - *MP3*
 * [CasualGamers](https://casualgamers.club/) - *Games*
+* [GLOAD](https://gload.to/) - *Games*
 
 ## ▷ Streaming
 
@@ -816,6 +817,7 @@
 * [DXP](https://dxp.ru/) - *Torrent / Subtitles*
 * [TLauncher Legacy](https://tlaun.ch/) - *Minecraft Client / Cracked Minecraft*
 * [netwhood](https://netwhood.online/) - *Communication Network*
+* [Proxy-Checker](https://proxy-checker.net/) - *Proxy Checker*
 
 ## ▷ Downloading 
 

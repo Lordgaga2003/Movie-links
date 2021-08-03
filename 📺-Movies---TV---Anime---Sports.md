@@ -277,7 +277,6 @@
 * [AnimeHD47](https://animehd47.com/) - *Sub / Dub*
 * [KissCartoon.info](https://kisscartoon.info/) - *Anime / Cartoons / Sub / Dub*
 * [Soul-Anime](http://ww9.soul-anime.us/) - *Sub*
-* [NWAnime](https://nwanime.tv/) - *Sub* 
 * [DarkAnime](https://darkanime.stream/) - *Sub*
 * [Kawaiifu](https://kawaiifu.com/) - *Sub / Dub*
 * [AnimeDaisuk](https://animedaisuki.moe/) - *Sub*

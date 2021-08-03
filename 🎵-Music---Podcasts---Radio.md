@@ -172,6 +172,7 @@
 
 * **[Deemix](https://deemix.app/)** - *FLAC / MP3 / /r/deemix / [Telegram](https://t.me/deemixcommunity) / [ARL](https://archive.is/aQ3JA)*
 * **[Freezer](https://freezer.life/)** - *FLAC / MP3 / [Discord](https://discord.com/invite/qwJpa3r4dQ) / [Telegram](https://t.me/joinchat/Se4zLEBvjS1NCiY9)* 
+* **[GamesDrive Music-DL](https://discord.gg/PKFAnduGtA)** - *TIDAL Music Bot Ripper*
 * **[YouTube to MP3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - *Telegram audio download channels*
 * [SMLoadr](https://t.me/SMLoadrNews) - *FLAC / MP3 / [Desktop GUI](https://github.com/thelucifermorningstar/SMLoadr-AUX/releases)*
@@ -189,7 +190,6 @@
 * [SoundCloud Downloader](https://github.com/NotTobi/soundcloud-dl), [Klickaud](https://www.klickaud.co/), [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837-local-soundcloud-downloader), [SoundCloud-Playlist-Sync](https://github.com/erwinkramer/SoundCloud-Playlist-Sync), [Soundcloud-Downloader](https://github.com/Kawaizombi/kawai-scripts/tree/master/projects/soundcloud-downloader) or [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/) - *Soundcloud Downloader*
 * [streamrip](https://github.com/nathom/streamrip) - *Deezer & SoundCloud Downloader*
 * [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - *Audio Command Line Download Tool*
-* [GamesDrive Music-DL](https://discord.gg/PKFAnduGtA) - *GamesDrive TIDAL Music Bot Ripper*
 * [music-downloader](https://github.com/Dayhawk007/music-downloader) - *Python Music Download Script*
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - *VK MP3 Search Tool* 
 * [fetch-audio-from-fm](https://github.com/zhenze12345/fetch-audio-from-fm) - *Download FM Site Audio* 

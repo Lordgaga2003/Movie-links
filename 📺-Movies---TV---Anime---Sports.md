@@ -244,7 +244,7 @@
 * **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
 * **[/r/AnimePiracy Index](https://piracy.moe/)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - *Curated List of Anime Sites / [Discord](https://discord.gg/piracy)*
 * **[Zoro](https://zoro.to/)** - *Sub / Dub*
-* **[9Anime](https://www12.9anime.to/)** or [9anime.ru](https://www12.9anime.ru/) - *Sub / Dub / [Mirrors](https://9anime.me/) / [Use Filter](https://redd.it/c330dx)*
+* **[9Anime](https://www.9anime.to/)** or [9anime.ru](https://www.9anime.ru/) - *Sub / Dub / [Mirrors](https://9anime.me/) / [Use Filter](https://redd.it/c330dx)*
 * **[Anime Twist](https://twist.moe/)** - *Sub / [Discord](https://discord.gg/Ea3Mq9n)*
 * **[Anime8](https://anime8.ru/)** - *Sub / Dub*
 * **[AnimeFlix](https://animeflix.io/)** - *Sub / Dub*

@@ -41,10 +41,8 @@
 * [Last.fm](https://www.last.fm/) or [Libre.fm](https://libre.fm/) - *Browser Music*
 * [Just Hear It](http://justhearit.com/hear/Iv) - *Browser Music*
 * [SoundClick](https://www.soundclick.com/default.cfm) - *Browser Music*
-* [MP3Clan](https://mp3guild.com/) - *Browser Music*
 * [Tancpol](https://tancpol.net/) - *Browser Music*
 * [MP3 Quack](https://mp3quack.live/) - *Browser Music*
-* [plug.dj](https://plug.dj/) - *Community Streaming by Genre* 
 * [hypem](https://hypem.com/popular) - *Rising*
 * [datpiff](https://www.datpiff.com/) - *Mixtapes*
 * [pumpyouup](http://www.pumpyouup.com/) - *Indie Dubstep*

@@ -449,7 +449,6 @@
 * [PowerInBooks](https://powerinbooks.xyz/temp/) or [ch36650lut10n5](https://www.ch36650lut10n5.com/) - *Textbook Solutions* 
 * [LearnCreative](https://learncreative.net/) - *IIT / JEE / NEET / AIIMS Study Material* 
 * [ck12](https://www.ck12.org/)- *Interactive CK-12*
-* [Nexus](https://t.me/libgen_scihub_bot) - *Books / Telegram*
 * [Oxford Bookworms](https://t.me/OxfordBookworms) - *Books / Audiobooks / telegram*  
 * [Digital Libraries / Archives](https://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/) - *Online university libraries*
 * [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - *Academic Repository Search*  

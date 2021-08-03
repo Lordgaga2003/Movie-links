@@ -492,7 +492,7 @@
 * [lalal.ai](https://www.lalal.ai/) - *Split Vocal and Instrumental Tracks from music* 
 * [Get Song BPM](https://getsongbpm.com/) - *Song Tempo Database*
 * [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) - *Musical Chord Progression* 
-* [beets.io](http://beets.io/) / [2](https://github.com/beetbox/beets), [Zortam](https://www.zortam.com/), [MP3Tag](https://www.mp3tag.de/en/), [MusicBee](https://getmusicbee.com/) or [MusicBrainz](https://picard.musicbrainz.org/) - *Music Meta-Data Organizer*
+* [beets.io](http://beets.io/) / [2](https://github.com/beetbox/beets), [Zortam](https://www.zortam.com/), [MP3Tag](https://www.mp3tag.de/en/), [MusicBee](https://getmusicbee.com/) or [MusicBrainz](https://picard.musicbrainz.org/) - *Music Metadata Organizer*
 * [Mooval](https://www.mooval.de/) - *Move Songs to or from Programs / Sites*
 * [Flacon](https://flacon.github.io/) - *Audio Track Splitter* 
 * [ZzFXM](https://keithclark.github.io/ZzFXM/) - *JavaScript Music Renderer* 

@@ -45,7 +45,7 @@
 * **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - *Network-wide DNS Adblocking / [Setup](https://github.com/klutchell/balena-adguard)* 
 * [Adguard](https://adguard.com/en/adguard-dns/overview.html) - *[Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt) / [Filters](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole), [2](https://github.com/AdguardTeam/AdguardFilters/blob/master/Eng1lishFilter/sections/content_blocker.txt) / [Extension](https://github.com/AdguardTeam/AdguardBrowserExtension#installation)*
 * [Blah DNS](https://blahdns.com/)
-* [Pi-Hole](https://pi-hole.net/) - *[Filter](https://firebog.net/), [2](https://ftpihole.com/), [3](https://github.com/hl2guide/Filterlist-for-AdGuard) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine)*
+* [Pi-Hole](https://pi-hole.net/) - *[Filter](https://firebog.net/), [2](https://github.com/hl2guide/Filterlist-for-AdGuard) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine)*
 * [ahadns](https://ahadns.com/) 
 * [Adhole](https://adhole.org/) 
 * [Quad9](https://quad9.net/) 
@@ -113,7 +113,6 @@
 * [Phish.ly](https://phish.ly/) - *Scan Suspicious Emails*
 * [Any.Run](https://any.run/) - *Interactive Malware Sandbox*
 * [testsafebrowsing](https://testsafebrowsing.appspot.com/) - *Safe Browsing Testing Links* 
-* [QuickSand](https://quicksand.io/) - *PDF / Document Malware Scanner* 
 * [Dangerzone](https://dangerzone.rocks/) - *Convert dangerous PDF to safe PDF*
 * [ThreatMap](https://threatmap.checkpoint.com/) - *Live Malware Distribution Map*
 * [Web Of Trust](https://www.mywot.com/) - *Check Website Safety* 
@@ -471,7 +470,6 @@
 * [4EverProxy](https://www.4everproxy.com/)
 * [zend2](https://zend2.com/)
 * [Open Proxy Space](https://openproxy.space/)
-* [Unblocked.cyou](https://unblocked.cyou/)
 * [Google Translate](https://translate.google.com/) - *[How to use](https://redd.it/fawkjy)*
 * [DarknetProxy](https://darknetproxy.com/) - *DeepWeb / I2P Proxy*
 * [b.007](https://b.007.workers.dev/), [2](https://b.lulu.workers.dev/), [3](https://b.jsproxy.workers.dev/), [4](https://noisy-tooth-2ee5.susheng.workers.dev/) - *Cloudflare Workers Proxies* 

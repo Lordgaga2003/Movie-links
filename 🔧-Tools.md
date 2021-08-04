@@ -1337,7 +1337,6 @@ General Reading Sites*
 * [terminal.sexy](https://terminal.sexy/) - *Terminal Color Schemes*
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - *Pokemon Terminal Themes*
 * [Windows Media Player Skins](https://web.archive.org/web/20100827223732/http://windows.microsoft.com/en-US/windows/downloads/windows-media-player/skins?T1=all)
-* [Artpaper](https://gikken.co/artpaper) - *Mac / iOS Wallpaper Client*
 
 ***
 

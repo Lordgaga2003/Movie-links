@@ -428,7 +428,7 @@
 * **[Audio Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_downloading_apps)** - *Download Audio from Various Sites* 
 * **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - *Download from YouTube*
 * **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - *Audio Visualization Resource Index* 
-* **[Determine Audio File Quality](https://redd.it/3l0yxp)**, [Spek](http://spek.cc/) or [Spectro](http://spectro.enpts.com/) - *Determine Quality of Audio Files*
+* **[Determine Audio File Quality](https://redd.it/3l0yxp)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](http://spek.cc/) or [Spectro](http://spectro.enpts.com/) - *Determine Quality of Audio Files*
 * **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)** - *Audio compression examples*
 * [OpenAudio](https://github.com/webprofusion/OpenAudio) or [PLUGINS4FREE](https://plugins4free.com/) - *Audio Plugins & Apps* 
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - *Learn How to Play Music*

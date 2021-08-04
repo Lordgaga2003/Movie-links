@@ -52,7 +52,7 @@
 * **[Calibre](https://calibre-ebook.com/)** - *E-Book Manager / Downloader*
 * **Calibre Tools** - [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre), [3](https://the-eye.eu/public/Books/Calibre_Libraries/) / [Search](https://www.shodan.io/search?query=server%3A+calibre), [2](https://calishot-eng-1.herokuapp.com/), [3](https://calishot-eng-2.herokuapp.com/index-eng/summary), [4](https://calishot-eng-3.herokuapp.com/index-eng/summary), [5](https://calishot-eng-4.herokuapp.com/index-eng/summary), [6](https://redd.it/nugkl3) / [Web App](https://github.com/janeczku/calibre-web)  
 * **[Library Genesis](https://libgen.fun/)** - *Comics / Manga*
-* **Lib Gen Tools** - *[Desktop](https://wiki.mhut.org/software:libgen_desktop) / [Mobile](https://github.com/manuelvargastapia/libgen_mobile_app), [2](https://github.com/FunkyMuse/Aurora) / [Download Tool](https://github.com/bagaswastu/librebook) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Telegram Bot](https://t.me/BotBookClub) / [Extension](https://github.com/samj1912/Genesis) / [Python Script](https://github.com/NadalVRoMa/PyLibGen) / [Mirrors](https://whereislibgen.now.sh/), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_clones), [3](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [4](https://sguru.org/libgen-proxy/) / [Onion](http://genotypeinczgrxr.onion/) / [Backup](https://redd.it/edwi9b) / /r/libgen*
+* **Lib Gen Tools** - *[Desktop](https://wiki.mhut.org/software:libgen_desktop) / [Mobile](https://github.com/manuelvargastapia/libgen_mobile_app), [2](https://github.com/FunkyMuse/Aurora) / [Download Tool](https://github.com/bagaswastu/librebook) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Extension](https://github.com/samj1912/Genesis) / [Python Script](https://github.com/NadalVRoMa/PyLibGen) / [Mirrors](https://whereislibgen.now.sh/), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_clones), [3](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [4](https://sguru.org/libgen-proxy/) / [Onion](http://genotypeinczgrxr.onion/) / [Backup](https://redd.it/edwi9b) / /r/libgen*
 * **[Z-Library](https://z-lib.org/)** - *Books / Comics / Educational / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_mirrors) / [Telegram Bot](https://t.me/zlibrarybot) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Amazon Links](https://github.com/annaelmoussa/amazon-zlibrary)*
 * **[eBookHunter](https://ebook-hunter.org/)** - *Books / Comics*
 * **[ebook3000](http://www.ebook3000.com/)** - *Books / Audiobooks / Comics / Magazines / Newspapers*
@@ -1007,6 +1007,7 @@
 * [mupdf](https://mupdf.com/) - *PDF Reader / PC*
 * [XODO](https://www.xodo.com/) - *PDF Reader / PC / Android / iOS*
 * [gonitro](https://www.gonitro.com/pdf-reader) - *PDF Reader / PC*
+* [PDF Viewer](https://f-droid.org/packages/com.gsnathan.pdfviewer) - *PDF Reader / Android*
 * [PdfPreviewbot](https://t.me/PdfPreviewbot) - *Telegram PDF Reader*
 * [Readera](https://play.google.com/store/apps/details?id=org.readera) - *Manager / Reader / Android*
 * [Foliate](https://johnfactotum.github.io/foliate/) - *Manager / Reader / Linux*

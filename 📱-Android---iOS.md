@@ -536,7 +536,7 @@ iOS
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
 * [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - *MyAnimeList App*
 * [Grffe](https://apps.apple.com/ca/app/grffe-wallpapers/id1521368829) - *Static and Live Backgrounds* 
-* [Artpaper](https://gikken.co/artpaper) or [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - *Wallpapers*
+* [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - *Wallpapers*
 * [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - *Default iOS Wallpapers*
 * [Iterm](https://github.com/kaneki07/iterm) - *Terminal Emulator*
 * [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - *Universal Remote*

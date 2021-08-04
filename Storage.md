@@ -1600,6 +1600,7 @@ https://github.com/tsudoko/xshare)
 
 #### Telegram eBook Download
 
+* [Nexus](https://t.me/libgen_scihub_bot) - *[Bot News](https://t.me/nexus_search) / [Discussion](https://t.me/joinchat/SKgGpCnrzMdkMRxJ), [RU Discussion](https://t.me/joinchat/RfkIXNjqQmpXuQj5)*
 * https://t.me/mfmixebooks
 * https://t.me/joinchat/AAAAAEhdftsJgcQnPx0O7A
 * https://t.me/joinchat/AAAAAEzJPHplxAzxEO8p-A
@@ -1868,8 +1869,7 @@ Good for finding classic, obscure & short films.
 * [FoxOS](https://discord.gg/A5Y76ymyBY) - *Custom Windows 7 ISO* 
 * [ggOS](https://discord.gg/A5BHSQV) - *Custom Windows 10 20H2 ISO*
 * [XOS](https://discord.gg/Zs4bpVjJyp) - *Custom Windows 10 1803 ISO*
-* [UnicornsOS](https://discord.gg/F6kwhxTctY) - *Custom Windows 10 1607 ISO*
-* [Athena](https://discord.gg/3sDdhGwsxA) - *Custom Windows 10 1709 ISO*
+* [UnicornsOS](https://discord.gg/vFwRBB7XBK) - *Custom Windows 10 1607 ISO*
 * [Ameliorated](https://ameliorated.info/) - *Windows 10 ISO Aimed Towards No Telemetry Windows 10*
 * [Windows 10 LSTC](https://mega.nz/folder/ChNTDaiL#nNqH2PTfIzTLAEs8nc-U0w) - *Bloat / Telemetry Free Windows 10 / r/Windows10LTSC*
 * [Windows 10 Performance Edition](https://mega.nz/file/4JkCwYJB#ghB08_PppoMdl3t2F-9-hzNtBDgrw8gwM6MsUx1koZ0), [2](https://1fichier.com/?cxqd57d6vfpot5x6v9ft) - *No Cortana, Onedrive, Telemetry, Spying ect. / [Upates & Install Guide](https://weboas.is/forum/index.php?topic=2068.0)*

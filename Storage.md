@@ -154,7 +154,7 @@
 
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming) 
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - *Google Drive KDrama*
-* [KissAsian](https://kissasian.ac/)
+* [KissAsian](https://kissasian.li/), [2](https://kissasian.ac/)
 * [GoPlay](https://redd.it/723mtd) + [Discord](https://discord.gg/Gh44afE)
 * [Dramago](http://www.dramago.com/)
 * [AsianCrush](https://www.asiancrush.com/)

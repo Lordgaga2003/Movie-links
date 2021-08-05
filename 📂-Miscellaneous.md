@@ -417,6 +417,7 @@
 * [Awesome Lego](https://github.com/ad-si/awesome-lego) - *Lego Resource Index* 
 * [BrickLink Studio](https://www.bricklink.com/v2/build/studio.page) - *Lego Building Software*
 * [Brickit](https://brickit.app/) - *Scan Lego Collection for Build Ideas*
+* [Building Instructions](https://www.lego.com/en-us/service/buildinginstructions) - *Download Lego Instructions*
 * [Outside Simulator](https://outsidesimulator.com/) - *Simulate Being Outside* 
 * [Travel Remotely](https://travel-remotely.netlify.app/) - *Traveling Simulator* 
 * [stringers.live](https://stringers.live/) - *Live Stringer (freelance journalist) Streams*
@@ -450,6 +451,7 @@
 * [Chaos Equations](https://chaos-equations.glitch.me/?p=LBMRMS) - *Chaos Equation Visualizations*
 * [Dots-Converter](https://loveeevee.github.io/Dots-Converter/dots-draw.html) - *Draw with Dots*
 * [Super Forumula](https://superformula.club/) - *Shape Creation Tool* 
+* [Flame Reactor](https://flamereactor.com/) - *Fractal Flame Collaborative Generator*
 * [JacksonPollock](https://www.jacksonpollock.org/) - *Splatter Painting / Click to Change Color*
 * [paint.wtf](https://paint.wtf/) - *Have an AI Judge your Art* 
 * [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - *Click & Drag Windows Errors* 
@@ -515,6 +517,7 @@
 * [Instructables](https://www.instructables.com/) - *Free Projects / Crafts* 
 * [Toys from Trash](http://www.arvindguptatoys.com/toys.html) - *Use Everyday Items to Make Toys* 
 * [Free Camp Sites](https://freecampsites.net/) - *Go Camping For Free*
+* [Roadside America](https://www.roadsideamerica.com/) - *Roadside Attraction Index*
 * [deardiary](https://deardiary.wtf/) - *Machine Learning Diary / [Concept Video](https://youtu.be/Zc3qayGmYZQ)* 
 * [BD Stupidity Archive](https://discord.gg/5qgrj9a3NQ) - *Archive of BetterDiscord Stupidity*
 * [webgbcam](https://maple.pet/webgbcam/) - *Gameboy Camera in Browser*
@@ -539,6 +542,7 @@
 * [Kittenwar!](http://www.kittenwar.com/) - *Rate Kittens*
 * [LMGTFY](http://www.lmgtfy.com/), [Just Google](https://www.just-google.it/), [Just Fucking Google](https://www.just-fucking-google.it/) or [GIYBF](http://giybf.com/) - *Remind People that Google Exists* 
 * [The GIF Pronunciation Page](http://www.olsenhome.com/gif/) - *How to Pronouce "GIF"*
+* [Click Brawl](https://clickbrawl.com/eternal-fight) - *Collaborative Click Wars*
 * [RPS101](http://www.umop.com/rps101.htm) - *101 Gesture Rock-Paper-Scissors*
 * [HeyFromTheFuture](https://heyfromthefuture.com/) - *What people wish they knew at your age*
 * [Fake Text Message](https://ifaketextmessage.com/) - *Make Fake Text Conversation* 
@@ -623,6 +627,7 @@
 * [Is It A Cat?](https://isitacat.com/) - *Cat Image Detector* 
 * [The.Matrix-ASCII](http://takeovertheworld.org/matrix/) - *The Matrix Encoded in Text*
 * [sCandyBars](https://scandybars.com/) - *Candy Bar Photo Blog*
+* [Hobune](https://hobune.stream/) - *Deleted YouTube Video Archive*
 * [Vintage Ad Browser](http://www.vintageadbrowser.com/) - *100,000+ Vintage Advertisements* 
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - *Japanese Commercial Archive*
 * [isitnight](https://www.isitnight.com/) - *Determine if it is night* 

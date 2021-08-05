@@ -80,7 +80,7 @@
 * **[TextFixer](https://www.textfixer.com/)** or **[OnlineTextTools](https://onlinetexttools.com/)** - *Multiple Text Tools*
 * **[List of Text Editors](https://en.wikipedia.org/wiki/List_of_text_editors)**
 * **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - *Grammar Checking Tools*
-* **[Notepad++](https://notepad-plus-plus.org/)**, [Typora](https://typora.io/), [RemNote](https://www.remnote.io/), [Foam](https://github.com/foambubble/foam), [Notepads](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm) or [cherrytree](https://www.giuspen.com/cherrytree/) - *Text Editor*
+* **[Notepad++](https://notepad-plus-plus.org/)**, [Typora](https://typora.io/), [RemNote](https://www.remnote.io/), [Foam](https://github.com/foambubble/foam), [Notepads](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm), [cherrytree](https://www.giuspen.com/cherrytree/) or [Drafts](https://getdrafts.com/) (Mac) - *Text Editor*
 * [Notepad](https://notepad.js.org/) - *Offline Text Editor*
 * [TinyList](https://tinylist.app/) or [Simplenote](https://simplenote.com/) - *Notes / Checklist App* 
 * [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pastebins) - *Paste / Store Text Online*
@@ -216,6 +216,7 @@
 * [BannerEasy](https://www.bannereasy.com) - *Create Custom Banners*
 * [Meta-Mapper](https://meta-mapper.com/) - *Website Metadata Thumbnails*
 * [Band-Flyers](https://band-flyers.com/) - *Band Flyer Creator*
+* [Mockupea](https://mockupea.com/) - *Book / Magazine Mockup Cover Creator*
 * [Quote Maker](https://quotescover.com/) - *Quote Picture Generator*
 * [The Wood Workshop](http://spiralgraphics.biz/ww_overview.htm) - *Wood Texture Editor / Creator*
 * [PlantStudio](https://www.kurtz-fernhout.com/summary_plantstudio.html) - *Plant Model / Illustration Creator*
@@ -1315,7 +1316,7 @@ General Reading Sites*
 * **[Rainmeter](https://www.rainmeter.net/)** - *Desktop Customization / [Utilities](https://github.com/EnhancedJax/PowerToysPlus)* 
 * **[Wallpaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - *Download Wallpapers*
 * [MovieMania](https://www.moviemania.io/) or [Joblo](https://www.joblo.com/movie-posters/) - *Movie Wallpaper Database* 
-* /r/LivingBackgrounds or [MyLiveWallpapers](https://mylivewallpapers.com/) - *Animated Wallpapers* 
+* /r/LivingBackgrounds, [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) or [MyLiveWallpapers](https://mylivewallpapers.com/) - *Animated Wallpapers* 
 * [Lively](https://rocksdanister.github.io/lively/) - *Turn any GIF, video or Webpage into a Animated Wallpaper*
 * [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - *Daily Random Wallpaper*
 * [SuperDuperWallpaper](https://gitlab.com/sech1p/superduperwallpaper) or [ScreenPlay](https://screen-play.app/) - *Wallpaper Manager*
@@ -1478,6 +1479,7 @@ General Reading Sites*
 * [wslu](https://github.com/wslutilities/wslu) - *Utilities for Windows 10 Linux Subsystem* 
 * [Tree](http://mama.indstate.edu/users/ice/tree/) - *Directory Listing Command* 
 * [ss64 Bash](https://ss64.com/bash/) - *Linux Bash Commands*
+* [Gnome-Look](https://www.gnome-look.org/browse) - *Linux Themes*
 * [ricemood](https://github.com/fhadiel/ricemood) - *Fully customizable unix color schemer*
 * [DistroTest](https://distrotest.net/) or [JSLinux](https://bellard.org/jslinux/) - *Linux Browser Emulator*
 * [PowerShell](https://github.com/powershell/powershell) - *PowerShell*
@@ -1592,6 +1594,7 @@ General Reading Sites*
 * [ChronoCrash](http://www.chronocrash.com/forum/) - *Game Modding Forum*
 * [Playground](https://www.playground.ru/) - *Mods, Artbooks, Soundtracks, Cheats & more*
 * [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - *Cheat Engine Table for Singple Player Games*
+* [injectSMAA](http://mrhaandi.blogspot.com/p/injectsmaa.html) - *SMAA Injection Tool*
 * [OpenVR FSR](https://github.com/fholger/openvr_fsr) - *Steam VR FidelityFX Super Resolution Mod*
 * [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - *GTA5 FidelityFX Super Resolution Mod*
 * [Plutonium](https://plutonium.pw/) - *Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)* 

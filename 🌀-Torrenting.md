@@ -135,7 +135,8 @@
 * [Dirty Torrents](https://dirtytorrents.com/) - *Search aggregator*
 * [TorrentQuest](https://torrentquest.com/) - *Search aggregator*
 * [TorrentHound](http://torrenthound.ee/) - *Search aggregator*
-* [Torrends ](https://torrends.to/) - *Search aggregator* 
+* [Bitsearch](https://bitsearch.to/) - *Search aggregator*
+* [Torrends](https://torrends.to/) - *Search aggregator* 
 * [BTDB](https://btdb.eu/) - *Search aggregator*
 * [BTMET](https://btmet.com/) - *Magnet Search*
 * [BT4G](https://bt4g.org/) - *Magnet Search*

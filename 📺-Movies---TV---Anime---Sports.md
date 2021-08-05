@@ -15,7 +15,6 @@
 
 * **[MoviesforDiscord](https://discord.com/invite/XBGm36RWEs)** - *Movies / TV / [Website](https://movies4discord.xyz/)*
 * **[LookMovie](https://lookmovie.io/)** - *Movies / TV*
-* **[Trailers.to](https://trailers.to/)** - *Movies / TV*  
 * **[Soap2Day](https://soapgate.org/)** - *Movies / TV*
 * **[HDBest](http://hdbest.net/)**, [VikV](https://vikv.net/), [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - *Movies / TV*
 * **[WebOas.is](https://weboas.is/stream/)** - *Movies* 
@@ -26,6 +25,7 @@
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - *Movies / TV / Anime*
 * [OpenloadMovies](https://openloadmov.net/) - *Movies / TV*
 * [Yes! Movies](https://yesmovies.ag), [Putlocker](https://ww1.putlocker.vip/) or [SolarMovie](https://www2.solarmovie.to/) - *Movies / TV / Anime*
+* [Trailers.to](https://trailers.to/) - *Movies / TV / [Bypass Quota](https://openvideofs.github.io/)*  
 * [Simple Stream](https://simplestream.in/) - *Movies / TV / Anime / ClipWatching*
 * [BatFLIX](https://ww2.batflix.org/) - *Movies / TV / Videyo*
 * [dekhoBD](https://dekhobd.com/genre/hollywood.html) - *Movies*
@@ -731,7 +731,7 @@
 * [CouchMoney](https://couchmoney.tv/) - *Movie Recommendations for Trakt* 
 * [Cinetrii](https://cinetrii.com/) - *Discover Movies with Similar Themes* 
 * [DateNightMovies](https://datenightmovies.com/) - *Get Recommendations Based on 2 Movies* 
-* [imdb-compare-shows](https://daumann.github.io/imdb-compare-shows/) - *Compare TV Shows by IMDB ratings*
+* [imdb-compare-shows](https://daumann.github.io/imdb-compare-shows/) or [Series Rating Chart](https://www.neetcoder.com/app/) - *Compare TV Shows by Ratings*
 * [MRQE](https://www.mrqe.com/) - *Movie Review Search Engine*
 * [TV Chart](https://tvchart.benmiz.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - *TV Show Episode Ratings Graph*
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - *Greatest 100 Lists*
@@ -851,6 +851,7 @@
 * [SaveSubs](https://www.savesubs.com/) - *Download Subs from Video Sites* 
 * [Sushi](https://github.com/tp7/Sushi) - *Automatic Subtitle Shifter Based on Audio* 
 * [movies2anki](https://github.com/kelciour/movies2anki) - *Convert Movies with Subs to Anki*
+* [Subtitling Guide](https://baechusquad.download/guide/) - *Subtitling Guide*
 
 ***
 

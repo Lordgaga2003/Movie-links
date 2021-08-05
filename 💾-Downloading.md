@@ -175,7 +175,6 @@
 * [4Download](https://www.4download.net/) 
 * [Softwares 2 U](https://www.softwares2u.com/) 
 * [Cracksoftwaress](https://cracksoftwaress.com/) 
-* [s0ft4PC](https://s0ft4pc.com/) 
 * [onHax](https://onhax.io/)
 * [MAZTERIZE](https://www.mazterize.com/) 
 * [PCSoftFull](https://pcsoftsfull.com/) 

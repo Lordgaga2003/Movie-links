@@ -91,7 +91,6 @@
 * [Old Time Radio Downloads](https://www.oldtimeradiodownloads.com/) - *Classic Radio Downloads*
 * [adblock radio](https://www.adblockradio.com/en/) - *Ad Free Podcasts / Radio Player / [GitHub](https://github.com/adblockradio/adblockradio)*
 * [radiobot](https://t.me/radiobot) - *Radio / Telegram* 
-* [WebSDR](http://www.websdr.org/) - *Internet Radio Receiver*
 * [Curseradio](https://github.com/chronitis/curseradio) - *Internet radio in the terminal*
 * [Nightwave Plaza](https://plaza.one/) or [vapor.fm](https://vapor.fm/) - *Vaporwave Radio*
 * [Retrowave](https://retrowave.ru/) - *Synthwave & Retrowave Radio* 

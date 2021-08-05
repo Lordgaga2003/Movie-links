@@ -43,6 +43,7 @@
 * https://www.webcrawler.com/ 
 * https://www.wiby.me/
 * https://www.goodshop.com/
+* https://lazyweb.ai/
 * https://www.instya.com/
 * https://ambition.dk/kompetencer/media-search-social/trafik/tools/impersonal/
 * https://education.iseek.com/iseek/home.page
@@ -51,6 +52,7 @@
 * https://search.excite.com/
 * https://www.oscobo.com/
 * https://www.search.com/
+* https://www.metacrawler.com/
 * https://www.chatnoir.eu/
 * https://search.carrot2.org/#/web
 * http://www.surfcanyon.com/
@@ -1158,7 +1160,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Live Radio** 
 
-[iHeartRadio](https://www.iheart.com/), [Radio.com](https://www.radio.com/stations), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/)
+[iHeartRadio](https://www.iheart.com/), [Radio.com](https://www.radio.com/stations), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/)
 
 **Internet Radio** 
 
@@ -1867,9 +1869,9 @@ Good for finding classic, obscure & short films.
 * [ISO Files](https://isofiles.bd581e55.workers.dev/0:/)
 * [malwarewatch](https://dl.malwarewatch.org/windows/)
 * [FoxOS](https://discord.gg/A5Y76ymyBY) - *Custom Windows 7 ISO* 
+* [UnicornsOS](https://discord.gg/vFwRBB7XBK) - *Custom Windows 7 ISO*
 * [ggOS](https://discord.gg/A5BHSQV) - *Custom Windows 10 20H2 ISO*
 * [XOS](https://discord.gg/Zs4bpVjJyp) - *Custom Windows 10 1803 ISO*
-* [UnicornsOS](https://discord.gg/vFwRBB7XBK) - *Custom Windows 10 1607 ISO*
 * [Ameliorated](https://ameliorated.info/) - *Windows 10 ISO Aimed Towards No Telemetry Windows 10*
 * [Windows 10 LSTC](https://mega.nz/folder/ChNTDaiL#nNqH2PTfIzTLAEs8nc-U0w) - *Bloat / Telemetry Free Windows 10 / r/Windows10LTSC*
 * [Windows 10 Performance Edition](https://mega.nz/file/4JkCwYJB#ghB08_PppoMdl3t2F-9-hzNtBDgrw8gwM6MsUx1koZ0), [2](https://1fichier.com/?cxqd57d6vfpot5x6v9ft) - *No Cortana, Onedrive, Telemetry, Spying ect. / [Upates & Install Guide](https://weboas.is/forum/index.php?topic=2068.0)*

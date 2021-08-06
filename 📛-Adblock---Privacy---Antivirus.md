@@ -31,7 +31,6 @@
 * [Fakespot](https://www.fakespot.com/) - *Identifies Fake Reviews & Counterfeits*
 * [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm), [VideoAdBlockForTwitch](https://github.com/saucettv/VideoAdBlockForTwitch) or [Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/) - *Twitch Adblocker* 
 * [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - *Multiple Twitch Adblocking Methods*
-* [CleanYouTube](https://mybrowseraddon.com/adblocker-for-youtube.html) - *YouTube Adblocker*
 * [Facebook Hide Ads](https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts) - *Remove Sponsored Posts from Facebook* 
 * [LinkedIn Unsponsored](https://greasyfork.org/en/scripts/379003-linkedin-unsponsored) - *Remove Sponsored Posts from LinkedIn* 
 * [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) or [Behind The Overlay Revival](https://addons.mozilla.org/en-US/firefox/addon/behind-the-overlay-revival/) - *Close Website Overlays* 
@@ -136,7 +135,7 @@
 
 * **[Privacy Tools / Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_tools)** - *Indexes of Privacy Tools / Services*
 * **[Privacy Matters](https://www.securemessagingapps.com/)** - *Privacy Based Messaging App Comparisons*
-* **[Encrypted Messangers](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messangers)  - *Encrypted Messaging App Index* 
+* **[Encrypted Messangers](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers)  - *Encrypted Messaging App Index* 
 * **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)** - *Anonymous Text Verification*
 * **[Two Factor Auth](https://twofactorauth.org/)** - *List of Sites with 2FA Support*
 * **[Authy](https://authy.com/)** or [WinAuth](https://winauth.github.io/winauth/) - *Two-Factor Authentication*  
@@ -309,7 +308,7 @@
 * [dataskydd](https://webbkoll.dataskydd.net/) or [Blacklight](https://themarkup.org/blacklight) - *Check what data-protecting measures a site has taken*
 * [uBO-Scope](https://github.com/gorhill/uBO-Scope) - *Measure 3rd Party Exposure* 
 * [FreeTube](https://freetubeapp.io/) - *Private YouTube Client*
-* [Invidious](https://invidiou.site/) / [2](https://tube.cadence.moe/), [FreeTubeApp](https://freetubeapp.io/), [Piped](https://github.com/TeamPiped/Piped) or [Youtube-local](https://github.com/user234683/youtube-local) - *YouTube frontend / Free / No Account Required / [Instances](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)* 
+* [Invidious](https://tube.cadence.moe/), [FreeTubeApp](https://freetubeapp.io/), [Piped](https://github.com/TeamPiped/Piped) or [Youtube-local](https://github.com/user234683/youtube-local) - *YouTube frontend / Free / No Account Required / [Instances](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)* 
 * [Wikiless](https://wikiless.org/) - *Wikipedia Frontend / [Source](https://codeberg.org/orenom/Wikiless)*
 * [Yotter](https://yotter.kavin.rocks/) - *Youtube / Twitter Frontend* 
 * [nitter](https://nitter.net/) - *Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)*
@@ -347,7 +346,7 @@
 
 * **[Search Engine Party](https://searchengine.party/)** - *Privacy Search Engine Comparisons*
 * **[DuckDuckGo](https://duckduckgo.com/)** - *[Shortcuts](https://duckduckgo.com/bang)*
-* [searx](https://asciimoo.github.io/searx/) - *[Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_searx_instances)*
+* [searx](https://asciimoo.github.io/searx/) - *[Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_searx_instances) / [Desktop](https://notabug.org/CYBERDEViL/searx-qt)*
 * [StartPage](https://www.startpage.com/)
 * [Qwant](https://www.qwant.com/)
 * [Swisscows](https://swisscows.com/)
@@ -436,6 +435,7 @@
 * [Amnezia](https://github.com/amnezia-vpn/desktop-client/) - *Self-hosted VPN*
 * [Self-hosted VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/selfhost-vpn) - *Self-hosted VPN guide by /u/Kaxry*
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - *Arch Linux base with Deluge, Privoxy & OpenVPN*
+* [Killswitch](https://github.com/nologs-vpn/killswitch) - *Custom VPN Killswitch*
 * /r/VPN - *VPN Help and Discussion* 
 
 ***

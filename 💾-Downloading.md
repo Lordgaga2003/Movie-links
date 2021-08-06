@@ -85,12 +85,10 @@
 * [TwoDDL](https://2ddl.ms/) - *Video / Audio / Software / Games / Books / Comics / Magazines* 
 * [MFTWBB](https://mftwbb.org/) - *Video / Software / Games / Books / Android*
 * [SCENE.RLS](http://scene-rls.net/releases/index.php) - *Video / Audio / Games / Software / Books / Magazines* 
-* [NitroDDL](https://www.nitroddl.net/) - *Video / Audio / Books / Magazines / Comics / Games / Software / Tutorials* 
 * [DLWarez](http://dlwarez.xyz/) or [WarezLover](https://warezlover.xyz/) - *Video / Audio / Software / Games / Android / Roms / Books / Magazines* 
 * [heroturko.net](https://www.heroturko.net/) - *Video / Audio / Software / Games / Books / Magazines / Android* 
 * [DownTut](http://downtut.org/) - *Video / Audio / Software / Games / Android / Books / Magazines* 
 * [IRfree](http://irfree.org/) - *Video / Audio / Software / Games / Books / NSFW*
-* [0dayd](https://www.0dayd.com/) - *Video / Audio / Software / Games* 
 * [PirateHub](https://piratedhub.com/) - *Software / Android / Books / Games / Courses*  
 * [4Shared](https://www.4shared.com/) - *Video / Audio / Games / Software / Android*
 * [2013Zone](http://www.2013zone.com/) - *Video / Audio / Games / Software*
@@ -103,7 +101,7 @@
 * [Rarlinks](http://rarlinks.com/) - *Video / Audio / Software / Games / Books / Magazines / Leech required*
 * [TorrentaBC](https://www.torrentabc.com/) or [AZTutorial](https://www.aztutorial.download/) - *Video / Audio / Software / Games / Magazines / Leech Required* 
 * [BadshahUploads](https://badshahuploads.xyz/) - *Video / Audio / Software / Games / Books / Leech Required* 
-* [FileDown](https://filedown.co/), [DownFree4u](https://www.downfree4u.com/), [rapiddowntorrent](https://www.rapiddowntorrent.com/), [ZipFileTorrent](https://www.zipfiletorrent.com/), [viewdowntorrent](https://www.viewdowntorrent.com/) or [TorrentDown](https://torrentdown.co/) - *Video / Audio / Software / Games / Books / Leech Required* 
+* [DownFree4u](https://www.downfree4u.com/), [rapiddowntorrent](https://www.rapiddowntorrent.com/), [ZipFileTorrent](https://www.zipfiletorrent.com/) or [viewdowntorrent](https://www.viewdowntorrent.com/) - *Video / Audio / Software / Games / Books / Leech Required* 
 * [Redox](http://www.redox.com.ua/) - *Video / Audio / Software / Books / Magazines / Leech Requored* 
 * [de.ddl](https://en.ddl.me//) - *Video / Games / Books*
 * [The Ambassador](https://ambassadorddl.site/) - *Video / Games / Books*
@@ -128,7 +126,7 @@
 * [Linktury](https://www.linktury.com/) 
 * [Hitfilesearch](https://www.hitfilesearch.com/) - *Search HitFile*
 * [WarezOmen](https://warezomen.com/) - *Indexer / Search Engine*
-* [SunXDCC](http://sunxdcc.com/), [ixIRC](https://ixirc.com/), [xdcc.it](https://xdcc.it/) or [XDCC.EU](https://www.xdcc.eu/) - *XDCC / Search Engine*
+* [SunXDCC](http://sunxdcc.com/), [ixIRC](https://ixirc.com/) or [XDCC.EU](https://www.xdcc.eu/) - *XDCC / Search Engine*
 
 ***
 
@@ -275,14 +273,12 @@
 * [Download Pirate](https://www.downloadpirate.com/)
 * [GoDownloads](https://godownloads.net/) 
 * [GFXDownload](http://gfxdownload.com/)
-* [adaz3d](https://www.adaz3d.com/) - *Leech Required*
 
 ***
 
 ## ▷ Audio Software
 
 * [AudioZ](https://audioz.download/)
-* [AudioTools](https://audiotools.club/) 
 * [GoAudio](https://goaudio.info/) 
 * [VSTHouse](http://vsthouse.ru/) 
 * [Magesy](https://magesy.blog/) 
@@ -325,7 +321,6 @@
 * [Newznab](https://www.newznab.com/)
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
-* [DrunkenSlug](https://drunkenslug.com/) 
 * [NZBKing](http://nzbking.com/)
 * [althub](https://althub.co.za) - *Unlimited free trials*
 * [nZEDb](https://github.com/nZEDb/nZEDb) - *Self-Hosted*

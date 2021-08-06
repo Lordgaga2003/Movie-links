@@ -15,7 +15,7 @@
 
 * **[Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_adblocking_extensions) / [Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_extensions) Extensions**
 * **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - *Open-Source Extension Index*
-* **[Buster](https://github.com/dessant/buster)** or **[AntCpt](https://antcpt.com/eng/home.htm)** - *Auto Captcha Solver*
+* **[Buster](https://github.com/dessant/buster)** or **[AntCpt](https://antcpt.com/)** - *Auto Captcha Solver*
 * **[Privacy Pass](https://privacypass.github.io/)** - *Skip Captchas* 
 * **[Dark Reader](https://darkreader.org/)**, [Into The Black Hole](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_into_the_black_hole), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html), or [222](https://github.com/x08d/222) - *Dark Mode* 
 * [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [VimC](https://github.com/1995eaton/chromium-vim), [Web Search Navigator](https://github.com/infokiller/web-search-navigator) or [Vimium C](https://github.com/gdh1995/vimium-c) - *Keyboard Shortcuts* 
@@ -41,7 +41,7 @@
 * [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups) or [Acid Tabs](https://github.com/jdhayford/acid-tabs-extension) - *Group Tabs* 
 * [Tab for a Cause](https://tab.gladly.io/) - *New Tabs = Charity Donation*
 * [Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button) - *Quickly Close All Tabs*
-* [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Saladict](https://saladict.crimx.com/) or [ImTranslator](https://imtranslator.net/) - *Translator* 
+* [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/) or [ImTranslator](https://imtranslator.net/) - *Translator* 
 * [Dictionaries](https://github.com/pnlpal/dictionaries) - *Popup Dictionary* 
 * [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - *Magnify Webpages*
 * [Zoom WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_zoom_we) or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - *Improves Zoom Functionality*
@@ -188,7 +188,6 @@
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - *Download Multiple Links at Once* 
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - *Force Enable Right Click on Videos*
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - *Smooth Key Scrolling*
-* [Copy Paste Pro](https://chrome.google.com/webstore/detail/copy-paste-pro/epgndihjbcepnbadocaoofjnfaophlio?hl=en) - *Force Allow Copying Text*
 * [Beanote](https://chrome.google.com/webstore/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) - *Web Page Note Taking*
 * [Dualless](https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd) - *Split Browser Window* 
 * [chromewm](https://gitlab.com/EduCampi/chromewm) - *Tile Windows / Emulate Workspaces*
@@ -237,11 +236,11 @@
 * /r/InternetIsBeautiful - *Helpful / Fun Sites Subreddit / [Randomizer](https://therandombutton.com/)*
 * [/r/Piracy Mega](https://www.reddit.com/r/Piracy/wiki/index) - */r/Piracy Index*
 * [/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread) - *Software Piracy Megathread*
-* [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://alternate-awesome-piracy.vercel.app/) - *Piracy Index*
+* [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy) - *Piracy Index*
 * [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - *Piracy Index*
 * [Similar Sites](https://www.similarsites.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
 * [DirtyWarez](https://dirtywarez.org/) - *Ranks Sites*
-* [WAREZZ](https://piracy.now.sh/), [2](https://warezz.now.sh/), [3](https://github.com/xuac/warezz) - *Piracy Index*
+* [WAREZZ](https://piracy.now.sh/), [2](https://warezz.now.sh/) - *Piracy Index*
 * [Neverland](http://www.neverland.ws/) - *Piracy Index* 
 * [pilssken](https://pilssken.neocities.org/warez/) - *Piracy Index* 
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - *Software / Tool Index*
@@ -263,9 +262,7 @@
 * [Acme](http://www.acme.com/) - *Site / Tool Index* 
 * [NYPL Best of the Web](https://www.nypl.org/collections/nypl-recommendations/best-of-web) - *Site Index*
 * [Free Dev stuff](https://freestuff.dev/) - *List of free tools, stuff, & services for developers*
-* [ReverseEagle](https://developers.reverseeagle.org/) - *Privacy alternatives to software for developers*
 * [Simple Tools](https://simpletools.info/doku.php) - *Simple Programs Index* 
-* [num's link list](https://soda.privatevoid.net/num/lists/web) - *Site Index* 
 * [Internet Curated](https://internetcurated.com/) - *Directory Index*
 * [DMOZ](http://www.dmoztools.net/) or [SmartLinks](https://smartlinks.org/index.html) - *Website Directory*
 * [Index Mania](https://indexmania.org/) - *Link Search Index*
@@ -279,8 +276,7 @@
 * [DeepWebLinks](https://deepweblinks.net/directories/), [dark.fail](https://dark.fail/),  [260+ Dark Web Links](https://ufile.io/pgvxf9jv), [Official Hidden Wiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/) or [Real World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites)
 * [RFS](https://t.me/rfsnotes) - *Telegram Channels / TeamDrives / Tools*  
 * [Telegram Channels](https://telegramchannels.me/), [TELEGRAM INDEX](https://t.me/tg_indexs), [tg_indexs](https://t.me/tg_indexs) or [Telegramic](https://telegramic.org/) - *Telegram Channel Index*
-* [Searchee Bot](https://t.me/SearcheeBot) - *Telegram Channel Search* 
-* [BotsArchive](https://t.me/BotsArchive), [2](https://github.com/ebertti/awesome-telegram), [3](https://github.com/DenisIzmaylov/awesome-telegram-bots), [4](https://github.com/abdelhai/awesome-bots), [5](https://github.com/stkw0/awesome-telegram-groups), [6](https://github.com/serhii-londar/awesome-telegram), [7](https://github.com/lorien/awesome-telegram-lists) - *Telegram Bots Indexes* 
+* [BotsArchive](https://t.me/BotsArchive), [2](https://github.com/ebertti/awesome-telegram), [3](https://github.com/DenisIzmaylov/awesome-telegram-bots), [4](https://github.com/abdelhai/awesome-bots), [5](https://github.com/stkw0/awesome-telegram-groups), [6](https://github.com/serhii-londar/awesome-telegram), [7](https://github.com/lorien/awesome-telegram-lists), [8](https://telegramic.org/bots/) - *Telegram Bots Indexes* 
 * [Lyzem](https://lyzem.com/), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - *Telegram Channel / Bot Search*
 * [NetSplit](https://netsplit.de/) - *IRC Channel Index*
 * [API List](https://apilist.fun/), [APIs.io](https://www.apis.io/) or [Public APIs](https://github.com/public-apis/public-apis) - *API index* 
@@ -290,11 +286,10 @@
 * [git:logs](https://www.gitlogs.com/) - *Trending GitHub Repos* 
 * [grep.app](https://grep.app/) or [GitSearch](https://gitsearch.io/) - *Git Repository Search*
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - *List of Active GitHub Forks*
-* [Awesome Zites](https://github.com/KevinScruff/awesome-zites) - *ZeroNet Site Index* 
 * [PiracyBank](https://piracybank.org/websites) - *List of sites tagged for copyright, mostly dead* 
 * [Movim](https://movim.eu/) - *Decentralized Social Network* 
 * [Fediverse](https://fediverse.party/) - *Federated Social Networks*
-* [ImageBoards](https://imageboards.net/), [ChanList](https://eldritchdata.neocities.org/Lists/ChanList.html) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - *Image-Board Index*
+* [ImageBoards](https://imageboards.net/) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - *Image-Board Index*
 * [imageboards.json](https://gitgud.io/iblist/imageboards.json) or [textboards.json](https://gitgud.io/iblist/textboards.json) - *Image / Textboard .json*
 * [DeepAI](https://deepai.org/) - *AI Tools Index* 
 * [RunawayML ](https://runwayml.com/) - *AI Tools Index* 
@@ -335,7 +330,6 @@
 * [The MegaDrive](https://discord.gg/FQ6EaprXyr) - *Piracy / DataHoarding Discussion*
 * [/r/AnimePiracy Discord](https://discord.gg/piracy)
 * [Pirated Games Discussion](https://github.com/taskylizard/piratedgames-megathread/discussions/3) - *Game Piracy Discussion*
-* [deep dive](https://deepdive.gg/) - *Piracy / Tech / Discussion / [Discord](https://discord.gg/ZDhQkxdDT4)*
 * [RipRequests](https://reddit.com/r/riprequests) - *FLAC / MP3 / Ripping Discussion / [Discord](https://discord.gg/y4MSkdvWYg)*
 * [GenP](https://www.reddit.com/r/GenP) - *Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)*
 * [Torrent Community](https://t.me/TorrentCommunity) - *Telegram*
@@ -466,7 +460,6 @@
 * [70's TV Simulator](https://www.my70stv.com/), [80's](https://www.my80stv.com/), [90's](https://www.my90stv.com/) or [00's TV Simulator](https://www.my00stv.com/)
 * [Neave.tv](https://neave.tv/) - *TV without context* 
 * [The Office Stare Machine](http://theofficestaremachine.com/) - *The Office Video Emotions* 
-* [Work at Dunder Mifflin](https://workatdundermifflin.com/) - *Listen to the Sounds of Dunder Mifflin* 
 * [Endless Summer Times](https://times.endlessvmmer.com/) - *Retro Summer Vibe News Archive*
 * [Skynet](http://pierrepapierciseaux.net/.skynet/?lang=en) - *View Websites like they're from the 90's*
 * [Toonami Remastered](https://www.toonamiremastered.com/) - *Remastered Toonami Content* 
@@ -485,9 +478,10 @@
 * [Petting](http://oos.moxiecode.com/js_webgl/fur/index_petting.html) - *Fur Simulator*
 * [Spider 2 Hammertime](http://oos.moxiecode.com/js_webgl/spiders_2_hammertime/) - *Murder Spiders*
 * [DuckDuckRoll](http://duckduckroll.ml/) - *Spinning Duck*
-* [Talk Obama To Me](http://talkobamato.me/) - *Make Obama Say Stuff / [Example](http://talkobamato.me/synth/output/360d56e2f1c524ec996f4bc2d0d77ccc/obama.mp4)*
+* [Talk Obama To Me](http://talkobamato.me/) - *Make Obama Say Stuff*
 * [Slap Kirk](https://www.slapkirk.com/) - *Slap Captain Kirk*
 * [Slide Ventura](https://slideventura.com/) - *Ace Ventura Sliding Door Simulator*
+* [Do not open the door](http://mexicans.eu/) - *Don't you dare...*
 * [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - *Realistic-looking fake versions of things* 
 * [ThisPersonDoesNotExist](https://www.thispersondoesnotexist.com/) - *People That Don't Exist*
 * [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) - *Words That Don't Exist* 
@@ -500,6 +494,7 @@
 * [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - *Run Classic Games / Apps In Browser* 
 * [see. hear. party.](http://www.seehearparty.com/) - *List Things You Want to See... Party* 
 * [FutureMe](https://www.futureme.org/) - *Send messages to your future self*
+* [Useless Certifications](https://uselesscertifications.com/) - *Useless Certifications*
 * [You're Getting Old](http://you.regettingold.com/) - *Age Perspective* 
 * [OnThisDay](https://www.onthisday.com/) - *What happened on a specific day many years ago* 
 * [openScope](https://www.openscope.co/) - *Air Traffic Control Simulator* 
@@ -609,7 +604,7 @@
 * [Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - *Pokemon Resource Index* 
 * [Awesome Chess](https://github.com/hkirat/awesome-chess) - *Chess Resource Index*  
 * [Awesome Go/Baduk/Weiqi](https://github.com/yanchick/awesome-GoBadukWeiqi) - *Go/Baduk/Weiqi Resource Index* 
-* [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor/) - *Unused Video Game Content Research*
+* [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - *Unused Video Game Content Research*
 * [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [arch.b4k](https://arch.b4k.co/) or [Sup/tg/](http://suptg.thisisnotatrueending.com/)  - *4Chan Archive*
 * [Zoomquilt2](http://zoomquilt2.com/) - *An infinitely zooming painting* 
 * [Mirage Gallery](https://www.miragegallery.ai/) - *AI Art Gallery* 

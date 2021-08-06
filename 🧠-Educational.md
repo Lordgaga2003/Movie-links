@@ -97,12 +97,11 @@
 * [Iit jee lectures](https://t.me/Iitjeeinveins2) - *Lectures / Telegram*   
 * [downloadly](https://downloadly.ir/) - *Courses*
 * [Coursed](https://coursed.co/) - *Courses*
-* [ttorial](https://ttorial.com/) - *Courses*
 * [OnlineCourseBay](https://onlinecoursebay.com/) - *Courses* 
 * [CoursesDaddy](http://coursesdaddy.com/) - *Courses* 
 * [Course Drive](https://coursedrive.org/) - *Courses* 
 * [freetutorials.ca](https://www.freetutorials.ca/) - *Courses*
-* [Course Now](https://freecoursenow.com/) - *Courses*   
+* [Courses](https://pastebin.com/jQB1shJg), [2](https://pastebin.com/Z7L3Ypzd) - *Courses / Drives*
 * [online-courses](https://online-courses.club/) - *Courses*
 * [Course Upload](https://courseupload.com/) - *Courses* 
 * [Coursesghar](https://coursesghar.com/) - *Courses* 
@@ -113,7 +112,6 @@
 * [TeleFlix](https://resources.ttucloud.tech/0:/) - *Courses / user: blank pw: @ttu001*
 * [FreeStudyWeb](https://freestudyweb.com/) - *Courses* 
 * [CryptoTips](https://www.cryptotips.us/) - *Courses* 
-* [CourseDown](https://coursedown.com/) - *Courses* 
 * [5G GYAN](https://www.5ggyan.com/) - *Courses* 
 * [Open-Video](https://open-video.org/) - *Courses / Documentaries*
 * [FreeCourseLechz](https://t.me/joinchat/AAAAAEeZL9jF22ZREqka2g) - *Courses / Telegram* 
@@ -145,7 +143,6 @@
 * [getwsodotte](https://drive.google.com/drive/folders/1dE9oa-tK7fXziJLmg8O8ucpUhmqxYT4h) - *Marketing Courses*
 * [ProCrack_Team](https://www.mediafire.com/folder/l4w8gcdcqsqtw/ProCrack_Team) - *Marketing Courses*
 * [Udemy - Cybersecurity Collection](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD) - *Cyber Security Courses*
-* [Cyber Security & IT](https://mega.nz/folder/9kxTnLCI#BThv3CtkC27JqcJ4ZWD_cA) - *Cyber Security / IT Books & Courses*
 * [CertCommunity](https://www.certcommunity.org/forum/) - *IT Cert Courses*
 * [Top Linux Interview Questions & Answers](https://mega.nz/#F!K1MnlSzJ!fyLhNA7V_m1z9JZfPW0alg) - *Linux Interview Q&A*
 * [CHFI](https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg) - *Computer Hacking Forensic Courses*
@@ -173,9 +170,7 @@
 * [Course Club](https://courseclub.me/) - *Courses*
 * [FreeCourseSite](http://freecoursesite.com/) - *Courses*
 * [GetFreeCourses](https://getfreecourses.co/) - *Courses*
-* [TutsGalaxy](https://tutsgalaxy.org/) - *Courses*
 * [OnlineCourseBay](https://onlinecoursebay.com/) - *Courses* 
-* [TheVaat](https://web.thevaat.com/) -*Courses* 
 * [Ahlan Education](https://www.ahlanedu.com/) - *Courses* 
 * [UdemyTuts](https://udemytuts.com/) - *Udemy Courses* 
 * [My Free Courses](http://myfreecourses.com/) - *Udemy Courses*   
@@ -185,7 +180,6 @@
 * [Tutorials Planet](https://tutorialsplanet.net/) - *Udemy Courses*   
 * [Giga Course](https://gigacourse.com/) - *Udemy Courses* 
 * [Free All Course](https://freeallcourse.com/) - *Udemy Courses* 
-* [FreeCourseStock](http://freecoursestock.com/) - *Udemy Courses* 
 * [Pimp My Money](https://pimpmymoney.net/) - *Digital Marketing Courses* 
 
 ## ▷ Documentaries
@@ -411,7 +405,7 @@
 * [GCFGlobal](https://edu.gcfglobal.org/) - *Tech Tutorials*
 * [OpenSyllabus](https://opensyllabus.org/), [LanguageDrops](https://languagedrops.com/) or [SyllabusFinder](https://www.syllabusfinder.com/) - *Syllabus Search / Info*
 * [Edpuzz Ninja](https://edpuzz.ninja/) - *Educational Puzzle Solving Tool* 
-* [Slader](https://www.slader.com/) - *Homework Answers and Solutions*
+* [Quizlet](https://quizlet.com/) - *Homework Answers and Solutions*
 * [PowerInBooks](https://powerinbooks.xyz/temp/) or [ch36650lut10n5](https://www.ch36650lut10n5.com/) - *Textbook Solutions* 
 * [LabXchange](https://www.labxchange.org/) - *Science / Interactive*
 * [AskNature](https://asknature.org/) - *Natural Strategies / Solutions* 

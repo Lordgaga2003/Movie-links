@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/nVPZPJF.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/QosSHJF.png)** - *For mobile users*
 
 ***
 ***
@@ -312,11 +312,11 @@
 
 #### Encrypted Email Services
 
-**[ProtonMail](https://protonmail.com/)** / [Client](https://github.com/Steccas/ProtonClient) / [.onion](https://protonirockerxow.onion/) / [Account Creator](https://github.com/hendrikbgr/ProtonMail-Account-Creator), [Enigmail](https://www.enigmail.net/index.php/en/), [Private-Mail](https://privatemail.com/), [ShazzleMail](https://shazzlemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [secMail (tor)](http://secmailw453j7piv.onion/src/login.php), [TorBox (tor)](http://torbox3uiot6wchz.onion/), [sigaintevyh2rzvw](http://sigaintevyh2rzvw.onion/), [CTemplar](https://ctemplar.com/) / [Invite](https://i.imgur.com/0vODE91.png) / [Invite 2](https://redd.it/gycqbd), [Tilda](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [Tutanota](https://tutanota.com/), [GMX](https://www.gmx.com/), [NeoMailBox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [mailpile](https://www.mailpile.is/), [MSGSafe](https://www.msgsafe.io/), [MsgSafe](https://www.msgsafe.io/), [SecureNym](http://www.securenym.net)
+**[ProtonMail](https://protonmail.com/)** / [Client](https://github.com/Steccas/ProtonClient) / [.onion](https://protonirockerxow.onion/) / [Account Creator](https://github.com/hendrikbgr/ProtonMail-Account-Creator), [Enigmail](https://www.enigmail.net/index.php/en/), [Private-Mail](https://privatemail.com/), [ShazzleMail](https://shazzlemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [secMail (tor)](http://secmailw453j7piv.onion/src/login.php), [TorBox (tor)](http://torbox3uiot6wchz.onion/), [sigaintevyh2rzvw](http://sigaintevyh2rzvw.onion/), [CTemplar](https://ctemplar.com/) / [Invite](https://i.imgur.com/0vODE91.png) / [Invite 2](https://redd.it/gycqbd), [Tilda](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [Tutanota](https://tutanota.com/), [GMX](https://www.gmx.com/), [NeoMailBox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [mailpile](https://www.mailpile.is/), [MSGSafe](https://www.msgsafe.io/), [MsgSafe](https://www.msgsafe.io/), [SecureNym](http://www.securenym.net), [TheHelm](https://thehelm.com/)
 
 ***
 
-#### Encrypted Messangers
+#### Encrypted Messengers
 
 **[Signal](https://signal.org/)**, [RetroShare](https://retroshare.cc/), [Ricochet](https://ricochet.im/), [Off-the-Record](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Opensaw](https://www.opensaw.com/), [Demonsaw](https://www.demonsaw.com/), [Bitmessage](https://wiki.bitmessage.org/Main_Page) / [Reference Client](https://github.com/Bitmessage/PyBitmessage)
 
@@ -348,7 +348,7 @@
 
 #### File Download Managers
 
-**[JDownloader](https://jdownloader.org/jdownloader2)** / [Dark Theme](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/), [IDM](https://filecr.com/?s=Internet+Download+Manager+%28IDM%29) / [IDMHelper](https://github.com/unamer/IDMHelper) / [Trial Reset](https://github.com/J2TEAM/idm-trial-reset), [XDM](https://github.com/subhra74/xdm), [2](https://subhra74.github.io/xdm/), [pyLoad](https://pyload.net/), [wfdownloader](https://www.wfdownloader.xyz/), [Mipony](https://www.mipony.net/), [massivedl](https://github.com/dimkouv/massivedl), [Free Download Manager](https://www.freedownloadmanager.org/) / [2](https://sourceforge.net/projects/freedownload/), [uGet](https://ugetdm.com/) / [Extension](https://github.com/ugetdm/uget-integrator), [Persepolis](https://persepolisdm.github.io/), [DownZemAll](https://setvisible.github.io/DownZemAll/), [Motrix](https://www.motrix.app/) / [GitHub](https://github.com/agalwood/Motrix)
+**[JDownloader](https://jdownloader.org/jdownloader2)** / [Dark Theme](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/), [IDM](https://filecr.com/?s=Internet+Download+Manager+%28IDM%29) / [IDMHelper](https://github.com/unamer/IDMHelper) / [Trial Reset](https://github.com/J2TEAM/idm-trial-reset), [XDM](https://github.com/subhra74/xdm), [2](https://subhra74.github.io/xdm/), [pyLoad](https://pyload.net/), [wfdownloader](https://www.wfdownloader.xyz/), [Mipony](https://www.mipony.net/), [massivedl](https://github.com/dimkouv/massivedl), [Free Download Manager](https://www.freedownloadmanager.org/) / [2](https://sourceforge.net/projects/freedownload/), [uGet](https://ugetdm.com/) / [Extension](https://github.com/ugetdm/uget-integrator), [Persepolis](https://persepolisdm.github.io/), [DownZemAll](https://setvisible.github.io/DownZemAll/), [Motrix](https://www.motrix.app/) / [Extension](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
 
 ***
 
@@ -1224,8 +1224,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Screenshot Tools
 
-* [ShareX](https://getsharex.com/) / [SXIE Archive](https://mega.nz/folder/1goUgJBZ#XaqM3dm5nY40luhtoxyzWg) / [Imgur Upload](https://sxcu.net/) / [Android Upload](Xshare
-https://github.com/tsudoko/xshare)
+* [ShareX](https://getsharex.com/) / [Linux](https://github.com/Francesco149/sharenix) / [SXIE Archive](https://mega.nz/folder/1goUgJBZ#XaqM3dm5nY40luhtoxyzWg) / [Imgur Upload](https://sxcu.net/) / [Android Upload](https://github.com/tsudoko/xshare)
 * [Flameshot](https://flameshot.org/) / [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
 * [Greenshot](https://getgreenshot.org/)
 * [Gyazo](https://gyazo.com/)

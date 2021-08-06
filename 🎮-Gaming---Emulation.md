@@ -16,7 +16,7 @@
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - *ctrl+f and type "games" or "roms"*
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)**
 * **[Masquerade Repacks](https://masquerade.site/)** - *[Discord](https://discord.gg/HP5sQ6c)*
-* **[SteamUnlocked](https://steamunlocked.net/)** - *Use Adblocker*
+* **[SteamUnlocked](https://steamunlocked.net/)** - *Use Adblocker / [Release Tracker](https://github.com/N-O-E-D/Steamunlocked)*
 * **[Steam Underground](https://cs.rin.ru/)** - *[Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod)*
 * **[GamesDrive](https://gamesdrive.net/)** - *[Discord](https://discord.gg/PKFAnduGtA)*
 * **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
@@ -91,14 +91,14 @@
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)**
 * **[DODI](http://dodi-repacks.site/)** - *[Discord](https://discord.gg/uE273qJ)*
 * **[R.G. Mechanics Games](https://s1.rg-mechanics.org/)** - *Trusted mirror of RG's repacks*
-* [ElAmigos Games](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
-* [Black Box Repack](http://www.blackboxrepack.com/)
+* **[ElAmigos Games](https://elamigos.site/)**, [2](https://www.elamigos-games.com/) 
+* **[Black Box Repack](http://www.blackboxrepack.com/)**
+* **[Xatab Repack](https://b.otxataba.net/), [2](https://x5.xatab-repack.com/)**
+* **[RePack.info](https://repack.info/)**
+* **[Tuttop](https://tuttop.com/)** 
 * [CroTorrents](https://crotorrents.com/)
 * [GamesTorrents](https://www.gamestorrents.nu/)
-* [RePack.info](https://repack.info/)
 * [Free GoG PC Games](https://freegogpcgames.com/)
-* [Xatab Repack](https://b.otxataba.net/), [2](https://x5.xatab-repack.com/)
-* [Tuttop](https://tuttop.com/) 
 * [Pleasuredome](http://www.pleasuredome.org.uk/)
 * [Dirty Games](https://www.dirtygames.xyz/)
 * [Igruha](https://s1.torrents-igruha.org/) 
@@ -106,7 +106,6 @@
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win/)
 * [AllTorrents](https://alltorrents.co/) - *They rec utorrent, but we'd avoid using it*
-* [stv](https://gitgud.io/Blank/stv) - *Encrypted Magnet Links*
 * [Ali213](https://ali213.net/) - *May Require VPN / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 
 ***

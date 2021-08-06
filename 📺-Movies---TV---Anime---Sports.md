@@ -285,7 +285,7 @@
 * [AnimeHeaven](https://animeheaven.ru/) - *Sub / Dub* 
 * [AnimeDao](https://animedao.to/) - *Sub*
 * [AnimePill](https://animepill.com/) - *Sub*
-* [Shiro](https://shiro.is/) - *Sub / Dub* 
+* [Shiro](https://shiro.is/) - *Sub / Dub / [Discord](https://discord.gg/shiro) / [GitHub](https://github.com/Blatzar/shiro-app)* 
 * [Array Anime](https://www.arrayanime.com/) - *Sub / Dub* 
 * [Pantsubase](https://pantsubase.tv/) - *Sub / Dub* 
 * [AnimeRam](https://ww2.animeram.cc/) - *Sub / Dub* 
@@ -644,7 +644,6 @@
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - *ctrl+f and type "video"*
 * **[TopNow](http://topnow.se/)** - *Movies / [Discord](https://discord.gg/WHYmgeB)*
 * **[EZTV](https://eztv.re/)** - *TV / Anime*
-* [Magnet4You](http://magnet4you.me) - *Movies / TV / Anime*
 * [MSearch](https://msearch.now.sh/), [2](https://msearch.vercel.app/) - *Movies / TV*
 * WatchSoMuch - [Streaming](https://watchsomuch.tv/) / [Downloading](https://watchsomuch.org/)
 * [magnetoo](https://www.magnetoo.io/) - *Stream Movie Torrents Online*
@@ -846,7 +845,6 @@
 * [subtitle.js](https://github.com/gsantiago/subtitle.js) - *Parse and manipulate SRT (SubRip)* 
 * [SubtitleTranslate](https://github.com/mepeichun/SubtitleTranslate) - *Translate Subtitles* 
 * [DualSub](https://github.com/bonigarcia/dualsub) - *Bilingual subtitles maker*  
-* [Hieroglyph](https://hierogly.ph/) - *Transcribe YouTube videos* 
 * [HandySub](https://github.com/HandyOrg/HandySub) - *Subtitle Downloader*
 * [SaveSubs](https://www.savesubs.com/) - *Download Subs from Video Sites* 
 * [Sushi](https://github.com/tp7/Sushi) - *Automatic Subtitle Shifter Based on Audio* 

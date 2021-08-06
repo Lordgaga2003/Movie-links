@@ -34,7 +34,6 @@
 * [mtorrent](https://github.com/nektro/mtorrent) - *Terminal Torrent Client* 
 * [libtorrent](https://www.libtorrent.org/) - *C++ BitTorrent Client*
 * [Rats Search](https://github.com/DEgITx/rats-search) - *Torrent Search Client / [Screenshot](https://github.com/DEgITx/rats-search#screenshots)* 
-* [VLC Torrent Streamer](http://www.vlcstreamer.com/) - *Stream Torrents in VLC*
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
 * [Loadbt](https://www.loadbt.com/) - *Torrent / Stream to Cloud*  
 * [SpreadsheetUI](https://github.com/JohnDoee/spreadsheetui) - *Speadsheet Torrent webUI* 
@@ -74,9 +73,9 @@
 # ► Torrent Sites
 
 * **[1337](https://1337x.to/)** - *Video / Audio / Games / Software / NSFW* 
-* **1337x Tools** - [Proxy](https://1337x.proxyserver.cf/), [2](https://1337x.iamproxy.gq/) / [Mirrors](https://1337x.to/about) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot)
+* **1337x Tools** - [Mirrors](https://1337x.to/about) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot)
 * **[RarBG](https://rarbg.to)** - *Video / Audio / Games / Software / NSFW* 
-* **RarBG Tools** - [Python Interface](https://github.com/verybada/rarbgapi) / [Advanced Filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) / [Add Links](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links) / [Proxy](https://rarbg.proxyserver.cf/index80.php), [2](https://rarbg.iamproxy.gq/index80.php)
+* **RarBG Tools** - [Python Interface](https://github.com/verybada/rarbgapi) / [Advanced Filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) / [Add Links](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links)
 * **[RuTracker](http://rutracker.org)** - *Video / Audio / Games / Software / Android / Comics / Magazines / [Onion](http://rutrackerripnext.onion/) / [Telegram Bot](https://t.me/ru_tracker_bot) / [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/)*
 * [TorrentGalaxy](https://torrentgalaxy.to/) - *Video / Audio / Games / Software / NSFW / [Mirrors](https://proxygalaxy.pw/), [2](https://torrentgalaxy.org/)*
 * [Demonoid](https://www.demonoid.is/) - *Video / Audio / Software / Games / Books / Comics*
@@ -93,7 +92,6 @@
 * [ExT](https://ext.to/) - *Video / Audio / Games / Software / Books*
 * [rutor.info](http://rutor.info) or [rutor.is](http://rutor.is/) - *Video / Audio / Games / Software / Books / Roms / Magazines*
 * [NNM-Club](https://nnmclub.to/) - *Video / Audio / Software / Games*
-* [P2PDL](http://p2pdl.com/) - *Video / Audio / Software / Games / Books* 
 * [Legit Torrents](http://www.legittorrents.info/) - *Video / Audio / Software / Books* 
 * [OTorrents](https://otorrents.com/) - *Video / Games*
 * [FOSSTorrents](https://fosstorrents.com/) - *FOSS Software / Games*
@@ -124,18 +122,17 @@
 * **[Knaben](https://knaben.net/)** - *Search aggregator*
 * [Zooqle](https://zooqle.com/) - *Search aggregator*
 * [iDope](https://idope.se) - *Search aggregator*
+* [Bitsearch](https://bitsearch.to/) - *Search aggregator*
 * [Torrent Finder](https://torrent-finder.com/) - *Search aggregator*
 * [TorrentDownload](https://www.torrentdownload.info/) - *Search aggregator*
 * [Torrent Paradise](https://torrent-paradise.ml/) - *Search aggregator*
 * [Gonema](https://gonemaweb.ruggieri.tech/) - *Search aggregator*
 * [TorLook](https://torlook.info/) - *Search aggregator*
 * [2Torrentz](https://2torrentz.net/torrentz/) - *Search aggregator*  
-* [Torrent.tm](https://torrent.tm/) - *Search aggregator*
 * [Toros](https://www.toros.co/) or [Toros2](https://www.toros2.com/) - *Search aggregator*
 * [Dirty Torrents](https://dirtytorrents.com/) - *Search aggregator*
 * [TorrentQuest](https://torrentquest.com/) - *Search aggregator*
 * [TorrentHound](http://torrenthound.ee/) - *Search aggregator*
-* [Bitsearch](https://bitsearch.to/) - *Search aggregator*
 * [Torrends](https://torrends.to/) - *Search aggregator* 
 * [BTDB](https://btdb.eu/) - *Search aggregator*
 * [BTMET](https://btmet.com/) - *Magnet Search*
@@ -144,7 +141,6 @@
 * [Torrent.nz](https://torrent.nz/) - *Magnet Search* 
 * [TorrentProject2](https://torrentproject2.com/) - *Magnet Search*
 * [ciligou0](http://ciligou0.com/) - *Magnet Search* 
-* [TorrentHashes](https://torrenthashes.com/) - *Magnet Search* 
 * [Bittorrent.am](http://www.bittorrent.am/) - *Magnet Search*
 * [TorrentDownloads](https://www.torrentdownloads.me/) - *Search aggregator*
 * [Torlock](https://www.torlock.com/) or [Torlock2](https://www.torlock2.com/) - *Search aggregator*

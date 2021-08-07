@@ -715,6 +715,7 @@
 * [TVMaze,](https://www.tvmaze.com/) [TrackSeries](https://www.trackseries.tv/) or [watched](https://watched.li/)  - *TV / Anime*
 * [showRSS](https://showrss.info/)  - *RSS / TV*
 * [Anime-Planet](https://www.anime-planet.com/) - *Anime* 
+* [All Anime](https://allanime.site/) - *Anime*
 * [Kitsu](https://kitsu.io/) - *Anime* 
 * [AniList](https://anilist.co/) - *Anime / [Wrapper](https://github.com/butterstroke/Anilist-Node)* 
 * [MetaCritic](https://www.metacritic.com/) - *Movies / TV / Anime*

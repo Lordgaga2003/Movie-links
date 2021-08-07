@@ -47,7 +47,7 @@
 * [LiGHT Repack Archive](https://drive.google.com/drive/folders/1q4lRUnwVhMQuakl1yM8OH1Je9_92LpXE)
 * [DLFox](https://www.dlfox.com/)
 * [Dirty Games](https://www.dirtygames.xyz/)
-* [MineRocker Repacks](https://minerocker-repacksite.000webhostapp.com/) - *[Discord](https://discord.gg/T3kqPaPWvR)* 
+* [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
 * [CrackHub](https://crackhub.site/) - *[Discord](https://discord.gg/T669D6weqt)*
 * [SPiKY Repacks](https://discord.gg/ZHC6pffMz2) - *[GamesDrive Uploader](https://gamesdrive.co/)*
 * [Ali213](https://ali213.net/) - *May Require VPN / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
@@ -69,7 +69,6 @@
 * [VRPirates](https://t.me/vrpirates) - *VR Games & Guides / [Discord](https://discord.gg/D9rs7TM)*
 * [Macgamefiles](http://www.macgamefiles.com/) - *Mac Games*
 * [de.linuxgame.cn](https://de.linuxgame.cn/) - *Linux Games* 
-* [The-Eye Linux](https://the-eye.eu/public/Games/Linux/) - *Linux Games*
 * [The KDE Games Center](https://games.kde.org/) - *Linux Games*
 * [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - *Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)*
 * [Link Scrape](https://github.com/reggiiie/link-scrape) - *Linux Game Search Script*
@@ -101,7 +100,6 @@
 * [Free GoG PC Games](https://freegogpcgames.com/)
 * [Pleasuredome](http://www.pleasuredome.org.uk/)
 * [Dirty Games](https://www.dirtygames.xyz/)
-* [Igruha](https://s1.torrents-igruha.org/) 
 * [TOPXGAME](https://topxgame.com/)
 * [ABrokeGamer](https://www.abrokegamer.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win/)
@@ -152,7 +150,7 @@
 * [EasyRoms](https://easyroms.com/) - *Emulators / Roms* 
 * [ROMSPURE](https://romspure.com/) - *Emulators / Roms*
 * [SoftCobra](https://www.softcobra.com/) - *Roms / [Block Overlay](https://github.com/NicolaeNMV/BehindTheOverlay)*
-* [Game Wii](https://gamewii.net/), [All Xbox Game](https://downloadgamexbox.com/) or  [DownloadgamePSP](https://downloadgamepsp.com/) - *Roms*
+* [All Xbox Game](https://downloadgamexbox.com/) or  [DownloadgamePSP](https://downloadgamepsp.com/) - *Roms*
 * [RomToHome](https://romtohome.com/) - *Roms*
 * [EdgeEmulation](https://edgeemu.net/) - *Roms*
 * [RomsForever](https://romsforever.co/) - *Roms* 
@@ -198,7 +196,6 @@
 * [FinalBurn Neo](https://archive.org/details/2020_01_06_fbn) - *Roms / Zip* 
 * [Everdrive](https://archive.org/details/latest-everdrive-pack-2020-04-16) - *Roms / Zip*
 * [1,000+ Roms](https://mega.nz/file/61hDlYjQ#VQSjdEkNy9TzRbgFQd2-gWSz6w5eEh67xe2tnpmhj50) - *Roms / Zip*
-* [各种模拟器rom游戏](https://drive.google.com/drive/folders/1hzkgLcDsgzwbw7PP7rySDBTEuPEQov9g) - *Roms / 10TB* 
 * [Retro Gaming](https://mega.nz/folder/ZuRigCwA#5d_K9lRKUXdeaDMog84MGg) - *Roms / 3GB*
 * [90.230.15.92](http://90.230.15.92/) - *Roms* 
 * [Gaming Alexandria](https://www.gamingalexandria.com/highquality/) - *Roms*
@@ -217,7 +214,7 @@
 * [Nintendo Wii Collection](https://archive.org/details/RedumpNintendoWiiAmericaPart1), [2](https://archive.org/details/RedumpNintendoWiiAmericaPart2), [3](https://archive.org/details/RedumpNintendoWiiAmericaPart3), [4](https://archive.org/details/RedumpNintendoWiiAmericaPart5)
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - *Switch hacking forum / guides*
 * [NXBrew](https://nxbrew.com/), [nsw2u](https://nsw2u.xyz/), [Switchrls](https://switchrls.co/), [Switch Archive](https://docs.google.com/spreadsheets/d/1lRMTxSAJiASOdT1ZlCyYrUnXkVt58jg46Y-2w3RrMtA/edit) - *Roms / Nintendo Switch*
-* [GameCube Collection](https://archive.org/details/gamecubenaiso), [2](https://archive.org/details/RedumpNintendoGameCubeAmerica), [3](https://archive.org/details/RedumpNintendoGameCubeAmericaPart2), [4](https://archive.org/details/RedumpNintendoGameCubeAmericaPart3), [5](https://archive.org/details/RedumpNintendoGameCube2018Aug25AmericaGamesReUpload), [6](https://1fichier.com/dir/Jini9nFe) - *Roms / GameCube*
+* [GameCube Collection](https://archive.org/details/gamecubenaiso), [2](https://archive.org/details/RedumpNintendoGameCubeAmerica), [3](https://archive.org/details/RedumpNintendoGameCubeAmericaPart2), [4](https://archive.org/details/RedumpNintendoGameCubeAmericaPart3), [5](https://archive.org/details/RedumpNintendoGameCube2018Aug25AmericaGamesReUpload) - *Roms / GameCube*
 * [MarioCube](https://mariocube.com/) - *Roms / Gamecube / Wii* 
 * [GameBoy Collection](https://archive.org/details/Cyles_Gameboy_roms), [2](https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf), [3](https://drive.google.com/drive/folders/1VxjINYMDvvUSRKA_k2aJqq6JzmRQCI1s), [Unreleased](https://ufile.io/70vmpyng) - *Roms / GameBoy*
 * [DS Collection](https://archive.org/details/noIntroNintendoDsDecrypted2019Jun30), [2](https://mega.nz/folder/33AhDa4T#awOqr7lhZYFgjXoMMu6_8w) - *Roms / DS*
@@ -395,10 +392,8 @@
 * [Flavour Machine](https://flavourmachine.com/) - *Twists to well known games*
 * [Kittens Game](https://bloodrizer.ru/games/kittens/) - *Make your own kitten civilization*
 * [Badger Kingdom](http://www.badgerkingdom.pantomimepony.co.uk/) - *Manage a group of badgers, help them survive*  
-* [Blast Arena](https://blastarena.io/) - *BomberMan Like Game* 
 * [FSHistory](https://s-macke.github.io/FSHistory/) - *Play Classic Flight Simulator* 
 * [Magnetic Scripts](https://msmemorial.if-legends.org/msa2/msa2.html) - *Magnetic Scrolls* 
-* [Prosperity](http://www.playprosperity.ca/) - *Rebuild a civilization*
 * [Neopets ](http://www.neopets.com/) or [Marapets](https://www.marapets.com) - *Virtual Pet Game* 
 * [Gaia Online](https://www.gaiaonline.com/) - *Anime Virtual Pet* 
 * [Furvilla](http://www.furvilla.com/) - *Furry Virtual Pet Game* 

@@ -34,6 +34,7 @@
 * [Grocy](https://grocy.info/) - *Grocery / Household Management Tool*
 * [Volmarg](https://volmarg.github.io/) - *Personal Management Tool*
 * [Focalboard](https://www.focalboard.com/) - *Project Management Tool*
+* [Meeter](https://trymeeter.com/) - *Video Meeting Manager / Mac*
 * [Onym](https://guide.onym.co/) - *Tools / Resources for Naming Things*
 * [WorldTaxiMeter](https://www.worldtaximeter.com/) - *Taxi Fare Calculator*
 * [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - *Bedtime Calculator* 
@@ -368,6 +369,7 @@
 * [TikUp](https://github.com/Coloradohusky/TikUp) - *TikTok Auto Download / Upload*
 * [How to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/), [3](https://www.removeddit.com/r/Piracy/comments/ou31y8/how_to_rip_from_amazon_other_streaming_services/), [4](https://0bin.net/paste/cYxSEPRq#w7i1vJSMVKTRKgGmdURaXdvNpimP2p9IxgF38I75NUQ)
 * [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/) 
+* [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/) - *Clip Quote Search Engine*
 * [FFmpeg](https://ffmpeg.org/) - *Record, convert and stream audio & video / [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom)*
 * [ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot) or [File2videoconvbot](https://t.me/File2videoconvbot) - *File to Video Telegram Bots* 
 * [OBS](https://obsproject.com/) - *Video Recording / Live Streaming* 
@@ -453,6 +455,7 @@
 * [REAL](https://github.com/miniant-git/REAL) - *Reduce Win 10 Audio Latency*
 * [VCV Rack](https://vcvrack.com/) - *Eurorack Simulator*
 * [Midomi](https://www.midomi.com/), [Shazam](https://www.shazam.com/), [SoundHound](https://www.soundhound.com/soundhound), [AcrCloud](https://www.acrcloud.com/identify-songs-music-recognition-online/), [Music ID Android](https://play.google.com/store/apps/details?id=com.gravitymobile.recognize&hl=en), [Music ID iOS](https://apps.apple.com/app/musicid/id358838909?ign-mpt=uo%3D8), /r/NameThatSong, [Dejavu](https://github.com/worldveil/dejavu) (python) or [Audd](https://audd.io/) (api) - *Song Identification Tools* 
+* [Soundboard](https://sourceforge.net/projects/expsoundboard/) - *Soundboard EXP*
 * [Monash IO](https://monash.io/) or [AudioRelay](https://audiorelay.net/) - *Stream PC Audio to Phone* 
 * [Tune My Music](https://www.tunemymusic.com/) - *Transfer Your Music Library between Music Services*
 * [iPod.js](https://tannerv.com/ipod/) - *iPod Themed Web Music Player*
@@ -583,6 +586,7 @@
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - *World History Map with Visual Notes* 
 * [Gas Price Map](https://www.gasbuddy.com/gaspricemap) - *US Gas Price Map*
 * [CellMapper](https://www.cellmapper.net/) - *Cell Tower Map*
+* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - *Cell Carrier FCC Spectrum Map*
 * [WebCoverageMap](https://webcoveragemap.rootmetrics.com/) - *Web Service Coverage Map*
 * [Broadband Map](https://broadbandmap.fcc.gov/) - *Fixed Broadband Deployment Map*
 * [PowerOutage](https://poweroutage.us/) - *Power Outage Map*
@@ -976,6 +980,7 @@ General Reading Sites*
 * [Permissions Calculator](https://discordapi.com/permissions.html) - *Generate Discord OAuth Invites*
 * [CustomRP](https://www.customrp.xyz/), [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [eidolonrp CodeFactor](https://github.com/kairusds/eidolonrp), [DiscordRPCMaker](https://drpcm.t1c.dev/) or [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC) - *Custom Rich Discord Presence*
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - *Discord Rich Presence Manager*
+* [PlayStationDiscord](https://tustin.dev/PlayStationDiscord/) - *PlayStation Discord Rich Presence*
 * [iTunes-Discord-RP](https://github.com/kkevinm/iTunes-Discord-RP) - *iTunes Rich Presence* 
 * [Foo_Discord_Rich](https://github.com/TheQwertiest/foo_discord_rich) - *FooBar2000 Rich Presence*
 * [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) - *MPV Rich Presence* 
@@ -1293,7 +1298,7 @@ General Reading Sites*
 * [CrossOver](https://www.codeweavers.com/crossover) - *Run Windows Programs on Mac / Linux / Infinite Free Trials*
 * [Hosts File Editor](https://hostsfileeditor.com/) - *Windows Hosts File Editor*
 * [StreamPi](https://stream-pi.com/) - *ElGato Streamdeck Alternative*
-* [EarTrumpet](https://eartrumpet.app/) - *Better Volume Button for Windows* 
+* [EarTrumpet](https://eartrumpet.app/) - *Improved Volume Mixer* 
 * [WinMute](https://github.com/lx-s/WinMute/) - *Automatically Mute PC*
 * [How-To Crack Windows Passwords](https://samsclass.info/123/proj14/123p12winhash.htm) 
 * [Depix](https://github.com/beurtschipper/Depix) - *Recover Passwords from Pixelized Screenshots* 
@@ -1444,7 +1449,7 @@ General Reading Sites*
 * [Uploader Bot X](https://t.me/url_uploadbot) - *Remotely uploads files to Telegram URL* 
 * [UploadURL](https://t.me/UploadsRobot) - *Remotely uploads files to Telegram / Mega.nz Support* 
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - *Fix OneDrive Zip Files >4gb*
-* [Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/), [AllDup](http://www.alldup.info/) - *Duplicate File Finder* 
+* [Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/), [AllDup](http://www.alldup.info/) or [dupeGuru](https://dupeguru.voltaicideas.net/) - *Duplicate File Finder* 
 * [TMSU](https://github.com/oniony/TMSU) or [SuperTag](https://github.com/amoffat/supertag) - *Tag-Based Filesystem* 
 * [Bulk File Renamers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bulk_file_renamers) - *Easily Rename Multiple Files*
 * [Shoko](https://github.com/shokoanime) - *Anime Catalog Automation* 
@@ -1506,6 +1511,7 @@ General Reading Sites*
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - *Download MacOS*
 * [ss64 OSX](https://ss64.com/osx/) - *macOS Bash Commands*
 * [Alfred](https://www.alfredapp.com/) - *Keystroke Launcher* 
+* [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - *Volume Mixer / Auto-Pause*
 * [MacLaunch](http://github.com/hazcod/maclaunch) - *Manage macOS Startup Items*
 * [Homebrew](https://brew.sh/) - *Package Manager*
 * [Sosumi](https://github.com/popey/sosumi-snap.git) - *Download & Install macOS in a VM* 

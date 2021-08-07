@@ -779,6 +779,7 @@
 * [MangaDoom](https://mngdoom.com/) 
 * [MangaSushi](https://mangasushi.net/)
 * [Kanjiku](https://kanjiku.net/)
+* [Flamescans](https://flamescans.org/)
 * [MangaFreak](https://w11.mangafreak.net/)
 * [MangaInn](https://mangainn.net/) 
 * [ISekaiScan](https://isekaiscan.com/)
@@ -788,6 +789,9 @@
 * [Manga Rock](https://mangarock.to/)
 * [MotoKare](https://motokare.xyz/reader/)
 * [CatManga](https://catmanga.org/)
+* [Tritinia](https://tritinia.com/)
+* [AsuraScans](https://asurascans.com/)
+* [MangaJar](https://mangajar.com/)
 * [ReadManhua](https://readmanhua.net/)
 * [NineManga](http://www.ninemanga.com)
 * [MyReadingManga](https://myreadingmanga.info/)
@@ -799,6 +803,7 @@
 * [MangaFox](https://fanfox.net/)
 * [ComicK](https://comick.fun/)
 * [ReadM](https://readm.org/)
+* [LHTranslation](https://lhtranslation.net/)
 * [MangaFast](https://mangafast.net/)
 * [MangaKatana](https://mangakatana.com/) 
 * [Manga.Fanscans](https://manga.fascans.com/)
@@ -823,7 +828,7 @@
 * [MangaUpdates](https://www.mangaupdates.com/) - *Manga Release Updates*  
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - *Preloads Images, Remembers Progress & Keyboard Support* 
 * [MangaEditor](https://moeka.me/mangaEditor/) - *Online Manga Editor*
-* [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en) or [Scanlate](https://scanlate.io/) - *Manga Translator*
+* [Anity](https://redd.it/g372gu), [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en) or [Scanlate](https://scanlate.io/) - *Manga Translator*
 * /r/MangaPiracy - *Manga Piracy Subreddit / [Discord](https://discord.gg/pu66ZcNTrT)*
 * [Tenma](https://github.com/Tenma-Server/Tenma) or [Komga](https://komga.org/) - *Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)*
 
@@ -944,12 +949,13 @@
 
 * **[GoodReads](https://www.goodreads.com/)** - *Books / Comics / Manga*
 * **[TasteDive](https://tastedive.com/)** - *Recommendations* 
-* **[MyAnimeList](https://myanimelist.net/)** - *manga*
+* **[MyAnimeList](https://myanimelist.net/)** - *Manga*
 * [What Should I Read Next?](https://www.whatshouldireadnext.com/), [RecommendMeABook](https://recommendmeabook.com/) or [WhichBook](https://www.whichbook.net/) - *Book Recommendations*
 * [Anime-Planet](https://anime-planet.com/) - *Manga* 
+* [All Anime](https://allanime.site/) - *Manga*
 * [vndb](https://vndb.org/) - *Visual Novel*  
 * [rate.house](https://rate.house/) - *Media Tracker*
-* [MythBank](https://mythbank.com/) - *Media Timelimes / Watch Orders* 
+* [MythBank](https://mythbank.com/) - *Media Timelines / Watch Orders* 
 
 ***
 

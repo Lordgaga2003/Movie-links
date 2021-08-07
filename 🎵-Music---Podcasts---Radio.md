@@ -208,8 +208,6 @@
 * [SongsLover](https://songslover.vip/) - *MP3*
 * [FreshRemix](http://freshremix.ru/) - *MP3*
 * [nodata](https://nodata.tv/) - *MP3*
-* [BeeMP3](http://beemp3s.org/) - *MP3*
-* [MP3Clan](https://mp3guild.com/) - *MP3*
 * [Music Pleer](https://musicpleer.cloud/) - *MP3*
 * [Playit.pk](https://playit.pk/) - *MP3*
 * [SoundClick](https://www.soundclick.com/default.cfm) - *MP3*
@@ -224,7 +222,6 @@
 * [New Album Releases](https://newalbumreleases.net/) - *MP3*
 * [mp3db](https://mp3db.pro/) - *MP3*
 * [TheAlbumPlug](https://thealbumplug.com/) - *MP3*
-* [Music4NewGen](https://music4newgen.org/) - *MP3* 
 * [NetNaija](https://www.thenetnaija.com/) - *MP3* 
 * [DeadPulpit](https://www.deadpulpit.com/) - *MP3*
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - *MP3*
@@ -232,11 +229,9 @@
 * [Music for the masses !](https://redd.it/nt7fea) - *MP3 / Drives*
 * [geedryve](http://jacobsm.com/geedryve/records/mp3s/) - *MP3 / Drive* 
 * [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3 / Drive*
-* [Kyan's Music](https://drive.google.com/drive/folders/1J6VVfN-iD6DLEMIC1kLETcc5f8ENoJs0) - *MP3 / Drive*
 * [NewAlbum.club](https://newalbum.club/) - *MP3 Search*
 * [FLAC Attack](https://flacattack.net/) - *FLAC*
 * [24Flac.net](https://24flac.net/) - *FLAC*
-* [Flac Music](https://flachdmusic.org/) - *FLAC*
 * [Lossless-Music](https://lossless-music.org/) - *FLAC*
 * [Flaccat](https://flaccat.com/) - *FLAC*
 * [Losslessma](https://losslessma.net/) - *FLAC*
@@ -265,15 +260,12 @@
 * [Sophie's Floorboard](https://sophiesfloorboard.blogspot.com/) - *Hardcore / MP3*
 * [1Gabba](https://1gabba.pw/) - *Electronic / MP3*
 * [Gabber](https://gabber.od.ua/) - *Electronic / MP3*
-* [freake](http://freake.ru/) - *Electronic / MP3* 
 * [DQQD](https://dqqd.org/) - *Electronic / MP3 / FLAC*
-* [TheMusicFire](https://themusicfire.com/) - *Electronic / MP3 / FLAC* 
 * [1Trance](https://1trance.org/) - *Trance / MP3*
 * [1Techno](https://1techno.org/) - *Techno / MP3*
 * [Vaporwave Library Project](https://vaporwave.ivan.moe/) - *Vaporwave*
 * [loa2k](https://loa2k.neocities.org/) - *Vaporwave*
 * [nu guide](https://nuvaporwave.neocities.org/mirrors.html) - *Vaporwave*
-* [lolicore.org](http://lolicore.org/) - *Lolicore / Breakcore*
 * [David W. Niven Collection](https://archive.org/details/davidwnivenjazz) - *Jazz / MP3 / [Article](https://www.electronicbeats.net/the-feed/download-650-gigabytes-jazz-free/)*
 * [BOXSET](https://boxset.ru/) - *Classical / FLAC*
 * [chucrute com quiabo](https://rabanetecomquiabo.blogspot.com/) - *Classical / MP3*
@@ -289,7 +281,6 @@
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- *MIDI Files* 
 * [Tabletop Audio](https://tabletopaudio.com/) - *Ambient Audio for Tabletop Games* 
 * [Free Music Archive](https://www.freemusicarchive.org/) - *Royalty Free Music* 
-* [LiteRecords](https://literecords.co/) - *STEMS*
 * [Adobe Audition Downloads](https://offers.adobe.com/en/na/audition/offers/audition_dlc.html), [Free-Loops](http://free-loops.com/), [FreeSOundEffects](https://www.freesoundeffects.com/free-sounds/airplane-10004/), [Freesound](http://freesound.org/) or [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/FThompson/BBCSoundDownloader) - *SFX / Loops*
 * [soundbible](https://soundbible.com/), [ZapsPlat](https://www.zapsplat.com/) or [FindSounds](https://findsounds.com/) - *Sound Search Engine* 
 

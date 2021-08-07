@@ -26,7 +26,6 @@
 * [OpenloadMovies](https://openloadmov.net/) - *Movies / TV*
 * [Yes! Movies](https://yesmovies.ag), [Putlocker](https://ww1.putlocker.vip/) or [SolarMovie](https://www2.solarmovie.to/) - *Movies / TV / Anime*
 * [Trailers.to](https://trailers.to/) - *Movies / TV / [Bypass Quota](https://openvideofs.github.io/)*  
-* [Simple Stream](https://simplestream.in/) - *Movies / TV / Anime / ClipWatching*
 * [BatFLIX](https://ww2.batflix.org/) - *Movies / TV / Videyo*
 * [dekhoBD](https://dekhobd.com/genre/hollywood.html) - *Movies*
 * [DHAKA FTP](http://103.205.233.70/), [2](http://dhakaftp.com/) - *Movies / TV*
@@ -38,7 +37,6 @@
 * [PutLocker123](https://ww2.putlocker123.to/) - *Movies / TV*
 * [Vumoo](https://vumoo.to/) - *Movies / TV* 
 * [FshareTV](https://fsharetv.co/) - *Movies* 
-* [Ohh.io](https://ohh.io/) - *Movies / TV / Anime* 
 * [UniqueStream](https://uniquestream.vip/) - *Movies / TV / Anime*
 * [CooLMoviez](https://coolmoviez.app/) - *Movies / TV / Anime / [Telegram](https://t.me/coolmoviezfree)*
 * [FlixHub](https://flixhub.net/) - *Movies*
@@ -176,7 +174,6 @@
 * [Crocovid](http://crocovid.com/) - *Multi host search*
 * [Manually Scrape Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manually_scrape_sites) - *Scrape sites manually using a search engine*
 * [Stream IMDb](https://github.com/4L00/TemperMonkey-Scripts/) - *Add Stream Site Search Buttons to IMDb Pages*
-* [PlayPhrase](https://playphrase.me/) or [Yarn](https://yarn.co/) - *Clip Quote Search Engine*
 
 ***
 
@@ -272,14 +269,12 @@
 * [Gogo-Stream](https://gogo-stream.com/), [2](https://www3.animeseries.io/), [3](https://gogoanime.sh/), [4](https://gogoanime.vc/), [5](https://vidstreaming.io/) - *Sub / Dub*
 * [Dubbed Anime](https://ww5.dubbedanime.net/) - *Sub / Dub*
 * [AnimeShow](https://www1.animeshow.tv/) - *Sub*
-* [Chia-Anime](http://www.chia-anime.me/) - *Sub*
 * [AnimeRush](https://www.animerush.tv/) - *Sub / Dub*
 * [AnimeHD47](https://animehd47.com/) - *Sub / Dub*
 * [KissCartoon.info](https://kisscartoon.info/) - *Anime / Cartoons / Sub / Dub*
 * [Soul-Anime](http://ww9.soul-anime.us/) - *Sub*
 * [DarkAnime](https://darkanime.stream/) - *Sub*
 * [Kawaiifu](https://kawaiifu.com/) - *Sub / Dub*
-* [AnimeDaisuk](https://animedaisuki.moe/) - *Sub*
 * [AnimeFox](https://animefox.io/) or [FlixAnime](https://flixani.me/) - *Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)*
 *  [FlixAnime](https://flixani.me/) - *Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)*
 * [AnimeHeaven](https://animeheaven.ru/) - *Sub / Dub* 
@@ -288,8 +283,6 @@
 * [Shiro](https://shiro.is/) - *Sub / Dub / [Discord](https://discord.gg/shiro) / [GitHub](https://github.com/Blatzar/shiro-app)* 
 * [Array Anime](https://www.arrayanime.com/) - *Sub / Dub* 
 * [Pantsubase](https://pantsubase.tv/) - *Sub / Dub* 
-* [AnimeRam](https://ww2.animeram.cc/) - *Sub / Dub* 
-* [Picotube](https://www.picotube.online/) - *Sub / Dub* 
 * [AnimeLand](https://www.animeland.us/) - *Dub* 
 * [Animetake](https://animetake.tv/) - *Sub* 
 * [AnimeVibe](https://animevibe.tv/) - *Sub* 
@@ -302,8 +295,6 @@
 * [Anime-TV](https://anime-tv.fun/) - *Sub* 
 * [AnimeFrenzy](https://animefrenzy.org/) - *Sub* 
 * [AnimeSuge](https://animesuge.io/) - *Sub / Dub* 
-* [Animefreak](https://www.animefreak.tv/) - *Sub* 
-* [AnimeReborn](https://animereborn.net/) - *Sub*
 * [Anime Simple](https://ww1.animesimple.com/) - *Sub / Dub*
 * [AniWatcher](https://aniwatcher.com/) - *Sub / Dub*
 * [StreamAnimeTV](https://streamanimetv.net/) - *Sub / Dub*
@@ -580,7 +571,6 @@
 * [Animekayo](https://animekayo.com/)
 * [Soulreaperzone](https://www.soulreaperzone.com/)
 * [AniDL](https://anidl.org/)
-* [Picotube](https://www.picotube.online/) 
 * [AnimeLand](https://www.animeland.us/) 
 * [AnimeSub](https://animesub.in/) 
 * [DarkLegends](https://darklegends60mb.org/)
@@ -598,7 +588,7 @@
 * [CopyCat Encodes](https://mega.nz/#folder/jpMFlQLB#QZ0W2OIyko-n2BTouWjHOQ) - *Drive* 
 * [Anime Time Drive](https://atdrive.animetimeserver.workers.dev/0:/) - *Drive* 
 * [FFA DDL BATCH](https://ffa.shiraha.workers.dev/) - *Drive* 
-* [nibl](https://nibl.co.uk/bots.php) - *Anime Downloads / XDCC*
+* [nibl](https://nibl.co.uk/) - *Anime Downloads / XDCC*
 * [Anime Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anime_download_apps) - *Anime Downloading Tools*
 * [manyame](https://github.com/asakura42/manyame/) - *IRC Anime Download Script* 
 * [Anime DL](https://archive.org/details/animedl4.0_202004) - *Stream & Download Anime in VLC*

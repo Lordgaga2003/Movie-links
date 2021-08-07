@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/R6sQ97L.png)** - *For mobile users*
+**[Table of Contents](https://i.imgur.com/5PHwGm1.png)** - *For mobile users*
 
 ***
 *** 
@@ -200,6 +200,13 @@
 * [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - *View Extension Source Code* 
 * [Current Moon Phase](https://chrome.google.com/webstore/detail/current-moon-phase/ippnbhhbamibfpljlfmgogaondodicgi) - *Current Moon Phases*
 
+## ▷ Safari
+
+* [Safari Extensions](https://apps.apple.com/us/story/id1377753262) - *Safari Extensions*
+* [NightLight](https://apps.apple.com/us/app/nightlight-for-safari/id1429386865?mt=12), [Night Eye](https://apps.apple.com/us/app/night-eye-for-safari/id1450504903?mt=12) or [Dark Mode](https://apps.apple.com/us/app/dark-mode-for-safari/id1397180934?mt=12) - *Dark Mode*
+* [Tab Space](https://apps.apple.com/us/app/tab-space/id1473726602?mt=12) - *Tab / Bookmark Manager*
+* [Keyword Search](https://apps.apple.com/us/app/keyword-search/id1558453954?mt=12) - *Keyword Search Bar*
+
 ## ▷ Userscripts
 
 * **[Userscript Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_userscript_managers)**
@@ -240,7 +247,7 @@
 * [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - *Piracy Index*
 * [Similar Sites](https://www.similarsites.com/) or [SitesLike](https://www.siteslike.com/) - *Find Similar Sites*
 * [DirtyWarez](https://dirtywarez.org/) - *Ranks Sites*
-* [WAREZZ](https://piracy.now.sh/), [2](https://warezz.now.sh/) - *Piracy Index*
+* [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - *Piracy Index*
 * [Neverland](http://www.neverland.ws/) - *Piracy Index* 
 * [pilssken](https://pilssken.neocities.org/warez/) - *Piracy Index* 
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - *Software / Tool Index*
@@ -417,6 +424,7 @@
 * [stringers.live](https://stringers.live/) - *Live Stringer (freelance journalist) Streams*
 * [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - *Open Random Windows*
 * [Just Type Stuff ](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - *Type Things into Existence*
+* [WriteAPrisoner](https://writeaprisoner.com/) - *Pen Pals for Inmates*
 * [Pokemon Showdown](https://pokemonshowdown.com/) - *Pokemon Battle Simulation* 
 * [This Is Sand](https://thisissand.com/) - *Make Sand Art* 
 * [Orb.Farm](https://orb.farm/) - *Virtual Aquatic Ecosystem* 

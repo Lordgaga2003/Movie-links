@@ -256,7 +256,7 @@
 * [PicFont](https://picfont.com/) - *Add Text to Images*
 * [CLIP-GLaSS](https://colab.research.google.com/drive/1fWka_U56NhCegbbrQPt4PWpHPtNRdU49?usp=sharing#scrollTo=zvZFRZtcv8Mp) - *Image Generation Tool* 
 * [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - *Movie / TV Covers & Posters*
-* [Film](https://beta.flim.ai/) - *Movie Cover Collections* 
+* [iTunes Artwork Grabber](https://artwork.themoshcrypt.net/) or [Album Art Downloader](https://sourceforge.net/projects/album-art/) - *Album Art*
 * [CleanPNG](https://www.cleanpng.com/) or [OpenClipart](https://openclipart.org/) - *PNG Images / Clipart* 
 * [PSDGraphics](https://www.psdgraphics.com/) - *PSD Files*
 * [Artbreeder](https://artbreeder.com/) - *Image Discovery / Combining*
@@ -401,6 +401,7 @@
 * [MKV-Optimizer](https://www.videohelp.com/software/MKV-Optimizer) - *Remove Audio Tracks from MKV Files* 
 * [MakeMKV](https://www.makemkv.com/) - *Create MKV From Blu-Ray / DVD* 
 * [ImgBurn](https://www.imgburn.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - *CD / DVD Burning*
+* [VidCoder](https://vidcoder.net/) - *DVD / Blu-Ray Ripping*
 * [DVDFab](https://www.dvdfab.cn/free.htm) - *Free DVD Related Programs* 
 * [h265ize](https://github.com/FallingSnow/h265ize) - *HEVC encoder* 
 * [Unscreen](https://www.unscreen.com/) - *Remove Video Background* 
@@ -683,7 +684,7 @@
 * [MailBait](https://mailbait.info/) - *Fill Inbox with Mail* 
 * [Email Valid](https://ivit.pro/services/email-valid/) - *Check Email Validity & Usage*
 * [Yandex Account Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - *Create Infinite Yandex Accounts*
-* [Gmail Dot Trick Generator](https://thebot.net/api/gmail/) or [TheBot](https://thebot.net/api/gmail/) - *Generate Unlimited Gmail Accounts via the Dot Trick*
+* [Gmail Dot Trick Generator](https://thebot.net/api/gmail/) - *Generate Unlimited Gmail Accounts via the Dot Trick*
 * [YakYak](https://github.com/yakyak/yakyak) - *Google Hangouts Desktop Client* 
 * [Caprine](https://sindresorhus.com/caprine/) - *Facebook Messenger Desktop App / [GitHub](https://github.com/sindresorhus/caprine)* 
 * [PogU.live](https://pogu.live/) - *Watch Twitch Sub-Only Videos*
@@ -973,7 +974,7 @@ General Reading Sites*
 * [Titan Embeds](https://titanembeds.com/) - *Create Discord Chat Embeds*
 * [MonitoRSS](https://monitorss.xyz/) - *RSS Discord Bot*
 * [Permissions Calculator](https://discordapi.com/permissions.html) - *Generate Discord OAuth Invites*
-* [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [eidolonrp CodeFactor](https://github.com/kairusds/eidolonrp), [DiscordRPCMaker](https://drpcm.t1c.dev/) or [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC) - *Create a Custom Rich Presence in Discord*
+* [CustomRP](https://www.customrp.xyz/), [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [eidolonrp CodeFactor](https://github.com/kairusds/eidolonrp), [DiscordRPCMaker](https://drpcm.t1c.dev/) or [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC) - *Custom Rich Discord Presence*
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - *Discord Rich Presence Manager*
 * [iTunes-Discord-RP](https://github.com/kkevinm/iTunes-Discord-RP) - *iTunes Rich Presence* 
 * [Foo_Discord_Rich](https://github.com/TheQwertiest/foo_discord_rich) - *FooBar2000 Rich Presence*
@@ -1226,7 +1227,8 @@ General Reading Sites*
 * [WinFile](https://github.com/microsoft/winfile) - *Original Windows File Manager* 
 * [Multi Commander](http://multicommander.com/) - *Multi-Tabbed File Manager*
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - *Quickly Change Power Schemes*
-* [Wox](http://www.wox.one/) / [GitHub](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [ChaseApp](https://www.chaseapp.io/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - *Keystroke Launcher* 
+* [Wox](http://www.wox.one/) / [GitHub](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [ChaseApp](https://www.chaseapp.io/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - *Keystroke Launcher
+* [rofi](https://github.com/davatorium/rofi) - *Window Switcher & App Launcher*
 * [ArsClip](http://www.joejoesoft.com/vcms/97/), [Ditto Clipboard Manager](https://ditto-cp.sourceforge.io/), [clipboardmemo](https://gitlab.com/fabrom/clipboardmemo), [CopyQ](https://hluk.github.io/CopyQ/), [Free Clipboard Viewer](https://freeclipboardviewer.com/), [Clip Angel](https://sourceforge.net/projects/clip-angel/) or [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots) - *Clipboard Manager* 
 * [clip](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/clip) - *Redirects Command Output from Command Line to Clipboard*
 * [Almond](https://almond.stanford.edu/) - *Virtual Assistant*
@@ -1431,12 +1433,16 @@ General Reading Sites*
 * [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) - *Web-Based File Browser*
 * [DocDroid](https://www.docdroid.net/) or [Securedrop](https://securedrop.org/) - *Document Sharing Tool*
 * [Browsemonkey](https://github.com/shukriadams/browsemonkey) - *Take Snapshots of File Systems* 
+* [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - *GDrive Guide* 
 * [Save to Drive](https://savetogoogledrive.herokuapp.com/) - *Save Files to GDrive without account*   
-* [Public Link Bot](https://t.me/Tg2extbot) or [GetPublicLinkBot](https://t.me/GetPublicLinkBot) - *Mirror Telegram files to external file hosts*   
 * [GdriveXbot](https://t.me/GdriveXbot), [HK_upload_bot](https://t.me/HK_driveupload_bot), [gdrive_upload_bot](https://t.me/gdrive_upload_bot), [driveuploadbot](https://t.me/driveuploadbot) or [gdriveupme_bot](https://t.me/gdriveupme_bot) - *Google Drive Telegram upload bots* 
 * [gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink) - *GDrive File Direct Link Generator*
+* [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - *Mount GDrive on Linux*
 * [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [UptoTGbot](https://t.me/UptoTGbot), [Files Web Server](https://t.me/webdownload_bot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot) or [UploadDxbot](https://t.me/UploadDxbot) - *Upload Files to Telegram*  
 * [UploadBots](https://t.me/UploadBots) - *List of Telegram Upload Bots*
+* [Public Link Bot](https://t.me/Tg2extbot) or [GetPublicLinkBot](https://t.me/GetPublicLinkBot) - *Mirror Telegram files to external file hosts*   
+* [Uploader Bot X](https://t.me/url_uploadbot) - *Remotely uploads files to Telegram URL* 
+* [UploadURL](https://t.me/UploadsRobot) - *Remotely uploads files to Telegram / Mega.nz Support* 
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - *Fix OneDrive Zip Files >4gb*
 * [Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/), [AllDup](http://www.alldup.info/) - *Duplicate File Finder* 
 * [TMSU](https://github.com/oniony/TMSU) or [SuperTag](https://github.com/amoffat/supertag) - *Tag-Based Filesystem* 
@@ -1457,9 +1463,6 @@ General Reading Sites*
 * [HashTab](http://implbits.com/products/hashtab/) or [OpenHashTab](https://github.com/namazso/OpenHashTab) - *Calculate / Check File Hashes* 
 * [QuickSFV](https://quicksfv.org/), [RapidCRC](http://rapidcrc.sourceforge.net/) or [QuickDash](https://github.com/AndreVuillemot160/QuickDash/) / [Discord](https://discord.gg/ZuxmMXdGpm) - *File Hashing / Verification Tools*
 * [Hashes](https://hashes.com/) - *Decrypt Hashes*
-* [Uploader Bot X](https://t.me/url_uploadbot) - *Remotely uploads files to Telegram URL* 
-* [UploadURL](https://t.me/UploadsRobot) - *Remotely uploads files to Telegram / Mega.nz Support* 
-* [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - *GDrive Guide* 
 * [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) - *View SQLite Files Online* 
 * [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline) or [mediainforobot (Telegram)](https://t.me/mediainforobot) - *Media File Info*
 * [CalameoDownload](https://calameodownload.com/) - *Download Calameo Docs PDF or Image files*
@@ -1562,8 +1565,8 @@ General Reading Sites*
 * [TerrColab](https://github.com/AndreVuillemot160/TerrColab) - *Host Collab based Terraria Server / [.ipynb](https://colab.research.google.com/github/AndreVuillemot160/TerrColab/blob/main/TerrColab.ipynb)*
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) - *Game Optimization Guides*
 * [Low Specs Experience](https://ragnotechpowered.com/) - *Game Optimization Program* 
-* [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) or [Netch](https://github.com/netchx/Netch/) - *Online Game Acceleration Proxy*
 * [protondb](https://www.protondb.com/) or [Lutris](https://lutris.net/) - *Play Windows games on Linux*
+* [Moonlight Stream ](https://moonlight-stream.org/) or [Rainway](https://rainway.com/gaming) - *PC Remote Play Client / [GitHub](https://github.com/moonlight-stream)*
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - *PS4 / PS5 Remote Play Client* 
 * [Tinfoil](https://tinfoil.io/) - *Switch Title Manager / File Browser* 
 * [emuiibo](https://github.com/XorTroll/emuiibo) - *Amiibo Emulator*
@@ -1589,6 +1592,7 @@ General Reading Sites*
 
 * [find-PlayDate](https://www.find-playdate.com/) - *Find People to Play Games With* 
 * [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/) or [softether](https://www.softether.org/) - *Play Pirated Multiplayer Games*
+* [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) or [Netch](https://github.com/netchx/Netch/) - *Online Game Acceleration Proxy*
 * [Nemirtingas Galaxy Emu](https://gitlab.com/Nemirtingas/nemirtingas_galaxy_emu) - *GOG Galaxy Lan Emulator*
 * [Online Fix](https://online-fix.me/) - *Online Game Cracks / [Discord](https://discord.gg/yExgFYncMD)* 
 * [Slippi](https://slippi.gg/) - *Super Smash Bros Melee Online* 
@@ -1633,7 +1637,7 @@ General Reading Sites*
 * [Steam Mover](https://www.traynier.com/software/steammover) - *Store Steam Games on Multiple Drives*
 * [Steamless](https://github.com/atom0s/Steamless) - *DRM Remover*
 * [Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack) - *Auto Apply Goldberg & Steamless*
-* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - *Steam DLC Unlocker / [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521)*
+* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - *Steam DLC Unlocker / [Search](https://creamapidb.tech/) / [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521)*
 * [Koalageddon](https://github.com/acidicoala/Koalageddon/) - *DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay / [Config Tool](https://github.com/g-yui/KoalaGeddon-Configurator)*
 * [Get DLC from SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837)
 * [Steam Workshop Downloader](https://steamworkshopdownloader.io/) or [Steamworkshop.download](http://steamworkshop.download/) - *Download files from the Steam workshop* 

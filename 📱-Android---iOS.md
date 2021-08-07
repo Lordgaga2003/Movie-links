@@ -397,6 +397,7 @@ App Manager
 * [Berg](https://www.funkymuse.dev/p/berg.html) - *Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * [SupaFlix](https://supaflix.1mt.top/) - *Movies / TV* 
 * [MOTV](http://motv.top/) - *Movies / TV / Chromecast*
+* [ROTV](https://rotv.xyz/) - *Movies / TV*
 * [Tuner Radio](https://www.downloader.world/) - *Movies / TV*
 * [Rokkr](http://www.rokkr.net/ ) - *Movies / TV / 
 Add "huhu.to", "bs.to" or "oha.to"* 
@@ -545,7 +546,7 @@ iOS
 * [Instdown](https://apps.apple.com/ca/app/instdown-video/id1452076756) - *Download Videos from Social Media* 
 * [FCC Speed Test](https://apps.apple.com/us/app/fcc-speed-test/id794322383) or [Iperf 3](https://apps.apple.com/us/app/iperf-3-wifi-speed-test/id1462260546) - *Internet Speed Test*
 * [Jitsi](https://jitsi.org/) - *Video Chat* 
-* [Beam](https://apps.apple.com/nl/app/beam-for-reddit/id937987469), [Resurfer](https://apps.apple.com/us/app/resurfer/id1489340046), [Orion](https://apps.apple.com/us/app/orion-for-reddit/id1536533779), [Reno](https://apps.apple.com/us/app/reno-for-reddit/id1489831590#?platform=iphone) or [BaconReader](http://baconreader.com/) - *Reddit Client*
+* [Beam](https://apps.apple.com/nl/app/beam-for-reddit/id937987469), [Resurfer](https://apps.apple.com/us/app/resurfer/id1489340046), [Orion](https://apps.apple.com/us/app/orion-for-reddit/id1536533779), [Narwhal](https://apps.apple.com/us/app/narwhal-for-reddit/id845422455), [Reno](https://apps.apple.com/us/app/reno-for-reddit/id1489831590#?platform=iphone) or [BaconReader](http://baconreader.com/) - *Reddit Client*
 * [Remmel](https://apps.apple.com/us/app/remmel-for-lemmy/id1547988171) - *Lemmy Client*
 * [Nicegram](https://nicegram.app/) - *Telegram Client*
 * [Watusi](https://watusi.fouadraheb.com/) - *Modded WhatsApp*
@@ -558,6 +559,7 @@ iOS
 * [Mematic](https://www.mematic.net/) - *Meme Creator* 
 * [Reface](https://reface.app/) - *Create Face Swap Videos* 
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
+* [Rhino](https://lemamichael.github.io/WhatIsRhino/) - *Tweaked Instagram Client*
 * [GGMorse](https://github.com/ggerganov/ggmorse) - *Morse Code Decoding App*
 * [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id375589283) - *Delivery Tracker*
 * [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - *Control Android TV Box with iPhone*
@@ -643,7 +645,6 @@ iOS
 
 # ► iOS Streaming
 
-* **[Stremio](https://www.stremio.com/downloads)** - *Torrent Streaming App / [Addons](https://redd.it/ahd6gk) / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)*
 * [Kodi](https://kodi.tv/) - */r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)*
 * [MediaBox](https://mediaboxhd.net/) - *Movies / TV*
 * [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756) - *Movies / TV*

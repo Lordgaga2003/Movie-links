@@ -19,7 +19,7 @@
 
 ## ▷ Adblocking Extensions
 
-* **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** / [Extra](https://github.com/gorhill/uBO-Extra) / [Safari](https://github.com/el1t/uBlock-Safari), [AdNauseam](https://adnauseam.io/) or [TBlock](https://tblock.codeberg.page/) - *Adblockers*
+* **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** / [Extra](https://github.com/gorhill/uBO-Extra), [AdNauseam](https://adnauseam.io/) or [TBlock](https://tblock.codeberg.page/) - *Adblockers*
 * **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - *Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Duplicate Check](https://abpvn.com/ruleChecker/redundantRuleChecker.html)* 
 * **[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - *Prevent Sites from Detecting Adblockers / [Test Defenders](https://blockads.fivefilters.org/)*
 * **[SponsorBlock](https://sponsor.ajay.app/)** - *Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)*
@@ -308,7 +308,7 @@
 * [dataskydd](https://webbkoll.dataskydd.net/) or [Blacklight](https://themarkup.org/blacklight) - *Check what data-protecting measures a site has taken*
 * [uBO-Scope](https://github.com/gorhill/uBO-Scope) - *Measure 3rd Party Exposure* 
 * [FreeTube](https://freetubeapp.io/) - *Private YouTube Client*
-* [Invidious](https://tube.cadence.moe/), [FreeTubeApp](https://freetubeapp.io/), [Piped](https://github.com/TeamPiped/Piped) or [Youtube-local](https://github.com/user234683/youtube-local) - *YouTube frontend / Free / No Account Required / [Instances](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)* 
+* [Invidious](https://redirect.invidious.io/) / [2](https://tube.cadence.moe/), [FreeTubeApp](https://freetubeapp.io/), [Piped](https://github.com/TeamPiped/Piped) or [Youtube-local](https://github.com/user234683/youtube-local) - *YouTube frontend / Free / No Account Required / [Instances](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)* 
 * [Wikiless](https://wikiless.org/) - *Wikipedia Frontend / [Source](https://codeberg.org/orenom/Wikiless)*
 * [Yotter](https://yotter.kavin.rocks/) - *Youtube / Twitter Frontend* 
 * [nitter](https://nitter.net/) - *Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)*

@@ -100,6 +100,7 @@
 * [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi](https://kiwibrowser.com/), [Lynket](https://github.com/arunkumar9t2/lynket-browser) or [Lightning](https://github.com/anthonycr/Lightning-Browser) - *Android only Browsers* 
 * [XDA](https://forum.xda-developers.com/) - *Android Discussion Forum*
 * [Will My Phone Work?](https://willmyphonework.net/) - *Phone Carrier Support Index* 
+* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - *Cell Carrier FCC Spectrum Map*
 * [Kimovil](https://www.kimovil.com/en/) - *Compare Phones & Prices* 
 * [DXOMARK](https://www.dxomark.com/) - *Smartphone Quality Testing*
 * [eBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) - *eBook / Audiobook Readers* 
@@ -190,6 +191,7 @@ App Manager
 * [Haven](https://guardianproject.github.io/haven/) - *Turn Phone into Motion Detector* 
 * [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - *Fire Tablet Tools*
 * [Mematic](https://www.mematic.net/) - *Meme Creator* 
+* [LRC Editor](https://play.google.com/store/apps/details?id=com.cg.lrceditor) - *Lyric Text Editor*
 * [Reface](https://reface.app/) - *Create Face Swap Videos* 
 * [PGS](https://www.pgsharp.com/) - *Modded Pokémon GO*
 * [WOMBO](https://www.wombo.ai/) - *AI Powered Lip Sync*
@@ -320,7 +322,7 @@ App Manager
 
 # ► Android Audio
 
-* **[Spotify APK (Modded)](https://forum.mobilism.org/search.php?terms=all&amp;author=&amp;sc=1&amp;sf=titleonly&amp;sr=topics&amp;sk=t&amp;sd=d&amp;st=0&amp;ch=300&amp;t=0&amp;submit=Search&amp;keywords=Spotify)** - *Streaming / [Version Manager](https://github.com/xManager-v2/xManager-Spotify) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify)*
+* **[Spotify APK (Modded)](https://forum.mobilism.org/search.php?terms=all&amp;author=&amp;sc=1&amp;sf=titleonly&amp;sr=topics&amp;sk=t&amp;sd=d&amp;st=0&amp;ch=300&amp;t=0&amp;submit=Search&amp;keywords=Spotify)** - *Streaming / [Version Manager](https://github.com/xManager-v2/xManager-Spotify) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://f-droid.org/packages/com.rohit2810.spotit/)*
 * **[AIDS](https://forum.mobilism.org/viewtopic.php?f=1332&amp;t=3897714)** - *Download / MP3  / FLAC* 
 * [YouTube Music Vanced](https://vancedapp.com/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [Ylight Music](https://apt.izzysoft.de/fdroid/repo/com.ylightmusic.app/) or [YMusic](https://ymusic.io/) - *YouTube Music Player*
 * [Freezer](https://freezer.life/) - *Stream / Download / [Discord](https://discord.com/invite/qwJpa3r4dQ) / [Telegram](https://t.me/joinchat/Se4zLEBvjS1NCiY9)* 
@@ -562,6 +564,7 @@ iOS
 * [Rhino](https://lemamichael.github.io/WhatIsRhino/) - *Tweaked Instagram Client*
 * [GGMorse](https://github.com/ggerganov/ggmorse) - *Morse Code Decoding App*
 * [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id375589283) - *Delivery Tracker*
+* [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - *Connect Mac Keyboard to Mobile Devices*
 * [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - *Control Android TV Box with iPhone*
 * [Swappa](https://swappa.com/imei) - *IMEI, MEID, ESN Checker*
 * [Mildred](https://apps.apple.com/us/app/mildred/id1522800022) - *Docker Client*
@@ -603,7 +606,7 @@ iOS
 # ► iOS Audio
 
 * **[Spotify++](https://appdb.to/app/cydia/1900000540)** / [2](https://ipaspot.app/categories/tweakedapps.html) / [3](https://repo.hackyouriphone.org/spotilife) (JB Required) or **[Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580)** - *Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)*
-* [YTMusilife](https://repo.hackyouriphone.org/ytmusilife) - *Streaming*
+* [YTMusilife](https://repo.hackyouriphone.org/ytmusilife) or [YouTube Music Patched](https://appdb.to/app/cydia/1900000831) - *Streaming*
 * [Deezelife](https://repo.hackyouriphone.org/deezelife) or [Deezer](https://apps.apple.com/app/deezer/id292738169) - *Streaming*
 * [SCloudlife](https://repo.hackyouriphone.org/scloudlife) or [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151) - *Streaming*
 * [Musi](https://apps.apple.com/us/app/musi-simple-music-streaming/id591560124) - *Streaming* 

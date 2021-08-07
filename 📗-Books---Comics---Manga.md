@@ -23,7 +23,6 @@
 * [BigAudiobooks](https://bigaudiobooks.net/) - *Listen Online*
 * [BookAudiobook](https://bookaudiobook.com/) - *Listen Online*
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - *Listen Online*
-* [GoodAudiobook](https://goodaudiobook.com/) - *Listen Online*
 * [Audiobook Slab](https://audiobookslab.com/) - *Listen Online*
 * [AudioBook Reviews](https://audiobookreviews.com/) 
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks) 
@@ -67,7 +66,6 @@
 * [EBOOKS SET 2](https://mega.nz/folder/Z1dD2YSA#XRUa1Sj9mXJHU4rh1seykg) - *Books / Drive*
 * [VK Serial Books & Magazines](https://vk.com/sebomag) - *Books / Magazines*
 * [Bookstagram](https://vk.com/bookstagram_eng) - *Books / Magazines* 
-* [freeforbook](https://freeforbook.com/) - *Books / Magazines / Newspapers* 
 * [29GB Mega Folder](https://mega.nz/folder/x4VG3DRL#lqecF4q2ywojGLE0O8cu4A) - *Books* 
 * [bitdl 1](http://s1.bitdl.ir/), [2](http://s2.bitdl.ir/), [3](http://s3.bitdl.ir/), [4](http://s4.bitdl.ir/), [5](http://s5.bitdl.ir/), [7](http://s7.bitdl.ir/), [8](http://s8.bitdl.ir/), [9](http://s9.bitdl.ir/), [10](http://s10.bitdl.ir/), [11](http://s11.bitdl.ir/), [13](http://s13.bitdl.ir/), [14](http://s14.bitdl.ir/) - *Books*
 * [Books.cat](https://books.cat/) - *Books  / Forum / Requests* 
@@ -121,7 +119,6 @@
 * [JustFreeBooks](https://www.justfreebooks.info/) - *Books* 
 * [eBook Junkie](https://www.ebookjunkie.com/) - *Books*  
 * [Sharing eBook](https://www.sharingebook.com/) - *Books* 
-* [GetFreeMagz](https://getfreemagz.club/) - *Books* 
 * [eBook Lobby](http://www.ebooklobby.com/) - *Books*  
 * [1Lib](https://1lib.limited/) - *Books*
 * [IKindle](https://ikindlebooks.com/) - *Books*
@@ -177,7 +174,6 @@
 * [LargePDF](https://largepdf.com/) - *Books*
 * [PDF Stop](https://pdfstop.com/) - *Books*
 * [freepdfbook](http://www.freepdfbook.com/) - *Books* 
-* [pdfbooks](https://pdfbooks.co.za/) - *Books* 
 * [PDF Search Engine](http://www.pdfsearchengine.info/) - *PDF Search Engine* 
 * [Amazonaws](https://www.google.com/search?q=site%3As3.amazonaws.com+%3CSearch+term%3E+filetype%3Apdf) - *Amazon PDF Search* 
 
@@ -394,7 +390,7 @@
 * [files.afu.se](https://files.afu.se/Downloads/) - *UFO Books, Documents, Magazines ect.*
 * [The Trove](https://thetrove.is/) - *Books / Fantasy / TTRPG / [Wayback Machine](https://web.archive.org/web/20210614215400/https://thetrove.is/), [2](https://web.archive.org/web/20210430220147/https://thetrove.is/) / [Unofficial Discord](https://discord.gg/GwTuGr7N8p)*
 * [Choisey](http://choisey.free.fr/) or [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - *TTRPG Rulebooks*
-* [SimplyScripts](https://www.simplyscripts.com/) or [Scripts.com](https://scripts.com/) - *Movie / TV Scripts* 
+* [SimplyScripts](https://www.simplyscripts.com/) - *Movie / TV Scripts* 
 * [Kialo]( https://www.kialo.com/) - *Popular Debates / Discussion* 
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
 
@@ -454,7 +450,6 @@
 * [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - *Academic Repository Search*  
 * [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - *Science / Tech / Math / Physics* 
 * [arXiv](https://arxiv.org/) - *Science / Math / Physics*
-* [FreeScience](https://www.freescience.info/index.php) - *Science*
 * [Clockwise Library](http://clockwise3rldkgu.onion/) - *Art / Science / .onion* 
 * [IntechOpen](https://www.intechopen.com/) - *Science*
 * [Magazines Scientific](http://scientificmagazines.top/) - *Science Magazines*
@@ -509,7 +504,7 @@
 
 ## ▷ History Sites
 
-* **[Project Gutenberg](https://www.gutenberg.org/wiki/Main_Page)** - *Historical Fiction / Nonfiction / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)*
+* **[Project Gutenberg](https://www.gutenberg.org/)** - *Historical Fiction / Nonfiction / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)*
 * [/HIS/STORY Collection](https://mega.nz/#F!dlZlDbqL!TXG5bGvWufONkrQAL7b7jA) - *Drive* 
 * [Historical Audiobooks Collection](https://mega.nz/folder/utchyAAK#GTVl1fINpekEch95xj8Fmg) - *Audiobooks / Drive*
 * [Media History](https://mediahistoryproject.org/) - *Books / Magazines*
@@ -525,7 +520,6 @@
 * [ In Parenthesis](https://www.yorku.ca/inpar/) - *Historic Tales*
 * [Folk Texts](http://www.pitt.edu/~dash/folktexts.html) - *Historical Folklore / Mythology*
 * [FairyTalez](https://fairytalez.com/) - *Historical Folklore / Fairy Tales*
-* [Italian Women Writers](http://artflsrv02.uchicago.edu/cgi-bin/philologic/navigate.pl?iww.0) - *Classic / Italian*
 * [CELT](https://celt.ucc.ie/) - *Irish / History / Literature / Politics*
 * [textfiles.com](http://textfiles.com/) - *1980's Text File Index*
 * [Digital Archive](https://digitalarchive.wilsoncenter.org/collections) - *Historical Documents*  
@@ -611,7 +605,6 @@
 * [DocDroid](https://www.google.com/search?q=site%3Adocdroid.net) - *Document Search* 
 * [Higher Intellect](https://preterhuman.net/) - *Document Search* 
 * [SkillCommons](https://www.skillscommons.org/) - *Work Training Documents* 
-* [What in The World](https://whatintheworld.xyz/) - *GDrive PDF / Document Search*
 * [Institute of Education Sciences](https://eric.ed.gov/) - *Documents / Texts / Papers* 
 * [qDoc](https://qdoc.tips/)- *Document Search*
 * [EThOS](https://ethos.bl.uk/SearchResults.do) - *Doctoral Theses* 
@@ -756,11 +749,9 @@
 * Madokami Manga Archive - [0-E](https://archive.org/download/Madokami.Manga.0-E), [F-K](https://archive.org/download/Madokami.Manga.F-K), [L-Q](https://archive.org/download/Madokami.Manga.L-Q), [R-Z](https://archive.org/download/Madokami.Manga.R-Z)
 * [bato](https://bato.to/) - *[Discord](https://discord.gg/7NBwcBsDph)*
 * [MangaHere](http://www.mangahere.cc)
-* [MangaKare](https://mangakare.com/) 
 * [MangaNelo](https://manganelo.com/) or [Mangakakalot](https://mangakakalot.com/)
 * [MangaHub](https://mangahub.io/)
 * [MP4DIRECTS](https://mp4directs.com/) 
-* [MangaReader](https://www.mangareader.net/)
 * [Manga Park](https://mangapark.net/)
 * [MangaTown](https://www.mangatown.com/)
 * [FunManga](https://funmanga.com/) 
@@ -769,7 +760,6 @@
 * [Panda Chaika](https://panda.chaika.moe/)
 * [MangaSee](https://mangaseeonline.us/)
 * [Readmng](https://www.readmng.com/) 
-* [LoveHeaven](https://loveheaven.net/)
 * [ZinManga](https://zinmanga.com/)
 * [The Manga Library](https://archive.org/details/manga_library)
 * [SenseScans](https://sensescans.com/)
@@ -782,7 +772,6 @@
 * [Flamescans](https://flamescans.org/)
 * [MangaFreak](https://w11.mangafreak.net/)
 * [MangaInn](https://mangainn.net/) 
-* [ISekaiScan](https://isekaiscan.com/)
 * [Manganato](https://manganato.com/)
 * [EvilFlowers](http://reader.evilflowers.com/)
 * [DeathTollScans](https://www.deathtollscans.net/)
@@ -905,7 +894,6 @@
 * [MagFree](https://magfree.net/)
 * [FreeMagazinesPDF](https://freemagazinepdf.com/)
 * [PDF Magazines Archive](https://pdf-magazines-archive.com/) 
-* [freeforbook](https://freeforbook.com/) 
 * [Archive.org Magazine Rack](https://archive.org/details/magazine_rack)
 * [Archive.org Computer Magazines](https://archive.org/details/computermagazines)
 * [Aeon](https://aeon.co/) 
@@ -932,7 +920,6 @@
 * [newspaper_archive](https://t.me/newspaper_archive) - *Telegram*
 * [Chronicling America](https://chroniclingamerica.loc.gov/newspapers/)
 * [Newspapers com](https://newspapers.com/)
-* [freeforbook](https://freeforbook.com/) 
 * [ThoughtCo](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
 * [Library of Congress Newspapers](https://www.loc.gov/rr/news/oltitles.html)
 * [Archive.org Newspapers](https://archive.org/details/newspapers)

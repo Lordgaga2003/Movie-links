@@ -146,7 +146,6 @@
 * [Torlock](https://www.torlock.com/) or [Torlock2](https://www.torlock2.com/) - *Search aggregator*
 * [iBit.to](https://ibit.to) or [iBit.am](https://ibit.am/) - *Search aggregator*
 * [TorrentFunk](https://www.torrentfunk.com/) - *Search aggregator*
-* [SkyTorrents](https://www.skytorrents.lol) - *Search aggregator*
 * [Badass Torrents](https://badasstorrents.com) - *Search aggregator*
 * [7Torrent](https://www.7torrents.cc/) - *Search aggregator*
 * [concen](https://www.concen.org/torrents) - *Search aggregator*

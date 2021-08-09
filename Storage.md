@@ -158,7 +158,6 @@
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - *Google Drive KDrama*
 * [KissAsian](https://kissasian.li/), [2](https://kissasian.ac/)
 * [GoPlay](https://redd.it/723mtd) + [Discord](https://discord.gg/Gh44afE)
-* [Dramago](http://www.dramago.com/)
 * [AsianCrush](https://www.asiancrush.com/)
 * [DramaCool](https://dramacool.so/), [dramacool9](https://www.dramacool9.co/) or [WatchAsian](https://watchasian.cc/)
 * [DramaDay](https://dramaday.net/) 
@@ -168,7 +167,6 @@
 * [NewAsian](https://newasiantv.biz/) 
 * [Asiaflix](https://asiaflix.app/)
 * [Drama3s](https://wvw.drama3s.me/)
-* [watchallyouwant](https://watchallyouwant.com/) 
 * [19mk](http://www.19mk.com/) 
 * [qooxi](http://drama.qooxi.to/) 
 * [GenMovies](https://genomovies.com/)
@@ -184,15 +182,13 @@
 * [viewasian](https://viewasian.co/) 
 * [bagikuy](https://bagikuy.com/)
 * [IcDrama](http://icdrama.video/) - *Chinese*
-* [gangjuw](https://www.gangjuw.com/) - *Chinese*
-* [xigua12](http://www.xigua12.com/) - *Chinese* 
 * [encoretvb](https://www.encoretvb.com/english)
 
 ***
 
 #### Base64 Decode Extensions
 
-[Chrome](https://chrome.google.com/webstore/detail/base64-encode-and-decode/kcafoaahiffdjffagoegkdiabclnkbha), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/), [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
+[Chrome](https://chrome.google.com/webstore/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/), [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
 
 ***
 
@@ -229,7 +225,6 @@
 
 #### Calibre Libraries
 
-* http://matt2k34.plus.com:8123/
 * http://24.207.227.8:8080/
 * http://24.13.229.188:8090/
 * http://216.111.89.23:8080/
@@ -282,7 +277,7 @@
 
 #### Compression Programs
 
-**[Conversion Tutorial Index](https://fileforums.com/showthread.php?t=96782)**, **[7-zip](https://www.7-zip.org/)**, [win-rar](https://www.win-rar.com/) / [Remove Popup](http://cooltricksb.blogspot.com/2015/03/how-to-remove-40-days-trial-period.html?m=1), [peazip](https://peazip.github.io/), [jZip](https://www.jzip.com/), [hamstersoft](https://hamstersoft.com/), [Unzip Online](https://unzip-online.com/en), [kgbarchiver](https://github.com/RandallFlagg/kgbarchiver), [Pigz](https://zlib.net/pigz/), [GNU Gzip](http://www.gnu.org/software/gzip/), [ezyZip](https://www.ezyzip.com/), [FreeARC](https://sourceforge.net/projects/freearc/) / [FreeARC 0.666](https://www68.zippyshare.com/v/qZUpSdVT/file.html), [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135), [p7zip](https://github.com/jinfeihan57/p7zip), [Razorx](https://fileforums.com/showthread.php?t=103577&highlight=Razorx), [DZip](http://speeddemosarchive.com/dzip/), [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer), [bzip2](http://sourceware.org/bzip2/), [bandizip](http://www.bandisoft.com/bandizip/), [tugzip](http://www.tugzip.com/), [compress](https://github.com/clowdhaus/compress) (GitHib Actions), [objectfixzip](https://www.essentialdatatools.com/products/objectfixzip/) (repair zip), [Benchmark](https://github.com/powturbo/TurboBench)
+**[Conversion Tutorial Index](https://fileforums.com/showthread.php?t=96782)**, **[7-zip](https://www.7-zip.org/)**, [win-rar](https://www.win-rar.com/) / [Remove Popup](http://cooltricksb.blogspot.com/2015/03/how-to-remove-40-days-trial-period.html?m=1), [peazip](https://peazip.github.io/), [hamstersoft](https://hamstersoft.com/), [Unzip Online](https://unzip-online.com/en), [kgbarchiver](https://github.com/RandallFlagg/kgbarchiver), [Pigz](https://zlib.net/pigz/), [GNU Gzip](http://www.gnu.org/software/gzip/), [ezyZip](https://www.ezyzip.com/), [FreeARC](https://sourceforge.net/projects/freearc/) / [FreeARC 0.666](https://www68.zippyshare.com/v/qZUpSdVT/file.html), [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135), [p7zip](https://github.com/jinfeihan57/p7zip), [Razorx](https://fileforums.com/showthread.php?t=103577&highlight=Razorx), [DZip](http://speeddemosarchive.com/dzip/), [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer), [bzip2](http://sourceware.org/bzip2/), [bandizip](http://www.bandisoft.com/bandizip/), [tugzip](http://www.tugzip.com/), [compress](https://github.com/clowdhaus/compress) (GitHib Actions), [objectfixzip](https://www.essentialdatatools.com/products/objectfixzip/) (repair zip), [Benchmark](https://github.com/powturbo/TurboBench)
 
 ***
 
@@ -336,7 +331,7 @@
 
 #### Free Webhosting Sites
 
-**[netlify](https://www.netlify.com/)**,  **[heroku](https://www.heroku.com/)**, [profreehost](https://profreehost.com/), [000webhost](https://www.000webhost.com/), [infinityfree](https://infinityfree.net/), [openshift](https://www.openshift.com/), [vercel](https://vercel.com/) /  [2](https://vercel.app/), [GitHub Pages](https://pages.github.com/), [surge](https://surge.sh/), [firebase](https://firebase.google.com/products/hosting), [openode](https://www.openode.io/) / [Github](https://github.com/openode-io), [workers.dev](https://workers.cloudflare.com/), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [neocities](https://neocities.org/), [ovobox](https://www.ovobox.com/), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [webs](https://www.webs.com/), [weebly](https://www.weebly.com/in), [yola](https://www.yola.com/), [wordpress](https://wordpress.com/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [txti](http://txti.es/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [hubzilla](https://zotlabs.org/page/zotlabs/home), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [moodlecloud](https://moodlecloud.com/), [tilda](https://tilda.cc/), [runkod](https://runkod.com/), [paiza.cloud](https://paiza.cloud/), [boomla](https://boomla.com/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [repl.it](https://docs.repl.it/repls/web-hosting), [render](https://render.com/), [roast](https://www.roast.io/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [hostman](https://hostman.com/), [freehosting](https://freehosting.host/), [gearhost](https://www.gearhost.com/), [freewebhostingarea](https://www.freewebhostingarea.com/), [DriveToWeb](https://drv.tw/), [freenom](http://freenom.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [cargo](https://cargo.site/), [mmm](https://build.mmm.page/), [fanspace](http://www.fanspace.com/)
+**[netlify](https://www.netlify.com/)**,  **[heroku](https://www.heroku.com/)**, [profreehost](https://profreehost.com/), [000webhost](https://www.000webhost.com/), [infinityfree](https://infinityfree.net/), [openshift](https://www.openshift.com/), [vercel](https://vercel.com/) /  [2](https://vercel.app/), [GitHub Pages](https://pages.github.com/), [surge](https://surge.sh/), [firebase](https://firebase.google.com/products/hosting), [openode](https://www.openode.io/) / [Github](https://github.com/openode-io), [workers.dev](https://workers.cloudflare.com/), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [neocities](https://neocities.org/), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [webs](https://www.webs.com/), [weebly](https://www.weebly.com/in), [yola](https://www.yola.com/), [wordpress](https://wordpress.com/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [txti](http://txti.es/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [hubzilla](https://zotlabs.org/page/zotlabs/home), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [moodlecloud](https://moodlecloud.com/), [tilda](https://tilda.cc/), [runkod](https://runkod.com/), [paiza.cloud](https://paiza.cloud/), [boomla](https://boomla.com/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [repl.it](https://docs.repl.it/repls/web-hosting), [render](https://render.com/), [roast](https://www.roast.io/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [hostman](https://hostman.com/), [freehosting](https://freehosting.host/), [gearhost](https://www.gearhost.com/), [freewebhostingarea](https://www.freewebhostingarea.com/), [DriveToWeb](https://drv.tw/), [freenom](http://freenom.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [cargo](https://cargo.site/), [mmm](https://build.mmm.page/), [fanspace](http://www.fanspace.com/)
 
 ***
 
@@ -360,16 +355,16 @@
 
 **Multi Host Uploaders**
 
-[MirrorAce](https://mirrorace.com/), [MultiUp](https://multiup.eu/) / [2](https://multiup.org/), [Mirrorcreator](https://www.mirrored.to/), [MultiFileMirror](https://multifilemirror.com/)
+[MirrorAce](https://mirrorace.com/), [MultiUp](https://multiup.eu/) / [2](https://multiup.org/), [Mirrorcreator](https://www.mirrored.to/)
 
 **File Hosts**
 
-**[File Sharing Host List](https://dirtywarez.org/cat/filehost)**, **[Weboas.is Upload](https://weboas.is/upload/)**, **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz), [mixdrop](https://mixdrop.co/), [File Pizza](https://file.pizza/), [disk.yandex](https://disk.yandex.com/), [sharedrop](https://www.sharedrop.io/), [xkcd949](http://xkcd949.com/), [wetransfer](https://wetransfer.com/), [justbeamit](https://justbeamit.com/), [krakenfiles](https://krakenfiles.com/), [lufi](https://upload.disroot.org/), [share.riseup](https://share.riseup.net/), [ufile](https://ufile.io/), [volafile](https://volafile.org/), [put.re](https://put.re/), [envelop](https://envelop.app/), [swisstransfer](https://www.swisstransfer.com/en), [globalupload](https://globalupload.io/), [UploadCenter](https://uploadcenter.com/), [Bayfiles](https://bayfiles.com/), [FireLoad](https://www.fireload.com/), [mshares](https://mshares.net/), [cyberdrop](https://cyberdrop.me/), [Cum.zone](https://thecum.zone/), [tresorit](https://send.tresorit.com/) / [2](https://web.tresorit.com/), [pixeldrain](https://pixeldrain.com/), [anonfiles](https://anonfiles.com/), [StrongFiles](https://strongfiles.net/), [SecureHa](https://securesha.re/), [dropmb](https://dropmb.com/), [zippyshare](https://www.zippyshare.com/), [catbox](https://catbox.moe/), [wormhole](https://wormhole.app/), [demo.lufi](https://demo.lufi.io/), [filewhopper](https://filewhopper.com/), [mediafire](https://www.mediafire.com/), [megaup](https://megaup.io/), [filedropper](https://www.filedropper.com/), [filesupload](https://filesupload.org/), [clicknupload](https://clicknupload.co/), [tusfiles](https://tusfiles.com/), [gofile](https://gofile.io/), [dmca.gripe](https://dmca.gripe/), [safe.fiery](https://safe.fiery.me/), [takemetospace](https://take-me-to.space/), [fileup](https://fileup.pro/), [safe.0x0](https://safe.0x0.la/), [vortex](https://vortex.64i.de/), [iizu](https://iizu.dev/), [awoo](https://awoo.cafe/), [anonvodka](https://files.anonvodka.xyz/), [file.lozy.pink](https://file.lozy.pink/), [gachimuchi](https://manly.gachimuchi.men/), [myonri](https://i.myonri.me/), [msafe](https://msafe.i0.tf/), [btrfs](https://i.btrfs.no/), [afuckingle](https://afuckingle.af/), [fuckingweeb](https://fuckingweeb.site/), [safe.vikavo](https://safe.vikavo.lt/), [imouto](https://imouto.kawaii.su/), [zz](https://zz.ht/), [edisk](https://www.edisk.cz/), [ttm](https://ttm.sh/), [youdbox](https://youdbox.com/), [ge.tt](http://ge.tt/), [send-anywhere](https://send-anywhere.com/), [1fichier](https://1fichier.com/), [9xupload](https://9xupload.asia/), [indishare](https://www.indishare.org/), [desiupload](https://dl1.desiupload.to/), [uploadflix](https://uploadflix.org/), [filestore](http://filestore.to/), [hubfiles](https://hubfiles.ws/), [uploadraja](http://uploadraja.com/), [doodrive](https://doodrive.com/), [download.gg](https://download.gg/), [dl.free](http://dl.free.fr/), [megaup](https://megaup.net/), [upload.ee](https://www.upload.ee/), [datafilehost](https://www.datafilehost.com/), [dropapk](https://dropapk.to/), [tusfiles](https://tusfiles.com/), [upload.vaa.red](https://upload.vaa.red/), [sql.gg](https://sql.gg/), [teknik](https://upload.teknik.io/), [starfiles](https://starfiles.co/), [opacity](https://www.opacity.io/), [send](https://gitlab.com/timvisee/send) / [instances](https://gitlab.com/timvisee/send-instances), [Gokapi](https://github.com/Forceu/Gokapi), [intoupload](http://intoupload.net/), [skytransfer](https://skytransfer.hns.siasky.net/), [vault.ooo](https://vault.ooo/), [blackhost](https://blackhost.xyz/?id=fup), [pipe](https://miroware.io/pipe/), [icedrive](https://icedrive.net/)
+**[File Sharing Host List](https://dirtywarez.org/cat/filehost)**, **[Weboas.is Upload](https://weboas.is/upload/)**, **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz), [mixdrop](https://mixdrop.co/), [File Pizza](https://file.pizza/), [disk.yandex](https://disk.yandex.com/), [sharedrop](https://www.sharedrop.io/), [xkcd949](http://xkcd949.com/), [wetransfer](https://wetransfer.com/), [justbeamit](https://justbeamit.com/), [krakenfiles](https://krakenfiles.com/), [lufi](https://upload.disroot.org/), [share.riseup](https://share.riseup.net/), [ufile](https://ufile.io/), [volafile](https://volafile.org/), [put.re](https://put.re/), [envelop](https://envelop.app/), [swisstransfer](https://www.swisstransfer.com/en), [globalupload](https://globalupload.io/), [UploadCenter](https://uploadcenter.com/), [Bayfiles](https://bayfiles.com/), [FireLoad](https://www.fireload.com/), [cyberdrop](https://cyberdrop.me/), [Cum.zone](https://thecum.zone/), [tresorit](https://send.tresorit.com/) / [2](https://web.tresorit.com/), [pixeldrain](https://pixeldrain.com/), [anonfiles](https://anonfiles.com/), [StrongFiles](https://strongfiles.net/), [SecureHa](https://securesha.re/), [dropmb](https://dropmb.com/), [zippyshare](https://www.zippyshare.com/), [catbox](https://catbox.moe/), [wormhole](https://wormhole.app/), [demo.lufi](https://demo.lufi.io/), [filewhopper](https://filewhopper.com/), [mediafire](https://www.mediafire.com/), [filedropper](https://www.filedropper.com/),  [clicknupload](https://clicknupload.co/), [tusfiles](https://tusfiles.com/), [gofile](https://gofile.io/), [dmca.gripe](https://dmca.gripe/), [safe.fiery](https://safe.fiery.me/), [takemetospace](https://take-me-to.space/), [fileup](https://fileup.pro/), [safe.0x0](https://safe.0x0.la/), [vortex](https://vortex.64i.de/), [iizu](https://iizu.dev/), [awoo](https://awoo.cafe/), [anonvodka](https://files.anonvodka.xyz/), [file.lozy.pink](https://file.lozy.pink/), [gachimuchi](https://manly.gachimuchi.men/), [myonri](https://i.myonri.me/), [msafe](https://msafe.i0.tf/), [btrfs](https://i.btrfs.no/), [afuckingle](https://afuckingle.af/), [fuckingweeb](https://fuckingweeb.site/), [safe.vikavo](https://safe.vikavo.lt/), [imouto](https://imouto.kawaii.su/), [zz](https://zz.ht/), [edisk](https://www.edisk.cz/), [ttm](https://ttm.sh/), [youdbox](https://youdbox.com/), [send-anywhere](https://send-anywhere.com/), [1fichier](https://1fichier.com/), [9xupload](https://9xupload.asia/), [indishare](https://www.indishare.org/), [desiupload](https://dl1.desiupload.to/), [uploadflix](https://uploadflix.org/), [filestore](http://filestore.to/), [hubfiles](https://hubfiles.ws/), [uploadraja](http://uploadraja.com/), [doodrive](https://doodrive.com/), [download.gg](https://download.gg/), [dl.free](http://dl.free.fr/), [megaup](https://megaup.net/), [upload.ee](https://www.upload.ee/), [dropapk](https://dropapk.to/), [tusfiles](https://tusfiles.com/), [upload.vaa.red](https://upload.vaa.red/), [sql.gg](https://sql.gg/), [teknik](https://upload.teknik.io/), [starfiles](https://starfiles.co/), [opacity](https://www.opacity.io/), [send](https://gitlab.com/timvisee/send) / [instances](https://gitlab.com/timvisee/send-instances), [Gokapi](https://github.com/Forceu/Gokapi), [intoupload](http://intoupload.net/), [skytransfer](https://skytransfer.hns.siasky.net/), [vault.ooo](https://vault.ooo/), [blackhost](https://blackhost.xyz/?id=fup), [pipe](https://miroware.io/pipe/), [icedrive](https://icedrive.net/)
 
 
 **SkyNet**
 
-[Skynet](https://www.siacdn.com/), [2](https://skydrain.net/), [3](https://skynet.luxor.tech/), [4](https://skynet.tutemwesi.com/), [5](https://vault.lightspeedhosting.com/), [6](https://sialoop.net/), [7](https://skynethub.io/), [8](https://skynet.utxo.no/), [9](https://siasky.net/)
+[Skynet](https://www.siacdn.com/), [2](https://skydrain.net/), [3](https://skynet.luxor.tech/), [4](https://skynet.tutemwesi.com/), [5](https://vault.lightspeedhosting.com/), [6](https://siasky.net/)
 
 *** 
 
@@ -424,12 +419,6 @@
 * [123Movies.show](https://www.123movie.show/)
 * [WWatchSeries](https://wwatchseries.com/)
 * [YesMovies.sx](https://yesmovies.sx/)
-
-***
-
-#### Google Search Link Fix
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix/) / [Chrome](https://chrome.google.com/webstore/detail/google-search-link-fix/cekfddagaicikmgoheekchngpadahmlf)
 
 ***
 
@@ -518,7 +507,7 @@
 * [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - *Modded iOS Client*
 * [InstaFollowers](https://www.instafollowers.co/instagram-tools) - *Multiple Tools* 
 * [imginn](https://imginn.com/) or [Greatfon](https://greatfon.com/) - *Instagram Viewer*
-* [Mixagram](https://mixagram.com/), [QIS](https://github.com/propublica/qis/) or [Instagram Search Tool](https://www.aware-online.com/en/osint-tools/instagram-search-tool/) - *Search Tool* 
+* [QIS](https://github.com/propublica/qis/) or [Instagram Search Tool](https://www.aware-online.com/en/osint-tools/instagram-search-tool/) - *Search Tool* 
 * [SearchUsers](https://searchusers.com/) - *User Search* 
 * [Osintgram](https://github.com/Datalux/Osintgram) - *Osintgram Anylysis*
 * [SearchMy.bio](https://www.searchmy.bio/) - *Bio Search*
@@ -528,11 +517,9 @@
 * [InstaDP](https://www.instadp.com/) or [Instagram-crawler](https://github.com/hehpollon/Instagram-crawler) - *Picture / Story Downloader* 
 * [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [Instagram-Scraper](https://github.com/arc298/instagram-scraper), [DownloadGram](https://downloadgram.com/), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [InstaLooter](https://github.com/althonos/InstaLooter), [Instaloader](https://github.com/instaloader/instaloader) or [YooYing](https://www.yooying.com/instagram-downloader) - *Picture / Video Downloader*
 * [4K Stogram](https://www.4kdownload.com/products/product-stogram) or [InstaLoader](https://instaloader.github.io/) - *Picture Downloader* 
-* [GramVideos](https://gramvideoz.com/) - *Video Downloader* 
 * [PyInstaLive](https://github.com/dvingerh/PyInstaLive) - *Download Instagram Livestreams / Replays* 
 * [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - *ID Finder*
 * [SearchMyBio](http://searchmy.bio/) - *Bio Search*
-* [Export Follower List](https://chrome.google.com/webstore/detail/export-list-of-followers/hcdbfckhdcpepllecbkaaojfgipnpbpb) - *Export Follower List / Addon* 
 * [StatFlux](http://statflux.com/) - *Instagram Analytics* 
 * [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - *Count images on a page* 
 * [auto-like-my-gf-insta-pic](https://github.com/gulzar1996/) - *Auto-Like Pictures* 
@@ -560,7 +547,7 @@
 
 #### IP / DNS Leak Tests
 
-[BrowserLeaks](https://browserleaks.com/), [Astrill](https://rentry.co/astrill), [Comparitech](https://www.comparitech.com/privacy-security-tools/dns-leak-test/), [WhatLeaks](https://whatleaks.com/), [Netease](https://nstool.netease.com/), [Do I leak?](https://www.doileak.com/), [IPLeak](https://ipleak.org/), [IPLeak.com](https://ipleak.com/), [DNS Leak Test](https://www.dnsleaktest.com/), [tenta](https://tenta.com/test/) 
+[BrowserLeaks](https://browserleaks.com/), [Astrill](https://rentry.co/astrill), [Comparitech](https://www.comparitech.com/privacy-security-tools/dns-leak-test/), [Netease](https://nstool.netease.com/), [Do I leak?](https://www.doileak.com/), [IPLeak](https://ipleak.org/), [IPLeak.com](https://ipleak.com/), [DNS Leak Test](https://www.dnsleaktest.com/), [tenta](https://tenta.com/test/) 
 
 ***
 
@@ -666,7 +653,7 @@
 
 #### Manga Download Bots
 
-[HakuNeko](https://github.com/manga-download/hakuneko), [Comics Downloader](https://github.com/Girbons/comics-downloader), [FMD](https://sourceforge.net/projects/fmd/), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [Free Manga Downloader](https://sourceforge.net/projects/newfmd/), [mangadownbot](https://t.me/mangadownbot), [mangadownloader](https://github.com/n1mo/manga), [Manga Downloader](http://www.majorshare.com/manga-), [MangaBot](http://mangabot.github.io/), [MangaRipper](https://www.softpedia.com/get/Internet/Download-Managers/MangaRipper.shtml), [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader)
+[HakuNeko](https://github.com/manga-download/hakuneko), [Comics Downloader](https://github.com/Girbons/comics-downloader), [FMD](https://sourceforge.net/projects/fmd/), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [Free Manga Downloader](https://sourceforge.net/projects/newfmd/), [mangadownbot](https://t.me/mangadownbot), [mangadownloader](https://github.com/n1mo/manga), [Manga Downloader](http://www.majorshare.com/manga-downloader), [MangaBot](http://mangabot.github.io/), [MangaRipper](https://www.softpedia.com/get/Internet/Download-Managers/MangaRipper.shtml), [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader)
 
 ***
 
@@ -723,13 +710,13 @@ Add the following commands to a search to manually scrape each site.
 * Kodi Addons - /r/Addons4Kodi, [Addon Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) /  [2](https://kodiapps.com/addons-chart)
 * [MMA](https://www.bestkoditips.com/best-kodi-addons-to-watch-ufc-online/) - *MMA App*
 * [KDrama](https://aznhusband.github.io/) or [cywteow](https://cywteow.github.io/) - *KDrama Apps*
-* Kodi Tools - [IPTV](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) / [Media Tracker](https://simkl.com/) / [Media Manager](https://github.com/komet/mediaelch) / [Plex](https://github.com/plexinc/plex-for-kodi)
+* Kodi Tools - [IPTV](https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client) / [Media Tracker](https://simkl.com/) / [Media Manager](https://github.com/komet/mediaelch) / [Plex](https://github.com/plexinc/plex-for-kodi)
 
 ***
 
 #### Minecraft Mods
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/), [MinecraftSix](https://minecraftix.com/), [9Minecraft](https://9minecraft.net/), [Planet Minecraft](https://www.planetminecraft.com/), [Modrinth](https://modrinth.com/), [MC-Mods](https://mc-mods.org/), [MC Archive](https://mcarchive.net/)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods), [MinecraftSix](https://minecraftsix.com/), [9Minecraft](https://9minecraft.net/), [Planet Minecraft](https://www.planetminecraft.com/), [Modrinth](https://modrinth.com/), [MC-Mods](https://mc-mods.org/), [MC Archive](https://mcarchive.net/)
 
 ***
 
@@ -753,7 +740,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Multi Site Video Downloaders
 
-**[Download Helper](http://www.downloadhelper.net/)** (extension), **[9xbuddy](https://9xbuddy.org/)**, [savieo](https://savieo.com/), [AllTube Download](https://alltubedownload.net/), [grabanymedia](https://grabanymedia.altervista.org/), [Ripsave](https://ripsave.com/), [KeepSaveIT](http://keepsaveit.com/), [TubeOffline](https://www.tubeoffline.com/), [clipconverter](https://www.clipconverter.cc/2/), [clipgrab](https://clipgrab.org/), [4kdownload](https://www.4kdownload.com/), [bitdownloader](https://qdownloader.io/), [you-get](https://you-get.org/), [QDownloader](https://qdownloader.io/), [annie](https://github.com/iawia002/annie), [catchvideo](https://catchvideo.net/), [HackDownload](https://hackdownloader.com/), [DistillVideo](https://distillvideo.com/), [Gozilla Downloader (Telegram)](https://t.me/Gozilla_bot), [Catch-Tube](https://catch.tube/), [Video Downloader](https://provd.net/) (extension), [SaveVideo.me](http://savevideo.me/?lang=en), [LocoDownloader](https://locoloader.com/), [Yout](https://yout.com/), [Video-Download](https://video-download.link/), [Keepv.id](https://keepv.id/), [downloader-ui](https://github.com/Mqlhaha/downloader-ui), [connectvip](https://connectvip.store/)
+**[Download Helper](http://www.downloadhelper.net/)** (extension), **[9xbuddy](https://9xbuddy.org/)**, [savieo](https://savieo.com/), [AllTube Download](https://alltubedownload.net/), [grabanymedia](https://grabanymedia.altervista.org/), [Ripsave](https://ripsave.com/), [KeepSaveIT](http://keepsaveit.com/), [TubeOffline](https://www.tubeoffline.com/), [clipconverter](https://www.clipconverter.cc/2/), [clipgrab](https://clipgrab.org/), [4kdownload](https://www.4kdownload.com/), [bitdownloader](https://bitdownloader.io/), [you-get](https://you-get.org/), [annie](https://github.com/iawia002/annie), [catchvideo](https://catchvideo.net/), [HackDownload](https://hackdownloader.com/), [DistillVideo](https://distillvideo.com/), [Gozilla Downloader (Telegram)](https://t.me/Gozilla_bot), [Catch-Tube](https://catch.tube/), [Video Downloader](https://provd.net/) (extension), [SaveVideo.me](http://savevideo.me/?lang=en), [LocoDownloader](https://locoloader.com/), [Yout](https://yout.com/), [Keepv.id](https://keepv.id/), [downloader-ui](https://github.com/Mqlhaha/downloader-ui), [connectvip](https://connectvip.store/)
 
 ***
 
@@ -789,7 +776,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### News Feed Aggregators
 
-**[WebOasis News](https://weboas.is/news/)**, **[QotNews](https://news.t0.vc/)**, [spidr](https://spidr.today/), [Knewz](https://knewz.com/), [All Sides](https://www.allsides.com/), [News Radius](https://newsradius.news/), [NewsLookup](http://www.newslookup.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/), [TechMeme](https://www.techmeme.com/m/), [Unfeeder](https://unfeeder.com/), [RealClearPolitics](https://www.realclearpolitics.com/)
+**[WebOasis News](https://weboas.is/news/)**, **[QotNews](https://news.t0.vc/)**, [spidr](https://spidr.today/), [All Sides](https://www.allsides.com/), [News Radius](https://newsradius.news/), [NewsLookup](http://www.newslookup.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/), [TechMeme](https://www.techmeme.com/m/), [Unfeeder](https://unfeeder.com/), [RealClearPolitics](https://www.realclearpolitics.com/)
 
 ***
 
@@ -810,17 +797,10 @@ Add the following commands to a search to manually scrape each site.
 * https://a1_sc.a1od.workers.dev/
 * https://azzzzzz.lx.workers.dev/
 * https://od.kbbldh.workers.dev/
-* http://office.zx.al/
-* https://zcnp.azurewebsites.net/
 * http://free.stulive.com/
 * https://a1.lx.workers.dev/
-* https://od.kbbldh.workers.dev/
-* http://zcmail.azurewebsites.net/
 * https://a1p.zha.bi/#intro
-* https://od.malahu.tk/
-* https://malahu.n5.myws.ca/
 * https://od.wasonliu.workers.dev/
-* https://office-user-auto-create.zaya.workers.dev/
 * [90 Day Trial](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 
 ***
@@ -887,7 +867,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Pastebins
 
-**[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**, **[disroot](https://bin.disroot.org/)**, **[rentry](https://rentry.co/)**, [TextBin](https://textbin.xyz/), [ybin](https://ybin.me/), [PrivateBin](https://privatebin.info/directory/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [0bin](https://0bin.net/), [ZeroBin](http://www.zerobinqmdqd236y.onion/), [Hastebin](https://hastebin.com/), [paste2](https://paste2.org/), [anonpaste](https://anonpaste.org/), [bin.idrix](https://bin.idrix.fr/), [zerobin](https://zerobin.net/), [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.co/), [cryptobin](https://cryptobin.co/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [codepasta](https://codepasta.app/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/)
+**[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**, **[disroot](https://bin.disroot.org/)**, **[rentry](https://rentry.co/)**, [TextBin](https://textbin.xyz/), [PrivateBin](https://privatebin.info/directory/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [0bin](https://0bin.net/), [ZeroBin](http://www.zerobinqmdqd236y.onion/), [Hastebin](https://hastebin.com/), [paste2](https://paste2.org/), [anonpaste](https://anonpaste.org/), [bin.idrix](https://bin.idrix.fr/), [zerobin](https://zerobin.net/), [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.com/), [cryptobin](https://cryptobin.co/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [codepasta](https://codepasta.app/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/)
 
 ***
 
@@ -905,7 +885,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Persian Asian Drama Download
 
-[justvina](http://justvina.xyz/), [koreintv](https://koreintv.xyz/), [asia1](https://asia1.shop/), [mykodram](http://mykodram.xyz/), [freedrama](https://freedrama.xyz/), [ssdrama](https://ssdrama.ir/), [promovies](https://promovies.best/)
+[justvina](http://justvina.xyz/), [koreintv](https://koreintv.xyz/), [mykodram](http://mykodram.xyz/), [promovies](https://promovies.best/)
 
 ***
 
@@ -1087,15 +1067,12 @@ Add the following commands to a search to manually scrape each site.
 
 * These sites host both Persian and English videos. Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/).
 * **[ClubFilm](https://clubfilm4.xyz/)** - *Movies / TV*
-* [HeyDL](https://heydl.info/) - *Movies / TV / Anime* 
-* [Saber-Fun](https://saber-fun.ir/) - *Movies / TV / Anime* 
-* [MyGoldchinDL](https://mygolchindl.icu/) - *Movies / TV* 
+* [Saber-Fun](https://saber-fun.ir/) - *Movies / TV / Anime*  
 * [MelliMovies](https://mellimovies2.tk/) - *Movies / TV* 
 * [1TopMoviez](https://1topmoviez.pw/) - *Movies / TV* 
 * [DigiMoviez](https://digimoviez.com/) - *Movies / TV* 
 * [MoboMovies](https://mobomovi.ir/) - *Movies / TV* 
 * [PlayStop](https://playstop.ir/) - *Movies / TV* 
-* [Persian Download](https://perdl.icu/) - *Movies / TV* 
 * [MahanMovie](https://mahanmovie.com/) - *Movies / TV* 
 * [BaxMovie](https://baxmovie.com/) - *Movies / TV* 
 * [S1Movie](https://s1movie.fun/) - *Movies / TV* 
@@ -1161,7 +1138,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Live Radio** 
 
-[iHeartRadio](https://www.iheart.com/), [Radio.com](https://www.radio.com/stations), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/)
+[iHeartRadio](https://www.iheart.com/), [Radio.com](https://www.radio.com/stations), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/), [myTuner](https://mytuner-radio.com/)
 
 **Internet Radio** 
 
@@ -1171,7 +1148,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Read Paywalled Articles
 
-**[wallabag](https://wallabag.nixnet.services/)**, [bypass-paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome#bypass-paywalls), [anti-paywall](https://github.com/nextgens/anti-paywall), [Framabag](https://framabag.org/), [pocket](https://getpocket.com/), [outline](https://outline.com), [BriskReader](https://briskreader.com/), [bitbucket](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/) / [2](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
+**[wallabag](https://wallabag.nixnet.services/)**, [bypass-paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome#bypass-paywalls), [anti-paywall](https://github.com/nextgens/anti-paywall), [Framabag](https://framabag.org/), [pocket](https://getpocket.com/), [outline](https://outline.com), [bitbucket](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/) / [2](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
 
 ***
 
@@ -1242,7 +1219,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Searx Instances
 
-[Luke's](https://searx.lukesmith.xyz/) / [PrivacyTools](https://search.privacytools.io/) / [Fuck Off Google](https://search.fuckoffgoogle.net/) / [nixnet](https://searx.nixnet.services/) / [Instance Index](https://searx.space/), [Instance Index 2](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22), [anon.sx](https://anon.sx/), [privatesearch](https://privatesearch.app/), [searx.ninja](https://searx.ninja/)
+[PrivacyTools](https://search.privacytools.io/) / [Fuck Off Google](https://search.fuckoffgoogle.net/) / [nixnet](https://searx.nixnet.services/) / [Instance Index](https://searx.space/), [Instance Index 2](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22), [anon.sx](https://anon.sx/), [privatesearch](https://privatesearch.app/), [searx.ninja](https://searx.ninja/)
 
 ***
 
@@ -1290,9 +1267,7 @@ Add the following commands to a search to manually scrape each site.
 * https://sockshare.mn/
 * https://sockshare1.com/
 * https://cafehulu.com/
-* https://sharemovies.net/
 * https://www4.123movies.net/
-* https://www2.8putlocker.com/
 * https://www8.putlockers.fm/
 * https://moviego.net/
 * https://wat32.com/
@@ -1307,12 +1282,10 @@ Add the following commands to a search to manually scrape each site.
 * https://seriesonline.bz/
 * https://www2.putlockers.gy/
 * https://www1.fmovies.gs/
-* https://www4.putlockerz.io/
 * https://www2.putlockers.ws/
 * https://primewire.mn/
 * https://movieload.net/
 * https://fmovie.ac/
-* https://www8.movies123.ac/ 
 * https://123movies.fm
 * https://5movies.fm/
 * https://123putlocker.io/
@@ -1334,7 +1307,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### SMS Verification Sites
 
-[TextNow](https://www.textnow.com/), [Tempophone](https://tempophone.com/), [2ndline](https://www.2ndline.co/), [ReceiveaSMS](https://www.receiveasms.com/), [SMS Receive Free](https://smsreceivefree.com/), [SMS Online](https://sms-online.co/), [smsreceiveonline](https://smsreceiveonline.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](http://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [7Sim](http://7sim.net/), [hs3x](https://hs3x.com/), [receivefreesms](http://receivefreesms.com/), [receivesmsonline](https://receivesmsonline.in/), [receive-sms-online](https://receive-sms-online.com/), [smsver](https://www.smsver.com/), [Sellaite](http://sms.sellaite.com/), [Send SMS Now](https://www.sendsmsnow.com/), [Free Online Phone](https://www.freeonlinephone.org/), [SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](http://receivesmsonline.me/), [My Trash Mobile](https://es.mytrashmobile.com/numeros/), [Temp-Mails](https://www.temp-mails.com/), [GlobFone](https://globfone.com/), [receive-sms](https://receive-sms.com/), [receive-sms-now](http://receive-sms-now.com/), [freesmsverification](http://freesmsverification.com/), [temp-mails-number](https://www.temp-mails.com/number), [countrycode](https://countrycode.org/)
+[TextNow](https://www.textnow.com/), [Tempophone](https://tempophone.com/), [2ndline](https://www.2ndline.co/), [ReceiveaSMS](https://www.receiveasms.com/), [SMS Receive Free](https://smsreceivefree.com/), [SMS Online](https://sms-online.co/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](http://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [7Sim](http://7sim.net/), [hs3x](https://hs3x.com/), [receivefreesms](http://receivefreesms.com/), [receivesmsonline](https://receivesmsonline.in/), [receive-sms-online](https://receive-sms-online.com/), [smsver](https://www.smsver.com/), [Sellaite](http://sms.sellaite.com/), [Send SMS Now](https://www.sendsmsnow.com/), [Free Online Phone](https://www.freeonlinephone.org/), [SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](http://receivesmsonline.me/), [My Trash Mobile](https://es.mytrashmobile.com/numeros/), [Temp-Mails](https://www.temp-mails.com/), [GlobFone](https://globfone.com/), [receive-sms](https://receive-sms.com/), [receive-sms-now](http://receive-sms-now.com/), [freesmsverification](http://freesmsverification.com/), [temp-mails-number](https://www.temp-mails.com/number), [countrycode](https://countrycode.org/)
 
 **No CC Required Trial Sites**
 
@@ -1383,7 +1356,6 @@ Add the following commands to a search to manually scrape each site.
 * https://gd.zxd.workers.dev/
 * https://driveflask.herokuapp.com/
 * https://tv.ssr.workers.dev/
-* https://penglai.ga/
 * https://td.msgsuite.workers.dev/ + [Telegram Chat](https://t.me/msgsuitechat)
 * https://team.leehaiha.com/
 * https://tb.mygindex.workers.dev/
@@ -1402,38 +1374,27 @@ Add the following commands to a search to manually scrape each site.
 * [Google Piracy Groups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_piracy_discussion_groups) - *Use these to join TeamDrives* 
 * [Google TeamDrive's](https://onehack.us/t/tds-with-tbs-of-movies-web-series-courses-games-etc/77628) - *Video / Games / Courses / Teamdrive Index*
 * [KLProjects](https://td.klprojects.tech/), [2](https://groups.google.com/g/kl-teamdrive) - *User: klprojects / PW: kltorrent* 
-* [faust](http://red.seedhost.eu/faust/files/) - *Video / Audio / Software / Games / Books / Drive* 
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28) - *Video / Courses / NSFW / Drive* 
 * [17.103.80.101](http://117.103.80.101/) - *Video / Software / Games / Drive* 
 * [Public.crackhub](https://public.crackhub.site/) - *Video / Books / Games*
-* [PHLucas](https://www.phlucas.com/downloads/Shared/) - *Video / Audio / Books / Drive*
 * [index-of](http://index-of.es/) - *Tech / Programming / Directory* 
 * [Manny Hackers](https://apd.msbots.workers.dev/0:/)
 * [Mirror Bot](https://mirrorbot.sarutobi.workers.dev/)
 * [Public Drive Bot](https://index.isumit.workers.dev/)
-* [HimanshuRahi](https://drive.himanshurahi.workers.dev/) 
 * [TorrentLeech Drive](https://torrentleech.torrentleech-gdrive.workers.dev/) 
-* [Driveindex](https://drive.hashhackers.com/) 
-* [UltraTGIndex](https://ultratgindex.herokuapp.com/)
-* https://td1.destiny6520.workers.dev/0:/
-* https://index.zanime.workers.dev/0:/
 * http://dl.sledgercloud.cf/
 * https://happyboy.hb4all.workers.dev/
 * https://tr.mooser.workers.dev/0:/
 * https://white-base-7610.sagarlucky0005.workers.dev/
-* https://witcher.lalbaake456.workers.dev/0:/
-* https://td2.blinkdrive.workers.dev/
+* https://td2.blinkdrive.workers.dev/ 
 * https://loxxi.somto811.workers.dev/
 * https://limitless.teamdrive305.workers.dev/0:/
-* https://movietrigger.movietrigger.workers.dev/
 * https://mbot.mhub.workers.dev/
 * https://groups.google.com/g/kl-teamdrive
 * https://groups.google.com/g/lightz-cloud
-* https://akshay.movieshunthd.workers.dev/0:/
 * https://groups.google.com/g/xtremecloud-tdgroup
 * https://arcrec.mark41stark.workers.dev/
 * https://gentle-frost-7788.edwindrive.workers.dev/
-* https://mygd.jikkubot.workers.dev/
 * https://bot.khun3.workers.dev/
 * https://index.garbage.workers.dev/
 * https://teamdrivegroup.uzemalik.workers.dev/
@@ -1443,15 +1404,12 @@ Add the following commands to a search to manually scrape each site.
 * https://2.roshansmirrordrive.workers.dev/
 * https://3.roshansmirror.workers.dev/
 * https://drive.hasibul.workers.dev/
-* https://84n4n4.ga/0:/
-* https://drive3.bartixxx.workers.dev/
-* https://t.hoarding.wtf/0:/ - *User: hoarding PW: torrent*
 
 ***
 
 #### Temp Email Sites
 
-**[smailpro](https://smailpro.com/)** (gmail), [Gmailnator](https://www.gmailnator.com/) (gmail), [10 Minute Mail](https://temp-mail.org/en/10minutemail), [Temp Mail](https://temp-mail.org/), [cs.email](https://www.cs.email/), [maildrop](https://maildrop.cc/), [mailinator](https://www.mailinator.com/), [10minutemail](https://10minutemail.com/), [spamgourmet](https://www.spamgourmet.com/), [tempmail.ninja](https://tempmail.ninja/), [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) (Addon), [getnada](https://getnada.com/), [tempinbox](http://tempinbox.com), [disposable](https://github.com/0x19/disposable), [anonbox](https://anonbox.net/), [youdabomb](https://tempmail.youdabomb.social/), [Generator.email](https://generator.email/), [kuku](https://m.kuku.lu/), [grrmail](http://grrmailb3fxpjbwm.onion/) (tor), [Email on Deck](https://www.emailondeck.com/), [temp-mails](https://www.temp-mails.com/), [Mohmal](https://www.mohmal.com/en), [Mohmal](https://www.mohmal.com/en), [tempmail](https://github.com/sdushantha/tmpmail) (terminal), [Temp Mail](https://rapidapi.com/Privatix/api/temp-mail) (api), [xkx](https://xkx.me/), [33mail](https://33mail.com/), [Guerillamail](https://www.guerrillamail.com/), [vipmail](https://vipmail.cyou/), [edumail](https://edumail.icu/), [Mail.tm](https://mail.tm/en), [1tb](https://www.1tb.fun/), [temporarymail](https://temporarymail.com/), [FakeMailGenerator](http://www.fakemailgenerator.com/), [tempmailo](https://tempmailo.com/), [10minutesemail](https://10minutesemail.net/), [emailondeck](http://emailondeck.com/), [inboxkitten](https://inboxkitten.com/), [tempm](https://tempm.com/), [tempail](https://tempail.com/), [tempmailaddress](https://www.tempmailaddress.com/), [eyepaste](http://www.eyepaste.com/), [mintemail](http://www.mintemail.com/), [mytemp](https://mytemp.email/), [sharklasers](https://www.sharklasers.com/), [yopmail](http://www.yopmail.com/en/)
+**[smailpro](https://smailpro.com/)** (gmail), [Gmailnator](https://www.gmailnator.com/) (gmail), [10 Minute Mail](https://temp-mail.org/en/10minutemail), [Temp Mail](https://temp-mail.org/), [cs.email](https://www.cs.email/), [maildrop](https://maildrop.cc/), [mailinator](https://www.mailinator.com/), [10minutemail](https://10minutemail.com/), [spamgourmet](https://www.spamgourmet.com/), [tempmail.ninja](https://tempmail.ninja/), [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) (Addon), [getnada](https://getnada.com/), [tempinbox](http://tempinbox.com), [disposable](https://github.com/0x19/disposable), [anonbox](https://anonbox.net/), [youdabomb](https://tempmail.youdabomb.social/), [Generator.email](https://generator.email/), [kuku](https://m.kuku.lu/), [grrmail](http://grrmailb3fxpjbwm.onion/) (tor), [Email on Deck](https://www.emailondeck.com/), [temp-mails](https://www.temp-mails.com/), [Mohmal](https://www.mohmal.com/en), [Mohmal](https://www.mohmal.com/en), [tempmail](https://github.com/sdushantha/tmpmail) (terminal), [Temp Mail](https://rapidapi.com/Privatix/api/temp-mail) (api), [xkx](https://xkx.me/), [33mail](https://33mail.com/), [Guerillamail](https://www.guerrillamail.com/), [vipmail](https://vipmail.cyou/), [edumail](https://edumail.icu/), [Mail.tm](https://mail.tm/en), [temporarymail](https://temporarymail.com/), [FakeMailGenerator](http://www.fakemailgenerator.com/), [tempmailo](https://tempmailo.com/), [10minutesemail](https://10minutesemail.net/), [emailondeck](http://emailondeck.com/), [inboxkitten](https://inboxkitten.com/), [tempm](https://tempm.com/), [tempail](https://tempail.com/), [tempmailaddress](https://www.tempmailaddress.com/), [eyepaste](http://www.eyepaste.com/), [mintemail](http://www.mintemail.com/), [mytemp](https://mytemp.email/), [sharklasers](https://www.sharklasers.com/), [yopmail](http://www.yopmail.com/en/)
 
 **Telegram Temp Mail Bots**
 
@@ -1711,7 +1669,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Typing Lessons
 
-**Lessons** - **[TypingSoft](https://typingsoft.com/)** (Index), [keybr](https://www.keybr.com/), [Monkey Type](https://monkeytype.com/), [Typing.com](https://www.typing.com/), [Colemak Academy](https://www.colemak.academy/), [klavaro](https://klavaro.sourceforge.io/), [TIPP10](https://www.tipp10.com/), [RapidTyping](https://rapidtyping.com/), [TypeLit.io](https://www.typelit.io/) (Novels), [Typing Club](https://www.typingclub.com/), [Ratatype](https://www.ratatype.com/), [JustType](http://www.greatis.com/utilities/justtype/), [Rasyti](https://www.blueseal.eu/rasyti/), [SoloTyping](http://solotyping.com/?locale_id=2), [TypingBolt](https://www.typingbolt.com/), [AmpheType](https://code.google.com/archive/p/amphetype/), [Stamina](https://typingsoft.com/stamina.htm),[goodtyping](https://www.goodtyping.com/), [10fastfingers](https://10fastfingers.om/), [Typing-Fingers](http://www.typing-fingers.com/), [Typing Arena](http://www.typingarena.com/), [TechTypingTutor](https://sourceforge.net/projects/tachtypingtutor/), [Tipp10](https://www.tipp10.com/en/), [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) (Mac), [KTouch](https://apps.kde.org/en/ktouch)  (Linux)
+**Lessons** - **[TypingSoft](https://typingsoft.com/)** (Index), [keybr](https://www.keybr.com/), [Monkey Type](https://monkeytype.com/), [Typing.com](https://www.typing.com/), [Colemak Academy](https://www.colemak.academy/), [klavaro](https://klavaro.sourceforge.io/), [TIPP10](https://www.tipp10.com/), [RapidTyping](https://rapidtyping.com/), [TypeLit.io](https://www.typelit.io/) (Novels), [Typing Club](https://www.typingclub.com/), [Ratatype](https://www.ratatype.com/), [JustType](http://www.greatis.com/utilities/justtype/), [Rasyti](https://www.blueseal.eu/rasyti/), [SoloTyping](http://solotyping.com/?locale_id=2), [TypingBolt](https://www.typingbolt.com/), [AmpheType](https://code.google.com/archive/p/amphetype/), [Stamina](https://typingsoft.com/stamina.htm),[goodtyping](https://www.goodtyping.com/),  [Typing-Fingers](http://www.typing-fingers.com/), [Typing Arena](http://www.typingarena.com/), [TechTypingTutor](https://sourceforge.net/projects/tachtypingtutor/), [Tipp10](https://www.tipp10.com/en/), [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) (Mac), [KTouch](https://apps.kde.org/en/ktouch)  (Linux)
 
 **Games** - [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [NitroType](https://www.nitrotype.com/)
 
@@ -1749,13 +1707,13 @@ Add the following commands to a search to manually scrape each site.
 
 #### Video Editors
 
-[Lightworks](https://www.lwks.com/), [Olive](https://www.olivevideoeditor.org/), [VirtualDub2](https://sourceforge.net/projects/vdfiltermod/files/), [LosslessCut](https://github.com/mifi/lossless-cut), [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Shotcut](https://shotcut.org/), [FreeMake](https://www.freemake.com/how_to/free_movie_maker), [EZVid](https://www.ezvid.com/), [OpenShot](https://www.openshot.org/), [Shotcut](https://www.shotcut.org/), [HitFilm](https://fxhome.com/product/hitfilm-express), [kdenlive](https://kdenlive.org/en/)
+[Olive](https://www.olivevideoeditor.org/), [VirtualDub2](https://sourceforge.net/projects/vdfiltermod/files/), [LosslessCut](https://github.com/mifi/lossless-cut), [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Shotcut](https://shotcut.org/), [FreeMake](https://www.freemake.com/how_to/free_movie_maker), [EZVid](https://www.ezvid.com/), [OpenShot](https://www.openshot.org/), [Shotcut](https://www.shotcut.org/), [HitFilm](https://fxhome.com/product/hitfilm-express), [kdenlive](https://kdenlive.org/en/)
 
 ***
 
 #### Video Hosting Sites
 
-[mixdrop](https://mixdrop.co/), [vudeo (8tb)](https://vudeo.net/), [abcvideo (300gb)](https://abcvideo.cc/ ), [clipwatching](https://clipwatching.com/), [vidyard](https://www.vidyard.com/), [streamzz](http://streamzz.to/), [streamtape](https://streamtape.com/), [doodstream](https://doodstream.com/), [aparat](https://aparat.cam/), [supervideo](https://supervideo.tv/), [ninjastream](https://ninjastream.to/), [youdbox](https://youdbox.com/), [streamplay](http://streamplay.to/), [cloudvideo](https://cloudvideo.tv/), [jetload](https://jetload.net/), [mystream](https://mystream.to/), [powvideo](http://powvideo.net/), [upstream](https://upstream.to/), [videobin](https://videobin.co/), [vidlox](https://vidlox.me/), [streamable](https://streamable.com/), [vup](https://vup.to/), [abyss](https://abyss.to/), [NetU](https://netu.io/view_page.php?pid=4), [voe.sx](https://voe.sx/), [videy](https://videy.co/), [wolfstream](https://wolfstream.tv/), [flashx](https://flashx.pw/), [userload](https://userload.co/), [vidcloud](https://vidcloud.co/ ), [vidoza](https://vidoza.net/), [youdbox](https://youdbox.net/)
+[mixdrop](https://mixdrop.co/), [vudeo (8tb)](https://vudeo.net/), [abcvideo (300gb)](https://abcvideo.cc/), [vidyard](https://www.vidyard.com/), [streamzz](http://streamzz.to/), [streamtape](https://streamtape.com/), [doodstream](https://doodstream.com/), [aparat](https://aparat.cam/), [supervideo](https://supervideo.tv/), [ninjastream](https://ninjastream.to/), [youdbox](https://youdbox.com/), [cloudvideo](https://cloudvideo.tv/), [jetload](https://jetload.net/), [powvideo](http://powvideo.net/), [upstream](https://upstream.to/), [videobin](https://videobin.co/), [vidlox](https://vidlox.me/), [streamable](https://streamable.com/), [vup](https://vup.to/), [abyss](https://abyss.to/), [NetU](https://netu.io/view_page.php?pid=4), [voe.sx](https://voe.sx/), [videy](https://videy.co/), [wolfstream](https://wolfstream.tv/), [flashx](https://flashx.pw/), [userload](https://userload.co/), [vidcloud](https://vidcloud.co/ ), [vidoza](https://vidoza.net/), [youdbox](https://youdbox.net/)
 
 ***
 
@@ -1874,7 +1832,7 @@ Good for finding classic, obscure & short films.
 * [XOS](https://discord.gg/Zs4bpVjJyp) - *Custom Windows 10 1803 ISO*
 * [Ameliorated](https://ameliorated.info/) - *Windows 10 ISO Aimed Towards No Telemetry Windows 10*
 * [Windows 10 LSTC](https://mega.nz/folder/ChNTDaiL#nNqH2PTfIzTLAEs8nc-U0w) - *Bloat / Telemetry Free Windows 10 / r/Windows10LTSC*
-* [Windows 10 Performance Edition](https://mega.nz/file/4JkCwYJB#ghB08_PppoMdl3t2F-9-hzNtBDgrw8gwM6MsUx1koZ0), [2](https://1fichier.com/?cxqd57d6vfpot5x6v9ft) - *No Cortana, Onedrive, Telemetry, Spying ect. / [Upates & Install Guide](https://weboas.is/forum/index.php?topic=2068.0)*
+* [Windows 10 Performance Edition](https://mega.nz/file/4JkCwYJB#ghB08_PppoMdl3t2F-9-hzNtBDgrw8gwM6MsUx1koZ0), [2](https://1fichier.com/?cxqd57d6vfpot5x6v9ft) - *No Cortana, Onedrive, Telemetry, Spying ect. / [Updates & Install Guide](https://weboas.is/forum/index.php?topic=2068.0)*
 * [OldSchoolOS](https://www.oldschoolos.com/), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - *Oldschool ISO's*
 
 ***
@@ -1887,13 +1845,13 @@ Good for finding classic, obscure & short films.
 
 #### YouTube to MP3
 
-**[YouTube-DL](https://github.com/ytdl-org/youtube-dl)** / [GUI](https://mrs0m30n3.github.io/youtube-dl-gui/), [2](https://youtube-dl-helper.github.io/), [3](https://github.com/JaGoLi/ytdl-gui), [4](https://stacher.io/) / [Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection), [YTMDL](https://ytmdl.deepjyoti30.dev/) / [GitHub](https://github.com/deepjyoti30/ytmdl), [Gramophy](https://github.com/rnayabed/gramophy), [MP3 YouTube](https://mp3-youtube.download/en/audio-easy-converter), [youtubetomp3music](https://youtubetomp3music.com/), [YTMP3](https://ytmp3.cc/), [ddownr (Playlists)](https://ddownr.com/), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [Spotify-Downloader](https://github.com/spotDL/spotify-downloader), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [YouTube to MP3 Converter](https://www.mediahuman.com/youtube-to-mp3-converter/), [loader](https://loader.to/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [DeURL](http://deturl.com/), [Yout](https://yout.com/), [FLVto](https://www.flvto.biz/en83/), [FreeMake](https://www.freemake.com/free_video_downloader/), [AudioJack](http://blue9.github.io/AudioJack-GUI/), [youtube2video](https://www.youtube2video.com/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [convertmp3](https://www.convertmp3.cc/), [convyoutube](https://www.convyoutube.com/), [YouTubeMultiDownloader (playlists)](https://youtubemultidownloader.net/index.html), [onlinevideoconverter](https://onlinevideoconverter.pro/), [kharasach](http://www.kharasach.com/)
+**[YouTube-DL](https://github.com/ytdl-org/youtube-dl)** / [GUI](https://mrs0m30n3.github.io/youtube-dl-gui/), [2](https://youtube-dl-helper.github.io/), [3](https://github.com/JaGoLi/ytdl-gui), [4](https://stacher.io/) / [Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection), [YTMDL](https://ytmdl.deepjyoti30.dev/) / [GitHub](https://github.com/deepjyoti30/ytmdl), [Gramophy](https://github.com/rnayabed/gramophy), [MP3 YouTube](https://mp3-youtube.download/en/audio-easy-converter), [youtubetomp3music](https://youtubetomp3music.com/), [YTMP3](https://ytmp3.cc/), [ddownr (Playlists)](https://ddownr.com/), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [Spotify-Downloader](https://github.com/spotDL/spotify-downloader), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [YouTube to MP3 Converter](https://www.mediahuman.com/youtube-to-mp3-converter/), [loader](https://loader.to/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [DeURL](http://deturl.com/), [Yout](https://yout.com/), [FLVto](https://www.flvto.biz/en83/), [FreeMake](https://www.freemake.com/free_video_downloader/), [AudioJack](http://blue9.github.io/AudioJack-GUI/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [convertmp3](https://www.convertmp3.cc/), [YouTubeMultiDownloader (playlists)](https://youtubemultidownloader.net/index.html), [onlinevideoconverter](https://onlinevideoconverter.pro/), [kharasach](http://www.kharasach.com/)
 
 ***
 
 #### YouTube Video Downloaders
 
-**[YouTube-DL](https://github.com/ytdl-org/youtube-dl)** / [GUI](https://mrs0m30n3.github.io/youtube-dl-gui/), [2](https://youtube-dl-helper.github.io/), [3](https://github.com/JaGoLi/ytdl-gui), [4](https://stacher.io/), [5](https://jely2002.github.io/youtube-dl-gui/) / [Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection), [YT-DLC](https://github.com/blackjack4494/yt-dlc), [ytmp3](https://ytmp3.cc), [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader), [Loader](https://loader.to/) (playlists), [KeepVid](https://keepvid.works/) (playlists), [ddownr](https://ddownr.com/) (playlists), [Tartube](https://github.com/axcore/tartube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [Youtube Video Downloader](https://github.com/OmarAflak/Youtube-Video-Downloader), [YouTube MP4](https://youtubemp4.to/), [DeURL](http://deturl.com/), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [LocoDownloader](https://locoloader.com/), [FLVto](https://www.flvto.biz/en80/), [FreeMake](https://www.freemake.com/free_video_downloader/), [youtube2video](https://www.youtube2video.com/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [convertmp3](https://www.convertmp3.cc/), [convyoutube](https://www.convyoutube.com/), [YouTubeMultiDownloader (playlists)](https://youtubemultidownloader.net/index.html), [onlinevideoconverter](https://onlinevideoconverter.pro/), [FLVto](https://flvto.video/), [projectlounge ytdl](https://projectlounge.pw/ytdl), [kharasach](http://www.kharasach.com/), [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)
+**[YouTube-DL](https://github.com/ytdl-org/youtube-dl)** / [GUI](https://mrs0m30n3.github.io/youtube-dl-gui/), [2](https://youtube-dl-helper.github.io/), [3](https://github.com/JaGoLi/ytdl-gui), [4](https://stacher.io/), [5](https://jely2002.github.io/youtube-dl-gui/) / [Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection), [YT-DLC](https://github.com/blackjack4494/yt-dlc), [ytmp3](https://ytmp3.cc), [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader), [Loader](https://loader.to/) (playlists), [KeepVid](https://keepvid.works/) (playlists), [ddownr](https://ddownr.com/) (playlists), [Tartube](https://github.com/axcore/tartube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [Youtube Video Downloader](https://github.com/OmarAflak/Youtube-Video-Downloader), [YouTube MP4](https://youtubemp4.to/), [DeURL](http://deturl.com/), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [LocoDownloader](https://locoloader.com/), [FLVto](https://www.flvto.biz/en80/), [FreeMake](https://www.freemake.com/free_video_downloader/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [convertmp3](https://www.convertmp3.cc/), [YouTubeMultiDownloader (playlists)](https://youtubemultidownloader.net/index.html), [onlinevideoconverter](https://onlinevideoconverter.pro/), [FLVto](https://flvto.video/), [projectlounge ytdl](https://projectlounge.pw/ytdl), [kharasach](http://www.kharasach.com/), [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)
 
 ***
 
@@ -1927,11 +1885,9 @@ Good for finding classic, obscure & short films.
 #### Z-Library Mirrors 
 
 * https://1lib.us/
-* https://b-ok.xyz/
 * https://b-ok.org/
 * https://b-ok.cc/
 * https://b-ok2.org/
-* https://booksc.xyz/
 * https://b-ok.asia/
 * https://b-ok.global/
 * https://b-ok.lat/

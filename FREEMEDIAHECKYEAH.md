@@ -103,4 +103,9 @@
 ***
 ***
 
+**[Edit FMHY](https://rentry.co/FMHYedit)** - *Make changes to the FMHY Wiki*
+
+***
+***
+
 **[Site Hunting Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites)** - *Help us Discover New Sites*

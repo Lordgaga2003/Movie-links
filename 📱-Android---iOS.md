@@ -583,9 +583,10 @@ iOS
 * [AppValley](https://www.appvalley.vip/) - *Tweaked App Store*
 * [Tutubox](https://tutubox.io/) - *Tweaked Apps Store* 
 * [iPAGarage](https://drive.google.com/drive/mobile/folders/1SxmAaB_dIswVsrKqtxOhymati-HaLYTT?usp=sharing) - *Community Based Tweaked/Hacked iOS App Library / [Twitter](https://twitter.com/ipagarage/)*
-* [Cydia](https://cydia.saurik.com/) - *Alternative App Store*
-* [AltStore](https://altstore.io/) - *Alternative App Store / [Repo View](https://altsource.by.lao.sb/browse/) / [AltDaeomon](https://repo.dynastic.co/package/altdaemon)*
-* [ioshaven](https://ioshaven.com/apps) - *Alternative App Store* 
+* [Cydia](https://cydia.saurik.com/) - *App Store*
+* [AltStore](https://altstore.io/) - *App Store / [Repo View](https://altsource.by.lao.sb/browse/) / [AltDaeomon](https://repo.dynastic.co/package/altdaemon)*
+* [ioshaven](https://ioshaven.com/apps) - *App Store* 
+* [Signulous](https://www.signulous.com/) - *App Store / Sideloading*
 * [Kiiimo](https://cydia.kiiimo.org/) - *App Repository*
 * [CydiaGeek](https://cydiageek.yourepo.com/) - *App Repository* 
 * [ReJail Repo](https://rejail.ru/) - *App / Tweak Repository* 

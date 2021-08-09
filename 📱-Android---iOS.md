@@ -271,7 +271,6 @@ App Manager
 * [DroidApks](https://t.me/DroidApks) - *Modded / Telegram*
 * [apkmod_s](https://t.me/apkmod_s) - *Modded / Telegram*  
 * [Pro App Share](https://t.me/proappshare) - *Modded / Telegram*   
-* [xdapiratesbot](https://t.me/joinchat/AAAAAEGvyb2EPtoW2_Yf-A) - *Modded / Telegram*  
 * [Software_Android_Apps_Games](https://t.me/Software_Android_Apps_Games) - *Modded / Telegram*   
 * [Aero Apps](https://t.me/aerolla) - *Modded Social Media Apps*
 * [FossDroid](https://fossdroid.com/) - *Open source apps / /r/fossdroid*

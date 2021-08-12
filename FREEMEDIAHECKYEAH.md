@@ -91,7 +91,7 @@
 ***
 ***
 
-# [🔒 Backups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups)
+# [🔒 Backups](https://github.com/nbats/FMHY/wiki/Backups)
 
 **Reddit & Discord Backups**
 

@@ -22,7 +22,7 @@
 
 ***
 
-**[Wiki Source](https://ufile.io/7du2bma0)** - [Updated 7/8/21]
+**[Wiki Source](https://ufile.io/1itdxbs7)** - [Updated 8/20/21]
 
 View the Wiki Source with any [Markdown Editor](https://redditpreview.com/).
 

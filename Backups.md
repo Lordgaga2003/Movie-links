@@ -24,7 +24,7 @@ Password: FMHY
 
 ***
 
-**[Wiki Source](https://ufile.io/l2v3vkuj)** - [Updated 11/3/21]
+**[Wiki Source](https://ufile.io/atkq3j1s)** - [Updated 11/3/21]
 
 View the Wiki Source with any [Markdown Editor](https://redditpreview.com/).
 

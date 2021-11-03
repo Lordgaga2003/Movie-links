@@ -14,17 +14,17 @@
 
 ***
 
-**[Wayback Machine](https://web.archive.org/web/20210820134034/https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)** - [Updated 8/20/21]
+**[Wayback Machine](https://web.archive.org/web/20211103081253/https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)** - [Updated 11/3/21]
 
 ***
 
-**[Disroot Backup](https://bin.disroot.org/?6405d3f97d212b2f#4M3a1rwU9de53kFKc1czkZBVUKthdzC7B2e1jWXJpguH)** - [Updated 8/20/21]
+**[Disroot Backup](https://bin.disroot.org/?4b7e6ecee833c97b#341rNUt51NwBV7xMgkSALHkB91yYKWFJjRmg71KFpDVE)** - [Updated 11/3/21]
 
 Password: FMHY
 
 ***
 
-**[Wiki Source](https://ufile.io/1itdxbs7)** - [Updated 8/20/21]
+**[Wiki Source](https://ufile.io/l2v3vkuj)** - [Updated 11/3/21]
 
 View the Wiki Source with any [Markdown Editor](https://redditpreview.com/).
 

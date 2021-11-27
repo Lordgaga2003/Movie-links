@@ -208,7 +208,16 @@
 
 # ► Mac Tools / Apps
 
+* **[Dropzone](https://filecr.com/?s=dropzone)** - *File Manger*
+* **[The Unarchiver](https://theunarchiver.com/)** - *Archive / Unzip Files*
 * **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
+* **[shottr](https://shottr.cc/)** or [MagicCap](https://magiccap.me/) - *Screenshot Tool*
+* **[Aptonic](https://aptonic.com/)** - *Mac Productivity App*
+* **[Alfred](https://www.alfredapp.com/)** - *Keystroke Launcher* 
+* **[CustomShortcuts](https://www.houdah.com/customShortcuts/)** - *Custom Keyboard Shortcuts*
+* **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - *Alt-Tab for Mac*
+* **[PDF Expert](https://filecr.com/?s=pdf+expert)** - *PDF Viewer*
+* **[Fantasitcal](https://flexibits.com/fantastical)** - *Calendar*
 * [DMHY](https://github.com/yaqinking/DMHY) - *Anime Torrent Autodownloader* 
 * [YTMusic](https://ytmusic.app/) - *YouTube Music Client*
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - *Download MacOS*
@@ -225,20 +234,14 @@
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - *UEFI Kexts*
 * [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913?mt=12) - *File Download Manager*
 * [ss64 OSX](https://ss64.com/osx/) - *macOS Bash Commands*
-* [Alfred](https://www.alfredapp.com/) - *Keystroke Launcher* 
-* [alt-tab-macos](https://alt-tab-macos.netlify.app/) - *Alt-Tab for Mac*
-* [Dropzone](https://filecr.com/?s=dropzone) - *File Manger*
-* [The Unarchiver](https://theunarchiver.com/) - *Archive / Unzip Files*
+* [Orion](https://browser.kagi.com/downloads/Orion.dmg) - *Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)*
 * [Strongbox](https://strongboxsafe.com/) *Password Manager*
-* [Aptonic](https://aptonic.com/) - *Mac Productivity App*
 * [Drafts](https://getdrafts.com/) - *Text Editor*
 * [Stroke](https://stroke.lllllllllllllllll.com/) - *Text (You Can't Delete) Editor*
-* [PDF Expert](https://filecr.com/?s=pdf+expert) - *PDF Viewer*
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) or [Spark](https://sparkmailapp.com/) - *Email Client*
 * [Microsoft Mac Downloads](https://macadmins.software/) or [Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - *Office Suite*
 * [Winfield](http://www.winfield.demon.nl/) - *MS Word for Linux / OS X* 
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - *Connect Mac Keyboard to Mobile Devices*
-* [CustomShortcuts](https://www.houdah.com/customShortcuts/) - *Custom Keyboard Shortcuts*
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - *Shortcut CheatSheet for Current Application*
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - *Volume Mixer / Auto-Pause*
 * [MacLaunch](http://github.com/hazcod/maclaunch) - *Manage Startup Items*
@@ -253,7 +256,6 @@
 * [Pictogram](https://pictogramapp.com/) - *Custom Mac App Icons*
 * [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - *MacOS Dynamic Wallpaper App*
 * [OldSchoolOS](https://www.oldschoolos.com/) - *Old MacOS ISOs*
-* [Fantasitcal](https://flexibits.com/fantastical) - *Calendar*
 * [IINA](https://iina.io/) - *Video Player*
 * [Meeter](https://trymeeter.com/) - *Video Meeting Manager*
 * [Gifski](https://sindresorhus.com/gifski) - *Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)*
@@ -266,7 +268,6 @@
 * [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - *Convert NeuralHash for CSAM Detection to ONNX / [Collision Finder](https://github.com/anishathalye/neural-hash-collider)*
 * [Is Apple Silicon ready?](https://isapplesiliconready.com/) - *M1 App Compatibility Chart*
 * [Adobe Zii](https://www.reddit.com/r/AdobeZii/) - *Adobe Software Patcher*
-* [MagicCap](https://magiccap.me/) - *Screenshot Tool*
 * [SelfControlApp](https://selfcontrolapp.com/) - *Website Blocker*
 * [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - *Typing Practice*
 * [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - *Reddit Dekstop Client*

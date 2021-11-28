@@ -136,6 +136,7 @@
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - *Penetration Testing Index*
 * [DefenderUI](https://www.defenderui.com/) - *Improved Microsoft Defender UI*
 * [wideredist](https://gitlab.com/urbanware-org/wideredist) - *Update Windows Defender Definitions Locally*
+* [Antivirus Removal Tool](https://antivirus-removal-tool.com/) - *Antivirus Software Removal Tool*
 * [Defeat Defender](https://github.com/swagkarna/Defeat-Defender-V1.2) - *Disable Windows Defender*
 * [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - *Malware Search Extension* 
 * [JShelter](https://jshelter.org/) - *Anti-Malware Extension*
@@ -156,10 +157,12 @@
 * [Obsidian](https://obsidianapp.io/) - *OS X / iOS Two-Factor Authentication*
 * [Authenticator](https://authenticator.cc/) - *Generate Two-Factor Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)* 
 * [StrongPasswordGenerator](https://strongpasswordgenerator.com/), [ExpressVPN PW Generator](https://www.expressvpn.com/password-generator), [Clover](https://cloverleaf.app) or [Bitwarden PW Generator](https://bitwarden.com/password-generator/) - *Password Generators*
+* [PaP](https://trypap.com/) - *Passive Aggressive Password Strength Check*
 * [Privacy / Safety Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides) - *Internet Privacy / Safety Guides* 
 * [Privacy.Sexy](https://privacy.sexy/) - *Privacy Scripts* 
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - *Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)*
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - *CyberSecurity Tool Index*
+* [The White Circle](https://twc1rcle.com/) - *Cyber Security Community*
 * [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - *Anti-Censorship tool index* 
 * [Element](https://element.io/) / [Themes](https://github.com/aaronraimist/element-themes), [qTox](https://qtox.github.io/), [Utopia](https://u.is/en/), [Jami](https://jami.net/), [Tox](https://tox.chat/), [Bitmask](https://bitmask.net/) or [Wickr](https://wickr.com/) - *Encrypted Messaging / Video Calls* 
 * [Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)
@@ -178,8 +181,9 @@
 * [Gauth](https://github.com/pcarrier/gauth) - *Google Authenticator for Laptops*
 * [F-Secure Identity Theft Checker](https://www.f-secure.com/en/home/free-tools/identity-theft-checker) - *Identity Theft Check*
 * [Name & Identity Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_name_.26amp.3B_identity_generators) - *Generate Fake Names / Identities* 
-* [Fake Address Generator](https://fakeaddressgenerator.com/) - *Create a fake Address*
-* [Random User Generator](https://randomuser.me/) - *Generator Fake User Details* 
+* [Random User Generator](https://randomuser.me/) - *Generate Fake User Details* 
+* [Fake Address Generator](https://fakeaddressgenerator.com/) - *Generate Fake Address'*
+* [FakePhoneNumber](https://fakephonenumber.net/) - *Generate Fake Phone Numbers*
 * [Tails](https://tails.boum.org/) or [Qubes](https://www.qubes-os.org/) - *Privacy-Based Operating Systems*
 * [Track This]( https://trackthis.link/) - *Confuse Personal Advertising by opening 100 tabs* 
 * [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) - *Secure File Deletion*
@@ -192,10 +196,11 @@
 * [RemoteStream](https://remotestre.am/) - *Encrypt your Google Drive links* 
 * [PDFEncrypt](https://pdfencrypt.net/) - *PDF File Encryption*
 * [GPGTools](https://gpgtools.org/) - *Encrypt & Sign Data / Communications* 
-* [CiphersByRitter](http://ciphersbyritter.com/) - *Cipher / Encryption Articles *
+* [CiphersByRitter](http://ciphersbyritter.com/) - *Cipher / Encryption Articles*
 * [Unsee](https://unsee.cc/) - *Private / Temporary Image Host* 
 * [ImgProxify](https://imgproxify.com/) - *Image Proxy Generator*
 * [PrivNote](https://privnote.com/) or [IPNote](https://ipnote.io/) - *Notes that Auto Delete After Being Read* 
+* [USBKill](https://github.com/hephaest0s/usbkill) - *Anti-Forensic Kill-Switch*
 * [Eraser](https://eraser.heidi.ie/) - *Remove / Overwrite Hard Drive Data* 
 * [Free Hide Folder](https://www.cleanersoft.com/hidefolder/free_hide_folder.htm) or [Wise Folder Hider](http://www.wisecleaner.com/wise-folder-hider-free.html) - *Hide Folders / Files* 
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - *Run a Oracle VM on TailsOS*

@@ -95,7 +95,6 @@
 * **[Virus File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scan_files)** - *Scan Files*
 * **[Hybrid Analysis](https://www.hybrid-analysis.com/)** or [Amnpardaz](https://jevereg.amnpardaz.com/) - *Scan EXE Files*
 * **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)** - *Scan URL's*
-* [SiteScrubber](https://greasyfork.org/en/scripts/426078-sitescrubber) - *Remove Adware & Clickjackers on DL Sites*
 * MSRT - [x64](https://www.microsoft.com/en-us/download/details.aspx?id=9905) / [x86](https://www.microsoft.com/en-us/download/details.aspx?id=16) - *Malicious Software Removal Tool*
 * [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html), [Tinywall](https://tinywall.pados.hu/) or [GlassWire](https://www.glasswire.com/) - *Firewall / Network Monitor* 
 * [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/) or [Safing](https://safing.io/portmaster/) - *Network Monitor*
@@ -197,6 +196,7 @@
 * [PDFEncrypt](https://pdfencrypt.net/) - *PDF File Encryption*
 * [GPGTools](https://gpgtools.org/) - *Encrypt & Sign Data / Communications* 
 * [CiphersByRitter](http://ciphersbyritter.com/) - *Cipher / Encryption Articles*
+* [HRef](https://href.li/) - *Hide HTTP Referer*
 * [Unsee](https://unsee.cc/) - *Private / Temporary Image Host* 
 * [ImgProxify](https://imgproxify.com/) - *Image Proxy Generator*
 * [PrivNote](https://privnote.com/) or [IPNote](https://ipnote.io/) - *Notes that Auto Delete After Being Read* 

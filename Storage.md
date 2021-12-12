@@ -2053,16 +2053,14 @@ Add the following commands to a search to manually scrape each site.
 
 #### Telegram Deezer Bots
 
-* @vkmusic_bot
-* @vkm4bot
-* @vkm_bot
-* @Song_downloaderbot
-* @songdl_bot 
-* @m1hbot - *deezer bots, spotify bots ect.*
+* [vkm_bot](https://t.me/vkm_bot)
+* [Song_downloaderbot](https://t.me/Song_downloaderbot)
+* [songdl_bot](https://t.me/songdl_bot) 
+* [m1hbot](https://t.me/m1hbot) - *deezer bots, spotify bots ect.*
 * [DeezerMusicBot](https://t.me/DeezerMusicBot) 
 * [FusionDL_Bot](https://t.me/FusionDL_Bot) 
-* @DeezloaderAn0n_bot
-* @FlacStoreBot
+* [DeezloaderAn0n_bot](https://t.me/DeezloaderAn0n_bot)
+* [FlacStoreBot](https://t.me/FlacStoreBot)
 
 ***
 

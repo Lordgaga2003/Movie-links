@@ -18,24 +18,25 @@
 
 ***
 
-**[Disroot Backup](https://bin.disroot.org/?4b7e6ecee833c97b#341rNUt51NwBV7xMgkSALHkB91yYKWFJjRmg71KFpDVE)** - [Updated 11/3/21]
+**[Disroot Backup](https://bin.disroot.org/?afb37f030fe77ed8#9PJEnnb8qKd4VExxU3su5kSjcHpsVUP9CqkZ8AjrZasa)** - [Updated 12/11/21]
 
 Password: FMHY
 
 ***
 
-**[Wiki Source](https://ufile.io/atkq3j1s)** - [Updated 11/3/21]
+**[Wiki Source](https://ufile.io/k6vzjpz4)** - [Updated 11/24/21]
 
 View the Wiki Source with any [Markdown Editor](https://redditpreview.com/).
-
-***
-
-**Discord Server Backup** - [Updated Daily]
-
-**[Guilded](https://www.guilded.gg/i/1EqadvqE)** / **[Mega](https://mega.nz/folder/cRRCQSrb#cT9Pkauyena6IWBt7zYZJw)**
 
 ***
 
 **Alt Views** - [Updated Daily]
 
 **[Herokuapp](https://fmhy.herokuapp.com/)** / **[Libredd.it](https://libredd.it/r/FREEMEDIAHECKYEAH/wiki)** / **[Teddit](https://teddit.net/r/FREEMEDIAHECKYEAH/wiki)**
+
+
+***
+
+**Discord Server Backup**
+
+**[Guilded](https://www.guilded.gg/i/1EqadvqE)** / **[Revolt](https://app.revolt.chat/invite/YzV4Fmdt)** / **[Mega](https://mega.nz/folder/cRRCQSrb#cT9Pkauyena6IWBt7zYZJw)**

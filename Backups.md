@@ -10,6 +10,10 @@
 
 ***
 
+**[Lemmy Backup](https://lemmy.ml/c/freemediaheckyeah)** - [Updated Daily]
+
+***
+
 **[NotABug Backup](https://notabug.org/nbatman/freemediaheckyeah/wiki/_pages)** - [Updated Daily]
 
 ***

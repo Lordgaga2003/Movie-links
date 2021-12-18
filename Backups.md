@@ -18,7 +18,7 @@
 
 ***
 
-**[Wayback Machine](https://web.archive.org/web/20211103081253/https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)** - [Updated 11/3/21]
+**[Wayback Machine](https://web.archive.org/web/20211218000000*/https://www.reddit.com/r/FREEMEDIAHECKYEAH/)** - [Updated Periodically]
 
 ***
 
@@ -28,7 +28,7 @@ Password: FMHY
 
 ***
 
-**[Wiki Source](https://ufile.io/k6vzjpz4)** - [Updated 11/24/21]
+**[Wiki Source](https://ufile.io/p3k1b7fw)** - [Updated 12/18/21]
 
 View the Wiki Source with any [Markdown Editor](https://redditpreview.com/).
 

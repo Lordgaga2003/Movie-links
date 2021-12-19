@@ -265,6 +265,8 @@
 * [Music Library](https://drive.google.com/drive/folders/1qJ9CT36FzGd7_4048__LLS4ZicV1qYl7) - *MP3*
 * [90.146.184.46](http://90.146.184.46/) - *MP3*
 * [212.159.121.149:85](https://212.159.121.149:85/) - *MP3*
+* [Rhapsody](http://65.186.78.52/MUSIC/RHAPSODY/) - *MP3*
+* [Tyler](http://65.186.78.52/MUSIC/TYLER/) - *MP3*
 * [FLAC Attack](https://flacattack.net/) - *FLAC*
 * [Lossless-Music](https://lossless-music.org/) or [Flaccat](https://flaccat.com/) - *FLAC*
 * [Losslessma](https://losslessma.net/) - *FLAC*

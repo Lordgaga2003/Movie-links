@@ -1,3 +1,8 @@
+**[Feel free](https://pastebin.com/HjmRR9Mg) to backup FMHY anywhere. You don't even have to give us credit.** 
+
+***
+***
+
 **[Saidit Backup](https://saidit.net/s/freemediaheckyeah/wiki/index)** - [Updated Daily]
 
 ***
@@ -27,8 +32,6 @@ Password: FMHY
 **[Wiki Source](https://ufile.io/mn5hdnjs)** - [Updated 1/30/22]
 
 View the Wiki Source with any [Markdown Editor](https://redditpreview.com/)
-
-[Feel free](https://pastebin.com/HjmRR9Mg) to post this ANYWHERE. You don't even have to give us credit. 
 
 ***
 

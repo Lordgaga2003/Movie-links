@@ -1,4 +1,4 @@
-**[Feel free](https://pastebin.com/HjmRR9Mg) to backup FMHY anywhere. You don't even have to give us credit.** 
+**[Feel free](https://pastebin.com/HjmRR9Mg) to backup FMHY anywhere.** 
 
 ***
 ***

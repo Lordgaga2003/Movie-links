@@ -28,7 +28,7 @@ Password: FMHY
 
 View the Wiki Source with any [Markdown Editor](https://redditpreview.com/)
 
-Feel free to post this ANYWHERE. You don't even have to give us credit. 
+[Feel free](https://pastebin.com/HjmRR9Mg) to post this ANYWHERE. You don't even have to give us credit. 
 
 ***
 

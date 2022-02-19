@@ -19,7 +19,7 @@
 
 ***
 
-**[FMHY.tk](https://fmhy.tk/)** - [Updated Daily]
+**[FMHY.tk](https://fmhy.tk/)** - [Updated Periodically]
 
 ***
 
@@ -48,4 +48,4 @@ View the Wiki Source with any [Markdown Editor](https://redditpreview.com/)
 
 **Discord Server Backup**
 
-**[Mega](https://mega.nz/folder/cRRCQSrb#cT9Pkauyena6IWBt7zYZJw)** / **[Guilded](https://www.guilded.gg/i/1EqadvqE)** / **[Revolt](https://revolt.movies4discord.xyz/invite/GMs0de3D)** (New Account Required) / **[Nertivia](https://nertivia.net/i/H9HRKc)**
+**[Revolt](https://revolt.movies4discord.xyz/invite/GMs0de3D)** (New Account Required) / **[Guilded](https://www.guilded.gg/i/1EqadvqE)** /  **[Nertivia](https://nertivia.net/i/H9HRKc)** / **[Mega](https://mega.nz/folder/cRRCQSrb#cT9Pkauyena6IWBt7zYZJw)**

@@ -1596,10 +1596,13 @@ Portuguese
 
 * [Coccoc](https://coccoc.com/search) - *Search*
 * [EPhoto360](https://ephoto360.com/) - *Photo Effects*
+* [hostsVN](https://bigdargon.github.io/hostsVN/) or [iBlockAds](https://iblockads.net/) - *Vietnamese Adblock Filters*
+
+
   
 ## ▷ Downloading
 
-* [Taiwebs](https://taiwebs.com/) - *Software / Android / Games
+* [Taiwebs](https://taiwebs.com/) - *Software / Android / Games*
 * [Fshare](https://timfshare.com/) - *Video / Audio / Software / Games*
 * [Softonic](https://www.softonic.vn/) - *Software / Android / Games*
 * [SoftBuzz](https://softbuzz.net/) - *Software / Games*

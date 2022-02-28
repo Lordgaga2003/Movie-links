@@ -1609,21 +1609,25 @@ Portuguese
 # ► Vietnamese 
 
 * [Coccoc](https://coccoc.com/search) - *Search*
+ * [PhuDeViet](http://phudeviet.org/) - *Subtitles*
 * [EPhoto360](https://ephoto360.com/) - *Photo Effects*
+* [Run.vn](https://run.vn/ ) - *Emojis*
 * [hostsVN](https://bigdargon.github.io/hostsVN/) or [iBlockAds](https://iblockads.net/) - *Vietnamese Adblock Filters*
 
-
-  
 ## ▷ Downloading
 
 * [Taiwebs](https://taiwebs.com/) - *Software / Android / Games*
 * [Fshare](https://timfshare.com/) - *Video / Audio / Software / Games*
 * [Softonic](https://www.softonic.vn/) - *Software / Android / Games*
 * [SoftBuzz](https://softbuzz.net/) - *Software / Games*
+* [KhiPhach](https://khiphach.vn/) - *Software / Android / Games*
 * [Downvn](https://down.vn/) - *Software / Android / Games*
 * [DownloadVN](https://download.com.vn/) - *Software / Android / Games*
 * [TaiMienPhi](https://taimienphi.vn/) - *Software / Android / Games*
-* [HDVietnam](http://www.hdvietnam.com/forums/) - *Video / Audio / Software*
+* [PhimDidibkk](https://phim.didibkk.com/) - *Movies / TV / Anime*
+* [CineTV](https://thuviencine.com/) - *Movies / TV / Anime*
+* [ThuvienHD](https://thuvienhd.com/) - *Movies / TV / Anime*
+* [WebTaiPhim](https://webtaiphim.com/) - *Movies / TV / Anime*
 * [FreeHD](https://freehd.me/) - *Movies / TV / Anime*
 * [ChiaSeNhac](https://chiasenhac.vn/) - *Music*
 * [ChiaSeAPK](https://www.chiaseapk.com/) - *Modded APKs*
@@ -1637,8 +1641,14 @@ Portuguese
 ## ▷ Streaming
 
 * [TVHai](http://tvhai.org/) - *Movies / TV*
-* [VPHimZZ](https://vphimzz.net/) - *Movies / TV*
-* [PhimTor ](https://phimtor.com/) - *Movies*
+* [VPHim](https://vphimzz.net/) - *Movies / TV*
+* [MotChill](https://motchill.net/) - *Movies / TV*
+* [OPhim](https://ophim.net/) - *Movies / TV*
+* [PhimBo](https://phimbo.tv/) - *Movies / TV*
+* [Phim1080](https://phim1080z.com/) - *Movies / TV*
+* [PhimHD](http://phimhd.xyz/) - *Movies / TV*
+* [PhimGi](https://phimgii.tv/) - *Movies / TV*
+* [PhimTor](https://phimtor.com/) - *Movies*
 * [VuiGhe](https://vuighe.net/) - *Anime*
 * [AnimeHay](https://animehay.club/) - *Anime*
 * [AnimeTVN](https://animetvn.com/) - *Anime*

@@ -9,10 +9,6 @@
 ***
 ***
 
-**Note** - Some of these sites have lots of ads so make sure you have a [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy) enabled
-
-***
-
 # ► Arabic 
 
 * [Wudooh](https://wudooh.app/) - *Make Arabic Text Clearer*
@@ -1655,11 +1651,17 @@ Portuguese
 * [PhimHD](http://phimhd.xyz/) - *Movies / TV*
 * [PhimGi](https://phimgii.tv/) - *Movies / TV*
 * [PhimTor](https://phimtor.com/) - *Movies*
+* [HoatHinhTQ](https://www.hhtq.net/) - *Chinese Animation*
+* [HHTQtv](https://hhtq.tv/) - *Chinese Animation*
+* [HHPanda](https://hhpanda.tv/) - *Chinese Animation*
+* [HHNinja](https://www.hhninja.xyz/) - *Chinese Animation*
+* [HHKungfu](https://hhhkungfu.tv/) - *Chinese Animation*
 * [VuiGhe](https://vuighe.net/) - *Anime*
 * [AnimeHay](https://animehay.club/) - *Anime*
 * [AnimeTVN](https://animetvn.com/) - *Anime*
 * [VietToons](https://viettoons.tv/) - *Cartoons*
 * [TVOnline](http://tvonline.vn/) - *Live TV*
+* [XemBD](https://xembd.link/) - *Live Soccer*
 * [ZingMP3](https://zingmp3.vn/) - *Music*
 * [NhacCuaTui](https://www.nhaccuatui.com/) - *Music*
 

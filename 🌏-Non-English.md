@@ -1610,10 +1610,12 @@ Portuguese
 
 * [Coccoc](https://coccoc.com/search) - *Search*
 * [PhuDeViet](http://phudeviet.org/) - *Subtitles*
-* [EPhoto360](https://ephoto360.com/) - *Photo Effects*
+* [EPhoto360](https://ephoto360.com/) or [ThiepMung](https://thiepmung.com/) - *Photo Effects*
 * [GameVui](https://gamevui.vn/) - *Browser Games*
 * [Game24h](https://game24h.vn/) - *Browser Games*
-* [Run.vn](https://run.vn/ ) - *Emojis*
+* [Run.vn](https://run.vn/) - *Emojis*
+* [Dafontvn](https://www.dafontvn.com/) - *Fonts*
+* [Unikey](https://www.unikey.org/) - *Vietnamese Keyboard*
 * [hostsVN](https://bigdargon.github.io/hostsVN/) or [iBlockAds](https://iblockads.net/) - *Vietnamese Adblock Filters*
 
 ## ▷ Downloading
@@ -1642,7 +1644,7 @@ Portuguese
 
 ## ▷ Streaming
 
-* [TVHai](http://tvhai.org/) - *Movies / TV*
+* [TVHai](http://tvhai.org/) - *Movies / TV / Anime*
 * [VPHim](https://vphimzz.net/) - *Movies / TV*
 * [MotChill](https://motchill.net/) - *Movies / TV*
 * [OPhim](https://ophim.net/) - *Movies / TV*
@@ -1678,6 +1680,7 @@ Portuguese
 * [TruyenFull](https://truyenfull.vn/) - *Manga / Light Novels*
 * [Hayso1](https://hayso1.net/) - *Manga*
 * [HAKO](https://ln.hako.re/) - *Light Novels*
+* [Babla](https://www.babla.vn/) - *Dictionary*
 
 ***
 

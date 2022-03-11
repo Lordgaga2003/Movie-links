@@ -203,6 +203,7 @@
 * [BiliBili](https://manga.bilibili.com/) - *Manga*
 * [rzlib](https://www.rzlib.net/) - *Light-Novels* 
 * [booktxt](https://m.booktxt.net/) - *Light-Novels* 
+* [FFXS](https://www.ffxs.info/) - *Light-Novels*
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - *Documents*  
 * [555电影](https://www.o8tv.com/), [2](https://555dy1.com/) - *Movies / TV / Anime / NSFW*
 * [CText](https://ctext.org/), [ChineseNotes](http://chinesenotes.com/) or [Kanripo](https://www.kanripo.org/) - *Chinese Historic Text Archive*
@@ -1666,12 +1667,17 @@ Portuguese
 * [TVHai](http://tvhai.org/) - *Movies / TV / Anime*
 * [VPHim](https://vphimzz.net/) - *Movies / TV / Anime*
 * [BiluTV](https://bilutv.link/) - *Movies / TV / Anime*
+* [GhienTV](https://ghientv.net/) - *Movies / TV*
 * [Vkool](https://vkoolz.net) - *Movies / TV*
 * [XemPhim](https://xemphim.app/) - *Movies / TV*
 * [MotChill](https://motchill.net/), [2](https://motphimtv.tv/) - *Movies / TV*
 * [BiChill](https://bichill.tv/) - *Movies / TV*
+* [PhimChill](https://phimchill.tv/), [2](https://phimmoichill.net/) - *Movies / TV*
 * [OPhim](https://ophim.net/) - *Movies / TV*
 * [PhimBo](https://phimbo.tv/) - *Movies / TV*
+* [PhimMoi](https://phimmoi.link/) - *Movies / TV*
+* [LuotPhim](https://luotphim.cc/), [2](https://luotphim.fun/), - *Movies / TV*
+* [NguonPhim](http://nguonphim.org/), [2](http://nguonhd.com/), - *Movies / TV*
 * [DongPhim](https://dongphymtv.com/) - *Movies / TV*
 * [Phim1080](https://phim1080z.com/), [2](https://fim1080.com/) - *Movies / TV*
 * [PhimHD](http://phimhd.xyz/) - *Movies / TV*
@@ -1684,10 +1690,12 @@ Portuguese
 * [HoatHinhTQ](https://www.hhtq.net/) - *Chinese Animation*
 * [HHTQtv](https://hhtq.tv/) - *Chinese Animation*
 * [HHPanda](https://hhpanda.tv/) - *Chinese Animation*
+* [HoatHinh3D](https://hoathinh3d.com/) - *Chinese Animation*
 * [HHNinja](https://www.hhninja.xyz/) - *Chinese Animation*
 * [HHKungfu](https://hhhkungfu.tv/) - *Chinese Animation*
 * [HHTQvip](https://hhtq.vip/) - *Chinese Animation*
 * [VuiGhe](https://vuighe.net/) - *Anime*
+* [Ani4u](http://ani4u.org/) - *Anime*
 * [AnimeHay](https://animehay.club/) - *Anime*
 * [AnimeTVN](https://animetvn.com/) - *Anime*
 * [VietToons](https://viettoons.tv/) - *Cartoons*
@@ -1713,11 +1721,18 @@ Portuguese
 * [GacSach](https://gacsach.club/) - *Books*
 * [SachHay](https://www.sachhayonline.com/) - *Books*
 * [KhoSach](https://khosachonline.com/) - *Books*
+* [Fecomic](https://fecomic.com/) - *Manga / Manhwa / Manhua*
+* [Vcomycs](https://vcomycs.com/) - *Manga / Manhwa / Manhua*
+* [OCuMeo](https://www.ocumeo.com/) - *Manga / Manhwa / Manhua*
+* [HanulTruyen](https://hanultruyen.net/) - *Manga / Manhwa / Manhua*
+* [TruyenQQ](http://truyenqqvip.com), [2](http://truyenqqpro.com/), [3](http://truyenqqtop.com/) - *Manga / Manhwa / Manhua*
 * [MeDocTruyen](https://www.medoctruyentranh.net/), [2](https://www.medoctruyenchu.net/) - *Manga / Light Novels*
+* [DichTruyen](https://dichtruyen.org/), [2](https://dichtruyentop.com/), [3](https://dichtruyenvip.com/), [4](https://dichtruyenhot.com/), [5](https://dichtruyenpro.com/), [6](https://dichtruyenhay.com/) [7](https://dichtruyen.info/) - *Manga / Manhwa / Manhua*
+* [DocTruyen3Q](https://doctruyen3qi.com/), [2](https://doctruyen3qz.com/) - *Manga / Manhwa / Manhua*
+* [Mangai](https://mangaii.com/) - *Manga / Manhwa / Manhua*
 * [Cmangaka](https://cmangaka.com/) - *Manga*
-* [NetTruyen](http://www.nettruyengo.com/), [2](http://nhattruyenvip.com/) - *Manga*
+* [NetTruyen](http://www.nettruyengo.com/), [2](http://www.nettruyenmoi.com/), [3](http://www.nettruyenpro.com/) - *Manga / Manhwa / Manhua*
 * [TruyenFull](https://truyenfull.vn/), [2](https://lnvs.net/) - *Manga / Light Novels*
-* [Hayso1](https://hayso1.net/) - *Manga*
 * [Hako](https://ln.hako.re/), [2](https://docln.net/), [3](https://novelvn.net/) - *Light Novels*
 * [ValvrareTeam](http://valvrareteam.com/) - *Light Novels*
 * [Babla](https://www.babla.vn/) - *Dictionary*

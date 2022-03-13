@@ -1613,16 +1613,18 @@ Portuguese
 # ► Vietnamese 
 
 * [CocCoc](https://coccoc.com/search) - *Search*
+* [BizTime](https://biztime.com.vn/), [HahaLolo](https://www.hahalolo.com/) or [Lotus](https://lotus.vn/) - *Social Network*
 * [PhuDeViet](http://phudeviet.org/) - *Subtitles*
 * [GameVui](https://gamevui.vn/), [Game24h](https://game24h.vn/), [ChoiGame24](https://choigame24.com/) or [Game247](https://game247.vn/) - *Browser Games*
-* [KiTuHay](https://kituhay.com/), [KTDB](https://ktdb.vn/) or [KiTuAz](https://kituaz.com/) - *Special Characters*
+* [KiTuHay](https://kituhay.com/), [Symbols](https://symbols.vn/), [KTDB](https://ktdb.vn/) or [KiTuAz](https://kituaz.com/) - *Special Characters*
 * [IconDep](https://icondep.com/), [Run](https://run.vn/) or [IconFB](https://iconfb.net/) - *Emojis*
 * [Dafontvn](https://www.dafontvn.com/) or [FontChu](http://fontchu.com/) - *Fonts*
-* [Unikey](https://www.unikey.org/) - *Vietnamese Keyboard*
+* [TestKey](https://keytest.vn/) - *Test Keyboard*
+* [VNTyping](https://vntyping.com/), [VietnameseTyping](https://vietnamesetyping.com/) or [VNKeys](http://www.vnkeys.net/) - *Vietnamese Typing*
 * [Mail1s](https://mail1s.com/) - *Temp Email*
 * [123Note](https://123note.net/), [Notepad](https://notepad.vn/), [GhiChu](https://ghichu.vn/) - *Notepad Tools*
-* [Random](https://random.com.vn/), [QuaySo](https://quayso.vn/), [NgauNhien](https://ngaunhien.vn/) - *Random Tools*
-* [DauDau](https://www.daudau.tk/) - *Text to Speech*
+* [Random](https://random.com.vn/), [QuaySo](https://quayso.vn/) or [NgauNhien](https://ngaunhien.vn/) - *Random Tools*
+* [FPT.AI](https://fpt.ai/vi/tts) or [DauDau](https://www.daudau.tk/) - *Text to Speech*
 * [EPhoto360](https://ephoto360.com/), [ThiepMung](https://thiepmung.com/), [HieuUngAnh](https://hieuunganh.com/), [ThiepHay](https://thiephay.com/), [KhungAnh](https://khunganhonline.com/) or [TaoCover](https://taocover.com/) - *Photo Effects*
 * [KiemTraIP](https://kiemtraip.com/), [IPCuaToi](https://ipcuatoi.com/) or [CheckIP](https://checkip.vip/) - *IP Checkers*
 * [hostsVN](https://bigdargon.github.io/hostsVN/), [iBlockAds](https://iblockads.net/) or [FMSF2](https://nmtrung.com/fmsf-2/) - *Vietnamese Adblock Filters*
@@ -1637,6 +1639,7 @@ Portuguese
 * [Downvn](https://down.vn/) - *Software / Android / Games*
 * [Downloadvn](https://download.com.vn/) - *Software / Android / Games*
 * [TaiMienPhi](https://taimienphi.vn/) - *Software / Android / Games*
+* [Download3S](https://download3s.net/) - *Software / Android / Games*
 * [TaiGame247](https://taigame247.net/) - *Games*
 * [BatGioiStudio](https://batgioistudio.com/) - *Games*
 * [LinkTaiGame](https://www.linktaigame.com/) - *Games*
@@ -1700,6 +1703,8 @@ Portuguese
 * [AnimeTVN](https://animetvn.com/) - *Anime*
 * [VietToons](https://viettoons.tv/) - *Cartoons*
 * [Tokuvn](https://tokuvn.com/) - *Tokusatsu*
+* [Mocha](http://mocha.com.vn/) - *Video*
+* [MyClip](http://myclip.vn/) - *Video*
 * [TVOnline](http://tvonline.vn/) - *Live TV*
 * [TVTrucTuyen](http://tvtructuyen.vn/) - *Live TV*
 * [XemBD](https://xembd.link/) - *Live Soccer*
@@ -1708,6 +1713,7 @@ Portuguese
 * [NhacCuaTui](https://www.nhaccuatui.com/) - *Music*
 * [Muvi](https://muvi.vn/) - *Music*
 * [Nhacvn](https://nhac.vn/) - *Music*
+* [Keeng](http://keeng.vn/) - *Music*
 
 ## ▷ Reading
 

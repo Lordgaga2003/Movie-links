@@ -112,7 +112,7 @@
 * [Dianying](https://dianying.fm/) - *Hash Search*
 * [磁力海](https://cilidog.cc/) - *DHT Search*
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - *Lift Emby Restrictions*
-* [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io) or [OilAndFish](https://www.oilandfish.com/) - *Bypass Chinese Firewall*  
+* [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) or [OilAndFish](https://www.oilandfish.com/) - *Bypass Chinese Firewall*  
 * [Gridea](https://github.com/getgridea/gridea) - *Blog Writing Client*
 * [Dict.Baidu](https://dict.baidu.com/) - *Chinese Word, Idiom & Poem Search*
 * [SeiWatei](https://www.seiwatei.net/) - *Chinese Learning Tools*
@@ -1235,6 +1235,7 @@ Portuguese
 
 * **[Russian Internet Blackout Bypass Guide](https://telegra.ph/CHto-delat-pri-otklyuchenii-interneta-02-27), [2](https://www.the-village.ru/situation/howto/otklyuchenie-interneta)**
 * **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_legal_talk](https://t.me/rks_legal_talk) / [rks_org_Bot](https://t.me/rks_org_bot) / [rks_tech_talk](https://t.me/rks_tech_talk) - *Piracy Discussion Telegram*
+* [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) - *Internet Censorship Circumvention*
 * [DXP](https://dxp.ru/) - *Torrent / Subtitles*
 * [TLauncher Legacy](https://tlaun.ch/) - *Minecraft Client / Cracked Minecraft*
 * [Proxy-Checker](https://proxy-checker.net/) - *Proxy Checker*
@@ -1677,6 +1678,7 @@ Portuguese
 * [BeenLoveMemory](https://beenlovememory.app/) - *Love Days Counter*
 * [CongCuWeb](https://www.congcuweb.net/), [Vuiz](https://proxy.vuiz.net/), [abProxy](https://proxy.abtech.vn/) - *Web Proxy*
 * [VSpell](https://vspell.com/Spell) - *Vietnamese Spell Checker*
+* [NguoiLa](https://nguoila.io/) or [CVNL](https://cvnl.app/) - *Random Chat*
 * [PhuDeViet](http://phudeviet.org/) - *Subtitles*
 * [XaBuon](https://xabuon.com/), [Xem](https://xem.vn/) - *Meme*
 * [GameVui](https://gamevui.vn/), [Game24h](https://game24h.vn/), [ChoiGame24](https://choigame24.com/) or [Game247](https://game247.vn/) - *Browser Games*
@@ -1739,6 +1741,7 @@ Portuguese
 * [GhienTV](https://ghientv.net/) - *Movies / TV*
 * [Vkool](https://vkoolz.net) - *Movies / TV*
 * [XemPhim](https://xemphim.app/) - *Movies / TV*
+* [Phim4400](https://xemphimnao.com/) - *Movies / TV*
 * [MotChill](https://motchill.net/), [2](https://motphimtv.tv/) - *Movies / TV*
 * [BiChill](https://bichill.tv/) - *Movies / TV*
 * [PhimChill](https://phimchill.tv/), [2](https://phimmoichill.net/) - *Movies / TV*
@@ -1812,6 +1815,7 @@ Portuguese
 * [DocTruyen3Q](https://doctruyen3qi.com/), [2](https://doctruyen3qz.com/) - *Manga / Manhwa / Manhua*
 * [Mangai](https://mangaii.com/) - *Manga / Manhwa / Manhua*
 * [Cmangaka](https://cmangaka.com/) - *Manga*
+* [Weeboo](https://weeboo.vn/) - *Manga / Manhwa / Manhua*
 * [NetTruyen](http://www.nettruyengo.com/), [2](http://www.nettruyenmoi.com/), [3](http://www.nettruyenpro.com/) - *Manga / Manhwa / Manhua*
 * [TruyenFull](https://truyenfull.vn/), [2](https://lnvs.net/) - *Manga / Light Novels*
 * [Hako](https://ln.hako.re/), [2](https://docln.net/), [3](https://novelvn.net/) - *Light Novels*

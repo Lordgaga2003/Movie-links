@@ -1,8 +1,3 @@
-***Feel free to back up FMHY anywhere*** 
-
-***
-***
-
 **[Saidit Backup](https://saidit.net/s/freemediaheckyeah/wiki/index)** - [Updated Daily]
 
 ***

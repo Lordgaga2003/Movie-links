@@ -14,6 +14,10 @@
 
 ***
 
+**[Single Page Backup](https://gist.github.com/taskylizard/5ba73bf97dccf159316edcf4c6520856)** - [Updated Daily]
+
+***
+
 **[FMHY.tk](https://fmhy.tk/)** - [Updated Periodically]
 
 ***

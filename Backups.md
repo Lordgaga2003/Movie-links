@@ -47,4 +47,4 @@ View the Wiki Source with any [Markdown Editor](https://redditpreview.com/)
 
 **Discord Server Backup**
 
-**[Revolt](https://revolt.movies4discord.xyz/invite/GMs0de3D)** (New Account Required) / **[Guilded](https://www.guilded.gg/i/1EqadvqE)** /  **[Nertivia](https://nertivia.net/i/H9HRKc)** / **[Mega](https://mega.nz/folder/cRRCQSrb#cT9Pkauyena6IWBt7zYZJw)**
+**[Revolt](https://revolt.movies4discord.xyz/invite/GMs0de3D)** / [Mobile App](https://play.google.com/store/apps/details?id=chat.revolt.app.twa&gl=US) (New Account Required) / **[Guilded](https://www.guilded.gg/i/1EqadvqE)** /  **[Nertivia](https://nertivia.net/i/H9HRKc)** / **[Mega](https://mega.nz/folder/cRRCQSrb#cT9Pkauyena6IWBt7zYZJw)**

@@ -363,6 +363,7 @@
 * [Koalas to the Max](http://www.koalastothemax.com/) - Make Smaller & Smaller Dots
 * [RolePlayer](https://www.roleplayer.me/) - Roleplaying Social Network
 * [Myth Weavers](https://www.myth-weavers.com/) - Roleplaying Forum 
+* [Websleuths](https://www.websleuths.com/) - Crime Solving Forum
 * [Translation Party](https://www.translationparty.com/) - Translation Parties
 * [The Editing Room](https://www.the-editing-room.com/) - Funny abridged movie scripts
 * [Smash The Walls](https://smashthewalls.com/) - Smash Walls

@@ -19,19 +19,6 @@
 * **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - Organize Ideas & Projects
 * **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** - Device Repair Articles
 * **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired 
-* **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/) or [UN Data](https://data.un.org/) - World Data & Statistics
-* **[Our World in Data](http://ourworldindata.org/)** - World Problem Database
-* [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) - Public Datasets
-* [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
-* [Internet Live Stats](https://www.internetlivestats.com/) - Live Internet Statistics
-* [The Federation](https://the-federation.info/) - Fediverse Statistics
-* [US Debt Clock](https://www.usdebtclock.org/) - US Debt Clock
-* [Statista](https://www.statista.com/) - Market Statistics
-* [OEC](https://oec.world/en) - International Trade Data
-* [LittleSis](https://littlesis.org/) - Business / Government Connections Data 
-* [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
-* [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
-* [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Information Database
 * [RecoRank](https://recorank.com/) or [NanoReview](https://nanoreview.net/en) - Tech Reviews / Comparisons
 * [Reddit Favorites](https://redditfavorites.com/) or [Consumer Reports](https://consumerreports.org/) - Product & Service Reviews
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - Open Source Tools 
@@ -350,7 +337,6 @@
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
 * [Motion Den](https://motionden.com/), [Lumen5](https://lumen5.com/) or [VideoCreek](https://videocreek.com/) - Video Template Editor
 * [Beatflyer](https://beatflyer.com/) - Video Flyer Generator
-* [Footage](https://footage.app/) - Create Advertisement Videos
 * [MKVToolNix](https://www.matroska.org/downloads/mkvtoolnix.html) - MKV Editing Tools 
 * [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/) - MKVExtract GUI 
 * [MKV-Optimizer](https://www.videohelp.com/software/MKV-Optimizer) - Remove Audio Tracks from MKV Files 
@@ -545,10 +531,8 @@
 * [Splitter](https://www.splitter.ai/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate voice from instrumentals
 * [VocalRemover](http://vocalremover.org/) / [GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [AIVocalRemover](https://aivocalremover.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb), [VocalRemoverPro](https://vocalremoverpro.com/) or [Remove Vocals](https://www.remove-vocals.com/) - Remove / Isolate Vocal Tracks
 * [Acapella-Extractor](https://www.acapella-extractor.com/) - Remove Background Tracks from Songs
-* [VoiceFX](https://blog.xaymar.com/projects/voicefx/) - Remove Background Noise from Voice Recordings
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) / [CLI](https://github.com/IniasP/rnnoise-cli) - Noise Suppression Tools
-* [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Infinite Pro Trial](https://gist.github.com/programminghoch10/b6021e40cc1905d2b01a1571c6c96f17) - Audio Mixer
-* [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Voice Audio Mixer
+* [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10)or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixer
 * [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [MorphVOX](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_morphvox), [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird), [MyVoiceMod](https://myvoicemod.com/) or [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) or [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone Voices
 * [Sound Branch](https://soundbran.ch/) - Create / Share / Podcasts / Voice Messages 
@@ -862,7 +846,7 @@
 * [woob](https://woob.tech/) - Use Sites Without a Browser
 * [Gemini Clients](https://gemini.circumlunar.space/clients.html), [Lagrange](https://github.com/skyjake/lagrange) or  [Amfora](https://github.com/makeworld-the-better-one/amfora) - Gemini Browsers
 * [Gemini Software](https://gemini.circumlunar.space/software/) - Tools & Software for Gemini
-* [Gemini Portal](https://portal.mozz.us/gemini/gemini.circumlunar.space/) - Gemini to https Web Proxy Service
+* [Gemini Portal](https://portal.mozz.us/gemini/gemini.circumlunar.space/), [2](https://yesterweb.org/gemini.html) - Gemini to https Web Proxy Service
 * [StockBrowser](https://stackbrowser.com/), [Rambox](https://rambox.app/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browser
 * [Browserling](https://www.browserling.com/) - Browser Emulators
 * [n.eko](https://n.eko.moe/) - Self-Hosted Virtual Browser
@@ -952,7 +936,6 @@
 * [Yandex Search Operator Cheat Sheets](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/), [3](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
 * [Cyber](https://cyber.page/) - Hash Search
 * [rfc.fyi](https://rfc.fyi/) - RFC Search
-* [TruePeopleSearch](https://www.truepeoplesearch.com/) - Person Search
 * [CrunchBase](https://www.crunchbase.com/) - Company Info Search
 * [Employees hunter](https://hunter.io/) - Company Employee Email Search
 * [judyrecords](https://www.judyrecords.com/) - US Court Case Search
@@ -1064,7 +1047,6 @@
 * [pyfuzz](https://github.com/AyoobAli/pyfuzz) - URL Fuzzing Tool 
 * [Backlink Tool](https://backlinktool.io/) or [Index Kings](http://www.indexkings.com/) - URL Indexer 
 * [Blocked](https://www.blocked.org.uk/) - UK ISP Site Blocking Test 
-* [a tree of inaction](https://treeofinaction.com/) - Linktr.ee Aggregator Duplicate Check
 
 ***
 
@@ -1259,10 +1241,9 @@
 * [Guild Counter](https://rauf.wtf/guildcount) - Check how many servers you're in
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - Preview Role Colors Role
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode videos to <8MB
-* [Movata](https://movata.cc/) or [Discord Together](https://github.com/RemyK888/discord-together) - Video Stream Sync / Watch Parties
+* [Discord Together](https://github.com/RemyK888/discord-together) - Video Stream Sync / Watch Parties
 * [MangaCord](https://top.gg/bot/751148743901970622?tab=overview) - Read Manga on Discord [Disocrd](https://discord.gg/UtTJcWzCRe)
 * [DiskCord](https://github.com/5ut/DiskCord) - Host Files on External Sites to share via Discord
-* [LottieResizer](https://lottieresizer.tech/) - Lottie Resizer
 * [discordcompressor](https://github.com/vladaad/discordcompressor) - Video Compressor
 * [Natron](https://natron.fr/) or [Fusion](https://www.blackmagicdesign.com/ca/products/fusion/) - Video Compositing
 * [Discord Branding](https://discord.com/branding) - Discord Branding Information Page / [Archive](https://web.archive.org/web/20210513004910/https://discord.com/branding)
@@ -1457,7 +1438,6 @@ Twitch Stream Tracker
 * [get stream](https://pwn.sh/tools/getstream.html) - Extract Twitch URLs
 * [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - Random Stream Roulette
 * [Stream Clicker](https://streamclicker.io/) - Random Twitch Streamers 
-* [Pogged](https://pogged.tv/) - Twitch Highlights Stream
 * [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - Smart TV Twitch Client
 * [Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - Download Twitch Chat Messages 
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - Add Subtitles to Twitch Stream
@@ -1472,6 +1452,7 @@ Twitch Stream Tracker
 * **[NoFT](https://noft.gg/)** - Automatically Block all NFT Profile Pictures / [GitHub](https://github.com/ottomated/noft)
 * [/r/Twitter](https://reddit.com/r/Twitter) - Twitter Subreddit
 * [Awesome Twitter Bots](https://github.com/amandeepmittal/awesome-twitter-bots) - Twitter Bot Index
+* [TumblThree](https://github.com/TumblThreeApp/TumblThree) - Twitter / Tumbl Backup Tool
 * [Minimal Twitter](https://www.wang.sh/minimal-twitter) - Minimal Twitter Themes
 * [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) or [twttr](https://twttr.sreecha.me/) / [GitHub](https://github.com/sreechar/twttr) - Twitter Enhancement Extension
 * [Twitonomy](https://www.twitonomy.com/) or [Affinitweet](https://affinitweet.com/) - Twitter Dashboard / Analytics 
@@ -1513,7 +1494,6 @@ Twitch Stream Tracker
 * [Twitter Intelligence](https://github.com/batuhaniskr/twitter-intelligence) - Python Twitter Tracking & Analysis Tool
 * [TweetTopicExplorer](http://tweettopicexplorer.neoformix.com/) - See a Users Most Common Words 
 * [Twayback Machine](http://staringispolite.github.io/twayback-machine/) - View a Users Old Tweets 
-* [PolitWoops](https://politwoops.com/countries) - Deleted Tweets from Politicians 
 * [Hoaxy](https://hoaxy.osome.iu.edu/) - Twitter Info Spread Data
 * [Tweets Analyzer](https://github.com/x0rz/tweets_analyzer) - Tweet Metadata Scraper 
 * [GeoSocial Footprint](http://geosocialfootprint.com/) or [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint 
@@ -1912,7 +1892,7 @@ Twitch Stream Tracker
 * [Darker](https://github.com/angelwzr/darker) - Dark / Light Mode Theme Switcher
 * [ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fix Excel on Themed Windows 
 * [Accent Applicator](https://github.com/mcdenis/AccentApplicator) - Applies Win 10 Accent Color to OS
-* [ModernWinver](https://github.com/torchgm/ModernWinver) - Modernize the About Windows Screen
+* [ModernWinver](https://github.com/torchgm/NewModernWinver) - Modernize the About Windows Screen
 * [pyWinContext](https://github.com/VodBox/pyWinContext) or [WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Custom Context Menu Manager 
 * [Modern Flyouts](https://www.microsoft.com/en-gb/p/modernflyouts-preview/9mt60qv066rp?activetab=pivot:overviewtab) - Modern & Fluent Flyouts for Windows / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 * [WindowFX](https://www.stardock.com/products/windowfx/) - System Animation Effects / [Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_windowfx_premium)
@@ -2073,7 +2053,6 @@ Twitch Stream Tracker
 * [OpenPaper](https://openpaper.work/en/) or [DataShare](https://datashare.icij.org/) - Document Manager
 * [Browsemonkey](https://github.com/shukriadams/browsemonkey) - Take Snapshots of File Systems 
 * [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - GDrive Guide 
-* [Save to Drive](https://savetogoogledrive.herokuapp.com/) - Save Files to GDrive without account   
 * [gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink) or [google-drive-direct-link-generator](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - GDrive File Direct Link Generator
 * [Google Drivac](https://github.com/Data-Horde/gdrivac) - Associate Gdrive Account with URL List
 * [Attribute Changer](https://www.petges.lu/) - Edit File & Folder Properties

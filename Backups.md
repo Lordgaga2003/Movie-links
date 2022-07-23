@@ -14,7 +14,7 @@
 
 ***
 
-**[Single Page Backup](https://gist.github.com/taskylizard/5ba73bf97dccf159316edcf4c6520856)** - [Updated Daily]
+**[Single Page Backup](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page)** - [Updated Periodically]
 
 ***
 

@@ -35,7 +35,7 @@
 
 * **[android-security-awesome](https://github.com/ashishb/android-security-awesome)** - Android Security Resources 
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Browsers with a focus on Privacy 
-* [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [PandaVPN](https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy), [GoatVPN](https://play.google.com/store/apps/details?id=com.secure.proxy.freevpn), [Your Freedom VPN](https://play.google.com/store/apps/details?id=de.resolution.yf_android), [VPNhub](https://www.vpnhub.com/) or [Clash](https://github.com/Kr328/ClashForAndroid/) / [Profiles](https://rentry.co/2q3rn) - Free VPN
+* [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [PandaVPN](https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy), [GoatVPN](https://play.google.com/store/apps/details?id=com.secure.proxy.freevpn), [Your Freedom VPN](https://play.google.com/store/apps/details?id=de.resolution.yf_android), [Vpnify](https://vpnifyapp.com/), [VPN Door](https://play.google.com/store/apps/details?id=com.securesoft.vpndoor&hl=en_US&gl=US), [VPNhub](https://www.vpnhub.com/) or [Clash](https://github.com/Kr328/ClashForAndroid/) / [Profiles](https://rentry.co/2q3rn) - Free VPN
 * [Guardian Project](https://guardianproject.info/) / [2](https://guardianproject.info/fdroid/repo), [Divestos Apps](https://divestos.org/index.php?page=recommended_apps), [CookieJarApps](https://cookiejarapps.com/) or [InviZible](https://github.com/Gedsh/InviZible) - Privacy Based Apps / Tools 
 * [FOSS Smartphone Hardening](https://lemmy.ml/post/54596), [2](https://www.reddit.com/r/privatelife/comments/rohq46/100_foss_smartphone_hardening_nonroot_guide_40/) - Non-Root Smart Phone Hardening Guide
 * [Exodify](https://github.com/FacettsOpen/exodify) - Display Tracker Count on Apps in Play Store
@@ -906,7 +906,7 @@
 * [Onion Browser](https://onionbrowser.com/) - Onion Browser for iOS 
 * [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Privacy Based Browser 
 * [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) or [MobiWall](https://apps.apple.com/gb/app/mobiwall/id1486297414) - iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)
-* [PhantomVPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_phantomvpn) or [Ultrasurf](https://apps.apple.com/us/app/ultrasurf-vpn/id1563051300) - Free VPN
+* [PhantomVPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_phantomvpn), [Vpnify](https://vpnifyapp.com/) or [Ultrasurf](https://apps.apple.com/us/app/ultrasurf-vpn/id1563051300) - Free VPN
 * [Potatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) - Proxy App
 * [Anti-Social](https://apps.apple.com/us/app/faceblock-block-facebook/id1516200820) - Block Social Media Trackers 
 * [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669), [surespot](https://www.surespot.me/), [Status](https://status.im/), [Session](https://getsession.org/), [Confide](https://apps.apple.com/ca/app/confide-secret-messenger/id779883419), [Olvid](https://olvid.io/en/) or [chatsecure](https://chatsecure.org/) - Encrypted Messaging 

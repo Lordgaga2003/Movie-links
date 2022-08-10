@@ -939,6 +939,7 @@
 * [4chanSearch](https://4chansearch.com/) - 4chan Search
 * [Git Search Engine](https://zzollo.co/) - Search GitHub, GitLab ect.
 * [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) - Tik-Tok Search
+* [tumbex](https://www.tumbex.com/) - Tumblr Search
 * [Mibbit](https://search.mibbit.com/) - IRC Channel Search
 * [dato.rss](https://datorss.com/) - RSS Feeds Search Engine
 * [AlsoAsked](https://alsoasked.com/) - Related Search Tool

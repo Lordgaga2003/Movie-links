@@ -14,7 +14,7 @@
 
 ***
 
-**[Single Page Backup](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page)** - [Updated Periodically]
+**[Single Page Backup](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page)** - [Updated Daily]
 
 ***
 
@@ -32,7 +32,7 @@ Password: FMHY
 
 ***
 
-**[Wiki Source](https://ufile.io/qg21k67i)** - [Updated 7/9/22]
+**[Wiki Source](https://mega.nz/file/H34nnRKA#n6vcJaE3DtkIqmgP_7K53fMDXmiUMy77uu1gECMQYN4)** - [Updated 8/10/22]
 
 View the Wiki Source with any [Markdown Editor](https://redditpreview.com/)
 

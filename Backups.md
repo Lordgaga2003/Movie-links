@@ -40,7 +40,7 @@ View the Wiki Source with any [Markdown Editor](https://redditpreview.com/)
 
 **Alt Views** - [Updated Daily]
 
-**[Herokuapp](https://fmhy.herokuapp.com/)** / **[Libredd.it](https://libredd.it/r/FREEMEDIAHECKYEAH/wiki)** / **[Teddit](https://teddit.net/r/FREEMEDIAHECKYEAH/wiki)**
+**[Herokuapp](https://fmhy.herokuapp.com/)** / **[Libredd.it](https://libredd.it/r/FREEMEDIAHECKYEAH/wiki)** / **[Teddit](https://teddit.net/r/FREEMEDIAHECKYEAH/wiki)** / **[Troddit](https://www.troddit.com/r/FREEMEDIAHECKYEAH/wiki)**
 
 
 ***

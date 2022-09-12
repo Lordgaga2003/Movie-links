@@ -26,13 +26,13 @@
 
 ***
 
-**[Disroot Backup](https://bin.disroot.org/?6a21b8d20191094b#8USPkh97jr15fktBuv5g5uS3zwPppLfCjHenVEiaZrKv)** - [Updated 7/20/22]
+**[Disroot Backup](https://bin.disroot.org/?bbbde59e010d0f5e#AuE83epjabPfmNdU9wEcDpAsDMtujyf7um2g3HxcKdru)** - [Updated 9/12/22]
 
 Password: FMHY
 
 ***
 
-**[Wiki Source](https://mega.nz/file/H34nnRKA#n6vcJaE3DtkIqmgP_7K53fMDXmiUMy77uu1gECMQYN4)** - [Updated 8/10/22]
+**[Wiki Source](https://mega.nz/file/GqojgaLR#9vHGUOtUeEuyD5k3ezxeMV7lEN7ov4QYWkXuCS7iqLk)** - [Updated 9/12/22]
 
 View the Wiki Source with any [Markdown Editor](https://redditpreview.com/)
 

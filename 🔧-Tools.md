@@ -301,7 +301,8 @@
 * [VidGrid](https://vidgrid.tk.gg/) - View Multiple Streams Simultaneously
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) or [OBS Ninja](https://obs.ninja/) - Streaming Tools Indexes
 * [dart_vlc](https://github.com/alexmercerind/dart_vlc) - Video Recording / Streaming
-* [VegasScripts](https://github.com/otomad/VegasScripts) - MAGIX Vegas Scripts
+* [OtomadHelper](https://github.com/otomad/OtomadHelper) - Otomad Helper Script for Vegas Pro
+* [OM_Midi](https://github.com/otomad/om_midi) - Otomad/YTPMV Script for After Effects
 * [VDO.Ninja](https://vdo.ninja/) - Remote Camera Video Production
 * [Stream Elements](https://streamelements.com/) - Streaming Service Manager
 * [LiveRecord](https://github.com/lovezzzxxx/liverecord) - Automatic Stream Recorder
@@ -465,7 +466,6 @@
 * [VCV Rack](https://vcvrack.com/) - Eurorack Simulator
 * [Cable](https://vb-audio.com/Cable/) - Virtual Audio Cable
 * [Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Download Album Art
-* [Apple Music Animated Artwork Fetcher](https://github.com/bunnykek/Apple-Music-Animated-Artwork-Fetcher) - Download Animated Apple Music Art
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - Identify Playing Songs
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Soundux](https://soundux.rocks/) / [GitHub](https://github.com/Soundux/Soundux) or [Resanance](https://resanance.com/) - Soundboard Program
 * [MyInstants](https://www.myinstants.com/index/us/), [InternetsFun](https://instantsfun.es/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboard

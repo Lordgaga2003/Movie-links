@@ -89,16 +89,20 @@
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball Decompilation
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
 * [PokemonRevolution](https://pokemonrevolution.net/) - Pokemon MMO
+* [Puyo Puyo VS](https://puyovs.com/) - Puyo Puyo Clone
 * [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_setlists), [2](https://customsongscentral.com/) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing)
 * [StepMania](https://www.stepmania.com/), [Project OutFox](https://projectoutfox.com/) or [NotITG](https://www.noti.tg/) - DDR Clones
 * [StepPrime](https://stepprimeofficial.blogspot.com/) - Pump It Up Clone
+* [Malody](https://m.mugzone.net/) - Rhythm Game
 * [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
 * [Unnamed SDVX clone](https://github.com/Drewol/unnamed-sdvx-clone) - Sound Voltex Clone
 * [OpenTaiko](https://github.com/0auBSQ/OpenTaiko) - Taiko no Tatsujin Clone / [Taiko Simulator Guide](https://tjadataba.se/)
 * [Etterna](https://etternaonline.com/), [Quaver](https://quavergame.com/), [O2Mania](https://o2mania.info/) - O2Jam Clones / [Online Maps](http://www.flashflashrevolution.com/), [2](https://www.roblox.com/games/4841678118) -
-* [osu!](https://osu.ppy.sh/home), [opsu!](https://itdelatrisu.github.io/opsu/) or [McOsu](https://store.steampowered.com/app/607260/McOsu/) - Osu! Tatakae! Ouendan Clones
+* [osu!](https://osu.ppy.sh/home), [opsu!](https://itdelatrisu.github.io/opsu/), [osu!droid](https://osudroid.moe/) or [McOsu](https://store.steampowered.com/app/607260/McOsu/) - Osu! Tatakae! Ouendan Clones
 * [PPD](https://projectdxxx.me/) - Project Diva Clone
 * [Vulnus](https://discord.gg/vulnus) or [Sound Space+](https://chedski.itch.io/sound-space-plus) - Sound Space Clones
+* [Cytoid](https://cytoid.io/) - Cytus Clone
+* [DTXManiaNX](https://github.com/limyz/DTXmaniaNX) - GITADORA Clone
 * [Roblox Archive](https://archive.roblonium.com/) - Roblox Client Archive 
 * [Novetus](https://bitl.itch.io/novetus) - Self-hosted Multi-version Roblox Client
 * [GrimReaper's Scene ISO Collection](https://archive.org/details/@waffess) - ISO Collection
@@ -407,7 +411,7 @@
 * [GtkAtlantic](https://gtkatlantic.gradator.net/index.html) or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - Open Source Monopoly
 * [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - Giant Pac-Man
 * [Tetris](https://tetris.com/), [Tetr.js](http://farter.cn/tetr.js/), [OpenTetris Classic](https://sourceforge.net/projects/opentetrisclassic/) or [NullpoMino](https://github.com/nullpomino/nullpomino) - Play Tetris
-* [TETR.IO](https://tetr.io/) - Multiplayer Tetris / [Plus](https://gitlab.com/UniQMG/tetrio-plus) / [Skin Database](https://you.have.fail/at/tetrioplus/)
+* [TETR.IO](https://tetr.io/) - Multiplayer Tetris / [Plus](https://gitlab.com/UniQMG/tetrio-plus) / [Skin Database](https://you.have.fail/at/tetrioplus/) / [Stats](https://tetrio.team2xh.net/)
 * [Jstris](https://jstris.jezevec10.com/) - Multiplayer Tetris / [Plus](https://discord.gg/mtX8ek82xb) / [Skin Database](https://docs.google.com/spreadsheets/d/1xO8DTORacMmSJAQicpJscob7WUkOVuaNH0wzkR_X194/htmlview#)
 * [First Person Tetris](https://firstpersontetris.com/) - Play Tetris in First Person 
 * [Play Snake](https://playsnake.org/) - Retro Snake 

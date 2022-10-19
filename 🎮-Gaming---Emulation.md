@@ -83,6 +83,7 @@
 * [NR2003](https://wildkustomcars.weebly.com/) - Modded Nascar 2003
 * [CsWarzOnE](https://www.cswarzone.com/) - Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)
 * [Minetest](https://www.minetest.net/) - F2P Minecraft Alternative
+* [BetaCraft](https://betacraft.uk/) - Minecraft Beta Archive
 * [Unciv](https://github.com/yairm210/Unciv) - Civ V Remake
 * [OpenTTD](https://www.openttd.org/) - Transport Tycoon Remake
 * [OpenNox](https://github.com/noxworld-dev/opennox) - Nox Revival Project
@@ -610,6 +611,7 @@
 * [MiniRoyale](https://miniroyale2.io/) - Battle Royal Game 
 * [TagPro](https://koalabeast.com/) - Capture the Flag
 * [Wings.io](http://wings.io/) - Plane Battles
+* [Gpop.io](http://gpop.io/) - Rhythm Game
 * [Curve Fever](https://curvefever.pro/) - Line Battles
 * [LOLBeans](https://lolbeans.io/) - "Fall guys" like game
 * [Betrayal](https://betrayal.io/) - "Among Us" like game

@@ -14,7 +14,7 @@
 
 ***
 
-**[FMHY.tk](https://fmhy.tk/)** / **[FMHY.cf](https://fmhy.cf/)**  - [Updated Periodically]
+**[FMHY.tk](https://fmhy.tk/)**
 
 ***
 

@@ -87,7 +87,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * [Search Engine Colossus](https://www.searchenginecolossus.com/) - Index
 * [Search-Engine](https://start.me/p/wM7y15/search-engine) - Index
 * [100 Search Engines](https://www.100searchengines.com/) - Search With 100 Search Engines
-* [pSearch](https://github.com/SerjSX/pSearch/), [Search All](https://www.searchall.net/) or [AIO Search](https://www.aiosearch.com/) - Multi Site Search
+* [pSearch](https://serjsx.github.io/wpSearch/), [Search All](https://www.searchall.net/) or [AIO Search](https://www.aiosearch.com/) - Multi Site Search
 * https://oceanhero.today/
 * https://llarryyllarryy.github.io/Max-Impact-Search/
 * https://www.lycos.com/
@@ -202,7 +202,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Android Note Apps
 
-[xaviertobin](https://play.google.com/store/apps/details?id=com.xaviertobin.noted), [colornote](https://www.colornote.com/), [notion](https://www.notion.so/), [joplinapp](https://joplinapp.org/), [standardnotes](https://standardnotes.org/), [zoho](https://www.zoho.com/notebook/), [getupnote](https://play.google.com/store/apps/details?id=com.getupnote.android), [onenote](https://support.microsoft.com/en-us/office/microsoft-onenote-for-android-46b4b49d-2bef-4746-9c30-6abb5e20b688), [markor](https://fossdroid.com/a/markor.html), [Leaflet](https://github.com/PotatoProject/Leaflet), [neuriNote](https://github.com/appml/neutrinote), [easy4u](https://play.google.com/store/apps/details?id=co.easy4u.writer), [orgzly](http://www.orgzly.com/), [Markor](https://gsantner.net/project/markor.html) / [GitHub](https://github.com/gsantner/markor), [sNotz](https://sunilpaulmathew.github.io/sNotz/) / [GitHub](https://github.com/sunilpaulmathew/sNotz), [JustNote](https://justnote.cc/), [Quillnote](https://play.google.com/store/apps/details?id=org.qosp.notes)
+[xaviertobin](https://play.google.com/store/apps/details?id=com.xaviertobin.noted), [colornote](https://www.colornote.com/), [notion](https://www.notion.so/), [joplinapp](https://joplinapp.org/), [standardnotes](https://standardnotes.org/), [zoho](https://www.zoho.com/notebook/), [getupnote](https://play.google.com/store/apps/details?id=com.getupnote.android), [onenote](https://support.microsoft.com/en-us/office/microsoft-onenote-for-android-46b4b49d-2bef-4746-9c30-6abb5e20b688), [markor](https://fossdroid.com/a/markor.html), [Leaflet](https://github.com/PotatoProject/Leaflet), [neuriNote](https://github.com/appml/neutrinote), [easy4u](https://play.google.com/store/apps/details?id=co.easy4u.writer), [orgzly](http://www.orgzly.com/), [Markor](https://gsantner.net/project/markor.html) / [GitHub](https://github.com/gsantner/markor), [sNotz](https://sunilpaulmathew.github.io/sNotz/) / [GitHub](https://github.com/sunilpaulmathew/sNotz), [JustNote](https://justnote.cc/), [Quillnote](https://play.google.com/store/apps/details?id=org.qosp.notes), [Note to Self](https://play.google.com/store/apps/details?id=com.makenotetoself)
 
 ***
 
@@ -235,7 +235,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### App Launchers
 
-[Omega Launcher](https://github.com/otakuhqz/omega), [SmartLauncher](https://www.smartlauncher.net/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_smartlauncher_pro), [Lawnchair](https://lawnchair.app/), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [ActivityLauncher](https://github.com/butzist/ActivityLauncher), [Smart Dock](https://github.com/axel358/smartdock), [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher), [Olauncher](https://github.com/jooooscha/Olauncher), [Unlauncher](https://github.com/jkuester/unlauncher), [Ratio](https://blloc.com/), [Edge Card Launcher](https://play.google.com/store/apps/details?id=com.reactivstudios.android.edge4), [Nova 7.0](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/nova-launcher-7-0-57-release/) / [8.0](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/nova-launcher-8-0-1-release/) (Pre-Acquisition), [Stario](https://play.google.com/store/apps/details?id=com.stario.launcher), [Discreet Launcher](https://github.com/falzonv/discreet-launcher)
+[Omega Launcher](https://github.com/otakuhqz/omega), [SmartLauncher](https://www.smartlauncher.net/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_smartlauncher_pro), [Lawnchair](https://lawnchair.app/), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [ActivityLauncher](https://github.com/butzist/ActivityLauncher), [Smart Dock](https://github.com/axel358/smartdock), [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher), [Olauncher](https://github.com/jooooscha/Olauncher), [Unlauncher](https://github.com/jkuester/unlauncher), [Ratio](https://blloc.com/), [Edge Card Launcher](https://play.google.com/store/apps/details?id=com.reactivstudios.android.edge4), [Nova 7.0](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/nova-launcher-7-0-57-release/) / [8.0](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/nova-launcher-8-0-1-release/) (Pre-Acquisition), [Stario](https://play.google.com/store/apps/details?id=com.stario.launcher), [Discreet Launcher](https://github.com/falzonv/discreet-launcher), [Taskbar](https://play.google.com/store/apps/details?id=com.farmerbb.taskbar)
 
 ***
 
@@ -2566,6 +2566,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Telegram Anime Downloads
 
+* https://t.me/Anime_Ocean_Backup
 * https://t.me/Anime_Gallery
 * https://t.me/anidlws
 * https://t.me/AnimeCrunch
@@ -3088,6 +3089,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 * [Darkinator](https://play.google.com/store/apps/details?id=com.tfuerholzer.darkmodewallpaper) - Change Wallpaper Depending on System Theme
 * [wallpaperwaifu](https://wallpaperwaifu.com/), [Muzei](https://github.com/muzei/muzei), [Chroma Galaxy](https://play.google.com/store/apps/details?id=com.at2_software.terracollageapp), [Doodle](https://patrickzedler.com/doodle/), [GIFLiveWallpaper](https://play.google.com/store/apps/details?id=com.awesome.giflivewallpaper), [AnyVideo](https://play.google.com/store/apps/details?id=com.mclwp.anyvideolivewallpaper) or [LiveLoop](https://play.google.com/store/apps/details?id=com.wallpaper.liveloop) - Live Android Wallpapers
+* [Dynamic Wallpaper](https://play.google.com/store/apps/details?id=rk.android.app.dynamic.wallpaper) - Wallpapers that Change Based on Battery
 * [koncius](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Android Video to Wallpaper
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - iOS Wallpaper App
 

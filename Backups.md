@@ -2,7 +2,7 @@
 
 ***
 
-**[GitHub Backup](https://github.com/nbats/FMHY/wiki/FREEMEDIAHECKYEAH)** - [Updated Daily]
+**[GitHub Backup](https://github.com/nbats/FMHY/wiki/FREEMEDIAHECKYEAH)** / [2](https://mthrfckr-1.gitbook.io/freemediaheckyeah/) - [Updated Daily]
 
 ***
 

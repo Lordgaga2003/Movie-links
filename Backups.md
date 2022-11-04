@@ -41,3 +41,9 @@ Password: FMHY
 **[Markdown Page](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page)** / [2](https://gist.githubusercontent.com/taskylizard/5ba73bf97dccf159316edcf4c6520856/raw/7fc80147fd453b5c0838c009382bc86f9a86abfc/fmhy.md) - [Updated Daily]
 
 **[Markdown Search](https://github.com/Rust1667/a-FMHY-search-engine)** - Markdown Search Engine
+
+***
+
+**Backup Page Backups**
+
+**[Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups)** / **[Saidit](https://saidit.net/s/freemediaheckyeah/wiki/backups)** / **[GitHub](https://github.com/nbats/FMHY/wiki/Backups/)** / **[NotAbug](https://notabug.org/nbatman/freemediaheckyeah/wiki/Backups/)** / **[Rentry](https://rentry.co/FMHYbackups/)**

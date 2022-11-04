@@ -1,8 +1,10 @@
-**[Saidit Backup](https://saidit.net/s/freemediaheckyeah/wiki/index)** - [Updated Daily]
+**Git Backups** - [Updated Daily]
+
+**[GitHub](https://github.com/nbats/FMHY/wiki/FREEMEDIAHECKYEAH)** / **[GitBook](https://fckr.gitbook.io/fmhy)** 
 
 ***
 
-**[GitHub Backup](https://github.com/nbats/FMHY/wiki/FREEMEDIAHECKYEAH)** / [2](https://mthrfckr-1.gitbook.io/freemediaheckyeah/) - [Updated Daily]
+**[Saidit Backup](https://saidit.net/s/freemediaheckyeah/wiki/index)** - [Updated Daily]
 
 ***
 

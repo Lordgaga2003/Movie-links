@@ -1,3 +1,7 @@
+**[FMHY.tk](https://fmhy.tk/)** - [Updated Daily]
+
+***
+
 **Git Backups** - [Updated Daily]
 
 **[GitHub](https://github.com/nbats/FMHY/wiki/FREEMEDIAHECKYEAH)** / **[GitBook](https://fckr.gitbook.io/fmhy)** 
@@ -13,10 +17,6 @@
 ***
 
 **[NotABug Backup](https://notabug.org/nbatman/freemediaheckyeah/wiki/_pages)** - [Updated Daily]
-
-***
-
-**[FMHY.tk](https://fmhy.tk/)** - [Updated Periodically]
 
 ***
 

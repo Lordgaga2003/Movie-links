@@ -506,6 +506,7 @@
 * ⭐ **[Jackal](https://jackal.surge.sh/)** - TV / Sports
 * ⭐ **[USTVGO](https://ustvgo.tv/)** - TV / Sports
 * ⭐ **[WeakStream](http://weakstreams.com/)** - Sports 
+* ⭐ **[Sports Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming)** - Sports
 * ⭐ **[StreamEast](https://www.streameast.xyz/)** - Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)
 * ⭐ **[StreamLinks](https://reddits.soccerstreamlinks.com/)**, [2](https://red.soccerstreams.net/), [3](https://footybite.cc/) - Sports
 * ⭐ **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - NBA / NFL
@@ -617,17 +618,11 @@
 * [NHL66](https://nhl66.ir/) - NHL
 * [MyLiveCricket](http://hd1.mylivecricket.live/), [2](http://my3.mylivecricket.cc/) - Cricket
 * [cric7.net ](http://t20.cric7.net/) - Cricket
-* [CricStream](https://cricstream.me/) - Cricket
 * [jiotv.cf](https://jiotv.cf/) - Cricket
 * [LiveCricket.is](https://mob.livecricket.is/) - Cricket
 * [TouchCric](https://touchcric.com/) - Cricket
 * [WebCric](https://t20.webcric.com/) - Cricket
 * [PakCric](https://pakcric.net/) - Cricket
-* [Tennis Streams](https://tennisstreams.me/) - Tennis
-* [Rugby Streams](https://rugbystreams.me/) - Rugby
-* [Golf Streams](https://golfstreams.me/) - Golf
-* [F1 Streams](https://live.f1stream.me/) - F1
-* [Darts Streams](https://dartsstream.me/) - Darts
 * [Sports Streaming Subreddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming_subs)
 * [BestSportsStreamingSites](https://bestsportstreamingsites.com/) - Live Sports Sites List
 * [Reddit Live TV Links](http://reddit-livetv-links.blogspot.com/?m=1) - Live TV / Reddit

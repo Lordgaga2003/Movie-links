@@ -25,7 +25,7 @@
 * ⭐ **[Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/)** - [Discord](https://discord.gg/HP5sQ6c)
 * ⭐ **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
 * ⭐ **[GoG Games](https://gog-games.com/)**
-* ⭐ **[FFA](https://discord.gg/QvYwqvdgxc)** / [Telegram](https://pastebin.com/vZBRiCSS), [VRPirates](https://t.me/vrpirates), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
+* ⭐ **[VRPirates](https://t.me/vrpirates), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
 * ⭐ **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** - F2P Minecraft Clients / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_minecraft_tools) / [Beta Clients](https://betacraft.uk/) / [Bedrock / Java](https://redd.it/xj5w9m)
 * [DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "games" or "roms"
 * [F2P Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_f2p_games) - Free to Play Games
@@ -814,6 +814,7 @@
 * [rate.house](https://rate.house/) - Game Database
 * [Backloggery](https://backloggery.com/) - Game Database
 * [listal](https://www.listal.com/) - Game Database
+* [SteamPeek](https://steampeek.hu/) - Indie Game Database
 * [RetroShowcase](https://www.retroshowcase.gr/) - Retro Game Database
 * [Co-Optimu](https://www.co-optimus.com/) - Co-Op Game Database
 * [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [list of local multiplayer pc games](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database

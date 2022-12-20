@@ -20,7 +20,7 @@
 
 ***
 
-**[Disroot Backup](https://bin.disroot.org/?83969961515d0bb3#9hKi9MCZW1kbgeTJRXkbW5q1TBop2oGUStkrXaRhzY3t)** - [Updated 11/9/22]
+**[Disroot Backup](https://bin.disroot.org/?00eb28a7f7a33b2b#JDABpuUvvS45Y1rxzD5L8jvPgjgkE9yBpBHQ6c4NrSdj)** - [Updated 12/19/22]
 
 Password: FMHY
 
@@ -36,7 +36,7 @@ Password: FMHY
 
 ***
 
-**[Markdown Files](https://mega.nz/file/KypyBQCR#_3EfQ3rNz3nmx2dMos0ZG0RMf27yo9IVYM48PeDqgmc)** - [Updated 11/9/22]
+**[Markdown Files](https://mega.nz/file/Xrg0WAhZ#eB0mjU8UYD7Smvs6PROm8LDhoRjz8fMr3clwnKNzrRI)** - [Updated 12/19/22]
 
 **[Markdown Page](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page)** / [2](https://gist.githubusercontent.com/taskylizard/5ba73bf97dccf159316edcf4c6520856/raw/7fc80147fd453b5c0838c009382bc86f9a86abfc/fmhy.md) - [Updated Daily]
 

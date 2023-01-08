@@ -643,8 +643,9 @@
 * [Hole.io](https://hole-io.com/) - Become the Biggest Hole / [Discord](https://discord.gg/UA2HdpT) 
 * [Spinz.io](http://spinz.io/) - Fidget Spinner Battles
 * [Multiplayer.golf](https://multiplayer.golf/) or [Manygolf](https://manygolf.club/) - Multiplayer Golf
-* [Tanki](https://tankionline.com/) - Online Team VS Team Tank Game 
-* [Plink](http://labs.dinahmoe.com/plink/) - Music Game 
+* [Tanki](https://tankionline.com/) - Online Team VS Team Tank Game
+* [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
+* [Plink](http://labs.dinahmoe.com/plink/) - Music Game
 * [Make It Meme](https://makeitmeme.com/) - Meme Party Game
 * [Fishington](https://fishington.io/) - Fishing Game
 * [Too Many Chefs](https://www.toomanychefs.party/) - Text-Based Coop Cooking Game 

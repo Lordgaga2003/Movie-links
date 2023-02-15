@@ -1622,6 +1622,11 @@
 ## ▷ Downloading
 
 * [identi](https://identi.io/) - Video / Audio / Software / Games
+* [ForoWarez](https://forowarez.info/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
+* [BladeMaster666](https://blademaster666.com/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
+* [LuchoEdu](https://www.luchoedu.org/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
+* [Fiuxy](https://fiuxy2.com/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
+* [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
 * [CompucaliTV](https://www.compucalitv.com/) - Video / Software / Games
 * [ZonaLeRoS](https://www.zona-leros.net/) - Video / Games
 * [GamesMega](https://gamesmega.net/) - Games / ROMs
@@ -1764,7 +1769,6 @@
 * [LectuEpubGratis](https://lectuepubgratis2.com/) - Books
 * [MundoEpubGratis](https://mundoepubgratis2.com/) - Books
 * [DebeLeer](https://www.debeleer.com/) - Books
-* [Todolibros](https://todolibros.net/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [librosintinta](https://www.librosintinta.in/) - PDF Search
 * [albalearning](https://albalearning.com/) - Audiobooks

@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/urmkLgu.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/x3f3qhC.png)** - For mobile users
 
 ***
 
@@ -1402,64 +1402,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 ⭐ **[HakuNeko](https://hakuneko.download/) / [2](https://github.com/manga-download/hakuneko)**
 
 [Comics Downloader](https://github.com/Girbons/comics-downloader), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [MangaBot](http://mangabot.github.io/), [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader), [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangadesk](https://github.com/darylhjd/mangadesk), [mdownloader](https://github.com/Rudoal/mdownloader), [mangapy](https://pypi.org/project/mangapy/), [manga2mobi](https://github.com/KevCui/manga2mobi), [Akianonymus](https://github.com/Akianonymus/mangadl-bash), [simple-manga-downloader](https://github.com/Kanjirito/simple-manga-downloader), [mangodl](https://github.com/Gyro7/mangodl), [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl), [manga-py](https://github.com/manga-py/manga-py), [mangal](https://github.com/metafates/mangal), [comicMaker](https://github.com/gunjannandy/comicMaker), [LittleWeeb](https://littleweeb.github.io/)
-
-***
-
-#### Manhua / Manhwa / Webtoons
-
-* https://1stkissmanga.com/ / [2](https://1stkissmanga.io/), [3](https://1stkissmanga.love/)
-* https://manga3s.com/ - [Discord](https://discord.gg/c3ydbYdYjb)
-* https://www.webtoons.com/
-* https://wuxiaworld.site/
-* https://readfreecomics.com/
-* https://manhuaplus.com/
-* https://www.readmng.com/
-* https://zinmanga.com/
-* https://www.mangasy.com/
-* https://mangatoon.mobi/
-* https://novelmic.com
-* https://bibimanga.com/
-* https://mangatx.com/
-* https://manhuakiss.com/
-* https://elarcpage.com/
-* https://coffeemanga.io/
-* https://pianmanga.me/
-* https://mangabob.com/
-* https://manga347.com/
-* https://247manga.com/
-* https://toomics.com/
-* https://readmanhua.net/
-* https://tapas.io/
-* https://www.bilibilicomics.com/
-* https://mangakomi.io/
-* https://aquamanga.com/
-* https://mangaweebs.in/
-* https://dragontea.ink/
-* https://niadd.com/
-* https://toonily.com/
-* https://manhwa18.net/
-* https://manhuafast.com/
-* https://manhwakool.com/
-* https://manhuascan.io/
-* https://manhwatop.com/
-* https://www.instamanhwa.com/
-* https://manhwa68.com/
-* https://zinmanga.com/
-* https://manhwaworld.com/
-* https://manhwatop.com/
-* https://comickiba.com
-* https://readmanhwa.com/en/
-* https://manhwaz.com/
-* https://manhwafull.com/
-* https://www.topmanhua.com/
-* https://manhuas.net/
-* https://manhuaes.com/
-* https://manhuadragon.com/
-* https://manhuahot.com/
-* https://todaymic.com
-* https://manhuazone.com/
-* https://manhuaga.com/
-* https://teenmanhua.com/
 
 ***
 

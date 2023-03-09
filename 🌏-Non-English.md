@@ -48,6 +48,7 @@
 * [dotCima](https://s2.dotcima.com/) - Movies / TV
 * [cinemana](https://cinemana.co/main/) - Movies / TV
 * [LODYNET](https://www.lodynet.cam/) - Movies / TV
+* [ShahidOnline](https://shahidonline.org/) - Movies / TV
 * [Fushaar](https://www.fushaar.com/), [2](https://fushaar.info/) - Movies / TV
 * [egydead](https://w3.egydead.live) - Movies / TV / Anime
 * [movizland](https://new.movizland.cyou/), [2](https://movizland.info/) - Movies / TV / Anime
@@ -173,7 +174,7 @@
 * [CatoCR](https://catocr.com/) - Image to Text
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - Lift Emby Restrictions
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) or [New Pac](https://github.com/Alvin9999/new-pac) - Bypass Chinese Firewall
-* [BlockedInChina](https://www.comparitech.com/privacy-security-tools/blockedinchina/) - Test if Site is Blocked in China
+* [BlockedInChina](https://www.comparitech.com/privacy-security-tools/blockedinchina/), [China Firewall Test](http://www.chinafirewalltest.com/) - Test if Site is Blocked in China
 * [Gitee](https://gitee.com/) - GitHub Alternative
 * [V2EX](https://v2ex.com/) or [ZongScan](https://www.zongscan.com/) - Programming Forum
 * [BookStack](https://www.bookstack.cn/) - Developer / Programming Guides
@@ -717,6 +718,7 @@
 * [otakudesu](https://otakudesu.watch/) - Anime
 * [anoBoy](https://anoboy.lol/) - Anime
 * [kuramanime](https://kuramanime.com/) - Anime
+* [Akashinime](https://akashinime.pro/) - Anime
 
 ## ▷ Reading
 
@@ -1588,6 +1590,7 @@
 * [Diccionario RAE en un clic](https://chrome.google.com/webstore/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - Dictionary Extension
 * [GermanDeutsch](https://t.me/GermanDeutsch) - Learn German
 * [Bliscop](https://www.bliscop.com/) - Online Payment Software
+* [El Museo de los 8 bits](http://www.museo8bits.es/) / [2](https://museo8bits.com/) - History of Computing
 
 ## ▷ Downloading
 
@@ -1604,6 +1607,7 @@
 * [ZonaLeRoS](https://www.zona-leros.net/) - Video / Games
 * [GamesMega](https://gamesmega.net/) - Games / ROMs
 * [Emu Games](https://emu-games.com/) - Emulators / ROMs
+* [KillerROMs](https://roms-descargar.com/) - Emulators / ROMs
 * [Romsjuegos](https://romsjuegos.com/) - ROMs
 * [Roms en Español](https://romsespanol.com/) - ROMs
 * [BajarJuegosPCgratis](https://bajarjuegospcgratis.com/) - Games
@@ -1696,6 +1700,8 @@
 * [Cinemargentino](https://cinemargentino.com/) - Movies / Documentaries
 * [Rincon Cinefilo](https://www.rinconcinefilo.com/) - Movies / Documentaries
 * [Naranjas de Hiroshima](https://www.naranjasdehiroshima.com/) - Documentaries / Archives
+* [DocumaniaTV](https://www.documaniatv.com/) - Documentaries
+* [Area Documental](https://www.area-documental.com/) - Documentaries
 * [novelas360](https://novelas360.com/) - TV
 * [HindiLover](https://hindilover.biz/) - TV
 * [Vix](https://www.vix.com/tv/) - TV
@@ -1835,6 +1841,7 @@
 * [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.com/) - Movies / Choose Voltran & press "скачать" for DL's 
 * [MP3 Indir](https://www.mp3indirdur.mobi/) - Music 
 * [HappyMod](https://www.happymodapkindir.com/) - Modded APKs
+* [AndroidOyunClub](https://androidoyun.club/apks) - Modded APKs
 
 ## ▷ Streaming
 

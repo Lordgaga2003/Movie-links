@@ -159,6 +159,7 @@
 # ► Free Stuff
 
 * ⭐ **[Give & Away](https://discord.gg/b4uTmX5PVq)** - Giveaway Server
+* [Unlimited Trials](https://rentry.co/unlimited-trials) - Unlimited Free Trials Guide
 * [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) or [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Auto-Claim Free Epic Games
 * [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [SteamGifts](https://www.steamgifts.com/) / [Auto Join](https://chrome.google.com/webstore/detail/autojoin-for-steamgifts/bchhlccjhoedhhegglilngpbnldfcidc?hl=en), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - Steam Games 
@@ -378,7 +379,7 @@
 * [BilingualJokes](https://bilingualjokes.com/) - Multi-Language Jokes
 * [DadJokeCLI](https://github.com/Anupya/dadjoke-cli) - Get Dad Jokes in Command Line
 * [Magic Crystal Ball](https://www.oproot.com/ball/) - Get Messages from Beyond
-* [60's TV Simulator](https://www.my60stv.com), [70's](https://www.my70stv.com/), [80's](https://www.my80stv.com/), [90's](https://www.my90stv.com/), [00's](https://www.my00stv.com/)
+* [Retro TV Simulator](https://www.myretrotvs.com/) - Simulate Oldschool TV Channels
 * [Neave.tv](https://neave.tv/) - TV without context
 * [The Office Stare Machine](http://theofficestaremachine.com/) - The Office Video Emotions 
 * [Endless Summer Times](https://times.endlessvmmer.com/) - Retro Summer Vibe News Archive
@@ -689,6 +690,7 @@
 * [LiveScore](https://www.livescores.com/) - Live Sports Scores
 * [NBA Go](https://github.com/homerchen19/nba-go) - NBA Schedule / Scores CLI
 * [Scribe](https://scribe.bus-hit.me/) - Medium Frontend
+* [Read Something Interesting](https://readsomethinginteresting.com/) - Random Articles / Blog Posts
 * [prompt.press](https://prompt.press/) - AI Art Inspired by News
 * [Jayto's Newsletter List](https://rentry.co/newsletters) - List of Newsletters
 
@@ -777,6 +779,7 @@
 * [Edamam](https://developer.edamam.com/) - Food-Related APIs
 * [Recipe Puppy](http://www.recipepuppy.com/about/api/) - Recipe API
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course
+* [Cheese.com](https://cheese.com/) - Cheese Resources
 * [tacofancy](https://github.com/sinker/tacofancy) - Taco Recipes
 * [AmazingRibs](https://amazingribs.com/) - Rib Recipes
 * [Bakerella](http://www.bakerella.com/) - Baking Recipes

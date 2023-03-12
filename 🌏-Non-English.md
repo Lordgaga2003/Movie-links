@@ -57,6 +57,7 @@
 * [YallaDrama](https://k.yalladrama.co/) - Movies / TV
 * [ShahidToday](https://o.shahid2day.com/) - Movies / TV
 * [mycima](https://mycima.link/) - Movies / TV / Anime
+* [Shafilm](https://shafilm.vip/) - Movies / TV / Anime / Cartoons
 * [cima-club](https://cima-club.cam/) - TV / Anime
 * [eshiq](https://eshiq.net/), [2](https://3sk.tv/) - Turkish TV
 * [asia2tv](https://asia2tv.cn/) - Asian Drama
@@ -83,6 +84,7 @@
 * [xsanime](https://v.xsanime.com/) - Anime
 * [ncv](http://www.ncv.life/) - Anime
 * [Arabsama](https://arabsama.net/) - Anime
+* [Okanime](https://okanime.cc/) - Anime
 * [fomny](http://fomny.com/Home/index.php) - Live TV
 * [qayadat](https://play.qayadat.org/channels) - Live TV
 * [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
@@ -268,6 +270,7 @@
 * [CLibrary](https://clibrary.top/) - Books
 * [ZXCS](http://zxcs.me) - Books
 * [LoreFree](https://lorefree.com/) - Books
+* [52shuku](https://www.52shuku.vip/) - Books / Light Novels
 * [zhongwen](http://zhongwen.com/gudian.htm) - Classic Literature
 * [AC.QQ](https://ac.qq.com/) - Manga
 * [BiliBili](https://manga.bilibili.com/) - Manga
@@ -417,6 +420,7 @@
 * [PapyStreaming](https://vvww.papystreamings.biz/) - Movies / TV
 * [PapaDuStream](https://www.papadustream.vin/) - Movies / TV
 * [Dpstream](https://wvw.dpstream.rip/) - Movies / TV
+* [Sadisflix](https://sadisflix.cx/) - Movies / TV
 * [Cpasfini](https://vvww.cpasfini.rip/) - Movies / TV / Cartoons
 * [OtakuFR](https://otakufr.co/) - Anime
 * [JetAnime](https://www.jetanimes.co/), [2](https://wvw.jetanimes.com/) - Anime
@@ -709,6 +713,8 @@
 * [AnimeBatchs](https://animebatchs.net/) - Anime 
 * [AniBatch](https://anibatch.anibatch.moe/) - Anime
 * [Drivenime](https://drivenime.com/) - Anime
+* [IndonesiaEbook](https://ebook.twointomedia.com/) - Books
+* [NovelTerjemahan](https://novelterjemahan.com/) - Books
 
 ## ▷ Streaming
 
@@ -1082,6 +1088,8 @@
 * [Ekino-TV](https://ekino-tv.pl/) - Movies / TV
 * [Zerion.cc](https://zerion.cc/) - Movies / TV
 * [Vizjer](https://vizjer.pl/) - Movies / TV
+* [Zerknij](https://zerknij.tv/) - Movies / TV
+* [Kinomoc](https://kinomoc.com/) - Movies / TV
 * [Shinden](https://shinden.pl/) - Anime / [Discord](https://discord.gg/xyH5uS6)
 * [wbijam](https://wbijam.pl/) - Anime
 * [Anime Odcinki](https://anime-odcinki.pl/) - Anime
@@ -1140,6 +1148,7 @@
 * [wreducacional](https://www.wreducacional.com.br/) - Courses
 * [Mundo Ubuntu](https://www.mundoubuntu.com.br/) - Courses
 * [Jogatina](https://www.jogatina.com/) - Android Games
+* [Wrapk.net](https://www.wrapk.net/) - Modded APKs
 
 ## ▷ Torrenting
 
@@ -1654,10 +1663,11 @@
 * [VictorRaulRR](https://victorraulrr.info/) - Modded APKs
 * [Androidlista](https://www.androidlista.com/) - Modded APKs
 * [APKilimitado](https://apkilimitado.com/) - Modded APKs
+* [EspacioAPK](https://espacioapk.com/) - Modded APKs
 
 ## ▷ Torrenting
 
-* [DonTorrent](https://dontorrent.cloud/) / [2](https://donproxies.com/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
+* [DonTorrent](https://dontorrent.cloud/), [2](https://donproxies.com/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
 * [MejorTorrent](https://www1.mejortorrent.rip/) - Movies / TV / Documentaries / [Telegram](https://t.me/s/MejorTorrentAp)
 * [MejorTorrent.se](https://mejortorrent.se/) - Video / Audio / Software / Games / [Telegram](https://t.me/s/mejortorrentcom)
 * [Elitetorrent](https://www.elitetorrent.wf/) - Movies / TV / Anime
@@ -1669,6 +1679,9 @@
 * [DivxTotal](https://www.divxtotal.bz/) - Movies / TV / Software
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
+* [PediaTorrent](https://pediatorrent.com/) - Movies / TV / Documentaries
+* [Cinecalidad](https://cinecalidad.one/) - Movies / TV
+* [VivaTorrents](https://www.vivatorrents.org/) - Movies / TV
 * [Frozen Layer](https://www.frozen-layer.com/) - Anime
 * [unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
@@ -1742,7 +1755,7 @@
 
 ## ▷ Reading
 
-* ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** - Multi-Site Book Search
+* ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** / [SMAGX](https://smagx.com/) - Multi-Site Book Search
 * [epublibre](https://www.epublibre.org/) - Books
 * [ebiblioteca](https://ebiblioteca.org/) - Books
 * [Ebookelo](https://www.ebookelo.com/) - Books
@@ -1759,6 +1772,7 @@
 * [Elejandría](https://www.elejandria.com/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [librosintinta](https://www.librosintinta.in/) - PDF Search
+* [FreeLibros](https://www.freelibros.net/) - Textbooks / Books / Audiobooks / Magazines / Courses / Documentaries
 * [booksmedicos](https://booksmedicos.org/) - Medical Textbooks
 * [albalearning](https://albalearning.com/) - Audiobooks
 * [Audioteka](https://t.me/+S3ssdd7ny9oyM2M0) - Audiobooks
@@ -2084,6 +2098,9 @@
 * [Toroflix](https://freewatchhindimoviesonline.com/) - Streaming / Movies
 * [SadRip](https://sadrip.blogspot.com/) - Movies / TV
 * [Movies Counter](https://moviescounter.hair/) - Download / Movies
+* [MLWBD](https://mlwbd.autos/) - Download / Movies / TV / Anime
+* [DesireMovies](https://desiremovies.network/) - Download / Movies / TV
+* [DotMovies](https://dotmovies.cam/) - Download / Movies / TV / Cartoons
 * [CineVood](https://cinevood.homes/) - Download / Movies
 * [Mallumv](https://mallumv.run/), [2](https://tttttt.me/mallumvoff) - Download / Movies
 * [Movies Point](https://sdmoviespoint.fit/) - Download / Movies
@@ -2126,4 +2143,6 @@
 * [Machine Learning ka Chilla](https://www.youtube.com/playlist?list=PL9XvIvvVL50HHzaLPtFBOuikAWa0JdhMW) - Urdu / Machine Learning Course 
 * [WiiDatabase](https://wiidatabase.de/) - Deutsch / Nintendo Homebrew
 * [zoom.lk](https://zoom.lk/) - Sinhalese / Subtitles
+* [Kurdsubtitle](https://kurdsubtitle.net) - Kurdish / Subtitles
+* [KurdCinema](https://www.kurdcinama.com/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
 * [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - Converts Steam Prices to Argentine Pesos

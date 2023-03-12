@@ -1356,7 +1356,7 @@
 * [hide-scrollbars](https://addons.mozilla.org/en-US/firefox/addon/hide-scrollbars/) - Hide Browser Scrollbar
 * [AutoPagerize Advanced](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - Merge Multiple Pages
 * [Profile Switcher](https://addons.mozilla.org/en-US/firefox/addon/profile-switcher/) - Profile Manager
-* [I still don't care about cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) or [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Block Cookie Consent Popups / Non-Avast Fork
+* [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) or [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Non-Avast Fork / Block Cookie Consent Popups
 * [AutoCookieOptout](https://github.com/CodyMcCodington/AutoCookieOptout) - Auto Delete Cookies
 * [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - Easily Switch User-Agent
 * [SoundFixer](https://github.com/myfreeweb/soundfixer) - Fixes Sites that are too Quiet
@@ -1511,6 +1511,7 @@
 * [DownloadAllContent](https://greasyfork.org/en/scripts/25068) - Download Content from Pages
 * [Microsoft Store Direct Download](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - Microsoft Store Direct Downloads
 * [y2monkey](https://github.com/jijirae/y2monkey) - Download YouTube videos by pressing "SHIFT+D" (opens y2mate.com)
+* [r2monkey](https://github.com/jijirae/r2monkey) - Download Reddit videos by pressing "SHIFT+D" (opens RapidSave.com)
 * [Maximize Video](https://greasyfork.org/en/scripts/4870) - Maximize Playing Videos via Button
 * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5)
 * [Picviewer CE+](https://greasyfork.org/en/scripts/24204) - Image Viewing Tool

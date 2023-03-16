@@ -302,6 +302,7 @@
 * [FileEagle](https://www.fileeagle.com/)
 * [Download.io](https://www.download.io)
 * [ValleySoftware](https://valleysoftware.com.au/)
+* [Sttmedia](https://www.sttmedia.com/)
 * [IcecreamApps](https://icecreamapps.com/)
 * [PRVSoft](https://www.prvsoft.com/)
 * [WorkinTool](https://www.workintool.com/)
@@ -364,7 +365,7 @@
 
 ## ▷ Indexers
 
-* ⭐ **[Nero's Black Book](https://nerosbb.com/)** or [Indexer List](https://www.reddit.com/r/usenet/wiki/indexers#wiki_free_membership_sites) - Indexer List
+* ⭐ **[Nero's Black Book](https://nerosbb.com/index.php)** or [Indexer List](https://www.reddit.com/r/usenet/wiki/indexers#wiki_free_membership_sites) - Indexer List
 * [nzbplanet](https://nzbplanet.net/)
 * [orionoid](https://orionoid.com/)
 * [binsearch](http://binsearch.info/)

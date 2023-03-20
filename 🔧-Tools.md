@@ -938,7 +938,7 @@
 * [byp4xx](https://github.com/lobuhi/byp4xx) - Bypass "403 Forbidden" Messages 
 * [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client / [Keygen](https://www.puttygen.com/) / [Multi-Tab](https://ttyplus.com/) /  [Fork](https://www.9bis.net/kitty/#!index.md) / [GitHub](https://github.com/cyd01/KiTTY/)
 * [Server Hunter](https://www.serverhunter.com/) - Search / Compare Servers 
-* [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy) or [Homer](https://github.com/bastienwirtz/homer) - Home Server Homepage
+* [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy), [Homepage](https://github.com/benphelps/homepage) or [Homer](https://github.com/bastienwirtz/homer) - Home Server Homepage
 * [rickroll-blocker](https://github.com/hitthemoney/rickroll-blocker/) - Rick Roll Blocker
 
 ***
@@ -1181,7 +1181,7 @@
 * ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Browser Extensions / Scripts
 * ⭐ **[Subreddit Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_subreddit_discovery)** - Explore / Discover Subreddits
 * ⭐ **[/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all)** or [Multireddit List](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits) - Explore / Discover Multireddits
-* ⭐ **[Reddit Google](https://greasyfork.org/en/scripts/381497)**, [Pushshift Reddit Search](https://www.redditsearch.io/) / [2](https://redditsearch.io/), [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) / [2](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30), [Redditle](https://redditle.com/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Reddit Search Engines
+* ⭐ **[Reddit Google](https://greasyfork.org/en/scripts/381497)**, [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) / [2](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30), [Redditle](https://redditle.com/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Reddit Search Engines
 * /u/SaveVideo, [r2monkey](https://github.com/jijirae/r2monkey), [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://www.redditsave.com/), [redv.co](https://redv.co/), [lew.la](https://lew.la/) or [Reddit.tube](https://reddit.tube/) - Download Reddit Videos
 * [saveddit](https://github.com/p-ranav/saveddit), [Gert](https://github.com/mcdallas/gert) or [SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader) - Reddit Bulk Media Downloaders
 * [Unmute Reddit](https://greasyfork.org/en/scripts/445557) - Unmute Reddit Videos by Default

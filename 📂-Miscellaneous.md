@@ -1177,8 +1177,9 @@
 * ⭐ **[Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102)** - Multi-Site Extension Search
 * ⭐ **[Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_adblocking_extensions) / [Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_extensions) Extensions**
 * ⭐ **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - Open-Source Extension Index
-* ⭐ **[Privacy Pass](https://privacypass.github.io/)** - Skip Captchas 
-* ⭐ **[Dark Reader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) or [222](https://github.com/x08d/222) - Dark Mode 
+* ⭐ **[Privacy Pass](https://privacypass.github.io/)** - Skip Captchas
+* ⭐ **[Clipboard2File](https://pastebin.com/JjDzqq8x)** - Upload Images from Clipboard
+* ⭐ **[Dark Reader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) or [222](https://github.com/x08d/222) - Dark Mode
 * [Into The Black Hole](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_into_the_black_hole) - Dark Mode Browser Theme
 * [Browser Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - Browser Automation Extensions
 * [Buster](https://github.com/dessant/buster), [JKCS](https://git.coom.tech/araragi/JKCS) or [NopeCHA](https://nopecha.com/) - Auto Captcha Solvers
@@ -1325,7 +1326,6 @@
 * [Firefox Download Managers](https://addons.mozilla.org/en-US/firefox/search/?category=download-management&recommended=true&sort=recommended%2Cusers&type=extension) - Download Managers for Firefox
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
 * [cliget](https://addons.mozilla.org/en-US/firefox/addon/cliget/) - Download Files from Command Line
-* [Clipboard2File](https://addons.mozilla.org/en-US/firefox/addon/clipboard2file/) - Upload Images from Clipboard
 * [ShadowFox](https://overdodactyl.github.io/ShadowFox/) or [Dark Background and Light Text](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text/) - Dark Mode
 * [FX Cast](https://hensm.github.io/fx_cast/) - Enable Chromecast in Firefox
 * [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - Chrome Extensions in Firefox

@@ -9,7 +9,7 @@
 #### 3D Modeling Apps
 
 * ⭐ **[Blender](https://www.blender.org/)** 
-* ⭐ **Blender Tools** - [Resources](https://github.com/agmmnn/awesome-blender) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [Plugins](https://t.me/blenderplugs)
+* ⭐ **Blender Tools** - [Resources](https://github.com/agmmnn/awesome-blender) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [Plugins](https://t.me/blenderplugs), [AI Render](https://github.com/benrugg/AI-Render)
 
 [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketch.Me](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [Chakoku](https://github.com/itta611/ChokokuCAD), [PovRay](http://www.povray.org/), [FreeCAD](https://www.freecadweb.org/), [PicoCad](https://johanpeitz.itch.io/picocad), [Vectary](https://www.vectary.com/), [LibreCAD](https://librecad.org/), [Art of Illusion](http://aoi.sourceforge.net/), [BRL-CAD](https://brlcad.org/), [posturize](https://get.posturize-app.com/)
 
@@ -48,7 +48,6 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 * ⭐ **[AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra)** / [Script](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js)
 * ⭐ **[fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/)**
-* [BlockAdblock Blocker](https://greasyfork.org/en/scripts/406036-blockadblock-blocker)
 * [Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt)
 * [Assassinate Ad Block Blockers](https://greasyfork.org/en/scripts/382482-assassinate-ad-block-blockers)
 * [Test Adblock Defender](https://blockads.fivefilters.org/)
@@ -57,10 +56,11 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 #### AI Tool Indexes
 
+* ⭐ **[Futurepedia](https://www.futurepedia.io/)**
 * ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)**
 * ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/free-ai-tools)**
 
-[DeepAI](https://deepai.org/), [Favird](https://favird.com/), [FutureTools](https://www.futuretools.io/?pricing-model=free), [Futurepedia](https://www.futurepedia.io/), [RunawayML](https://runwayml.com/), [AISearchTool](https://www.aisearchtool.com/), [ToolScoutAI](https://toolscout.ai/), [AI Creator Tools](https://library.phygital.plus/), [topai](https://topai.tools/), [AI-Infinity](https://github.com/meetpateltech/AI-Infinity)
+[DeepAI](https://deepai.org/), [Favird](https://favird.com/), [FutureTools](https://www.futuretools.io/?pricing-model=free), [RunawayML](https://runwayml.com/), [AISearchTool](https://www.aisearchtool.com/), [ToolScoutAI](https://toolscout.ai/), [AI Creator Tools](https://library.phygital.plus/), [topai](https://topai.tools/), [AI-Infinity](https://github.com/meetpateltech/AI-Infinity)
 
 ***
 
@@ -494,7 +494,7 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 * ⭐ **[ChatGPT](https://chat.openai.com/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chatgpt_tools)
 * ⭐ **[Ora](https://ora.sh/openai/gpt4)**
 
-[Mitsuku](https://chat.kuki.ai/chat), [cleverbot](https://www.cleverbot.com/), [eviebot](https://www.eviebot.com/en/), [Kajiwoto](https://kajiwoto.com/) (ai builder), [Talk-Bot](http://www.frontiernet.net/~wcowart/index.shtml), [Madam Zena](http://www.madamzena.com/), [WriteSonic](https://writesonic.com/chat), [gpt3](https://gpt3.ethio-tech.com/), [Character AI](https://beta.character.ai/), [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain), [InWorld](https://www.inworld.ai/), [Chai](https://chai.ml/), [PygmalionAI](https://www.reddit.com/r/PygmalionAI/comments/10kr5zk/helpful_links/), [AnimaAI](https://myanima.ai/), [bing-chat](https://github.com/transitive-bullshit/bing-chat), [hellohistory](https://www.hellohistory.ai/), [2Dumb2Destroy](https://2dumb2destroy.com/), [BAI](https://chatbot.theb.ai/)
+[Mitsuku](https://chat.kuki.ai/chat), [cleverbot](https://www.cleverbot.com/), [eviebot](https://www.eviebot.com/en/), [Kajiwoto](https://kajiwoto.com/) (ai builder), [Talk-Bot](http://www.frontiernet.net/~wcowart/index.shtml), [Madam Zena](http://www.madamzena.com/), [WriteSonic](https://writesonic.com/chat), [gpt3](https://gpt3.ethio-tech.com/), [Character AI](https://beta.character.ai/) / [Extract Character Params](https://rentry.org/reverseCAI), [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain), [InWorld](https://www.inworld.ai/), [Chai](https://chai.ml/), [PygmalionAI](https://www.reddit.com/r/PygmalionAI/comments/10kr5zk/helpful_links/), [AnimaAI](https://myanima.ai/), [bing-chat](https://github.com/transitive-bullshit/bing-chat), [hellohistory](https://www.hellohistory.ai/), [2Dumb2Destroy](https://2dumb2destroy.com/), [BAI](https://chatbot.theb.ai/)
 
 ***
 
@@ -2996,6 +2996,8 @@ Add the following commands to a search to manually scrape each site.
 
 #### Text to Speech
 
+* ⭐ **[elevenlabs](https://beta.elevenlabs.io/)**
+* ⭐ **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)**
 * [Balabolka](http://balabolka.site/bportable.htm) / [2](http://www.cross-plus-a.com/bportable.htm)
 * [15.ai](https://15.ai/)
 * [Text To Speech](https://texttospeech.ca/)
@@ -3004,8 +3006,6 @@ Add the following commands to a search to manually scrape each site.
 * [TextToMP3](https://www.texttomp3.online/)
 * [FakeYou](https://fakeyou.com/)
 * [Woord](https://www.getwoord.com/)
-* [elevenlabs](https://beta.elevenlabs.io/)
-* [Tortoise TTS](https://github.com/neonbjb/tortoise-tts)
 * [Speakonia](https://archive.org/details/speakonia_1036)
 * [TextToSpeech](https://texttospeech.io/)
 * [SAPI4](https://tetyys.com/SAPI4/)

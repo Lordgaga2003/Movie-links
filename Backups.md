@@ -12,7 +12,7 @@
 
 ***
 
-**[Rentry Backup](https://rentry.co/FMHY)** - [Updated Daily]
+**[Rentry Backup](https://rentry.co/FMHY)** / [2](https://rentry.org/piracy) - [Updated Daily]
 
 ***
 

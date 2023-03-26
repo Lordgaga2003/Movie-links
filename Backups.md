@@ -28,7 +28,7 @@ Password: FMHY
 
 **Alt Views** - [Updated Daily]
 
-**[Herokuapp](https://fmhy.herokuapp.com/)** / **[Libredd.it](https://libredd.it/r/FREEMEDIAHECKYEAH/wiki)** / **[Teddit](https://teddit.net/r/FREEMEDIAHECKYEAH/wiki)** / **[Troddit](https://www.troddit.com/r/FREEMEDIAHECKYEAH/wiki)** / **[Photon](https://photon-reddit.com/r/freemediaheckyeah/wiki/index)**
+**[Teddit](https://teddit.net/r/FREEMEDIAHECKYEAH/wiki)** / **[Troddit](https://www.troddit.com/r/FREEMEDIAHECKYEAH/wiki)** / **[Photon](https://photon-reddit.com/r/freemediaheckyeah/wiki/index)**
 
 ***
 

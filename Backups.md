@@ -28,7 +28,7 @@ Password: FMHY
 
 **Alt Views** - [Updated Daily]
 
-**[Teddit](https://teddit.net/r/FREEMEDIAHECKYEAH/wiki)** / **[Troddit](https://www.troddit.com/r/FREEMEDIAHECKYEAH/wiki)** / **[Photon](https://photon-reddit.com/r/freemediaheckyeah/wiki/index)**
+**[Teddit](https://teddit.net/r/FREEMEDIAHECKYEAH/wiki)** / **[Troddit](https://www.troddit.com/r/FREEMEDIAHECKYEAH/wiki)** / **[Photon](https://photon-reddit.com/r/freemediaheckyeah/wiki/index)** / **[Libreddit](https://libreddit.foss.wtf/r/FREEMEDIAHECKYEAH/wiki)**
 
 ***
 

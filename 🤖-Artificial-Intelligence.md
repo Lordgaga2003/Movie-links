@@ -143,6 +143,7 @@
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI Extension
 * [InkForAll](https://app.inkforall.com/tools) - Multiple AI Text Tools
 * [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Tools
+* [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Text Classification AI
 
 ***
 
@@ -269,6 +270,7 @@
 * [Midjourney Guide](https://marigoldguide.notion.site/marigoldguide/Visual-Guide-to-Midjourney-settings-using-mostly-Astronauts-2ae1d8bb125f46e2be9886119c36ecf0) - Midjourney Guide / [Cheatsheet](https://arjenharris.notion.site/arjenharris/Midjourney-Cheat-Sheet-271922c6869549898ead33eaf79517fa)
 * [AnimAnon](https://rentry.org/AnimAnon) - AI Drawn Anime Guide
 * [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english), [ora_train](https://rentry.org/lora_train), [lora-training-science](https://rentry.org/lora-training-science) or [The Other](https://rentry.org/59xed3) - LoRA SD Guides
+* [DummyLoRA](https://rentry.org/dummylora) - Local LoRA training guide
 
 ***
 ***
@@ -302,5 +304,6 @@
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) - Voice Cloning
 * [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Voice Cloning
 * [VCloner](https://vocloner.com/) - Voice Cloning
+* [Controllable TalkNet](https://github.com/justinjohn0306/ControllableTalkNet) - Voice Cloning
 * [tortoise](https://colab.research.google.com/drive/1N8lXviiwfmrS9vYzuFdQnLHlddXMMMvU#scrollTo=vF1d-My9IXXt) - Voice Cloning Colab
 * [AI Voice Clonig](https://git.ecker.tech/mrq/ai-voice-cloning/wiki) - Voice Cloning Guide

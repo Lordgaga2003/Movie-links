@@ -456,7 +456,7 @@
 * [Space Jam 1996](https://www.spacejam.com/1996/) - Original Space Jam Site
 * [BD Stupidity Archive](https://discord.gg/5qgrj9a3NQ) - Archive of BetterDiscord Stupidity
 * [webgbcam](https://maple.pet/webgbcam/) - Gameboy Camera in Browser
-* [Either](http://either.io/) or [rrrather](http://rrrather.com/) - Would You Rather 
+* [rrrather](http://rrrather.com/) - Would You Rather 
 * [Cake](http://www.redkid.net/generator/cake/) - Cake Writing Generator
 * [Ballooning](https://alexanderperrin.com.au/triangles/ballooning/) - Procedurally Generated Balloon Simulator
 * [Nightmare Machine](http://nightmare.mit.edu/) - Scary AI Generated Imagery
@@ -893,7 +893,6 @@
 * [Benefits of Good Posture](https://youtu.be/OyK0oE5rwFY) - Posture Importance Lesson
 * [StuffThatWorks](https://www.stuffthatworks.health/) - Chronic Condition Info / Treatments
 * [Tone-Deafness Test](https://www.themusiclab.org/quizzes/td) - Pitch Perception Test
-* [PainSpot](https://www.painspot.com/) - Pain Cause Identifier
 * [INCIDecoder](https://incidecoder.com/) - Skincare Ingredient Lists
 * [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - Remedies for Sores on Tongue
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - Interactive Self Care Guide
@@ -945,7 +944,6 @@
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - Earth Viewer
 * [Snazzy Maps](https://snazzymaps.com/) - Google Maps Themes
 * [Routora](https://chrome.google.com/webstore/detail/routora-google-maps-route/jdddfnfohdeaklgkpglonlofgapjgfbp) - Google Maps Route Optimization
-* [MapChannels](https://www.mapchannels.com/) - Mapping / Navigation Tools
 * [GeoVisual Search](https://search.descarteslabs.com/) - Object Recognition Map 
 * [OldMapsOnline](https://www.oldmapsonline.org/) - Historical Maps Tool 
 * [Loc Maps](https://www.loc.gov/collections/general-maps/), [EuraAtlas](https://euratlas.com/),  [GeoGarage](http://rumsey.geogarage.com/index.html), [OpenHistoricalMap](https://www.openhistoricalmap.org/), [Digital Collection Maps](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division) or [Cronobook](https://cronobook.com/) - Historical Maps

@@ -383,7 +383,7 @@
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
 * [cgplugdump](https://t.me/cgplugdump) - CG Software Plugins
-* [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/), [Cavalry](https://cavalry.scenegroup.co/), [TupiTube](https://tupitube.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tools
+* [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/), [Cavalry](https://cavalry.scenegroup.co/), [TupiTube](https://tupitube.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tools
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder) 
 * [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Create Videos using Stable Diffusion
 * [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)
@@ -1258,7 +1258,7 @@
 * ⭐ **[Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists)** - Discover Servers / Bots
 * ⭐ **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Client Index
 * ⭐ **[BetterDiscord](http://betterdiscord.app/)** - Modifiable Discord Client / [GitHub](https://github.com/BetterDiscord/BetterDiscord) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)
-* ⭐ **[Vencord](https://github.com/Vendicated/Vencord)** - Modded Discord Client
+* ⭐ **[Vencord](https://vencord.dev/)** - Modded Discord Client / [Github](https://github.com/Vendicated/Vencord)
 * ⭐ **[Revolt](https://revolt.chat/)** or [Guilded](https://www.guilded.gg/) / [Mod](https://github.com/ReGuilded/ReGuilded/) - Discord Alternatives
 * ⭐ **Revolt Tools** - [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt)
 * [Velocity](https://velocity-discord.netlify.app/) - Discord Client Mod

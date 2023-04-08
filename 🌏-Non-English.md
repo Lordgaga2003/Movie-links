@@ -892,6 +892,7 @@
 * [DLZip](http://dl-zip.com/) - Manga
 * [MangaBox](https://www.mangabox.me/) - Manga
 * [Mangaz](https://www.mangaz.com/) - Manga
+* [Manga1001](https://manga1001.in/) - Manga
 * [shinmoemanga](https://shinmoemanga.neocities.org/) - Manga
 * [Comic Walker](https://comic-walker.com/) - Manga
 * [Rawkuma](https://rawkuma.com/) - Manga
@@ -1693,7 +1694,7 @@
 * [Gnula.se](https://gnula.se/) - Movies / TV / Anime
 * [Gnula.nu](https://gnula.nu/) - Movies / TV
 * [CineHDPlus](https://cinehdplus.net/) - Movies / TV
-* [Playdede](https://playdede.nu/) - Movies / TV / Anime / [Telegram](https://t.me/playdedetelegram)
+* [Playdede](https://playdede.to/), [2](https://dominiosplaydede.com/) - Movies / TV / Anime / [Telegram](https://t.me/s/playdedeinformacion)
 * [allcalidad](https://allcalidad.ms/) - Movies / TV
 * [ennovelas](https://www.ennovelas.com/) - TV
 * [Sololatino](https://sololatino.net/) - Movies / TV / Anime

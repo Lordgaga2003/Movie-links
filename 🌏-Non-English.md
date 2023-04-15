@@ -294,7 +294,6 @@
 * [Huangdizhijia](https://www.huangdizhijia.com/index.html) - Books / Light-Novels
 * [118book](https://www.118book.com/) - Books / Light-Novels
 * [ptwxz](https://www.ptwxz.com/) - Books / Light-Novels
-* [zhongwen](http://zhongwen.com/gudian.htm) - Classic Literature
 * [AC.QQ](https://ac.qq.com/) - Manga
 * [BiliBili](https://manga.bilibili.com/) - Manga
 * [manhuagui](https://www.manhuagui.com/) - Manga
@@ -692,9 +691,6 @@
 ## ▷ Reading
 
 * [BDEBooks](https://bdebooks.com/) - Books
-* [Hindiebooks](https://t.me/Hindiebooks) - Books
-* [English_Hindi_Novels_Magazine](https://t.me/English_Hindi_Novels_Magazine) - Books / Magazines
-* [ENewspaperEarly](https://t.me/EnewsPaperEarly) - Newspapers
 * [Sanskrit Documents](https://sanskritdocuments.org) - Sacred Texts
 * [aryasamajjamnagar.org](https://www.aryasamajjamnagar.org/homepage.htm) - Hinduism
 
@@ -1092,7 +1088,6 @@
 * [darmowe](https://darmowe-torenty.pl/) - Video / Audio / Software / Games / Books / NSFW
 * [polskie-torrenty](https://polskie-torrenty.net.pl/) or [helltorrents](http://helltorrents.com/) - Video / Audio / Software / Games / Books / NSFW
 * [devil-torrents](http://devil-torrents.pl/) - Video / Audio / Software / Games / Books / NSFW
-* [EliteTorrent](https://elitetorrent.pl/) - Video / Audio / Software / Games / Books / Comics / Magazines / NSFW
 * [TorrentCity](http://torrentcity.pl/) - Video / Audio / Software / Games / Books / Comics / NSFW
 * [VTorrent](http://vtorrent.pl/) - Video / Audio / Software / Games / Books / NSFW
 * [PolishSource](https://polishsource.cz/)
@@ -1641,7 +1636,7 @@
 * ⭐ **[DonTorrent](https://dontorrent.care/)**, [2](https://donproxies.com/) - Movies / TV / Documentaries / Games / Castilian / [Telegram](https://t.me/s/dontorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
 * ⭐ **[MejorTorrent](https://www1.mejortorrent.rip/)** -  Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/MejorTorrentAp)
 * ⭐ **[Grantorrent.wtf](https://grantorrent.wtf/)** - Movies / TV / Documentaries / Castilian / Latino
-* ⭐ **[Elitetorrent](https://www.elitetorrent.com/)**, [2](https://www.elitetorrent.wf/) - Movies / TV / Anime / Castilian / Latino / VOSE
+* ⭐ **[Elitetorrent](https://www.elitetorrent.wf/)** - Movies / TV / Anime / Castilian / Latino / VOSE
 * [Descargas2020](https://descargas2020.net/) - Movies / TV
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
 * [PediaTorrent](https://pediatorrent.com/) - Movies / TV / Documentaries

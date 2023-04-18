@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/qqEsG3q.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/re5zIRW.png)** - For mobile users
 
 ***
 *** 
@@ -665,7 +665,6 @@
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
 * [PakistAnatlas](https://pakistanatlas.com/) - Pakistani Traditional Food Map
 * [Cooking YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cooking_youtube_channels)
-* [GrowStuff](https://www.growstuff.org/) or [GrowVeg](https://www.growveg.com/) - Food Growing / Gardening
 * [Awesome Food](https://github.com/jzarca01/awesome-food) - Cooking Tools Index
 * [CookingForEngineers](http://www.cookingforengineers.com/) - Recipes / Cooking Tests
 * [ReluctantGourmet](https://www.reluctantgourmet.com/) - Recipes / Tutorials
@@ -749,6 +748,25 @@
 * [FermenThings](https://wiki.fermenthings.be/) - Fermentation Wiki
 * [is-vegan](https://github.com/hmontazeri/is-vegan) - Vegan Food App
 * [Food Lab](https://github.com/Singh-Shivani/Food_Lab) - Food Blog App
+
+***
+
+# ► Gardening
+
+* ⭐ **[/r/Gardening](https://reddit.com/r/gardening)** -  Gardening Community
+* ⭐ **[/r/Whatsthisplant/](https://www.reddit.com/r/whatsthisplant/)** or [iNaturalist](https://www.inaturalist.org/) - Plant Identification Communities
+* ⭐ **[TouchGrasss](https://rentry.co/TouchGrasss)** - Agriculture / Gardening Subreddits
+* ⭐ **[Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png)** - Global Map of Hardiness Zones
+* ⭐ **[EarthEasy](https://learn.eartheasy.com/)**, [How To Garden](https://www.bhg.com/gardening/how-to-garden/), [HappySprout](https://www.happysprout.com), [Growing Guide](https://blog.planter.garden/), [Openfarm](https://openfarm.cc/), [GrowStuff](https://www.growstuff.org/) or [GrowVeg](https://www.growveg.com/) - Gardening Guides
+* [Garden Design](https://www.gardendesign.com/) - Garden Design Guides
+* [r/UrbanGardening](https://www.reddit.com/r/UrbanGardening/) - Urban Gardening Community
+* [r/Farming](https://reddit.com/r/farming/) - Farming Community
+* [How Farms Work](https://youtube.com/channel/@HowFarmsWork) - Farming Guides
+* [Composting](https://learn.eartheasy.com/guides/composting/) - Composting Guides
+* [Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open-Source Agriculture / Gardening Tech
+* [Modern Farmer](https://modernfarmer.com/) - Agricultural News
+* [/r/Microgrowery](https://reddit.com/r/microgrowery/) - Cannabis Growing Community
+* [PictureThis](https://www.picturethisai.com/) / [Premium](https://forum.mobilism.org/search.php?keywords=picturethis&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Plant Identification Tool / [Android](https://play.google.com/store/apps/details?id=cn.danatech.xingseus) / [iOS](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129)
 
 ***
 

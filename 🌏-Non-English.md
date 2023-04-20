@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/CUsgXE4.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/VJml1cl.png)** - For mobile users
 
 ***
 ***
@@ -755,6 +755,10 @@
 * [OverDay](https://overday.info/) - Software / Games / Android / Courses / Books
 * [HD4Me](https://hd4me.net/) - Movies
 * [XDCC Mule](https://www.xdccmule.org/) - IRC Download Search
+
+## ▷ Torrenting
+
+* [MIRCrew](https://mircrew-releases.org/) - Movies / TV / Anime
 
 ## ▷ Streaming
 

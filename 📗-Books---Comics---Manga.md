@@ -779,7 +779,8 @@
 * [DoesNotTranslate](https://doesnottranslate.com/) - Words with No Translation
 * [Tip of my Tounge](https://chir.ag/projects/tip-of-my-tongue/) - Find Words you Can't Remember
 * [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html), [IEP](https://iep.utm.edu/) or [nLab](https://ncatlab.org/) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
-* [Focal](http://www.focal.ie/) - Irish Word Dictionary
+* [Focal](http://www.focal.ie/) - Irish Dictionary
+* [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
 * [TheIdioms](https://www.theidioms.com/) - Idiom Dictionary
 * [Lexipedia](http://www.lexipedia.com/) or [WordWeb](https://wordwebs.app/) - Word Connections
 * [RhymeZones](https://www.rhymezone.com/), [Rhymer](https://rhymer.com/) or [RhymeIt](https://www.rhymit.com/) - Rhyme Dictionary
@@ -788,6 +789,7 @@
 * [TagDef](https://tagdef.com/en/) - Social Media Tag Dictionary
 * [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
 * [Forvo](https://forvo.com/) or [HowJSay](https://howjsay.com/) - Pronunciation Dictionary
+* [IEoP](https://iep.utm.edu/fallacy/) - Fallacy Encyclopaedia
 * [OEIS](https://oeis.org/) - Encyclopedia of Integer Sequences
 * [Time Traveler](https://www.merriam-webster.com/time-traveler) - See when a word was first used in print
 * [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
@@ -904,6 +906,7 @@
 * [MangaOwl](https://mangaowl.to/)
 * [MangaReader](https://mangareader.cc/)
 * [ReadMangaFree](https://readmangafree.net/)
+* [Colored Manga](https://coloredmanga.com/) - [Discord](https://discord.com/invite/j66bPX4z8M)
 * [Mangarolls](https://mangarolls.com/)
 * [Mangabtt](https://mangabtt.com/)
 * [Murimscan](https://murimscan.run/)

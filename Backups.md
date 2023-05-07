@@ -6,7 +6,7 @@
 
 **Git Backups** - [Updated Daily]
 
-**[GitHub](https://github.com/nbats/FMHY/wiki/FREEMEDIAHECKYEAH)** / **[GitBook](https://fckr.gitbook.io/fmhy)** 
+**[GitHub](https://github.com/fmhy/FMHY/wiki)** / **[GitBook](https://fckr.gitbook.io/fmhy)** 
 
 ***
 

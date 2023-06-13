@@ -492,7 +492,6 @@
 * [RR.Topliste](https://toplist.raidrush.ws/) - Piracy Site List
 * [xrel](https://www.xrel.to/) - Scene Release / P2P Tracker
 * [Boerse](https://boerse.am/) - German Data Sharing Discussion Forum
-* [mediathekviewweb](https://mediathekviewweb.de/) - Hacker News
 * [TrustScam](https://trustscam.de/) - Website Security Analysis
 * [Metager](https://metager.de/) - Search Engine
 
@@ -549,6 +548,7 @@
 * [dtvd](https://dtvd.net/) - Live TV
 * [2ix2](https://www.2ix2.com/) - Live TV
 * [tvpinto](https://www.tvpinto.com/) - Live TV
+* [mediathekviewweb](https://mediathekviewweb.de/) - IPTV 
 * [hoerspielprojekt](https://www.hoerspielprojekt.de/) - Radio Plays
 * [forschung](https://forschung-kuenstlerpublikationen.de/Werke.html) - Rare LPs
 * [ProxerAndroid](https://github.com/proxer/ProxerAndroid) - Android / Anime
@@ -1628,7 +1628,7 @@
 * [CineHDPlus](https://cinehdplus.org/) - Movies / TV
 * [Playdede](https://playdede.to/), [2](https://dominiosplaydede.com/) - Movies / TV / Anime / [Telegram](https://t.me/s/playdedeinformacion)
 * [allcalidad](https://allcalidad.ms/) - Movies / TV
-* [Sololatino](https://sololatino.net/) - Movies / TV / Anime
+* [Solo Latino](https://sololatino.net/) - Movies / TV / Anime
 * [Repelis24](https://repelis24.co/) - Movies / TV
 * [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine Movies
 * [Cinecalidad](https://cinecalidad.cat/) - Movies / TV / Animation / [Telegram](https://t.me/cinecalidadchat)
@@ -1681,6 +1681,7 @@
 * [AnimeFLV.io](https://animeflv.io/) - Anime
 * [serieslan](https://serieslan.com/) - Cartoons
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
+* [DangoToons](https://dangotoons.net/) - Anime / Cartoons
 * [Eventoshq](https://www.eventoshq.me/) - WWE
 * [LegalMentegratis](http://legalmentegratis.com/) - YouTube Movies
 * [Edutin Academy](https://edutin.com/) - Courses

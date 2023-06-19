@@ -134,6 +134,7 @@
 
 ## ▷ Streaming
 
+* [Ucha.se](https://ucha.se/) - Educational Videos and Exam Questions
 * [Film4e](https://film4e.com/) - Movies / TV / Cartoons / Sub / Dub / 1080p
 * [VSI4KIFILMI](https://vsi4kifilmi.com/) - Movies / TV / Cartoons / Sub / Dub / 720p / Customizable Subtitles
 * [BGTVNET](https://bgtvnet.com/) - Movies / TV / Cartoons / Sub / 720p
@@ -159,9 +160,7 @@
 
 ## ▷ Downloading
 
-* [channelmyanmar](https://channelmyanmar.org) - Movies / TV
-* [bgestv](https://bgestv.com/) - TV
-* [bgtvi](https://bgtvi.com/) - TV
+* ⭐ **[channelmyanmar](https://channelmyanmar.org)** - Movies / TV / Cartoons / 1080p / 4K
 
 ***
 
@@ -352,7 +351,7 @@
 
 ## ▷ Streaming
 
-* [FilmPlanet](https://www1.filmplanet.to/) - Movies / TV
+* [FilmPlanet](https://www1.filmplanet.to/) - Movies / TV / Sub / Dub / 720p
 
 ***
 

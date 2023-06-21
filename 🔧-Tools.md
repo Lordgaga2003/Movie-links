@@ -1841,7 +1841,6 @@ Twitch Stream Tracker
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager 
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](http://www.keyefficiency.com/) - System Task Scheduler
 * [Econap](https://www.econap.de/) - Prevent Sleep Mode
-* [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
 * [OpenHab](https://www.openhab.org/) - Home Automation / [Setup](https://github.com/openhab/openhabian) / [Desktop](https://github.com/openhab/openhab-windows) / [Mobile](https://github.com/openhab/openhab-android)
 * [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client), [Mycroft](https://mycroft.ai/) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client / [GUI](https://github.com/LAB02-Research/HASS.Agent)
 * [CasaOS](https://casaos.io/) - Cloud Home System / [GitHub](https://github.com/IceWhaleTech/CasaOS)
@@ -2046,6 +2045,7 @@ Twitch Stream Tracker
 * [EarTrumpet](https://eartrumpet.app/), [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Improved Volume Mixer
 * [TrayVolumeControl](https://github.com/krlvm/TrayVolumeControl) - Control Tray Volume via Scroll
 * [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hide Volume Bar
+* [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
 * [OneLaunch](https://onelaunch.com/) - Customizable Windows Dock
 * [CircleDock](http://circledock.wikidot.com/) - Circular Dock
 * [Menu11](https://github.com/prateekmedia/Menu11) - Windows 11 Style Launcher

@@ -660,7 +660,7 @@
 * [Interviews.school](https://interviews.school/) or [InterviewThis](https://github.com/Twipped/InterviewThis) - Developer Interview Preparation Guides
 * [yangshun](https://github.com/yangshun/tech-interview-handbook) - Tech Interview Handbook
 * [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
-* [Nomad List](https://nomadlist.com/) - Remote Job Listings
+* [Nomad List](https://nomadlist.com/) or [Real Work From Anywhere](https://realworkfromanywhere.com/) - Remote Job Listings
 * [RemoteWide](https://remotewide.co/) - Remote Job Notifications
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - Remote Job Resources
 * [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform Based Side Work

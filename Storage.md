@@ -432,7 +432,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Cooking YouTube Channels
 
-[Babish Culinary Universe](https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw), [Jamie Oliver](https://www.youtube.com/user/JamieOliver), [Bon Appétit](https://www.youtube.com/user/BonAppetitDotCom), [Mythical Kitchen](https://www.youtube.com/user/rhettandlink4), [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983), [Seonkyoung Longest](https://www.youtube.com/user/SeonkyoungLongest), [You Suck At Cooking](https://youtube.com/c/yousuckatcooking), [Nino's Home](https://www.youtube.com/c/NinosHome/), [Adam Ragusea](https://youtube.com/user/aragusea), [조꽁드Joconde's baking](https://m.youtube.com/c/%EC%A1%B0%EA%BD%81%EB%93%9CJocondesbaking), [Ruby Ka Kitchen](https://www.youtube.com/channel/UCMhx-uS3O-G_6_lTrYmDKLw)
+[Babish Culinary Universe](https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw), [Jamie Oliver](https://www.youtube.com/user/JamieOliver), [Kenji López-Alt](https://www.youtube.com/@JKenjiLopezAlt), [Bon Appétit](https://www.youtube.com/user/BonAppetitDotCom), [Mythical Kitchen](https://www.youtube.com/user/rhettandlink4), [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983), [Seonkyoung Longest](https://www.youtube.com/user/SeonkyoungLongest), [You Suck At Cooking](https://youtube.com/c/yousuckatcooking), [Nino's Home](https://www.youtube.com/c/NinosHome/), [Adam Ragusea](https://youtube.com/user/aragusea), [조꽁드Joconde's baking](https://m.youtube.com/c/%EC%A1%B0%EA%BD%81%EB%93%9CJocondesbaking), [Ruby Ka Kitchen](https://www.youtube.com/channel/UCMhx-uS3O-G_6_lTrYmDKLw)
 
 ***
 
@@ -1990,7 +1990,7 @@ Add the following commands to a search to manually scrape each site.
 
 [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Carnac](http://code52.org/carnac/), [Presen](https://presen-vid.com/), [mentimeter](https://www.mentimeter.com/), [beautiful.ai](https://www.beautiful.ai/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Deckdeckgo](https://deckdeckgo.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [Desk](https://www.animaker.com/deck), [Slides](https://slides.com/), [FreeShow](https://freeshow.app/), [Presenta](https://play.presenta.cc/), [OpenLearning](https://www.openelearning.org/), [Slideshare](https://www.slideshare.net/) / [Gif Convert](https://gifdeck.in/), [ScreenRec](https://screenrec.com/), [Slides](https://maaslalani.com/slides/) / [GitHub](https://github.com/maaslalani/slides)
 
-* [GPTForSlides](https://www.gptforslides.app/) - Create Presentations via AI
+* [GPTForSlides](https://www.gptforslides.app/), [Presentator](https://github.com/Paillat-dev/presentator), [PPTX](https://github.com/AmNotAGoose/Python-PPTX-ChatGPT-Presentation-Generator) or [Chat-GPT-PPT](https://github.com/williamfzc/chat-gpt-ppt) - AI Presentation Generators
 * [GSlides Maker](https://github.com/vilmacio/gslides-maker) - Turn Wiki Pages into Google Slides
 
 **Presentation Templates**
@@ -2441,10 +2441,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### SockShare Clones
 
-* https://sockshare.fm/
-* https://sockshare.mn/
 * https://sockshare1.com/
-* https://www4.123movies.net/
 * https://www4.xmovies8.fm/
 * https://hdzer.com/
 * https://watchzer.com/
@@ -2456,13 +2453,10 @@ Add the following commands to a search to manually scrape each site.
 * https://putlocker.vc
 * https://123enjoy.net/
 * https://www2.putlockers.tw/
-* https://seriesonline.bz/
-* https://www2.putlockers.gy/
 * https://fmovies.onl/
 * https://www2.putlockers.ws/
 * https://movieload.net/
 * https://5movies.fm/
-* https://www1.ezlive.tv/
 * https://www1.f123movies.com/
 * https://vo32.com/
 

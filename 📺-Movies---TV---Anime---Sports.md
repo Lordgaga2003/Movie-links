@@ -312,6 +312,7 @@
 * [Animegg](https://www.animegg.org/) - Sub / Dub / 1080p
 * [AnimeHeaven](https://animeheaven.ru/) - Sub / Dub / 1080p
 * [PactedAnime](https://pactedanime.com/) - Sub / 1080p / [Discord](https://discord.gg/pactedanime)
+* [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/q3N6eWMMNP)
 * [anime.cat](https://anime.cat/) - Sub / Dub / 1080p
 * [AnimeLandTV](https://w4.animeland.tv/) - Dub / 1080p
 * [Animeplyx](https://animeplyx.eu/) - Sub / 1080p

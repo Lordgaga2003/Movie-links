@@ -129,7 +129,7 @@
 * [podcast-dl](https://github.com/lightpohl/podcast-dl) - Podcast Downloader
 * [CPod](https://github.com/z-------------/CPod) - Podcast App
 * [Odesli](https://odesli.co/) - Podcast Search
-* [PodText](https://podtext.ai/) - Podcast Transcript Search
+* [PodScripts](https://podscripts.co/) or [PodText](https://podtext.ai/) - Podcast Transcript Search
 * [OpenPodcast](https://openpodcast.dev) - Podcast Analytics
 * [Archive.org](https://archive.org/details/audio?&sort=-downloads&page=1) - News / Classic Radio / Podcasts
 * [Dumb Old Time Radio](http://www.dumb.com/oldtimeradio/) or [Old Time Radio](https://oldtime.radio/) - Classic Radio
@@ -431,7 +431,7 @@
 * [RockBox](https://rawkbawx.rocks/) - Metal / MP3
 * [PunkTorrents](https://www.punktorrents.com/) - Punk / MP3
 * [the /kpg/ torrent](https://kpg.neocities.org/) - 800gb+ K-Pop Torrent File
-* [The Joe Rogan Experience](https://pastebin.com/gqwPPRL6) - 2.5 TB, episodes 1-1476
+* [The Joe Rogan Experience](https://pastebin.com/gqwPPRL6) - Joe Rogan Podcast
 * [MixtapeTorrent](http://www.mixtapetorrent.com/) - Mixtapes / MP3
 * [TribalMixed](https://www.tribalmixes.com/) - DJ Mixes / MP3
 * [JaneMusic](http://torrent.janemusic.org/) - Neil Finn, Split Enz, Crowded House etc.

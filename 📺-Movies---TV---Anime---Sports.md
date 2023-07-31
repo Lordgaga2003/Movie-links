@@ -402,6 +402,7 @@
 * ⭐ **[FullMatchTV](https://fullmatchtv.com/)** - Sports
 * ⭐ **[NBAHD](https://watchreplay.net/)** - Basketball
 * ⭐ **[NFL Replay](https://nflreplay.net/)** - Football
+* ⭐ **[SoccerCatch](https://soccercatch.com/)** - Soccer
 * ⭐ **[WatchWrestlingUp](https://watchwrestlingup.live/)** - MMA / Wrestling
 * ⭐ **[F1 Full Races](https://f1fullraces.com/)** - F1
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer

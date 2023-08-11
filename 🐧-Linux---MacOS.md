@@ -90,6 +90,7 @@
 * [RockstarKernel_WSL2](https://github.com/Dhruvgera/RockstarKernel_WSL2) - Windows Subsystem Kernel
 * [kmon](https://kmon.cli.rs/) - Kernel Manager and Activity Monitor
 * [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Easily clean Ubuntu(-based) Systems
+* [SystemRescue](https://www.system-rescue.org/) or [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/) - Bootable System Rescue Toolkits
 * [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - Grub Repair Guide for Linux Systems
 * [Timeshift](https://github.com/teejee2008/timeshift) - Create System Snapshots / Restore Points
 * [sbupdate](https://github.com/andreyv/sbupdate) - Generate & Sign kernel images for UEFI Secure Boot Arch Linux

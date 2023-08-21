@@ -2780,7 +2780,7 @@ Add the following commands to a search to manually scrape each site.
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
 * [OneDrive X](https://t.me/onedrivexbot) - Remote OneDrive File Upload Bot
 * [Uploader x Bot](https://t.me/uploader_x_bot ) - Telegram Video Upload Bot
-* [Public Link Bot](https://t.me/Tg2extbot), [AIO Uploader](https://t.me/aiouploaderbot) or [GetPublicLinkBot](https://t.me/GetPublicLinkBot), [FileUploaderBot](https://t.me/FileUploaderBot), [filestolinksbot](https://t.me/filestolinksbot), [highspeedlinksbot](https://t.me/highspeedlinksbot), [LinkForFilebot](https://t.me/LinkForFilebot), [MultiUpload-Bot](https://github.com/oVoIndia/MultiUpload-Bot) or [KL_GetPublicUrlBot](https://t.me/KL_GetPublicUrlBot) - Telegram to File Host Upload Bot
+* [AIO Uploader](https://t.me/aiouploaderbot), [FileUploaderBot](https://t.me/FileUploaderBot), [filestolinksbot](https://t.me/filestolinksbot), [highspeedlinksbot](https://t.me/highspeedlinksbot), [LinkForFilebot](https://t.me/LinkForFilebot) or [MultiUpload-Bot](https://github.com/oVoIndia/MultiUpload-Bot) - Telegram to File Host Upload Bot
 * [mediainforobot](https://t.me/mediainforobot) - Media File Info
 * [MediaDownBot](https://t.me/mediadownbot) - Social Media Downloader
 * [ILovePDF](https://github.com/nabilanavab/ilovepdf) - Telegram File to PDF Converter

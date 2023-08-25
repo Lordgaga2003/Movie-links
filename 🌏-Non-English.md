@@ -268,7 +268,7 @@
 * [Shuxiangjia](https://www.shuxiangjia.cn/) - Books
 * [52shuku](https://www.52shuku.vip/) - Books / Light-Novels
 * [ttkan](https://www.ttkan.co) - Books / Light-Novels
-* [qqszz](https://www.qqszz.com/) - Books / Light-Novels
+* [qqszz](https://www.qqszz.net/) - Books / Light-Novels
 * [Huangdizhijia](https://www.huangdizhijia.com/index.html) - Books / Light-Novels
 * [118book](https://www.118book.com/) - Books / Light-Novels
 * [ptwxz](https://www.ptwxz.com/) - Books / Light-Novels
@@ -306,6 +306,7 @@
 * [jikipedia](https://jikipedia.com/) - Chinese Urban Dictionary
 * [CCams](http://www.ccamc.co/) - Chinese Character Search
 * [CBeta](http://www.cbeta.org/) - Chinese Buddhist Scriptures
+* [Open Literature](http://open-lit.com/html/) - Classic Chinese Novels
 * [21dzk](https://21dzk.l.u-tokyo.ac.jp/SAT/index.html) - Chinese Buddhist Scriptures
 * [Legado](https://github.com/gedoor/legado) - Android Ebook Reader
 * [wenku](https://pypi.org/project/wenku/) - Baidu Wenku Downloader

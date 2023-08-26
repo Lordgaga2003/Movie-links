@@ -1588,7 +1588,7 @@
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
 * [PediaTorrent](https://pediatorrent.com/) - Movies / TV / Documentaries
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
-* [Zonatorrent](https://zonatorrent.in/) - Movies / TV
+* [Zonatorrent](https://zonatorrent.in/) - Movies / TV / [Bypasser script](https://greasyfork.org/en/scripts/462510-spanish-torrent-sites-short-link-bypasser)
 * [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV
 * [Cinecalidad](https://cinecalidad.one/) - Movies / TV
 * [Tlandia](https://torrentlandia.site/) - Movies
@@ -1648,7 +1648,7 @@
 * [Teledeportiva](https://teledeportiva4.blogspot.com/), [2](https://teledeportiva2.blogspot.com/) - Live Sports
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
 * [El Plan](https://hackmd.io/@DEPORTES/AP-ID) - Live Sports Acestream IDs
-* [futbolgratis](https://sg.hideip.co/direct/aHR0cDovL2VsY2Fuby50b3Av), [2](https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av), [3](https://www.acestream.workers.dev/) - Live Sports Acestream IDs / [Matrix](https://matrix.to/#/!zrcckivBbqZjmykTPi:sibnsk.net?via=matrix.org&via=sibnsk.net) / [Link Scraper](https://github.com/ddgarciad03/IDS-Export)
+* [elcano](https://sg.hideip.co/direct/aHR0cDovL2VsY2Fuby50b3Av), [2](https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av) - Live Sports Acestream IDs / [Matrix](https://matrix.to/#/!zrcckivBbqZjmykTPi:sibnsk.net?via=matrix.org&via=sibnsk.net) / [Link Scraper](https://github.com/ddgarciad03/IDS-Export)
 * [JKAnime](https://jkanime.net/) - Anime
 * [AnimeFénix](https://www.animefenix.tv/) - Anime
 * [TioAnime](https://tioanime.com/) - Anime

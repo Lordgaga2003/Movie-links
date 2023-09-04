@@ -96,7 +96,7 @@
 * [StepMania](https://www.stepmania.com/), [Project OutFox](https://projectoutfox.com/) or [NotITG](https://www.noti.tg/) - DDR Clones
 * [PumpSanity](https://pumpsanity.net/) - Pump It Up Clone
 * [Malody](https://m.mugzone.net/) - Rhythm Game
-* [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki) / [IIDX Install Guide](https://docs.google.com/document/d/1SFfRb9nQK-riCdKChFprocVr97TqUxYra63wSK2fplo/edit?usp=drivesdk)
+* [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki) / [IIDX Install Guide](https://rentry.org/iidxdump)
 * [Unnamed SDVX clone](https://github.com/Drewol/unnamed-sdvx-clone) - Sound Voltex Clone
 * [OpenTaiko](https://github.com/0auBSQ/OpenTaiko) - Taiko no Tatsujin Clone / [Taiko Simulator Guide](https://guide.tjadataba.se/) / [Custom Charts](https://tjadataba.se/)
 * [Etterna](https://etternaonline.com/), [Quaver](https://quavergame.com/), [O2Mania](https://o2mania.info/) or [RoBeats CS](https://www.roblox.com/games/4841678118) - O2Jam Clones / [Online Maps](http://www.flashflashrevolution.com/)
@@ -167,7 +167,7 @@
 * ⭐ **[CDRomance](https://cdromance.com/)** - ROMs
 * ⭐ **[Ziperto](https://ziperto.com/)** - ROMs
 * ⭐ **[ROMhacking](https://www.romhacking.net/)** or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations
-* ⭐ **[WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases)**, [WiiU ROMs](https://wiiuroms.net/) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
+* ⭐ **[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader)**, [WiiUSBHelper](https://github.com/FailedShack/USBHelperInstaller/releases), [WiiU ROMs](https://wiiuroms.net/) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * ⭐ **[ROM Site Index](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)**
 * [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
 * [ROM Managers](http://emulation.gametechwiki.com/index.php/ROM_managers) - List of ROM Managers

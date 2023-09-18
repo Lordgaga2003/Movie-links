@@ -1,6 +1,6 @@
 **Websites** - [Updated Daily]
 
-**[FMHY.pages](https://freemediaheckyeah.pages.dev/)** / **[FMHY.ml](https://fmhy.net/)**
+**[FMHY.pages](https://fmhy.pages.dev/)** / **[FMHY.net](https://fmhy.net/)**
 
 ***
 

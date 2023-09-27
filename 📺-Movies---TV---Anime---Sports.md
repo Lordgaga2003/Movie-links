@@ -663,7 +663,7 @@
 
 ***
 
-* ⭐ **[Tokyo Insider](https://www.tokyoinsider.com/)** - Sub / Dub
+* ⭐ **[Meganaija](https://www.meganaija212.com.ng)** - Sub
 * ⭐ **[AnimeOut](https://www.animeout.xyz/)** - Sub / [Discord](https://discord.com/invite/yDURwdC)
 * ⭐ **[Erai-Raws](https://www.erai-raws.info/)** - Sub / [Discord](https://discord.gg/tEeaXzD4KH)
 * ⭐ **[hi10anime](https://hi10anime.com/)** - Sub / [Discord](https://discord.com/invite/pWNeJfxa)

@@ -35,13 +35,12 @@
 * [Levidia](https://www.levidia.ch/) - Movies / TV / Anime / 1080p
 * [EuroPixHD](https://europixhd.pro/), [2](https://epxmovies.net/) - Movies / TV / Anime / 1080p
 * [xpWatch](https://xpwatch.vercel.app/) - Movies / TV / Anime / 1080p
-* [Goojara](https://www.goojara.to/) - Movies / TV / Anime / 1080p
+* [Goojara](https://www.meganaija212.com.ng) - Movies / TV / Anime / 1080p
 * [Kinos](https://www.kinos.to/) - Movies / TV / 1080p / [Switch Language](https://i.ibb.co/n1Kb14T/64d0fb9444e1.png) (in options)
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
 * [YMovies](https://ymovies.vip/) - Movies / TV / Anime / 1080p
 * [YesHD](https://yeshd.net/) - Movies / TV / 1080p
-* [MoviesXK](https://moviexk.biz/) - Movies / TV / 1080p
-* [KissMovies](https://kissmovies.pro/) - Movies / TV / 1080p
+* [Meganaija](https://www.meganaija212.com.ng)) - Movies / Anime / 1080p
 * [123MoviesFree](https://ww1.123moviesfree.net/) - Movies / TV / Anime / 1080p
 * [NetMovies](https://netmovies.to/) - Movies / TV / 1080p
 * [MovGoTV](https://movgotv.net/) - Movies / TV / Anime / 1080p
@@ -54,7 +53,7 @@
 * [eSubMovies](https://www.esubmovie.com/) - Movies / 720p
 * [MoviesLair](https://movielair.cc/) - Movies / TV / 720p
 * [WatchSeries](https://watchseries.cyou/) - Movies / TV / 720p
-* [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime / 720p
+* [Meganaija](https://www.meganaija212.com.ng) - Movies / TV / Anime / 720p
 * [MovieUniverse](https://movieuniverse.se/) - Movies / TV / Anime / 720p
 * [ConTV](https://www.contv.com/) - Movies / 720p
 * [Afdah](https://afdah2.com/) - Movies / 720p
@@ -590,7 +589,7 @@
 * [MovieExplit](https://moviexplit.pw/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/moviexplit)
 * [SomosMovies](https://somosmovies.com/) - Movies / 1080p
 * [Best HD Movies](https://besthdmovies.beauty/) - Movies / 1080p
-* [MovieSeriesTV](https://www.movieseriestv.net/) - Movies / TV / 1080p
+* [Meganaija](https://www.meganaija212.com.ng) - Movies / TV / 1080p
 * [SeriesVault](https://seriesvault.tk/), [2](https://seriesvault.win/) - TV / Anime / 1080p
 * [MoviezAddiction](https://ww2.moviezaddiction.click/) - Movies / TV / 4K / [Telegram](https://t.me/MoviezAddiction5)
 * [FilmFans](https://filmfans.org/) - Movies / 4K
@@ -615,7 +614,7 @@
 * [TodayTVSeries](http://www.todaytvseries2.com/) - TV / 720p
 * [MobileTVShows](https://www.mobiletvshows.net/) - TV / Anime / 480p
 * [TvShows4Mobile](https://tvshows4mobile.com/) - TV / Anime / 480p / [Telegram](https://t.me/o2tvseries_official)
-* [NetNaija](https://netnaija.xyz/) - Movies / 480p
+* [Meganaija](https://www.meganaija212.com.ng) - Movies / 480p
 * [FZMoviesz](https://fzmoviesz.com/) - Movies / TV / 480p
 * [weeFilm](https://www.weefilm.live/) - Movies / TV / Anime / 480p / [Telegram](https://t.me/cribtvchannel)
 * [Naijavault](https://www.naijavault.com/) - Movies / TV / 480p
